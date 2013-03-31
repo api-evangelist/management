@@ -16,8 +16,9 @@ function listProviders()
 		    	 $.each(data2['serviceprovider'], function(key2, val2) {
 		    	 	
 		    	 	tags = val2['tags'];
-		    	 	//alert(tag+' in ' + tags);
-					if(tags.indexOf(tag)==0){
+		    	 	inside = tags.indexOf(tag);
+		    	 	alert(tag+' in ' + tags + ' - ' + inside);
+					if(inside==0){
 						
 						name = val2['name'];
 						alert(name);
