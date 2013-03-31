@@ -1,93 +1,28 @@
-function listProviders()
+function listProviders($tag)
     {
     	
-    var $html = '';
-    var $tagArray = [];
-    var $providerArray = [];
-    var $tag = '';
-    var $logos = '';
-    var $slot = 0;	
-    var $NumberofTags = 0;
-    var $NumberofTagsProcessed = 0;
+    $title = '<p><strong>' + $tag + ''</strong></p>';	
+    $('#providerListing').append($title); 	
     	
-    $.getJSON('data/tags.json', function(data) {
+    $.getJSON('data/providers.json', function(providerdata) {
     	
-    	 var $tagCount = 0;
-    	
-    	 $.each(data['tags'], function(key, val) {
-			
-			$tagArray[$tagCount] = val['tag'];	        	        		
-					
-			$tagCount++;
+    	 $.each(providerdata['serviceprovider'], function(key, val) {
+    	 	
+    	 	$tags = val['tags'];
+    	 	
+    	 	$inside = $tags.indexOf($tag);
+    	 	
+			if($inside!=-1){
 				
+				var template = $('#providerListingTemplate').html();
+				
+				html = Mustache.to_html(template, val);
+				
+				$('#providerListing').append(html);  	
+				 
+				}
+			 						
 	        });
-	        
-        })
-        .done(function() {  
-        	
-        	$NumberofTags = $tagArray.length;
-        	$ProcessedTags = 1;
-        
-			for (var i = 0; i < $tagArray.length; i++) {
-				
-				$tag = $tagArray[i];
-				$slot = i;
-				
-				//alert($tag + ' - ' + $slot);
-
-			    $.getJSON('data/providers.json', function(providerdata) {
-			    	
-			    	$Any = 0;
-			    	$logos = '';
-			    	
-			    	 $.each(providerdata['serviceprovider'], function(key2, val2) {
-			    	 	
-			    	 	$tags = val2['tags'];
-			    	 	$name = val2['name'];
-			    	 	
-			    	 	$inside = $tags.indexOf($tag);
-			    	 	
-						//alert($tag + ' in (' + $tags + ') for ' + $name + ' - ' + $inside + ' - ' + $slot);
-						
-						if($inside!=-1){
-							
-							var template2 = $('#providerListingTemplate').html();
-							
-							$logo = Mustache.to_html(template2, val2);
-							
-							$logos += $logo;
-							 
-							}
-							
-						$Any = 1;	
-						 						
-				       }) 
-				        
-			        }).done(function() {
-			        	
-				       alert('<p><strong>' + $tag + '</strong></p>' + $logos);
-				        
-				       $providerArray[$slot] = '<p><strong>' + $tag + '</strong></p>' + $logos; 			        	
-			        	 		        	
-			        	$NumberofTagsProcessed++;
-			        	
-			        	if($NumberofTagsProcessed==$NumberofTags)
-			        		{ 
-				        	for (var x = 0; x < $tagArray.length; x++) {
-				        		
-				        		$Tag = $tagArray[x];
-				        		$Images = $providerArray[x];
-				        		
-				        		alert($Tag + ' - ' + $Images);
-				        		
-				        	}
-			        		}
-			        	
-			        });
-			
-				}   
-
-		 });
-
-    }    
-     
+        });
+		          
+    }   
