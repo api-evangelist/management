@@ -1,0 +1,302 @@
+{
+    "serviceprovider": [
+        {
+            "id": "126",
+            "name": "Keen.io",
+            "details": "<p>Keen.io helps app developers build custom analytics & data science features directly into their mobile apps and web dashboards, by providing the infrastructure and APIs to collect data and build analytics into your business.</p>",
+            "website": "https://keen.io/",
+            "twitter": "https://twitter.com/keen_io",
+            "blog": "https://keen.io/blog",
+            "blogrss": "",
+            "logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/serviceproviders/keen-io-logo.png",
+            "screenshot": null
+        },
+        {
+            "id": "79",
+            "name": "Mixpanel",
+            "details": "<p><span>Mixpanel is an advanced analytics service that helps improve web and mobile applications by tracking how users interact & engage with them. Mixpanel’s mission is to help the world learn from their data, by offering a sophisticated analytics platform that companies can use to understand how users behave. Mixpanel performs all of their data analysis in real-time.</span></p>",
+            "website": "https://mixpanel.com/",
+            "twitter": "https://twitter.com/mixpanel",
+            "blog": "http://blog.mixpanel.com/",
+            "blogrss": "http://blog.mixpanel.com/feed/",
+            "logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/serviceproviders/mixpanel-logo.jpeg",
+            "screenshot": null
+        },
+        {
+            "id": "4",
+            "name": "3Scale",
+            "details": "<p><a href=\"http://www.3scale.com/\">3Scale</a> provides plug-and-play as well as enterprise level API management services. 3Scale is similar to <a href=\"http://www.3scale.com/\">3Scale</a> connect is a starter platform with a freemium model for delivering your API. You can deploy at no cost, and pay-as-you-go based upon the volume of calls made on your API. This model is well suited to those who are not sure of their API business model or target audience — or are just looking to test the waters.</p>\n<p>3Scale Enterprise offers unlimited scaling in the clouds and greater control over your API as your demand grows. 3Scale also provides higher levels of support for its enterprise level customers.</p>\n<p>3Scale breaks their services down into:</p>\n<ul class=\"mainlist\">\n<li><strong>API Management</strong></li>\n<li><strong>API Monitoring & Statistics</strong></li>\n<li><strong>Developer Community Portal</strong></li>\n<li><strong>Billing & Payments</strong></li>\n<li><strong>API Access Provisioning</strong></li>\n<li><strong>High Quality Customer Support & SLA</strong></li>\n</ul>\n<p>3Scale also delivers with its own API to access their management platform, allowing you to seamlessly integrate their platform into your internal systems.</p>\n<p>3Scale provides tutorials, white papers and other resources to assist you in planning, deploying and managing your API and community.</p>",
+            "website": "http://www.3scale.net/",
+            "twitter": "",
+            "blog": "http://www.3scale.net/support/tech-blog/",
+            "blogrss": "http://www.3scale.net/feed/",
+            "logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/serviceproviders/3scale-logo.jpg",
+            "screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/serviceproviders/3Scale-Screenshot-1.png"
+        },
+        {
+            "id": "11",
+            "name": "Alcatel-Lucent",
+            "details": "<p><strong>Become the Platform</strong></p>\n<p>The market for applications is growing exponentially and the time for service providers, enterprises and developers to capitalize on new revenues is now.</p>\n<p>Innovative mobile applications that leverage the benefits of the network can give service providers a powerful way to attract and retain subscribers — helping to generate additional income and provide a competitive edge. And the opportunity to extend beyond mobile to IPTV, web-based apps, multi-screen, enterprise services etc., offers an even greater opportunity to grow revenue and attract and retain subscribers.</p>\n<p>However, the complexity of today's communication and content industries present major obstacles to the creation of new applications. Developers are faced with thousands of devices, hundreds of service providers with varying technical requirements and a rapidly growing community of app stores. In this highly fragmented environment, developers are forced to make tough choices that limit which devices an application can run on, which functions can be provided and which service providers will be targeted.</p>\n<p>Ultimately this reduces the market reach and revenue potential that applications can generate for developers, as well as service providers and enterprises, while at the same time seriously limiting choice and flexibility for consumers everywhere.</p>\n<p>Service providers, enterprises and application developers alike have an immediate opportunity to reverse the tired, traditional model; leveraging the network as the platform to incite unforeseen levels of collaboration, openness and innovation in our industry.</p>\n<p>The Open API Platform offers unique value to both service providers and enterprises interested in innovating on existing assets and establishing a deeper relationship with the developer community.</p>\n<p><strong>From Enterprises to Service Providers</strong></p>\n<p>The Open API Platform allows service providers to expand their position in the value chain and move beyond the role of \"connection provider.\" Enterprises gain insight into how to best leverage their existing assets and expose them to developer communities in order to stimulate innovation and expand the reach of their brand.</p>\n<p>With the Alcatel-Lucent Open API Platform, service providers and enterprises gain a simple framework for exposing their key assets and managing their own developer communities. The Open API Platform enables service providers and enterprises to:</p>\n<ul class=\"mainlist\">\n<li>Expose their APIs in the form of REST APIs to make them more easily and widely used by the developer community</li>\n<li>Create their own developer programs or supplement their existing ecosystem of developers, content providers and third-party API providers</li>\n<li>Collaborate with developers to deliver services that attract and retain subscribers</li>\n<li>Earn additional revenue from existing assets. For service providers, these could be network assets such as context and location information, QoS, device and subscriber information, and more. For enterprises, this could be a variety of assets based on the specific industry being served. In retail for example, an extensive product catalog and library might serve as an asset to leverage.</li>\n</ul>\n<p><strong>For Developers</strong></p>\n<p>The Alcatel-Lucent Open API Platform provides tools that allow developers to collaborate, build, test and distribute new applications for service provider networks. It provides open access to network-based APIs, third party APIs and Alcatel-Lucent APIs (like the new Multi-screen Foundation APIs) to help stimulate the development of new applications that take full advantage of what the network can offer.</p>\n<p>Furthermore, our platform provides the critical business tools developers need to manage applications throughout their lifecycle. Our approach helps developers expand the audience for their applications — reaching more service providers, more end users and more devices, with less time, effort and cost.</p>\n<p><strong>Expanding the Ecosystem</strong></p>\n<p>In June 2010, Alcatel-Lucent acquired ProgrammableWeb, the technology industry's universal source for Web APIs used by application developers to build web, mobile, and other connected applications that serve consumers and the workplace. One month later, in July of 2010, Alcatel-Lucent also acquired OpenPlug, a mobile software and development tools provider. The acquisition of OpenPlug allowed Alcatel-Lucent to deepen its tole in the applications space by delivering, as part of an integrated suite of developer tools, a platform where application developers can write an application once, which will then be translated to run on any of the five major mobile operating systems.</p>\n<p>Alcatel-Lucent's aquisition of these companies helps bring together an ecosystem of service providers, enterprises, and developers to drive the creation of unique applications today and in the new world of broadband mobile through LTE.</p>",
+            "website": "http://openapiservice.com/",
+            "twitter": "",
+            "blog": "",
+            "blogrss": "",
+            "logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/serviceproviders/alcatel-lucent-logo.jpg",
+            "screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/serviceproviders/Alcatel-Lucent-Screenshot.png"
+        },
+        {
+            "id": "82",
+            "name": "API Engine",
+            "details": "<p><span>API Engine is an advanced collaborative API document construction and distribution platform that includes free unlimited public APIs as standard with every account and offers competitive packages for teams and private APIs.</span></p>",
+            "website": "https://apiengine.io/",
+            "twitter": "",
+            "blog": "",
+            "blogrss": "http://apiengine.io/site.xml",
+            "logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/serviceproviders/API-Engine.png",
+            "screenshot": null
+        },
+        {
+            "id": "19",
+            "name": "Apiary.io",
+            "details": "<p><a title=\"Apiary.io\" href=\"http://apiary.io/\">Apiary.io</a> wants to make developing and implementing APIs a quicker process.  Apiary.io site says they will also help you describe, test, manage and share your API with developers.</p>\n<p>I feel that API deployment services is a huge opportunity in this space, its good to see a provider step up that will help API owners deploy their APIs, as well as manage them.</p>\n<p><a title=\"Apiary.io\" href=\"http://apiary.io/\">Apiary.io</a> is still in private Beta, so I can't take it for a spin yet. It will be interesting to learn more about what this latest API service provider can bring to the table.</p>",
+            "website": "http://apiary.io/",
+            "twitter": "",
+            "blog": "",
+            "blogrss": "",
+            "logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/serviceproviders/apiary-io-logo.png",
+            "screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/serviceproviders/apiary-screenshot.png"
+        },
+        {
+            "id": "25",
+            "name": "Apify",
+            "details": "<p>Apify is a small and powerful open source library that delivers new levels of developer productivity by simplifying the creation of RESTful architectures. It helps development teams deliver quality web services and applications in reduced amounts of time.  Web services are a great way to extend your application, however, adding a web API to an existing web application can be a tedious and time-consuming task. Apify takes certain common patterns found in most web services and abstract them so that you can quickly write web APIs without having to write too much code.</p>\n<p>APIfy aims to help organizations open up APIs to developer communities, in a fast, simple and secure way. APIs promise to help organizations drive new revenue and reach across mobile and cloud. They can also make organizations more responsive to changing customer needs by giving them the data and application access they need, when they need it.</p>\n<p>But understanding best practices for opening up APIs to outside communities can be daunting. APIfy distils the lessons from over 10 years of experience gained at Layer 7 Technologies into a simple-to-configure, all-cloud API Management-as-a-Service offering.</p>\n<p> </p>",
+            "website": "http://www.apify.co/",
+            "twitter": "https://twitter.com/api_fy",
+            "blog": "http://www.apify.co/blog/",
+            "blogrss": "http://www.apify.co/blog/feed/",
+            "logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/serviceproviders/apify-logo.png",
+            "screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/serviceproviders/Apify-Screenshot.png"
+        },
+        {
+            "id": "3",
+            "name": "Apigee",
+            "details": "<p><a href=\"http://blog.apievangelist.com/2010/10/10/apigee-api-services/%E2%80%9Dhttp://www.apigee.com%E2%80%9D\">Apigee</a> is another player in the API management service provider space. Apigee is similar to <a href=\"http://www.mashery.xn--com%3Emashery%3C-8k6i/a%3E%20and%20%3Ca%20href=\">3Scale</a> in helping businesses plan, deploy and manage their API.</p>\n<p><a href=\"http://blog.apievangelist.com/2010/10/10/apigee-api-services/%E2%80%9Dhttp://www.apigee.com%E2%80%9D\">Apigee</a> provides resources to help you understand best practices, avoid common pitfalls, develop your strategy, and learn to drive your developer community.</p>\n<p>Apigee breaks down their product offerings into three tiers:</p>\n<ul class=\"mainlist\">\n<li><strong>Free</strong> tools to learn test, and debug APIs. Analytics and rate limiting.</li>\n<li><strong>Premium</strong> tools for advanced rate limiting, key management and unlimited traffic plans.</li>\n<li><strong>Enterprise</strong> tools for API policy framework, scaling solution for both cloud and on-premise options.</li>\n</ul>\n<p><a href=\"http://blog.apievangelist.com/2010/10/10/apigee-api-services/%E2%80%9Dhttp://www.apigee.com%E2%80%9D\">Apigee</a> seems dedicated to a healthy and standards based approach to delivering your API ecosystem with pricing for every budget. Their three tiers of pricing allow you to get your API up and running without a huge budget, and grow as the demand for your API grows.</p>\n<p>Apigee also provides articles, white papers, and other resources to help you deliver your API.</p>",
+            "website": "http://apigee.com/",
+            "twitter": "",
+            "blog": "http://blog.apigee.com/",
+            "blogrss": "http://feeds.apigee.com/ApigeeBlog",
+            "logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/serviceproviders/apigee-logo.gif",
+            "screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/serviceproviders/Apigee-Screenshot.png"
+        },
+        {
+            "id": "31",
+            "name": "APIphany",
+            "details": "<p class=\"p1\">Beyond the typical API Management Platform, Apiphany offers a true Global API Delivery Platform to their customers. Geared to fit into existing enterprise infrastructure, Apiphany’s team has developed a scalable, flexible cloud-based solution to help companies succeed with their API strategy.  This means Apiphany helps organizations launch, control, and scale their API to meet their evolving needs as well as helps them monitor their API performance and gain insight in their API ecosystem. And finally, Apiphany Global API Delivery Platform supports clients’ efforts to drive developer adoption and build community for their API. </p>",
+            "website": "http://apiphany.com/",
+            "twitter": "https://twitter.com/APIphany",
+            "blog": "http://apiphany.com/blog#.UP46daFdfB8",
+            "blogrss": "http://apiphany.com/rss?containerid=227",
+            "logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/serviceproviders/apiphany-logo-blue.png",
+            "screenshot": null
+        },
+        {
+            "id": "90",
+            "name": "APISpark",
+            "details": "<p>APISpark is a web API platform vendor, pioneer of RESTful web APIs. We serve our customers all over the world by developing cutting edge software to build web APIs including APISpark, our disruptive all-in-one PaaS. APISpark lets you build your web APIs in a flash, including the creation, hosting, management and usage of those web APIs.</p>\n<p>With offices in both the Silicon Valley (San Francisco) and in Europe (Paris La Defense), Restlet is a well-funded company led by a team of passionate engineers and managers. Please feel free to contact us if you have any question.</p>",
+            "website": "http://beta.apispark.com/home",
+            "twitter": "https://twitter.com/restlet_org",
+            "blog": "http://blog.restlet.com/",
+            "blogrss": "http://blog.restlet.com/feed/",
+            "logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/serviceproviders/APISpark-Logo.png",
+            "screenshot": null
+        },
+        {
+            "id": "20",
+            "name": "Atmosphere",
+            "details": "<p><a title=\"Atmosphere\" href=\"http://atmosphere.soa.com/\">Atmosphere</a> provides a secure, platform that companies can deploy to manage their APIs for either a private or public developer community.</p>\n<p>The Atmosphere platform gives API providers a management interface to define APIs using a wide range of messaging types and formats including REST/XML, REST/JSON and SOAP.  The platform also provides paging and caching mechanisms to improve app performance.</p>\n<p>Atmosphere also provides security capabilities that allow API providers to control and monitor app's usage of the APIs. While also protecting internal applications from overload, as well as provide customers with service-level guarantee through QoS management for SLAs and quotas</p>\n<p>These tools for monitoring and managing consumer contracts and traffic can also be applied to enable monetization of APIs.</p>\n<p>The Atmosphere API Management can be deployed on-premise or in the cloud, or a combination of the two.  Providing the flexibility and scalability needed by many providers.</p>",
+            "website": "http://atmosphere.soa.com/",
+            "twitter": "",
+            "blog": "",
+            "blogrss": "",
+            "logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/serviceproviders/atmosphere-logo-1.png",
+            "screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/serviceproviders/Atmosphere-Screenshot.png"
+        },
+        {
+            "id": "28",
+            "name": "Emergent One",
+            "details": "<p>Emergent One is an API platform that allows you to quickly generate and launch a new API from MySQL or Postegres databases connection.  After launched a developer portal is providing API registration, documentation, blog and console.  Emergent One automatically generates documentation and code samples, and provides access controls, caching and analytics for managing your API.</p>",
+            "website": "http://www.emergentone.com/",
+            "twitter": "https://twitter.com/emergent_one",
+            "blog": "http://www.emergentone.com/blog/engineering/",
+            "blogrss": "",
+            "logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/serviceproviders/emergent-one-logo.png",
+            "screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/serviceproviders/EmergentOne-Screenshot.png"
+        },
+        {
+            "id": "91",
+            "name": "Exicon",
+            "details": "<p>Exicon is the AppCycle management company that simplifies the creation, deployment and management of mobile applications for some of the world's biggest companies allowing them to accelerate their success in mobile.</p>\n<p>Through its proprietary AppCycle Management platform, Exicon provides the services and tools to support customers in defining their application needs, finding the best developers, storing all components of the applications, reaching the end users for your application and measuring its performance.</p>",
+            "website": "http://www.exicon.mobi/",
+            "twitter": "",
+            "blog": "",
+            "blogrss": "",
+            "logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/serviceproviders/exicon-logo.png",
+            "screenshot": null
+        },
+        {
+            "id": "22",
+            "name": "Intel",
+            "details": "<p><strong>Service Gateway - Application Security Made Easy</strong><br />Intel® Expressway Service Gateway is a software-appliance designed to securely expose or consume application services/APIs on-premise or in the cloud. Delivers a standards-based policy enforcement point that is integrated with internal IdM, middleware, and auditing/monitoring infrastructure. Deployed as a low impact proxy at the network edge.</p>\n<p><strong>API Management - Application Security Made Easy</strong><br />For API Management, Intel has packaged the market leading Mashery API sharing portal with Intel's security/service gateway to deliver Intel® Expressway API Manager. The seamless integration of an on-premise gateway for API enablement coupled with a hosted API management service provides the ideal, 'best-of-breed' architecture for enterprises looking to maximize security, performance, and developer adoption for their API assets.</p>\n<p><strong>Tokenization - Application Security Made Easy</strong><br />Intel® Expressway Tokenization Broker is a hardware or software appliance that dramatically simplifies PCI DSS & PII compliance and administration for organizations across all industry types that accept, capture, store, transmit or process credit card, debit card, or sensitive personal data. As such, it functions as a tokenization broker for any enterprise application tasked with handling clear-text primary account number (PAN) data. The data is tokenized in documents or API calls and it stores encrypted card data in a protected, secure vault. Tokenization is a great way to improve enterprise security.</p>\n<p><img style=\"display: block; margin-left: auto; margin-right: auto;\" src=\"https://s3.amazonaws.com/kinlane-productions/api-service-providers/intel/Intel-Gateway-Blueprint.png\" alt=\"\" width=\"500\" /></p>",
+            "website": "http://cloudsecurity.intel.com",
+            "twitter": "https://twitter.com/IntelAPIGateway",
+            "blog": "http://blogs.intel.com/security-gateways/",
+            "blogrss": "http://blogs.intel.com/security-gateways/feed/rss2/",
+            "logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/serviceproviders/Itel-Cloud-Security-Solutions-fo-API-PCI-Mobile.png",
+            "screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/serviceproviders/Intel-Screenshot.png"
+        },
+        {
+            "id": "8",
+            "name": "Layer 7 Technologies",
+            "details": "<p><a title=\"Layer 7\" href=\"http://www.layer7tech.com/\">Layer 7</a> is a leading provider of API security and governance for Service Oriented, Web Oriented and Cloud Oriented integration.  Through our award winning line of SecureSpan and CloudSpan family of API gateways and management products, Layer 7 is helping organizations control how they expose their data and applications to outside divisions, partners, mobile developers and cloud services.</p>\n<p>Founded in 2003, Layer 7 operates in the US, Canada and Europe. Our customers include leading insurance, banking, telecom and government organizations. The company is venture backed by leading Canadian and US investors.</p>",
+            "website": "http://www.layer7tech.com/",
+            "twitter": "",
+            "blog": "http://www.layer7tech.com/blogs/",
+            "blogrss": "http://www.layer7tech.com/blogs/index.php/feed/",
+            "logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/serviceproviders/layer7-logo.png",
+            "screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/serviceproviders/Layer7-Screenshot.png"
+        },
+        {
+            "id": "9",
+            "name": "Mashape",
+            "details": "<p><a title=\"Mashape\" href=\"http://www.mashape.com/\">Mashape</a> provides tools that enable developers to quickly deliver and consume <a href=\"http://www.apievangelist.com/\">APIs</a> and offers a marketplace for listing APIs to buy and sell.</p>\n<p>For developers looking to publish any resource as an API, Mashape provides:</p>\n<ul class=\"mainlist\">\n<li><a class=\"zem_slink\" title=\"PHP\" rel=\"homepage\" href=\"http://www.mashape.com/guide/\">PHP</a> and soon Ruby frameworks for extending your software</li>\n<li>Tools for testing your API</li>\n<li>Code for generation of custom errors</li>\n<li>Components for user management</li>\n<li>Standardized API code language libraries</li>\n</ul>\n<p>For developers looking to consume an API, Mashape provides standardized API libraries in the following languages:</p>\n<ul class=\"mainlist\">\n<li>JavaScript / <a class=\"zem_slink\" title=\"JSON\" rel=\"homepage\" href=\"http://json.org/\">JSON</a></li>\n<li>PHP</li>\n<li>Ruby</li>\n<li>Obj-C</li>\n<li>Java</li>\n<li>Python</li>\n</ul>\n<p>Mashape provides other informational resources about APIs, including an explanation of why a library approach is good, background on <a href=\"http://blog.apievangelist.com/2011/01/30/api-technology-rest/\">REST</a>, and ideas on what is possible with the platform.</p>\n<p>Once your API is ready for prime time Mashape provides a <a title=\"Mashape Marketplace\" href=\"http://www.mashape.com/explore/index\">marketplace for listing your API</a>, letting developers to easily discover and begin hacking with your API.</p>",
+            "website": "http://www.mashape.com/",
+            "twitter": "",
+            "blog": "http://blog.mashape.com/",
+            "blogrss": "http://feeds.feedburner.com/MashapesVoice",
+            "logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/serviceproviders/mashape-logo.png",
+            "screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/serviceproviders/Mashape-Screenshot.png"
+        },
+        {
+            "id": "1",
+            "name": "Mashery",
+            "details": "<p><a href=\"http://blog.apievangelist.com/2010/10/10/mashery-api-services/%E2%80%9Dhttp://www.mashery.com%E2%80%9D\">Mashery</a> is an API management service provider that offers an API as a Software as a Service (SaaS). You can leverage Mashery’s platform to get an API planned, deployed, and into operation quickly. Mashery makes a pretty compelling <a href=\"http://blog.apievangelist.com/2010/10/10/mashery-api-services/%E2%80%9Dhttp://www.mashery.com/solution/buy_vs_build.html%E2%80%9D\">buy versus build argument when planning for your API</a>.</p>\n<p><a href=\"http://blog.apievangelist.com/2010/10/10/mashery-api-services/%E2%80%9Dhttp://www.mashery.com%E2%80%9D\">Mashery</a> provides a wide array of tools in three distinct areas:</p>\n<ul class=\"mainlist\">\n<li><strong>API Management</strong> building blocks like API registration, credential management, usage throttling and business rules.</li>\n<li><strong>Metrics and Reporting</strong> building blocks like API usage, developer activity, systems status, and real-time insights into API operations.</li>\n<li><strong>Community Management</strong> building blocks for blogs, wiki, general content management, change control, and forums.</li>\n</ul>\n<p>Mashery is definitely the leader in this space. It has a robust set of API management features as well as a service level agreement and extensive API support portal.</p>\n<p>Mashery also understands the <a href=\"http://blog.apievangelist.com/2010/10/10/mashery-api-services/%E2%80%9Dhttp://developer.mashery.com/%E2%80%9D\">API developer network</a> to enable deeper integration of their API services.</p>\n<p>Mashery’s platform, collective experience, resources, and support makes it enticing to use them as a platform for launching and growing your API.</p>",
+            "website": "http://www.mashery.com",
+            "twitter": "",
+            "blog": "http://blog.mashery.com/",
+            "blogrss": "blog.mashery.com/rss.xml",
+            "logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/serviceproviders/mashery-logo.png",
+            "screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/serviceproviders/Mashery-Screenshot.png"
+        },
+        {
+            "id": "27",
+            "name": "Nevatech Sentinet",
+            "details": "<p>Nevatech Sentinet™ is a flexible, lightweight and scalable API management platform that promotes integration through the use of SOA standards. It is designed to connect, mediate, and manage interactions between services across the enterprise or in the cloud. If your organization uses internally or externally-facing web services and APIs, cloud-based infrastructure, or service-oriented architecture for your applications, then you will find Sentinet to be a powerful tool, which can be deployed rapidly, and immediately start delivering tangible results.</p>",
+            "website": "http://www.nevatech.com/",
+            "twitter": "https://twitter.com/nevatechinc",
+            "blog": "",
+            "blogrss": "",
+            "logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/serviceproviders/Nevatech-Logo.png",
+            "screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/serviceproviders/Nevatech-Screenshot.png"
+        },
+        {
+            "id": "21",
+            "name": "Vordel",
+            "details": "<p><a title=\"Vordel\" href=\"http://www.vordel.com/\">Vordel</a> was born out of a recognition by our founders of the increasingly open and de-perimeterized nature of corporate computing environments. Driven by the adoption of technologies such as XML, REST and SOAP, Vordel identified the need for a means of controlling the increasingly complex and inherently insecure nature of connections across the internet between enterprises. In response Vordel developed the world’s first XML firewall in 2002, the precursor to today’s XML Gateway or SOA appliance.</p>\n<p>Today, the company’s technology is in its sixth generation and is deployed in some of the world’s largest IT infrastructures. Fortune 500 enterprises and government agencies around the world rely on Vordel's XML Gateway and Cloud Service Broker to increase performance, strengthen security and enhance the interoperability of their SOA and Cloud deployments. With Vordel, companies accelerate their time to benefit from SOA and Cloud and reduce the attendant development and deployment costs. Vordel enables enterprises to govern their service usage and reduce the costs associated with protecting and accelerating their services-based IT environments.</p>",
+            "website": "http://www.vordel.com/",
+            "twitter": "",
+            "blog": "",
+            "blogrss": "",
+            "logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/serviceproviders/Vordel-API-Management.png",
+            "screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/serviceproviders/Vordel-Screenshot.png"
+        },
+        {
+            "id": "13",
+            "name": "AppStores",
+            "details": "<p><a title=\"AppStores.com\" href=\"http://appstores.com/\">AppStores.com</a> provides a white-label / private-label solution for deploying an app store for your API.  Here is a little of what AppStores.com bring to the table.</p>\n<p>They help with developer acquisition:</p>\n<ul class=\"mainlist\">\n<li><strong>Self Service App Submission </strong>- Enable developers to submit apps on their own, using a process you control</li>\n<li><strong>Developer Dashboard</strong> – Developers are provided with a dashboard to monitor approval status, manage and update their own apps</li>\n<li><strong>App Marketing</strong> – Developers will get the exposure they need being featured in your ecosystem</li>\n</ul>\n<p>They provide a complete set of management tools:</p>\n<ul class=\"mainlist\">\n<li><strong>Approval Process </strong>- Accept, reject or request changes to developers apps using approval dashboard</li>\n<li><strong>Customizable UI</strong> – Complete control over the design of your AppShowcase</li>\n<li><strong>Content Management System (CMS)</strong> – Add custom pages to your AppShowcase</li>\n</ul>\n<p>They encourage application discovery:<img src=\"http://kinlane-productions.s3.amazonaws.com/api-evangelist/app-showcase/IndexTank-App-Gallery.png\" alt=\"\" width=\"250\" align=\"right\" /></p>\n<ul class=\"mainlist\">\n<li><strong>App Categorization</strong> – Create categories to organize applications and feature the very best</li>\n<li><strong>App Details -</strong> Provide descriptions, editorial reviews and ratings. Include screenshots and video tutorials on each app</li>\n<li><strong>Mobile Ready </strong>- HTML5 app store allows app discovery on a variety devices</li>\n</ul>\n<p>AppStores.com is a ready-to-go, App Store as a Service for your API. Their goal is to save you money, reduce time to market, and be your team specializing in delivering your app showcase.</p>\n<p>They are fairly new, but already have a couple of high profile deployments:</p>\n<ul class=\"mainlist\">\n<li><a title=\"IndexTank App Gallery\" href=\"http://apps.indextank.com/\">IndexTank App Gallery</a></li>\n<li><a title=\"SimpleGeo App Showcase\" href=\"http://apps.simplegeo.com/\">SimpleGeo App Showcase</a></li>\n<li><a title=\"EventBrite App Store\" href=\"http://eventbrite.appstores.com/\">EventBrite App Store</a></li>\n</ul>\n<p>An <a title=\"application showcase n ann innovative building block\" href=\"http://www.apievangelist.com/ecosystem-building-blocks-detail.php?Building_Block_ID=180\">application showcase is an innovative building block</a> to showcase developers and partners, while also bringing attention to your API and the value it can deliver.</p>",
+            "website": "http://appstores.com/",
+            "twitter": "",
+            "blog": "http://appstores.com/blog/",
+            "blogrss": "",
+            "logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/serviceproviders/Appstores.png",
+            "screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/serviceproviders/Appstores-Screenshot.png"
+        },
+        {
+            "id": "80",
+            "name": "Wave Framework",
+            "details": "<p><span>Wave is a PHP micro-framework that is built loosely on model-view-control architecture and factory method design pattern. It is made for web services, websites and info-systems and is built around a native API architecture, caching and smart image and resource management. Wave is a compact framework that does not include optional libraries, has a very small footprint and is developed keeping lightweight speed and optimizations in mind.</span></p>",
+            "website": "http://waveframework.com/",
+            "twitter": "",
+            "blog": "",
+            "blogrss": "",
+            "logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/serviceproviders/wave-framework-logo.png",
+            "screenshot": null
+        },
+        {
+            "id": "18",
+            "name": "FluidInfo",
+            "details": "<p><strong>What is Fluidinfo?</strong></p>\n<p>Fluidinfo is an online information storage and search platform. Its design supports <a href=\"http://blogs.fluidinfo.com/fluidinfo/2009/10/03/fluiddb-as-a-universal-metadata-engine/\">shared openly-writable metadata of any type and about anything</a>, provides modern <a href=\"http://blogs.fluidinfo.com/fluidinfo/2011/02/14/what-is-a-writable-api/\">writable APIs</a>, and <a href=\"http://blogs.fluidinfo.com/fluidinfo/2011/02/23/putting-domain-names-onto-data-with-fluidinfo/\">allows data to be branded with domain names</a>.</p>\n<p><strong>The opportunity</strong></p>\n<p>Read-only information storage is a major disadvantage for business in a world increasingly driven by lightweight social applications. In the natural world we routinely put metadata where it is most useful, e.g., bookmarks in books, post-it notes in specific locations, and name tags around necks at conferences. But in the digital world businesses and consumers usually cannot store metadata in its most useful location—in context—because traditional storage is not openly writable. Potential value is reduced when data is in read-only silos as related information cannot be combined or searched across. Flexibility and spontaneity are restricted when future needs must be anticipated or write permission must first be obtained.</p>\n<p>The unique properties of Fluidinfo change this situation completely</p>\n<p>Fluidinfo provides <strong>a universal metadata engine</strong> because it has an object for everything imaginable, just like Wikipedia has a web page for everything. Fluidinfo objects can always have data added to them by any user or application, so <strong>related metadata can be stored in the same place</strong>. This allows it to be combined in searches, and remixed to great effect, <strong>increasing its value over metadata held in isolated databases</strong>. Fluidinfo allows information owners to put their <strong>internet domain names onto data</strong> and has a simple, flexible, and <strong>powerful permissions system</strong>.</p>\n<p><strong>The thinking behind Fluidinfo</strong></p>\n<p>Humans are diverse and unpredictable. We create, share, and organize information in an infinite variety of ways. We've even built machines to process it. Yet for all their capacity and speed, using computers to work with information is often awkward and frustrating. We are allowed very little of the spontaneity that characterizes normal human behavior. Our needs must be anticipated in advance by programmers. Far too often we can look, but not touch.</p>\n<p>Why isn't it easier to work with information using a computer?</p>\n<p>At Fluidinfo we believe the answer lies in information architecture. A rigid underlying platform inhibits or prevents spontaneity. A new information architecture can be the basis for a new class of applications. It can provide freedom and flexibility to all applications, and these advantages could be passed on to users.</p>\n<p>We've spent the last several years designing and building Fluidinfo to be just such an architecture.</p>\n<p>Fluidinfo makes it possible for data to be social. It allows almost unlimited information personalization by individual users and applications, and also between them. This makes it simple to build a wide variety of applications that benefit from cooperation, and which are open to unanticipated future enhancements. Even more importantly, Fluidinfo facilitates and encourages the growth of applications that leave users in control of their own data.</p>",
+            "website": "http://fluidinfo.com/",
+            "twitter": "",
+            "blog": "http://blogs.fluidinfo.com/fluidinfo/",
+            "blogrss": "http://blogs.fluidinfo.com/fluidinfo/feed/",
+            "logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/serviceproviders/fluidinfo-logo.png",
+            "screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/serviceproviders/FluidInfo-Screenshot.png"
+        },
+        {
+            "id": "24",
+            "name": "Socrata",
+            "details": "<p>Socrata has a government data platform that exceeds anything I’ve envisioned. In the past, I have said that <a title=\"Every State Should Have an API\" href=\"http://blog.programmableweb.com/2011/09/06/every-city-should-have-an-api-lets-start-with-watertown-ma/\">every state should have an API</a>. Socrata looks like that platform.</p>\n<p>Socrata says it best: <em>“Social Data Discovery Solution Promotes Civic Engagement, Improves Decision and Policy Making, and Achieves Government Transparency.”</em></p>\n<p>Socrata defines \"<a title=\"Social Data Discovery\" href=\"http://www.socrata.com/discover/\">Social Data Discovery</a>\" as a solution for public and private institutions to transform raw data, contained in large departmental databases, and deploy using the latest web and API technologies.  According to Socrata:</p>\n<p> <em>“Social Data Discovery promotes civic engagement, enabling an online community of journalists, policy makers, scientists/domain experts, and citizens to visualize data and engage in discussion with one another. Together, audiences with disparate viewpoints can analyze and discover insights from datasets, improving decision and policy making.”</em></p>\n<p>They seems to get the political, technical and economic challenges faced when delivering government data solutions, and provide a very comprehensive solution for city, county, state and federal agencies to manage their data:</p>\n<ul class=\"mainlist\">\n<li><strong>Data-Set On-Boarding</strong> - A process, acknowledging the need to clean and transform data so its accessible by an external audience.</li>\n<li><strong>Web APIs </strong>- Ability to deploy RESTful APIs with for data sets with a key for authentication.</li>\n<li><strong>Datasets and Feeds </strong>- Availablity of datasets in common formats like CSV, TSV, XML, KML, and Atom.</li>\n<li><strong>Mobile</strong> - The platform appears to deliver necessary resources for iPhone, Android, and Blackery mobile platforms.</li>\n<li><strong>Management</strong> - Socrata appears to offer many of the essential API maangement services as other providers.</li>\n<li><strong>Analytics</strong> - Provides the necessary reporting and analytics to make sense of how data is being consumed and distributed.</li>\n</ul>\n<p>The problem with trying to get data from government agencies, is often that you end up with PDF and MIcrosoft Excel reports, and not the quality data feeds and APIs developers need. In my post, “<a href=\"http://apievangelist.com/2011/09/06/every-city,-county-and-state-should-have-an-api/\">Every City, County and State Should Have an API</a>”, I identify that government workers are only working with the tools we give them. They need better tools.</p>\n<p><a href=\"http://www.socrata.com/\"><img style=\"display: block; margin-left: auto; margin-right: auto;\" src=\"http://kinlane-productions.s3.amazonaws.com/api-evangelist/socrata/Socrata-Data-Overview.png\" alt=\"\" width=\"550\" /></a></p>\n<p>Socrata looks like just the tool for the job. Socrata appears to have all the key elements that government agencies will need to manage, publish and share important data with other agencies and the public using “Social Data Discovery”. I’m thoroughly impressed with what they’ve delivered for our government in the form of <a title=\"Data.gov\" href=\"http://explore.data.gov/\">Data.gov</a>. They also provide solutions for<a title=\"Medicare\" href=\"http://www.socrata.com/customer-spotlight/medicare/\">MediCare</a>, <a title=\"State of Oregon\" href=\"http://www.socrata.com/customer-spotlight/state-of-oregon/\">State of Oregon</a>, <a title=\"State of Oklahoma\" href=\"http://www.socrata.com/customer-spotlight/state-of-oklahoma/\">State of Oklahoma</a>, <a title=\"City of Seattle\" href=\"http://www.socrata.com/customer-spotlight/city-of-seattle/\">City of Seattle</a> and <a title=\"City of Chicago\" href=\"http://www.socrata.com/customer-spotlight/city-of-chicago/\">City of Chicago</a>, among others.</p>",
+            "website": "http://www.socrata.com/",
+            "twitter": "",
+            "blog": "http://www.socrata.com/blog/",
+            "blogrss": "http://www.socrata.com/feed/",
+            "logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/serviceproviders/socrata_logo.jpg",
+            "screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/serviceproviders/socrata-screenshot.png"
+        },
+        {
+            "id": "7",
+            "name": "WebServius",
+            "details": "<p><a title=\"WebServius\" href=\"http://www.webservius.com/\">WebServius</a> provides a self-service tool for deploying, managing and monetizing datasets using an API.</p>\n<p>WebServius provides users with the ability to integrate and store data, and enable access to the data via a REST API with XML and JSON responses.</p>\n<p>There is support for planning, development, implementation and ongoing management of APIs generated from data sources.</p>\n<p>WebServius offers two service levels:</p>\n<ul class=\"mainlist\">\n<li><strong>Self-Service – </strong>Tier for technical people who can handle the setup themselves, using the WebServius self-service interface. The self-service plan is free up to 50 API subscribers, with up to 10,000 total API calls per day and 5 calls per second at peak times. If you go over any of the limits of the self-service plan, it costs $1 for every 30,000 API calls.</li>\n<li><strong>Full-Service – </strong>Pricing level if you are planning to create a commercial-grade data API. Service is custom fit to exact needs, starting from data integration, to API download page, to user management. Pricing varies based upon needs.</li>\n</ul>\n<p>There is also a 20% charge of all revenue made through an API whether it is on the self-service or full-service pricing structure.</p>\n<p>Using WebServius you can proxy an existing REST API or connect directly to a data service provider, including Amazon SimpleDB.</p>\n<p>Once data is integrated, WebServius allows you to create custom details, plans, promotions, policies and pricing for the data API you wish to publish.</p>\n<p>Each published API on WebServius is given a detail page for subscribers to access.  There are also options for custom site integration and private label deployment solutions.</p>\n<p><a title=\"WebServius\" href=\"http://www.webservius.com/\"><img src=\"http://kinlane-productions.s3.amazonaws.com/api-service-providers/webservius/piggybank-monetize-api.png\" alt=\"\" width=\"300\" align=\"right\" /></a>Users can then register, and subscribe to specific plan for any published API,then access data via the API or a full data download.</p>\n<p>All subscribers are given API keys and WebServius provides tools for validating API keys, and throttling of API requests.</p>\n<p>WebServius handles all the security, performance and reliability of the API platform, and also provides a reporting suite for monitoring API activity in real-time.</p>\n<p><a title=\"WebServius\" href=\"http://www.webservius.com/\">WebServius</a> offers a complete data API solution for entry level providers as well as a businesses looking to monetize their datasets on a larger scale.</p>",
+            "website": "http://www.webservius.com/corp/",
+            "twitter": "",
+            "blog": "http://blog.webservius.com/",
+            "blogrss": "http://blog.webservius.com/feed/",
+            "logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/serviceproviders/webservius-logo.png",
+            "screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/serviceproviders/WebServius-Screenshot.png"
+        },
+        {
+            "id": "84",
+            "name": "Dexy",
+            "details": "<p>Dexy is a free-form literate documentation tool for writing any kind of technical document incorporating code. Dexy helps you write correct documents, and to easily maintain them over time as your code changes.</p>",
+            "website": "http://www.dexy.it/",
+            "twitter": "",
+            "blog": "http://blog.dexy.it/",
+            "blogrss": "http://blog.dexy.it/feed",
+            "logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/serviceproviders/Dexy-Logo.png",
+            "screenshot": null
+        },
+        {
+            "id": "5",
+            "name": "SDK Bridge",
+            "details": "<p><a href=\"http://sdkbridge.com/index.php\" target=\"_blank\">SDK Bridge</a> is a company that specializes in explaining technology through documentation and software development kits. It provides a variety of API-related services including:</p>\n<ul class=\"mainlist\">\n<li>API Documentation</li>\n<li>Sample code and tutorials</li>\n<li>Highly technical copywriting</li>\n<li>Training sessions on how to use software platforms</li>\n<li>Technology classes for youth</li>\n</ul>\n<p>These services can be a critical piece of delivering your API. SDK Bridge says that it is a <strong><em>bridge between people and technology</em></strong>. So very true.</p>\n<p><a href=\"http://sdkbridge.com/index.php\" target=\"_blank\">SDK Bridge</a> provides a set of services that any business looking to deliver an API should evaluate. Even though you many be able to generate your own marketing materials, SDK and other supporting API documents, you may find more value bring in an outside perspective to make sure you explain how your API solves problems, adds value, and can be successfully integrated to customers systems.</p>",
+            "website": "http://sdkbridge.com/index.php",
+            "twitter": "",
+            "blog": "",
+            "blogrss": "",
+            "logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/serviceproviders/SDKBridge-logo.gif",
+            "screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/serviceproviders/SDKBridge-Screenshot.png"
+        },
+        {
+            "id": "55",
+            "name": "Wiretap",
+            "details": "<p>The one-click proxy that shows you everything.  View HTTP request-response exchanges between your web or mobile app and any REST API in real-time.  Wiretap is like a browser's Network Tab, but for Web and Mobile Apps.</p>\n<p>Server-to-ServerPrinting HTTP request and responses data to console is a thing of the past with Wiretap. Every single server-side programming language works with Wiretap.</p>\n<p>Mobile-to-ServerDo your iOS or Android apps talk to web APIs? Use Wiretap to avoid facepalming, setting break points, and stepping through the debugger just to figure out how a web API is responding.</p>\n<p>Webhook-to-ServerCreate a Wiretap connected to your server for Webhooks and see exactly what they're sending you. Retry requests with a single click, no more reproducing steps on a 3rd party service.</p>\n<p>Tunnel-to-LocalhostWiretap your development servers behind a firewall with tunneling. The simple desktop application makes setting up a Wiretap to localhost as easy as to a public host.</p>",
+            "website": "https://httpkit.com/wiretap",
+            "twitter": "",
+            "blog": "",
+            "blogrss": "",
+            "logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/serviceproviders/Wiretap-Logo.png",
+            "screenshot": null
+        }
+    ],
+    "published": "03/30/2013"
+}
