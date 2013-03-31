@@ -7,7 +7,7 @@ function listProviders()
 			var template = $('#providerTagListingTemplate').html();
 			var html = Mustache.to_html(template, val);
 			
-			$('#providerListing').append(html);   
+			//$('#providerListing').append(html);   
 			
 			$category = val['tag'];
 			
@@ -21,11 +21,20 @@ function listProviders()
 		    	 	
 		    	 	$inside = $tags.indexOf($category);
 		    	 	
-					alert($category + ' in (' + $tags + ') ' + $inside);
+					//alert($category + ' in (' + $tags + ') ' + $inside);
 					
+					if($inside!=-1){
+						
+						var template2 = $('#providerListingTemplate').html();
+						html += Mustache.to_html(template2, val2);
+						 
+						}
 					 						
 			        });
-		        });			
+		        });		
+		        
+		       $('#providerListing').append(html);   
+		        	
 			 						
 	        });
         });
