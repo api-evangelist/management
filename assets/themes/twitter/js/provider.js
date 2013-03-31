@@ -51,13 +51,11 @@ function listProviders()
 							
 						$Any = 1;	
 						 						
-				        }).done(function() {
+				        })
 				        
-				       	$html +='<p><strong>' + $tag + '</strong></p>' + $logos; 
-				       
-				       })
+				       $html +='<p><strong>' + $tag + '</strong></p>' + $logos; 
 				        
-			         }).done(function() {				
+			        }).done(function() { 				
 				
 				
 					alert($html);	
