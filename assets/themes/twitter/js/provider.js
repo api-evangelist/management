@@ -1,5 +1,6 @@
 function listProviders()
     {
+    	
     $.getJSON('data/tags.json', function(data) {
     	
     	 $.each(data['tags'], function(key, val) {
@@ -30,14 +31,11 @@ function listProviders()
 					 						
 			        });
 		        });		
-		        
-				//alert("Cat: " + $category);		        
-		        
-		       $('#providerListing').append(html);   
-		        	
-			 						
+				
 	        });
         });
+        
+    $('#providerListing').append(html);      
 
     }    
      
