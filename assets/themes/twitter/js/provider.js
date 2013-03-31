@@ -56,7 +56,7 @@ function listProviders()
 			        }).done(function() { 				
 				
 				
-					alert($html);	
+					$('#providerListing').append($html);  	
 				
 			   });
 			}            
