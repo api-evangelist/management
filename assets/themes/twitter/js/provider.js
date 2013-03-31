@@ -53,7 +53,7 @@ function listProviders()
 						 						
 				        }).done(function() {
 				        
-				       $html +='<p><strong>' + $Tag + '</strong></p>' + $logos; 
+				       	$html +='<p><strong>' + $tag + '</strong></p>' + $logos; 
 				       
 				       }
 				        
