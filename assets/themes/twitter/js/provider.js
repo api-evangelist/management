@@ -1,7 +1,7 @@
 function listProviders()
     {
     $.getJSON('data/tags.json', function(data) {
-    	toggle = 0;
+    	
     	 $.each(data['tags'], function(key, val) {
 			
 			var template = $('#providerTagListingTemplate').html();
@@ -9,7 +9,7 @@ function listProviders()
 			
 			$('#providerListing').append(html);   
 			
-			tag = val['tag'];
+			category = val['tag'];
 			
 			//alert(tag);
 			
@@ -18,9 +18,9 @@ function listProviders()
 		    	 $.each(data2['serviceprovider'], function(key2, val2) {
 		    	 	
 		    	 	tags = val2['tags'];
-		    	 	inside = tags.indexOf(tag);
+		    	 	inside = tags.indexOf(category);
 		    	 	
-					alert(tag + ' in (' + tags + ') ' + inside);
+					alert(category + ' in (' + tags + ') ' + inside);
 					
 					if(inside!=-1){
 						
