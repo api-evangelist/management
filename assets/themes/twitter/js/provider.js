@@ -11,8 +11,6 @@ function listProviders()
 			
 			$category = val['tag'];
 			
-			alert($category);
-			
 		    $.getJSON('data/providers.json', function(providerdata) {
 		    	
 		    	 $.each(providerdata['serviceprovider'], function(key2, val2) {
@@ -32,6 +30,8 @@ function listProviders()
 					 						
 			        });
 		        });		
+		        
+				alert("Cat: " + $category);		        
 		        
 		       $('#providerListing').append(html);   
 		        	
