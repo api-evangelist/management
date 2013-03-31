@@ -22,7 +22,7 @@ function listProviders()
         .done(function() {  
         	
         	$NumberofTags = $tagArray.length;
-        	$ProcessedTags = 0;
+        	$ProcessedTags = 1;
         
 			for (var i = 0; i < $tagArray.length; i++) {
 				
@@ -66,7 +66,7 @@ function listProviders()
 			}    
 			
 			if($NumberofTags==$ProcessedTags){
-			alert('done');        
+				alert('done');        
 			}
 	
 		 });
