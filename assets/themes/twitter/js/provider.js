@@ -62,8 +62,10 @@ function listProviders()
 						$Any = 1;	
 						 						
 				       }) 
+				       
+				       echo('<p><strong>' + $tag + '</strong></p>' + $logos);
 				        
-				       	$providerArray[$slot] = '<p><strong>' + $tag + '</strong></p>' + $logos; 
+				       $providerArray[$slot] = '<p><strong>' + $tag + '</strong></p>' + $logos; 
 				        
 			        }).done(function() { 
 			        	
