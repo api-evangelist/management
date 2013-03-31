@@ -12,8 +12,8 @@ function listProviders()
 			tag = val['tag'];
 			
 		    $.getJSON('data/providers.json', function(data2) {
-		    	toggle = 0;
-		    	 $.each(data['serviceprovider'], function(key2, val2) {
+		    	
+		    	 $.each(data2['serviceprovider'], function(key2, val2) {
 		    	 	
 		    	 	tags = val['tag'];
 		    	 	
