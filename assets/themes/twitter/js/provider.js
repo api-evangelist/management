@@ -63,7 +63,7 @@ function listProviders()
 						 						
 				       }) 
 				       
-				       echo('<p><strong>' + $tag + '</strong></p>' + $logos);
+				       alert('<p><strong>' + $tag + '</strong></p>' + $logos);
 				        
 				       $providerArray[$slot] = '<p><strong>' + $tag + '</strong></p>' + $logos; 
 				        
