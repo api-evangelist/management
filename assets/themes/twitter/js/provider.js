@@ -31,7 +31,7 @@ function listProviders()
 				$tag = $tagArray[i];
 				$slot = i;
 				
-				alert($tag + ' - ' + $slot);
+				//alert($tag + ' - ' + $slot);
 
 			    $.getJSON('data/providers.json', function(providerdata) {
 			    	
@@ -45,7 +45,7 @@ function listProviders()
 			    	 	
 			    	 	$inside = $tags.indexOf($tag);
 			    	 	
-						alert($tag + ' in (' + $tags + ') for ' + $name + ' - ' + $inside + ' - ' + $slot);
+						//alert($tag + ' in (' + $tags + ') for ' + $name + ' - ' + $inside + ' - ' + $slot);
 						
 						if($inside!=-1){
 							
@@ -59,10 +59,17 @@ function listProviders()
 							
 						$Any = 1;	
 						 						
-				       });
+				       }) 
 				        
-				       $providerArray[$slot] = '<p><strong>' + $tag + '</strong></p>' + $logos; 
+				       	$providerArray[$slot] = '<p><strong>' + $tag + '</strong></p>' + $logos; 
 				        
+			        }).done(function() { 
+			        	
+			        	$TagCount = $tagArray.length;
+			        	$Providercount = $providerArray.length;
+			        	
+			        	alert($TagCount + ' = ' + $Providercount);
+			        	
 			        });
 			
 				}    
