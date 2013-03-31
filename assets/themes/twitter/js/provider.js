@@ -12,6 +12,8 @@ function listProviders($tag)
     	 	
     	 	$inside = $tags.indexOf($tag);
     	 	
+    	 	alert($tag + ' in (' + $tags + ') ' + $inside);
+    	 	
 			if($inside!=-1){
 				
 				var template = $('#providerListingTemplate').html();
