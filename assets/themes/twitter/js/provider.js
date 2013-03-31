@@ -68,7 +68,14 @@ function listProviders()
 			        	$TagCount = $tagArray.length;
 			        	$Providercount = $providerArray.length;
 			        	
-			        	alert($TagCount + ' = ' + $Providercount);
+			        	for (var x = 0; x < $tagArray.length; x++) {
+			        		
+			        		$Tag = $tagArray[x];
+			        		$Images = $providerArray[x];
+			        		
+			        		alert($Tag + ' - ' + $Images);
+			        		
+			        	}
 			        	
 			        });
 			
