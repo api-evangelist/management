@@ -46,7 +46,7 @@
             "blogrss": "http://feeds.feedburner.com/MashapesVoice",
             "logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/serviceproviders/mashape-logo.png",
             "screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/serviceproviders/Mashape-Screenshot.png",
-            "tags": "API Directory,API Management"
+            "tags": "API Management"
         },
         {
             "id": "96",
