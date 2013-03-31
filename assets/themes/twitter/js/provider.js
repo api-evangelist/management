@@ -11,7 +11,7 @@ function listProviders()
 			
 			$category = val['tag'];
 			
-			//alert(tag);
+			alert($category);
 			
 		    $.getJSON('data/providers.json', function(providerdata) {
 		    	
