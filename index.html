@@ -4,6 +4,9 @@ title: Reciprocity Providers
 ---
 
 {% raw  %}
+<script id="providerTagListingTemplate" type="text/template">        
+     <p id="{{slug}}"><strong>{{tag}}</strong></p>                                                                   
+</script>
 <script id="providerListingTemplate" type="text/template">        
      <p><img src="{{logo}}" width="200" style="padding-left:50px;"></p>                                                                   
 </script>
@@ -19,9 +22,7 @@ title: Reciprocity Providers
 </div>  
 
 <script type="text/javascript">
-    listProviders('Analytics');
-    listProviders('API Directory');
-    listProviders('API Management');
+listProviders();
 </script>
 
 <!-- Singly -->

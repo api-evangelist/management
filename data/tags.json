@@ -1,32 +1,41 @@
 {
     "tags": [
         {
-            "tag": "Analytics"
+            "tag": "Analytics",
+            "slug": "analytics"
         },
         {
-            "tag": "API Directory"
+            "tag": "API Directory",
+            "slug": "api-directory"
         },
         {
-            "tag": "API Management"
+            "tag": "API Management",
+            "slug": "api-management"
         },
         {
-            "tag": "App Showcase"
+            "tag": "App Showcase",
+            "slug": "app-showcase"
         },
         {
-            "tag": "Application Frameworks"
+            "tag": "Application Frameworks",
+            "slug": "application-frameworks"
         },
         {
-            "tag": "Data API Management"
+            "tag": "Data API Management",
+            "slug": "data-api-management"
         },
         {
-            "tag": "Documentation"
+            "tag": "Documentation",
+            "slug": "documentation"
         },
         {
-            "tag": "Forums"
+            "tag": "Forums",
+            "slug": "forums"
         },
         {
-            "tag": "Proxy"
+            "tag": "Proxy",
+            "slug": "proxy"
         }
     ],
-    "published": "03/30/2013"
+    "published": "03/31/2013"
 }
