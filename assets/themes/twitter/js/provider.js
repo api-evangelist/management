@@ -7,6 +7,8 @@ function listProviders()
     var $tag = '';
     var $logos = '';
     var $slot = 0;	
+    var $NumberofTags = 0;
+    var $NumberofTagsProcessed = 0;
     	
     $.getJSON('data/tags.json', function(data) {
     	
@@ -65,17 +67,9 @@ function listProviders()
 				        
 			        }).done(function() { 
 			        	
-			        	$TagCount = $tagArray.length;
-			        	$Providercount = $providerArray.length;
+			        	$NumberofTagsProcessed++;
 			        	
-			        	for (var x = 0; x < $tagArray.length; x++) {
-			        		
-			        		$Tag = $tagArray[x];
-			        		$Images = $providerArray[x];
-			        		
-			        		alert($Tag + ' - ' + $Images);
-			        		
-			        	}
+			        	alert($NumberofTags + ' = ' + $NumberofTagsProcessed);
 			        	
 			        });
 			
