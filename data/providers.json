@@ -349,6 +349,30 @@
             "tags": "Building Block,Documentation,Jonathan Fingold,Peter Gruenbaum,SDK Bridge"
         },
         {
+            "id": "14",
+            "name": "Google Groups",
+            "details": "<p><strong><a title=\"Google Groups\" href=\"http://groups.google.com/\">Google Groups</a></strong> is a service from Google Inc. that supports discussion groups, including many Usenet newsgroups, based on common interests. The service was started in 1995 as Deja News, and was transitioned to Google Groups after a February 2001 buyout.</p>\n<p>Membership in Google Groups is free of charge and many groups are anonymous. Users can find discussion groups related to their interests and participate in threaded conversations, either through a web interface or by e-mail. They can also start new groups. Google Groups also includes an archive of Usenet newsgroup postings dating back to 1981 and supports reading and posting to Usenet groups. Users can also set up mailing list archives for e-mail lists that are hosted elsewhere.</p>",
+            "website": "http://groups.google.com/",
+            "twitter": "",
+            "blog": "",
+            "blogrss": "",
+            "logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/serviceproviders/googlegroups_logo.gif",
+            "screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/serviceproviders/Google-Groups-Screenshot.png",
+            "tags": "Building Block,Bulletin Board,Discussion,Forum,Forums"
+        },
+        {
+            "id": "86",
+            "name": "UserVoice",
+            "details": "<p><span>UserVoice integrates easy-to-use feedback, helpdesk, and knowledge base management tools in one platform that empowers users to speak and companies to understand.</span></p>\n<p><span><span>Launched in 2008, UserVoice is a San Francisco-based startup focused on empowering customers to speak and companies to understand. We do this by providing hosted </span><a href=\"http://www.uservoice.com/feedback/\">feedback forums</a><span>, which allow customers to create, discuss, and vote for ideas. </span></span></p>\n<p><span><span>We do this by providing </span><a href=\"http://www.uservoice.com/helpdesk/\">support systems</a><span>, which allow you to answer your customers' questions quicker and with less effort. We do this by sharing stories and guidance on our </span><a href=\"http://understanding.uservoice.com/\">Understanding Your Customers blog</a><span>. We do this by continuing to build tools with the goal of customer understanding, not deflection, in mind. We do this by listening to our own customers constantly and carefully, to find out what they need. </span><br /></span></p>",
+            "website": "http://www.uservoice.com/",
+            "twitter": "http://www.twitter.com/uservoice",
+            "blog": "http://www.uservoice.com/blog/",
+            "blogrss": "http://feeds.feedburner.com/uservoice/product",
+            "logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/serviceproviders/UserVoice_logo.png",
+            "screenshot": null,
+            "tags": "Feedback,Forums,Help Desk,Support"
+        },
+        {
             "id": "55",
             "name": "Wiretap",
             "details": "<p>The one-click proxy that shows you everything.  View HTTP request-response exchanges between your web or mobile app and any REST API in real-time.  Wiretap is like a browser's Network Tab, but for Web and Mobile Apps.</p>\n<p>Server-to-ServerPrinting HTTP request and responses data to console is a thing of the past with Wiretap. Every single server-side programming language works with Wiretap.</p>\n<p>Mobile-to-ServerDo your iOS or Android apps talk to web APIs? Use Wiretap to avoid facepalming, setting break points, and stepping through the debugger just to figure out how a web API is responding.</p>\n<p>Webhook-to-ServerCreate a Wiretap connected to your server for Webhooks and see exactly what they're sending you. Retry requests with a single click, no more reproducing steps on a 3rd party service.</p>\n<p>Tunnel-to-LocalhostWiretap your development servers behind a firewall with tunneling. The simple desktop application makes setting up a Wiretap to localhost as easy as to a public host.</p>",
