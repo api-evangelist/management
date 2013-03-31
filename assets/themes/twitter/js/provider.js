@@ -70,7 +70,16 @@ function listProviders()
 			        	$NumberofTagsProcessed++;
 			        	
 			        	if($NumberofTagsProcessed==$NumberofTags)
-			        	{ alert('done!');}
+			        		{ 
+				        	for (var x = 0; x < $tagArray.length; x++) {
+				        		
+				        		$Tag = $tagArray[x];
+				        		$Images = $providerArray[x];
+				        		
+				        		alert($Tag + ' - ' + $Images);
+				        		
+				        	}
+			        		}
 			        	
 			        });
 			
