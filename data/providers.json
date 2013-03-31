@@ -1,18 +1,6 @@
 {
     "serviceprovider": [
         {
-            "id": "126",
-            "name": "Keen.io",
-            "details": "<p>Keen.io helps app developers build custom analytics & data science features directly into their mobile apps and web dashboards, by providing the infrastructure and APIs to collect data and build analytics into your business.</p>",
-            "website": "https://keen.io/",
-            "twitter": "https://twitter.com/keen_io",
-            "blog": "https://keen.io/blog",
-            "blogrss": "",
-            "logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/serviceproviders/keen-io-logo.png",
-            "screenshot": null,
-            "tags": "Analysis,Analytics,visualization"
-        },
-        {
             "id": "79",
             "name": "Mixpanel",
             "details": "<p><span>Mixpanel is an advanced analytics service that helps improve web and mobile applications by tracking how users interact & engage with them. Mixpanel’s mission is to help the world learn from their data, by offering a sophisticated analytics platform that companies can use to understand how users behave. Mixpanel performs all of their data analysis in real-time.</span></p>",
@@ -23,18 +11,6 @@
             "logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/serviceproviders/mixpanel-logo.jpeg",
             "screenshot": null,
             "tags": "Analytics,Metrics"
-        },
-        {
-            "id": "93",
-            "name": "APIhub",
-            "details": "<p>APIhub is the world's largest API repository, with new APIs added daily. APIhub serves developers and API publishers by providing a powerful publishing and community platform along with consoles and developer tools to insure rapid API adoption.</p>",
-            "website": "http://www.apihub.com/",
-            "twitter": "https://twitter.com/apihub",
-            "blog": "",
-            "blogrss": "",
-            "logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/serviceproviders/APIhub-by-mulesoft.png",
-            "screenshot": null,
-            "tags": "API Directory"
         },
         {
             "id": "96",
@@ -299,18 +275,6 @@
             "logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/serviceproviders/socrata_logo.jpg",
             "screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/serviceproviders/socrata-screenshot.png",
             "tags": "City Government,Data API Management,Data.Gov,Federal Government,Socrata"
-        },
-        {
-            "id": "7",
-            "name": "WebServius",
-            "details": "<p><a title=\"WebServius\" href=\"http://www.webservius.com/\">WebServius</a> provides a self-service tool for deploying, managing and monetizing datasets using an API.</p>\n<p>WebServius provides users with the ability to integrate and store data, and enable access to the data via a REST API with XML and JSON responses.</p>\n<p>There is support for planning, development, implementation and ongoing management of APIs generated from data sources.</p>\n<p>WebServius offers two service levels:</p>\n<ul class=\"mainlist\">\n<li><strong>Self-Service – </strong>Tier for technical people who can handle the setup themselves, using the WebServius self-service interface. The self-service plan is free up to 50 API subscribers, with up to 10,000 total API calls per day and 5 calls per second at peak times. If you go over any of the limits of the self-service plan, it costs $1 for every 30,000 API calls.</li>\n<li><strong>Full-Service – </strong>Pricing level if you are planning to create a commercial-grade data API. Service is custom fit to exact needs, starting from data integration, to API download page, to user management. Pricing varies based upon needs.</li>\n</ul>\n<p>There is also a 20% charge of all revenue made through an API whether it is on the self-service or full-service pricing structure.</p>\n<p>Using WebServius you can proxy an existing REST API or connect directly to a data service provider, including Amazon SimpleDB.</p>\n<p>Once data is integrated, WebServius allows you to create custom details, plans, promotions, policies and pricing for the data API you wish to publish.</p>\n<p>Each published API on WebServius is given a detail page for subscribers to access.  There are also options for custom site integration and private label deployment solutions.</p>\n<p><a title=\"WebServius\" href=\"http://www.webservius.com/\"><img src=\"http://kinlane-productions.s3.amazonaws.com/api-service-providers/webservius/piggybank-monetize-api.png\" alt=\"\" width=\"300\" align=\"right\" /></a>Users can then register, and subscribe to specific plan for any published API,then access data via the API or a full data download.</p>\n<p>All subscribers are given API keys and WebServius provides tools for validating API keys, and throttling of API requests.</p>\n<p>WebServius handles all the security, performance and reliability of the API platform, and also provides a reporting suite for monitoring API activity in real-time.</p>\n<p><a title=\"WebServius\" href=\"http://www.webservius.com/\">WebServius</a> offers a complete data API solution for entry level providers as well as a businesses looking to monetize their datasets on a larger scale.</p>",
-            "website": "http://www.webservius.com/corp/",
-            "twitter": "",
-            "blog": "http://blog.webservius.com/",
-            "blogrss": "http://blog.webservius.com/feed/",
-            "logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/serviceproviders/webservius-logo.png",
-            "screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/serviceproviders/WebServius-Screenshot.png",
-            "tags": "Data API Management,WebServius"
         },
         {
             "id": "84",
