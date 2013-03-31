@@ -11,6 +11,8 @@ function listProviders()
 			
 			tag = val['tag'];
 			
+			alert(tag);
+			
 		    $.getJSON('data/providers.json', function(data2) {
 		    	
 		    	 $.each(data2['serviceprovider'], function(key2, val2) {
@@ -21,6 +23,8 @@ function listProviders()
 					if(inside>0){
 						
 						name = val2['name'];
+						
+						alert(name);
 					
 						var template = $('#providerListingTemplate').html();
 						var html = Mustache.to_html(template, val2);
