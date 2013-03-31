@@ -19,17 +19,17 @@ function listProviders()
 		    	 	
 		    	 	tags = val2['tags'];
 		    	 	inside = tags.indexOf(tag);
-
+					alert(tag + ' in (' + tags + ') ' + inside);
 					if(inside>0){
 						
 						name = val2['name'];
 						
-						alert(name);
+						//alert(name);
 					
-						var template = $('#providerListingTemplate').html();
-						var html = Mustache.to_html(template, val2);
+						var template2 = $('#providerListingTemplate').html();
+						var html2 = Mustache.to_html(template2, val2);
 					
-						$('#providerListing').append(html);  
+						$('#providerListing').append(html2);  
 						 
 						}
 					 						
