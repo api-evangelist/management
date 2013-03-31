@@ -17,9 +17,14 @@ function listProviders()
 		    	 	
 		    	 	tags = val['tag'];
 		    	 	
-					found = tags.indexOf(tag);
+					if(tags.indexOf(tag)==0){
 					
-					alert('found:' + found);
+						var template = $('#providerListingTemplate').html();
+						var html = Mustache.to_html(template, val);
+					
+						$('#providerListing').append(html);  
+						 
+						}
 					 						
 			        });
 		        });			
