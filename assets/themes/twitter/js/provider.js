@@ -17,11 +17,10 @@ function listProviders()
 		    	 	
 		    	 	tags = val2['tags'];
 		    	 	inside = tags.indexOf(tag);
-		    	 	alert(tag+' in ' + tags + ' - ' + inside);
-					if(inside==0){
+
+					if(inside>0){
 						
 						name = val2['name'];
-						alert(name);
 					
 						var template = $('#providerListingTemplate').html();
 						var html = Mustache.to_html(template, val2);
