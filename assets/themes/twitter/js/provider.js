@@ -3,6 +3,7 @@ function listProviders()
     	
     var $html = '';
     var $tagArray = [];
+    var $tag = '';
     	
     $.getJSON('data/tags.json', function(data) {
     	
@@ -50,9 +51,11 @@ function listProviders()
 							
 						$Any = 1;	
 						 						
-				        });
+				        }).done(function() {
 				        
 				       $html +='<p><strong>' + $Tag + '</strong></p>' + $logos; 
+				       
+				       }
 				        
 			        }).done(function() { 				
 				
