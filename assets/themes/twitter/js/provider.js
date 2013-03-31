@@ -29,6 +29,8 @@ function listProviders()
 				
 				$tag = $tagArray[i];
 				$slot = i;
+				
+				alert($tag + ' - ' + $slot);
 
 			    $.getJSON('data/providers.json', function(providerdata) {
 			    	
