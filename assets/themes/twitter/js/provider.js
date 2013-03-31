@@ -17,7 +17,7 @@ function listProviders()
 		    	 	
 		    	 	tags = val['tags'];
 		    	 	
-					if(tags.indexOf(tag)!=-1){
+					if(tags.indexOf(tag)==0){
 						
 						name = val['name'];
 						alert(name);
