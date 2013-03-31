@@ -19,7 +19,7 @@ function listProviders()
 		    	 	
 		    	 	$tags = val2['tags'];
 		    	 	
-		    	 	$inside = $tags.indexOf(category);
+		    	 	$inside = $tags.indexOf($category);
 		    	 	
 					alert($category + ' in (' + $tags + ') ' + $inside);
 					
