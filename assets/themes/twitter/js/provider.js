@@ -26,7 +26,7 @@ function listProviders()
 				    	 	
 				    	 	$inside = $tags.indexOf($category);
 				    	 	
-				    	 	alert($category + ' in (' + $tags + ') ' + $name + ' - ' + $inside);
+				    	 	//alert($category + ' in (' + $tags + ') ' + $name + ' - ' + $inside);
 		
 							if($inside!=-1){
 								
