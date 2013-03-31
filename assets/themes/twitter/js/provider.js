@@ -2,10 +2,10 @@ function listProviders()
     {
     	
     var html = '';
+    var $tagArray = [];
     	
     $.getJSON('data/tags.json', function(data) {
     	
-    	 var $tagArray = [];
     	 var $tagCount = 0;
     	
     	 $.each(data['tags'], function(key, val) {
@@ -21,12 +21,15 @@ function listProviders()
 				
 	        });
 	        
-        }); 
+        })
+        .done(function() {  
         
-	for (var i = 0; i < $tagArray.length; i++) {
-	    alert($tagArray[i]);
-	    //Do something
-	}            
+			for (var i = 0; i < $tagArray.length; i++) {
+			    alert($tagArray[i]);
+			    //Do something
+			}            
+	
+		 });
 
     }    
      
