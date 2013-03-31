@@ -4,7 +4,8 @@ function listProviders()
     var $html = '';
     var $tagArray = [];
     var $tag = '';
-    var $logos = '';	
+    var $logos = '';
+    var $slot = 0;	
     	
     $.getJSON('data/tags.json', function(data) {
     	
@@ -27,8 +28,9 @@ function listProviders()
 			for (var i = 0; i < $tagArray.length; i++) {
 				
 				$tag = $tagArray[i];
+				$slot = i;
 
-			    $.getJSON('data/providers.json', function(providerdata,i) {
+			    $.getJSON('data/providers.json', function(providerdata) {
 			    	
 			    	$Any = 0;
 			    	$logos = '';
@@ -57,9 +59,9 @@ function listProviders()
 				        
 				       $html +='<p><strong>' + $tag + '</strong></p>' + $logos; 
 				        
-			        }).done(function(i) { 				
+			        }).done(function() { 				
 				
-					alert(i);
+					alert($slot);
 				
 			   });
 			
