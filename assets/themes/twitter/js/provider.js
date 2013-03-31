@@ -56,12 +56,11 @@ function listProviders()
 				        
 			        }).done(function() { 				
 				
-				
-				alert('done!');
-				
 			   });
 			
-			}            
+			}    
+			
+			alert('done');        
 	
 		 });
 
