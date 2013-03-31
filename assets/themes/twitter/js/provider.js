@@ -23,7 +23,7 @@ function listProviders()
 		    	 	
 					alert($category + ' in (' + $tags + ') ' + $inside);
 					
-					if(inside!=-1){
+					if($inside!=-1){
 						
 						$name = val2['name'];
 					
