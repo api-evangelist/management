@@ -15,11 +15,16 @@ function listProviders()
 			
 		    $.getJSON('data/providers.json', function(providerdata) {
 		    	
+		        }).done(function(){ 
+		        	
 		    	 $.each(providerdata['serviceprovider'], function(key2, val2) {
 		    	 	
+		    	 	$name = val2['name'];
 		    	 	$tags = val2['tags'];
 		    	 	
 		    	 	$inside = $tags.indexOf($category);
+		    	 	
+		    	 	alert($category + ' in (' + $tags + ') ' + $name + ' - ' + $inside);
 
 					if($inside!=-1){
 						
@@ -31,8 +36,10 @@ function listProviders()
 						 
 						}
 					 						
-			        });
-		        });		        	        		
+			        });		        	
+		        	
+		        	
+		        });	        	        		
 				
 	        });
 	        
