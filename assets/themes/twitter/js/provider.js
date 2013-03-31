@@ -15,12 +15,15 @@ function listProviders()
 					
 					var logos = '';
 					
-				    $.getJSON('data/providers.json', function(providerdata) {
+				    $.getJSON('data/providers.json', val, function(providerdata) {
 				    	
 				        }).done(function(providerdata){ 
 				        	
 				    	 $.each(providerdata['serviceprovider'], function(key2, val2) {
 				    	 	
+							$category = val['tag'];
+							$slug = val['slug'];				    	 	
+						    	 	
 				    	 	$name = val2['name'];
 				    	 	$tags = val2['tags'];
 				    	 	
