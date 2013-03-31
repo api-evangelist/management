@@ -4,6 +4,7 @@ function listProviders()
     var $html = '';
     var $tagArray = [];
     var $tag = '';
+    var $logos = '';	
     	
     $.getJSON('data/tags.json', function(data) {
     	
@@ -35,7 +36,7 @@ function listProviders()
 			    	 	
 			    	 	$inside = $tags.indexOf($tag);
 			    	 	
-						//alert($category + ' in (' + $tags + ') ' + $inside);
+						alert($category + ' in (' + $tags + ') ' + $inside);
 						
 						if($inside!=-1){
 							
