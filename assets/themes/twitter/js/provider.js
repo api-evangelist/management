@@ -15,7 +15,7 @@ function listProviders()
 			
 		    $.getJSON('data/providers.json', function(providerdata) {
 		    	
-		        }).done(function(){ 
+		        }).done(function(providerdata){ 
 		        	
 		    	 $.each(providerdata['serviceprovider'], function(key2, val2) {
 		    	 	
