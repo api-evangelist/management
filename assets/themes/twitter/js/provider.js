@@ -23,16 +23,6 @@ function listProviders()
 		    	 	
 					alert($category + ' in (' + $tags + ') ' + $inside);
 					
-					if($inside!=-1){
-						
-						$name = val2['name'];
-					
-						var template2 = $('#providerListingTemplate').html();
-						var html2 = Mustache.to_html(template2, val2);
-					
-						$('#providerListing').append(html2);  
-						 
-						}
 					 						
 			        });
 		        });			
