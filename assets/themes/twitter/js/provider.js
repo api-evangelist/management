@@ -19,8 +19,8 @@ function listProviders()
 		    	 	
 		    	 	tags = val2['tags'];
 		    	 	inside = tags.indexOf(tag);
-					alert(tag + ' in (' + tags + ') ' + inside);
-					if(inside>0){
+					//alert(tag + ' in (' + tags + ') ' + inside);
+					if(inside!=-1){
 						
 						name = val2['name'];
 						
