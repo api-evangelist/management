@@ -9,7 +9,8 @@
             "blog": "https://keen.io/blog",
             "blogrss": "",
             "logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/serviceproviders/keen-io-logo.png",
-            "screenshot": null
+            "screenshot": null,
+            "tags": "Analysis,Analytics,visualization"
         },
         {
             "id": "79",
@@ -20,7 +21,8 @@
             "blog": "http://blog.mixpanel.com/",
             "blogrss": "http://blog.mixpanel.com/feed/",
             "logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/serviceproviders/mixpanel-logo.jpeg",
-            "screenshot": null
+            "screenshot": null,
+            "tags": "Analytics,Metrics"
         },
         {
             "id": "4",
@@ -31,7 +33,8 @@
             "blog": "http://www.3scale.net/support/tech-blog/",
             "blogrss": "http://www.3scale.net/feed/",
             "logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/serviceproviders/3scale-logo.jpg",
-            "screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/serviceproviders/3Scale-Screenshot-1.png"
+            "screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/serviceproviders/3Scale-Screenshot-1.png",
+            "tags": "3Scale,API Management"
         },
         {
             "id": "11",
@@ -42,7 +45,8 @@
             "blog": "",
             "blogrss": "",
             "logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/serviceproviders/alcatel-lucent-logo.jpg",
-            "screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/serviceproviders/Alcatel-Lucent-Screenshot.png"
+            "screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/serviceproviders/Alcatel-Lucent-Screenshot.png",
+            "tags": "API Management,Financial,Healthcare,Retail,Service provider,Telco"
         },
         {
             "id": "82",
@@ -53,7 +57,8 @@
             "blog": "",
             "blogrss": "http://apiengine.io/site.xml",
             "logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/serviceproviders/API-Engine.png",
-            "screenshot": null
+            "screenshot": null,
+            "tags": "API Management"
         },
         {
             "id": "19",
@@ -64,7 +69,8 @@
             "blog": "",
             "blogrss": "",
             "logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/serviceproviders/apiary-io-logo.png",
-            "screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/serviceproviders/apiary-screenshot.png"
+            "screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/serviceproviders/apiary-screenshot.png",
+            "tags": "API Deployment,API Management,API Testing"
         },
         {
             "id": "25",
@@ -75,7 +81,8 @@
             "blog": "http://www.apify.co/blog/",
             "blogrss": "http://www.apify.co/blog/feed/",
             "logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/serviceproviders/apify-logo.png",
-            "screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/serviceproviders/Apify-Screenshot.png"
+            "screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/serviceproviders/Apify-Screenshot.png",
+            "tags": "API Management"
         },
         {
             "id": "3",
@@ -86,7 +93,8 @@
             "blog": "http://blog.apigee.com/",
             "blogrss": "http://feeds.apigee.com/ApigeeBlog",
             "logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/serviceproviders/apigee-logo.gif",
-            "screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/serviceproviders/Apigee-Screenshot.png"
+            "screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/serviceproviders/Apigee-Screenshot.png",
+            "tags": "API Management,Apigee"
         },
         {
             "id": "31",
@@ -97,7 +105,8 @@
             "blog": "http://apiphany.com/blog#.UP46daFdfB8",
             "blogrss": "http://apiphany.com/rss?containerid=227",
             "logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/serviceproviders/apiphany-logo-blue.png",
-            "screenshot": null
+            "screenshot": null,
+            "tags": "API Management"
         },
         {
             "id": "90",
@@ -108,7 +117,8 @@
             "blog": "http://blog.restlet.com/",
             "blogrss": "http://blog.restlet.com/feed/",
             "logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/serviceproviders/APISpark-Logo.png",
-            "screenshot": null
+            "screenshot": null,
+            "tags": "API Management"
         },
         {
             "id": "20",
@@ -119,7 +129,8 @@
             "blog": "",
             "blogrss": "",
             "logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/serviceproviders/atmosphere-logo-1.png",
-            "screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/serviceproviders/Atmosphere-Screenshot.png"
+            "screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/serviceproviders/Atmosphere-Screenshot.png",
+            "tags": "API Management,Atmosphere,Enterprise,SOA Software"
         },
         {
             "id": "28",
@@ -130,7 +141,8 @@
             "blog": "http://www.emergentone.com/blog/engineering/",
             "blogrss": "",
             "logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/serviceproviders/emergent-one-logo.png",
-            "screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/serviceproviders/EmergentOne-Screenshot.png"
+            "screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/serviceproviders/EmergentOne-Screenshot.png",
+            "tags": "API Management"
         },
         {
             "id": "91",
@@ -141,7 +153,8 @@
             "blog": "",
             "blogrss": "",
             "logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/serviceproviders/exicon-logo.png",
-            "screenshot": null
+            "screenshot": null,
+            "tags": "API Management,Application Management"
         },
         {
             "id": "22",
@@ -152,7 +165,8 @@
             "blog": "http://blogs.intel.com/security-gateways/",
             "blogrss": "http://blogs.intel.com/security-gateways/feed/rss2/",
             "logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/serviceproviders/Itel-Cloud-Security-Solutions-fo-API-PCI-Mobile.png",
-            "screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/serviceproviders/Intel-Screenshot.png"
+            "screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/serviceproviders/Intel-Screenshot.png",
+            "tags": "API Management,Enterprise,Intel"
         },
         {
             "id": "8",
@@ -163,7 +177,8 @@
             "blog": "http://www.layer7tech.com/blogs/",
             "blogrss": "http://www.layer7tech.com/blogs/index.php/feed/",
             "logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/serviceproviders/layer7-logo.png",
-            "screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/serviceproviders/Layer7-Screenshot.png"
+            "screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/serviceproviders/Layer7-Screenshot.png",
+            "tags": "API Management,Layer7"
         },
         {
             "id": "9",
@@ -174,7 +189,8 @@
             "blog": "http://blog.mashape.com/",
             "blogrss": "http://feeds.feedburner.com/MashapesVoice",
             "logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/serviceproviders/mashape-logo.png",
-            "screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/serviceproviders/Mashape-Screenshot.png"
+            "screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/serviceproviders/Mashape-Screenshot.png",
+            "tags": "API Management,Directory,Mashape"
         },
         {
             "id": "1",
@@ -185,7 +201,8 @@
             "blog": "http://blog.mashery.com/",
             "blogrss": "blog.mashery.com/rss.xml",
             "logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/serviceproviders/mashery-logo.png",
-            "screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/serviceproviders/Mashery-Screenshot.png"
+            "screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/serviceproviders/Mashery-Screenshot.png",
+            "tags": "API Management,Delyn Simons,Mashery,Oren Michels"
         },
         {
             "id": "27",
@@ -196,7 +213,8 @@
             "blog": "",
             "blogrss": "",
             "logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/serviceproviders/Nevatech-Logo.png",
-            "screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/serviceproviders/Nevatech-Screenshot.png"
+            "screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/serviceproviders/Nevatech-Screenshot.png",
+            "tags": "API Management"
         },
         {
             "id": "21",
@@ -207,7 +225,8 @@
             "blog": "",
             "blogrss": "",
             "logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/serviceproviders/Vordel-API-Management.png",
-            "screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/serviceproviders/Vordel-Screenshot.png"
+            "screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/serviceproviders/Vordel-Screenshot.png",
+            "tags": "API Management,Enterprise,Gateway,Vordel"
         },
         {
             "id": "13",
@@ -218,7 +237,8 @@
             "blog": "http://appstores.com/blog/",
             "blogrss": "",
             "logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/serviceproviders/Appstores.png",
-            "screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/serviceproviders/Appstores-Screenshot.png"
+            "screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/serviceproviders/Appstores-Screenshot.png",
+            "tags": "App Directory,App Showcase,AppStores.com,Building Block"
         },
         {
             "id": "80",
@@ -229,7 +249,8 @@
             "blog": "",
             "blogrss": "",
             "logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/serviceproviders/wave-framework-logo.png",
-            "screenshot": null
+            "screenshot": null,
+            "tags": "Application Frameworks"
         },
         {
             "id": "18",
@@ -240,7 +261,8 @@
             "blog": "http://blogs.fluidinfo.com/fluidinfo/",
             "blogrss": "http://blogs.fluidinfo.com/fluidinfo/feed/",
             "logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/serviceproviders/fluidinfo-logo.png",
-            "screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/serviceproviders/FluidInfo-Screenshot.png"
+            "screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/serviceproviders/FluidInfo-Screenshot.png",
+            "tags": "Data,Data API Management,Database,Datasets,Datastore"
         },
         {
             "id": "24",
@@ -251,7 +273,8 @@
             "blog": "http://www.socrata.com/blog/",
             "blogrss": "http://www.socrata.com/feed/",
             "logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/serviceproviders/socrata_logo.jpg",
-            "screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/serviceproviders/socrata-screenshot.png"
+            "screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/serviceproviders/socrata-screenshot.png",
+            "tags": "City Government,Data API Management,Data.Gov,Federal Government,Socrata"
         },
         {
             "id": "7",
@@ -262,7 +285,8 @@
             "blog": "http://blog.webservius.com/",
             "blogrss": "http://blog.webservius.com/feed/",
             "logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/serviceproviders/webservius-logo.png",
-            "screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/serviceproviders/WebServius-Screenshot.png"
+            "screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/serviceproviders/WebServius-Screenshot.png",
+            "tags": "Data API Management,WebServius"
         },
         {
             "id": "84",
@@ -273,7 +297,8 @@
             "blog": "http://blog.dexy.it/",
             "blogrss": "http://blog.dexy.it/feed",
             "logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/serviceproviders/Dexy-Logo.png",
-            "screenshot": null
+            "screenshot": null,
+            "tags": "Documentation"
         },
         {
             "id": "5",
@@ -284,7 +309,8 @@
             "blog": "",
             "blogrss": "",
             "logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/serviceproviders/SDKBridge-logo.gif",
-            "screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/serviceproviders/SDKBridge-Screenshot.png"
+            "screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/serviceproviders/SDKBridge-Screenshot.png",
+            "tags": "Building Block,Documentation,Jonathan Fingold,Peter Gruenbaum,SDK Bridge"
         },
         {
             "id": "55",
@@ -295,8 +321,9 @@
             "blog": "",
             "blogrss": "",
             "logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/serviceproviders/Wiretap-Logo.png",
-            "screenshot": null
+            "screenshot": null,
+            "tags": "Debugging,Proxy"
         }
     ],
-    "published": "03/30/2013"
+    "published": "03/31/2013"
 }
