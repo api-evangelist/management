@@ -23,9 +23,7 @@ function listProviders()
 			for (var i = 0; i < $tagArray.length; i++) {
 				
 				$tag = $tagArray[i];
-				
-				alert($tag);				
-				
+
 			    $.getJSON('data/providers.json', function(providerdata) {
 			    	
 			    	$Any = 0;
