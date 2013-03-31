@@ -1,12 +1,14 @@
 function listProviders()
     {
     	
+    var html = '';
+    	
     $.getJSON('data/tags.json', function(data) {
     	
     	 $.each(data['tags'], function(key, val) {
 			
 			var template = $('#providerTagListingTemplate').html();
-			var html = Mustache.to_html(template, val);
+			html += Mustache.to_html(template, val);
 			
 			//$('#providerListing').append(html);   
 			
@@ -33,9 +35,10 @@ function listProviders()
 		        });		
 				
 	        });
-        });
-        
-    $('#providerListing').append(html);      
+	        
+	        $('#providerListing').append(html);  
+	        
+        });     
 
     }    
      
