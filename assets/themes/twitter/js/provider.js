@@ -58,14 +58,12 @@ function listProviders()
 				       });
 				        
 				       $html +='<p><strong>' + $tag + '</strong></p>' + $logos; 
+				       
+				       alert($slot);
 				        
-			        }).done(function() { 				
-				
-					alert($slot);
-				
-			   });
+			        });
 			
-			}    
+				}    
 	
 		 });
 
