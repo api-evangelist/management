@@ -33,6 +33,8 @@ function listProviders()
 						logo = Mustache.to_html(template2, val2);
 						
 						html += logo;
+						
+						alert(html);
 						 
 						}
 					 						
