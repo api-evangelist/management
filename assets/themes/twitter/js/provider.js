@@ -20,7 +20,7 @@ function listProviders()
 		    	 	tags = val2['tags'];
 		    	 	inside = tags.indexOf(tag);
 		    	 	
-					//alert(tag + ' in (' + tags + ') ' + inside);
+					alert(tag + ' in (' + tags + ') ' + inside);
 					
 					if(inside!=-1){
 						
