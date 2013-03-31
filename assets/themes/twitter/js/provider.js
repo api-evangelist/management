@@ -28,7 +28,7 @@ function listProviders()
 				
 				$tag = $tagArray[i];
 
-			    $.getJSON('data/providers.json', function(providerdata) {
+			    $.getJSON('data/providers.json', function(providerdata,i) {
 			    	
 			    	$Any = 0;
 			    	$logos = '';
