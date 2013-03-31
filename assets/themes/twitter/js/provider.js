@@ -36,7 +36,7 @@ function listProviders()
 			    	 	
 			    	 	$inside = $tags.indexOf($tag);
 			    	 	
-						alert($tag + ' in (' + $tags + ') ' + $inside);
+						//alert($tag + ' in (' + $tags + ') ' + $inside);
 						
 						if($inside!=-1){
 							
@@ -57,9 +57,10 @@ function listProviders()
 			        }).done(function() { 				
 				
 				
-					$('#providerListing').append($html);  	
+				alert('done!');
 				
 			   });
+			
 			}            
 	
 		 });
