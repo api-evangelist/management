@@ -69,11 +69,12 @@ function listProviders()
 			        	
 			        	$NumberofTagsProcessed++;
 			        	
-			        	alert($NumberofTags + ' = ' + $NumberofTagsProcessed);
-			        	
 			        });
 			
-				}    
+				}   
+				
+				
+			alert($NumberofTags + ' = ' + $NumberofTagsProcessed);	 
 	
 		 });
 
