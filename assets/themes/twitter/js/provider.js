@@ -62,13 +62,13 @@ function listProviders()
 						$Any = 1;	
 						 						
 				       }) 
-				       
+				        
+			        }).done(function() {
+			        	
 				       alert('<p><strong>' + $tag + '</strong></p>' + $logos);
 				        
-				       $providerArray[$slot] = '<p><strong>' + $tag + '</strong></p>' + $logos; 
-				        
-			        }).done(function() { 
-			        	
+				       $providerArray[$slot] = '<p><strong>' + $tag + '</strong></p>' + $logos; 			        	
+			        	 		        	
 			        	$NumberofTagsProcessed++;
 			        	
 			        	if($NumberofTagsProcessed==$NumberofTags)
