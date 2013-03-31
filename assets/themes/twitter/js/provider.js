@@ -41,7 +41,7 @@ function listProviders()
 			    	 	
 			    	 	$inside = $tags.indexOf($tag);
 			    	 	
-						alert($tag + ' in (' + $tags + ') ' + $inside + ' - ' $slot);
+						alert($tag + ' in (' + $tags + ') ' + $inside + ' - ' + $slot);
 						
 						if($inside!=-1){
 							
