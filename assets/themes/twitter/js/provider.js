@@ -55,7 +55,7 @@ function listProviders()
 							
 						$Any = 1;	
 						 						
-				        })
+				       });
 				        
 				       $html +='<p><strong>' + $tag + '</strong></p>' + $logos; 
 				        
