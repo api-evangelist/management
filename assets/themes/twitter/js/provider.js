@@ -3,6 +3,7 @@ function listProviders()
     	
     var $html = '';
     var $tagArray = [];
+    var $providerArray = [];
     var $tag = '';
     var $logos = '';
     var $slot = 0;	
@@ -40,10 +41,11 @@ function listProviders()
 			    	 $.each(providerdata['serviceprovider'], function(key2, val2) {
 			    	 	
 			    	 	$tags = val2['tags'];
+			    	 	$name = val2['name'];
 			    	 	
 			    	 	$inside = $tags.indexOf($tag);
 			    	 	
-						alert($tag + ' in (' + $tags + ') ' + $inside + ' - ' + $slot);
+						alert($tag + ' in (' + $tags + ') for ' + $name + ' - ' + $inside + ' - ' + $slot);
 						
 						if($inside!=-1){
 							
@@ -59,7 +61,7 @@ function listProviders()
 						 						
 				       });
 				        
-				       $html +='<p><strong>' + $tag + '</strong></p>' + $logos; 
+				       $providerArray[$slot] = '<p><strong>' + $tag + '</strong></p>' + $logos; 
 				        
 			        });
 			
