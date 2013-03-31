@@ -20,6 +20,9 @@ function listProviders()
 	        
         })
         .done(function() {  
+        	
+        	$NumberofTags = $tagArray.length;
+        	$ProcessedTags = 0;
         
 			for (var i = 0; i < $tagArray.length; i++) {
 				
@@ -56,11 +59,15 @@ function listProviders()
 				        
 			        }).done(function() { 				
 				
+				$ProcessedTags++;
+				
 			   });
 			
 			}    
 			
+			if($NumberofTags==$ProcessedTags){
 			alert('done');        
+			}
 	
 		 });
 
