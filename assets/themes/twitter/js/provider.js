@@ -27,6 +27,7 @@ function listProviders()
 					if($inside!=-1){
 						
 						var template2 = $('#providerListingTemplate').html();
+						
 						html += Mustache.to_html(template2, val2);
 						 
 						}
@@ -35,6 +36,8 @@ function listProviders()
 		        });		
 				
 	        });
+	        
+	        alert(html);
 	        
 	        $('#providerListing').append(html);  
 	        
