@@ -31,7 +31,7 @@ function listProviders()
 			        });
 		        });		
 		        
-				alert("Cat: " + $category);		        
+				//alert("Cat: " + $category);		        
 		        
 		       $('#providerListing').append(html);   
 		        	
