@@ -59,13 +59,7 @@ function listProviders()
 				        
 			        }).done(function() { 				
 				
-				$ProcessedTags++;
-				
-			alert($NumberofTags + ' = ' + $ProcessedTags);
-			if($NumberofTags==$ProcessedTags){
-				alert('done');        
-			}				
-				
+					alert(i);
 				
 			   });
 			
