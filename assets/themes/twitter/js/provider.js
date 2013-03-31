@@ -9,22 +9,23 @@ function listProviders()
 			
 			$('#providerListing').append(html);   
 			
-			category = val['tag'];
+			$category = val['tag'];
 			
 			//alert(tag);
 			
-		    $.getJSON('data/providers.json', function(data2) {
+		    $.getJSON('data/providers.json', function(providerdata) {
 		    	
-		    	 $.each(data2['serviceprovider'], function(key2, val2) {
+		    	 $.each(providerdata['serviceprovider'], function(key2, val2) {
 		    	 	
-		    	 	tags = val2['tags'];
-		    	 	inside = tags.indexOf(category);
+		    	 	$tags = val2['tags'];
 		    	 	
-					alert(category + ' in (' + tags + ') ' + inside);
+		    	 	$inside = $tags.indexOf(category);
+		    	 	
+					alert($category + ' in (' + $tags + ') ' + $inside);
 					
 					if(inside!=-1){
 						
-						name = val2['name'];
+						$name = val2['name'];
 					
 						var template2 = $('#providerListingTemplate').html();
 						var html2 = Mustache.to_html(template2, val2);
