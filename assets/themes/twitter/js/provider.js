@@ -61,13 +61,14 @@ function listProviders()
 				
 				$ProcessedTags++;
 				
+			if($NumberofTags==$ProcessedTags){
+				alert('done');        
+			}				
+				
+				
 			   });
 			
 			}    
-			
-			if($NumberofTags==$ProcessedTags){
-				alert('done');        
-			}
 	
 		 });
 
