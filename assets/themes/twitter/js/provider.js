@@ -61,6 +61,7 @@ function listProviders()
 				
 				$ProcessedTags++;
 				
+			alert($NumberofTags + ' = ' + $ProcessedTags);
 			if($NumberofTags==$ProcessedTags){
 				alert('done');        
 			}				
