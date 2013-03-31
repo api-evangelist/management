@@ -30,6 +30,8 @@ function listProviders()
 		
 							if($inside!=-1){
 								
+								alert($name);
+								
 								var template2 = $('#providerListingTemplate').html();
 								
 								logo = Mustache.to_html(template2, val2);
