@@ -8,7 +8,9 @@ function listProviders()
     	 $.each(data['tags'], function(key, val) {
 			
 			var template = $('#providerTagListingTemplate').html();
-			html += Mustache.to_html(template, val);
+			var title = Mustache.to_html(template, val);
+			
+			html += title;
 			
 			//$('#providerListing').append(html);   
 			
@@ -28,7 +30,9 @@ function listProviders()
 						
 						var template2 = $('#providerListingTemplate').html();
 						
-						html += Mustache.to_html(template2, val2);
+						logo = Mustache.to_html(template2, val2);
+						
+						html += logo;
 						 
 						}
 					 						
