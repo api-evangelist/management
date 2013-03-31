@@ -1,7 +1,7 @@
 function listProviders($tag)
     {
     	
-    $title = '<p><strong>' + $tag + ''</strong></p>';	
+    $title = '<p><strong>' + $tag + '</strong></p>';	
     $('#providerListing').append($title); 	
     	
     $.getJSON('data/providers.json', function(providerdata) {
