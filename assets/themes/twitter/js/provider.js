@@ -1,8 +1,6 @@
 function listProviders()
     {
     	
-    var html = '';
-    	
     $.getJSON('data/tags.json', function(data) {
     	
     	 $.each(data['tags'], function(key, val) {
@@ -10,11 +8,9 @@ function listProviders()
 			var template = $('#providerTagListingTemplate').html();
 			var title = Mustache.to_html(template, val);
 			
-			html += title;
-			
-			//$('#providerListing').append(html);   
-			
 			$category = val['tag'];
+			
+			var logos = '';
 			
 		    $.getJSON('data/providers.json', function(providerdata) {
 		    	
@@ -32,20 +28,20 @@ function listProviders()
 						
 						logo = Mustache.to_html(template2, val2);
 						
-						html += logo;
-						
-						alert(html);
+						logos += logo;
 						 
 						}
 					 						
 			        });
-		        });		
+		        });
+		        
+		        html = title + logos;
+		        
+	        	alert(html);
+	        
+	        	$('#providerListing').append(html);  		        	        		
 				
 	        });
-	        
-	        alert(html);
-	        
-	        $('#providerListing').append(html);  
 	        
         });     
 
