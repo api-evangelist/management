@@ -15,15 +15,15 @@ function listProviders()
 		    	
 		    	 $.each(data2['serviceprovider'], function(key2, val2) {
 		    	 	
-		    	 	tags = val['tags'];
-		    	 	alert(tag+' in ' + tags);
+		    	 	tags = val2['tags'];
+		    	 	//alert(tag+' in ' + tags);
 					if(tags.indexOf(tag)==0){
 						
-						name = val['name'];
+						name = val2['name'];
 						alert(name);
 					
 						var template = $('#providerListingTemplate').html();
-						var html = Mustache.to_html(template, val);
+						var html = Mustache.to_html(template, val2);
 					
 						$('#providerListing').append(html);  
 						 
