@@ -51,3 +51,23 @@ function listProviders()
 
     }    
      
+
+function getProviderDetail(id)
+    {
+   
+    $.getJSON('data/providers.json', function(data) {
+    	
+        $.each(data['serviceprovider'], function(key, val) {
+        	
+            if(id==val['id']){
+            	
+                var template = $('#eventyDetailTemplate').html();
+                var html = Mustache.to_html(template, val);
+                $('#EventDetail').html(html);
+                pHTML = document.getElementById('about').innerHTML;  
+            }
+            
+          });  
+                                    
+        });
+    }  
