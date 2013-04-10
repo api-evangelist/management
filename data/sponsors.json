@@ -41,7 +41,14 @@
             "logo": "http://kinlane-productions.s3.amazonaws.com/singly/singly-logo-horizontal.png",
             "width": "170",
              "paddingbottom": "10"
-        }
+        },                            
+        {
+            "title": "WSO2",
+            "url": "http://wso2.com/products/api-manager/",
+            "logo": "https://s3.amazonaws.com/kinlane-productions/api-service-providers/wso2/wso2-logo-white-800X360.jpg",
+            "width": "170",
+             "paddingbottom": "10"
+        }        
                
     ]
 }
