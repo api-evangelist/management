@@ -5,8 +5,8 @@ safe: ture
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md"]
 auto: true
 lsi: false
-source: backend-as-a-service
-destination: backend-as-a-service
+source: api-management
+destination: api-management
 pygments: true
 
 paginate: 10
@@ -14,7 +14,7 @@ paginate: 10
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
-title : Backend as a Service
+title : API Management
 tagline: 
 author :
   name : Kin Lane
@@ -31,7 +31,7 @@ author :
 # Else if you are pushing to username.github.com, replace with your username.
 # Finally if you are pushing to a GitHub project page, include the project name at the end.
 #
-production_url : http://baas.apievangelist.com
+production_url : http://management.apievangelist.com
 
 # All Jekyll-Bootstrap specific configurations are namespaced into this hash
 #
@@ -60,7 +60,7 @@ JB :
   #   - Only the following values are falsy: ["", null, false]
   #   - When setting BASE_PATH it must be a valid url.
   #     This means always setting the protocol (http|https) or prefixing with "/"
-  BASE_PATH : http://baas.apievangelist.com
+  BASE_PATH : http://management.apievangelist.com
 
   # By default, the asset_path is automatically defined relative to BASE_PATH plus the enabled theme.
   # ex: [BASE_PATH]/assets/themes/[THEME-NAME]
