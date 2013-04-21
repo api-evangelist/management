@@ -1,10 +1,0 @@
----
-layout: post
-title: Rethinking Digg: please don’t forget the API!
-url: http://www.3scale.net/2012/07/rethinking-digg-please-dont-forget-the-api/
-source: http://www.3scale.net/2012/07/rethinking-digg-please-dont-forget-the-api/
-domain: www.3scale.net
----
-{% include JB/setup %}<p>There’s now an open survey at RethinkDigg (and rethink manifesto) for the planned revision of Digg after the Betaworks sale – it’s great to see open doors to ideas and thoughts from fans – especially since it’ll no doubt be a huge product challenge – also see the ongoing thread on hackernews and (also see coverage on places like Mashable).One thing that isn’t mentioned anywhere though is the Digg API – and it would be sad to loose it (either in it’s current form or in some evolved way) in the mix.Digg launched it’s original API back in 2007 and was one of the early API pioneers – with a lot of mashups of the V1 API showing what could be done with social news information.The API was then relaunched in August 2010 and and also added a pretty cool streaming API similar to twitter’s.Although it’s not clear how many apps use the API today there were more than 60 mashups using the old API which was put into read-only mode in February 2010 (in the developer zone there are 100+ posts in the forums and the @diggapi Twitter feed has 700+ followers).</p>
-<center><p><a href="http://www.3scale.net/2012/07/rethinking-digg-please-dont-forget-the-api/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
-
