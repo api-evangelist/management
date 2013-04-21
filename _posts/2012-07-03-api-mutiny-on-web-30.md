@@ -1,0 +1,10 @@
+---
+layout: post
+title: API Mutiny on Web 3.0
+url: http://blog.cobia.net/cobiacomm/2012/07/03/api-mutiny-on-web-3-0/
+source: http://blog.cobia.net/cobiacomm/2012/07/03/api-mutiny-on-web-3-0/
+domain: blog.cobia.net
+---
+{% include JB/setup %}<p>API developers are ready to stage a mutiny.Will the captains of Twitter, LinkedIn, and NetFlix make developers walk the plank?During early market colonization days by Twitter, LinkedIn, NetFlix, Pinterist, and Instagram, the companies prioritize customer land grab over trade and commerce.Web 2.0 companies often choose to build distribution channels first.</p>
+<center><p><a href="http://blog.cobia.net/cobiacomm/2012/07/03/api-mutiny-on-web-3-0/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
+
