@@ -1,0 +1,10 @@
+---
+layout: post
+title: Urban Airship Unveils Strategy to Address Growing Mandate for Mobile Relationship Management
+url: http://www.marketwire.com/press-release/urban-airship-unveils-strategy-address-growing-mandate-mobile-relationship-management-1765437.htm
+source: http://www.marketwire.com/press-release/urban-airship-unveils-strategy-address-growing-mandate-mobile-relationship-management-1765437.htm
+domain: www.marketwire.com
+---
+{% include JB/setup %}<p>Building off of its global leadership in mobile push messaging, Urban Airship today detailed its expanded strategic focus on delivering Mobile Relationship Management (MRM) solutions that enable brands and marketers to earn and maintain a presence on their customers mobile devices.More than a new category of technology solutions, MRM signals a massive shift from businesses traditional focus on paid media and interruption-based marketing tactics towards owned media such as apps and digital wallet initiatives that create a directly addressable audience by putting the customer in control.Businesses are navigating uncharted waters in delivering engaging, relevant and valuable experiences to earn mobile loyalty and the pressure to keep pace with customer adoption is massive.The new strategic services and solution enhancements unveiled by Urban Airship today promise to make the move to MRM easier and relationship-building initiatives more engaging and effective.According to Forrester Research, In 2013, the ultra-connected customer base will continue to grow at a staggering pace, destabilizing marketing as youve come to know it.</p>
+<center><p><a href="http://www.marketwire.com/press-release/urban-airship-unveils-strategy-address-growing-mandate-mobile-relationship-management-1765437.htm" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
+
