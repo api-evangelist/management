@@ -1,11 +1,4 @@
----
-layout: post
-title: Distributed and Seamless API Management Using 3Scale APIs
-url: http://www.apievangelist.com/2011/10/08/distributed-and-seamless-api-management-using-3scale-apis/
-source: http://www.apievangelist.com/2011/10/08/distributed-and-seamless-api-management-using-3scale-apis/
-domain: www.apievangelist.com
----
-{% include JB/setup %}<p>I just added four new API to my API stack series.I&rsquo;m considering breaking the API Stack series into a separate feed, they kind of clutter the main feed.Anyways, the four new APIs are from 3Scale:
+<p>I just added four new API to my API stack series.I&rsquo;m considering breaking the API Stack series into a separate feed, they kind of clutter the main feed.Anyways, the four new APIs are from 3Scale:
 
 Service Management API
 Account Management API

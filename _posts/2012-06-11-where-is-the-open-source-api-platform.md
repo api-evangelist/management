@@ -1,11 +1,4 @@
----
-layout: post
-title: Where Is The Open Source API Platform?
-url: http://www.apievangelist.com/2012/06/11/where-is-the-open-source-api-platform/
-source: http://www.apievangelist.com/2012/06/11/where-is-the-open-source-api-platform/
-domain: www.apievangelist.com
----
-{% include JB/setup %}<p>Every couple weeks I get posts that really strike a chord with my audience, like Barack Obama Directs All Federal Agencies to Have an API, which has received 40K+ page views and 1000+ tweets.When it comes to sustained traffic numbers, two posts seem to really bring in eyeballs each and every week via organic searches:
+<p>Every couple weeks I get posts that really strike a chord with my audience, like Barack Obama Directs All Federal Agencies to Have an API, which has received 40K+ page views and 1000+ tweets.When it comes to sustained traffic numbers, two posts seem to really bring in eyeballs each and every week via organic searches:
 
 Open Building Blocks for an API
 Open Source API Billing and Traffic Control

@@ -1,11 +1,4 @@
----
-layout: post
-title: Alcatel-Lucent Open Sources their API Management Platform
-url: http://www.apievangelist.com/2012/09/06/alcatel-lucent-open-sources-their-api-management-platform/
-source: http://www.apievangelist.com/2012/09/06/alcatel-lucent-open-sources-their-api-management-platform/
-domain: www.apievangelist.com
----
-{% include JB/setup %}<p>Following the creative commons release of their API lifecycle methodology, telco API service provider Alcatel-Lucent has open sourced the &ldquo;underpinnings&rdquo; of their Open API Platform(OAP).The API management capabilities in OAP are being released under the name&nbsp;apiGrove.According to Alcatel-Lucent&rsquo;s methodology there are four major components to API infrastructure:
+<p>Following the creative commons release of their API lifecycle methodology, telco API service provider Alcatel-Lucent has open sourced the &ldquo;underpinnings&rdquo; of their Open API Platform(OAP).The API management capabilities in OAP are being released under the name&nbsp;apiGrove.According to Alcatel-Lucent&rsquo;s methodology there are four major components to API infrastructure:
 
 Management
 Composition

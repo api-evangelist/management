@@ -1,10 +1,3 @@
----
-layout: post
-title: APIs Hit the Big Stage in New York
-url: http://www.3scale.net/2013/02/apis-hit-the-big-stage-in-new-york/
-source: http://www.3scale.net/2013/02/apis-hit-the-big-stage-in-new-york/
-domain: www.3scale.net
----
-{% include JB/setup %}<p>NEW YORK, NY – APIs (Application Programming Interfaces) are the heart of today’s digital economy: they are the common denominator of the Internet and mobile apps revolution and a crucial part of technical and business infrastructures.Today APIs finally hit the big stage with the Grand Opening the first API Strategy and Practice Conference in New York, with 350 attendees and 75 speakers.The conference brings together technology and business experts in APIs across a wide range of domains including Media, Commerce, Travel, Retail, Finance, Government, Education and many more.Speakers include from Walgreens, Netflix, Getty Images, AT&T and leading startups such as Tumblr, Twilio, Klout and Stripe — demonstrating the depth and breadth of adoption that APIs are seeing.The event provides a forum for interchange of best practice knowledge and runs for two days (21-22nd Ferbruary) at the Westin Grand Central Hotel in New York.</p>
+<p>NEW YORK, NY – APIs (Application Programming Interfaces) are the heart of today’s digital economy: they are the common denominator of the Internet and mobile apps revolution and a crucial part of technical and business infrastructures.Today APIs finally hit the big stage with the Grand Opening the first API Strategy and Practice Conference in New York, with 350 attendees and 75 speakers.The conference brings together technology and business experts in APIs across a wide range of domains including Media, Commerce, Travel, Retail, Finance, Government, Education and many more.Speakers include from Walgreens, Netflix, Getty Images, AT&T and leading startups such as Tumblr, Twilio, Klout and Stripe — demonstrating the depth and breadth of adoption that APIs are seeing.The event provides a forum for interchange of best practice knowledge and runs for two days (21-22nd Ferbruary) at the Westin Grand Central Hotel in New York.</p>
 <center><p><a href="http://www.3scale.net/2013/02/apis-hit-the-big-stage-in-new-york/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
 
