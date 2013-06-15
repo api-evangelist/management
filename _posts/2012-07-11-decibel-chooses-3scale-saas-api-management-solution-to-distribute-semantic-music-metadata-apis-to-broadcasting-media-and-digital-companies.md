@@ -1,3 +1,11 @@
-<p>SAN FRANCISCO, CA–July 9, 2012– Decibel, the ‘semantic music metadata company and reportedly the fastest growing European company in the digital music sector, selected 3scale (www.3scale.net), the creator of Out-of-the-Box API management infrastructure, to launch, manage and productize Decibel APIs.Decibel’s mission is to power the next generation of digital music services to enhance the consumer relationship with digital music and to become the industry standard for music metadata.In that regard, the Decibel APIs powered by 3scale carry the most in-depth music metadata data you’re likely to find anywhere with more than 3 billions pieces of data on 15 million tracks from 1.</p>
+---
+layout: post
+title: Decibel Chooses 3scale SaaS API Management Solution to Distribute Semantic Music Metadata APIs to Broadcasting, Media and Digital Companies
+url: http://www.3scale.net/2012/07/decibel-chooses-3scale-saas-api-management-solution-distribute-semantic-music-metadata-apis-broadcasting-media-digital-companies/
+source: http://www.3scale.net/2012/07/decibel-chooses-3scale-saas-api-management-solution-distribute-semantic-music-metadata-apis-broadcasting-media-digital-companies/
+domain: www.3scale.net
+image: http://kinlane-productions.s3.amazonaws.com/ap-evangelist-site/curated/screenshots/9352_api500_com.png
+---
+{% include JB/setup %}<p>SAN FRANCISCO, CA–July 9, 2012– Decibel, the ‘semantic music metadata company and reportedly the fastest growing European company in the digital music sector, selected 3scale (www.3scale.net), the creator of Out-of-the-Box API management infrastructure, to launch, manage and productize Decibel APIs.Decibel’s mission is to power the next generation of digital music services to enhance the consumer relationship with digital music and to become the industry standard for music metadata.In that regard, the Decibel APIs powered by 3scale carry the most in-depth music metadata data you’re likely to find anywhere with more than 3 billions pieces of data on 15 million tracks from 1.</p>
 <center><p><a href="http://www.3scale.net/2012/07/decibel-chooses-3scale-saas-api-management-solution-distribute-semantic-music-metadata-apis-broadcasting-media-digital-companies/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
 

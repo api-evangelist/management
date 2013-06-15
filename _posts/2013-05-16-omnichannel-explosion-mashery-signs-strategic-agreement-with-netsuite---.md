@@ -1,0 +1,11 @@
+---
+layout: post
+title: Omni-channel Explosion: Mashery Signs Strategic Agreement with NetSuite   
+url: http://blog.mashery.com/content/omni-channel-explosion-mashery-signs-strategic-agreement-netsuite
+source: http://blog.mashery.com/content/omni-channel-explosion-mashery-signs-strategic-agreement-netsuite
+domain: blog.mashery.com
+image: http://kinlane-productions.s3.amazonaws.com/ap-evangelist-site/curated/screenshots/9352_api500_com.png
+---
+{% include JB/setup %}<p>Forrester Research predicts that by 2016, U.S.cross-channel sales will be $1.660 trillion and that more than half of all retail sales will be either online or web-influenced.With the newly announced strategic agreement between NetSuite and Mashery, an Intel Company, NetSuite ecommerce and e-tail customers using SuiteCommerce (a Commerce as a Service, or CaaS, solution) can now evolve their APIs into APIs-as-Products powered by Mashery.</p>
+<center><p><a href="http://blog.mashery.com/content/omni-channel-explosion-mashery-signs-strategic-agreement-netsuite" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
+

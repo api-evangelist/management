@@ -1,3 +1,11 @@
-<p>SAN FRANCISO, CA – April 24, 2013 – 3scale (http://www.3scale.net), the San Francisco and Barcelona-based API Management solutions provider, today announced  $4.2 million of new funding in a round from Javelin Venture Partners and Costanoa Venture Capital.APIs are a key infrastructure component for online businesses – powering mobile applications, partnership programs and innovation.</p>
+---
+layout: post
+title: 3scale Raises $4.2 Million to Broaden API Adoption
+url: http://www.3scale.net/2013/04/3scale-raises-4-2-million-to-broaden-api-adoption/
+source: http://www.3scale.net/2013/04/3scale-raises-4-2-million-to-broaden-api-adoption/
+domain: www.3scale.net
+image: http://kinlane-productions.s3.amazonaws.com/ap-evangelist-site/curated/screenshots/9352_api500_com.png
+---
+{% include JB/setup %}<p>SAN FRANCISO, CA – April 24, 2013 – 3scale (http://www.3scale.net), the San Francisco and Barcelona-based API Management solutions provider, today announced  $4.2 million of new funding in a round from Javelin Venture Partners and Costanoa Venture Capital.APIs are a key infrastructure component for online businesses – powering mobile applications, partnership programs and innovation.</p>
 <center><p><a href="http://www.3scale.net/2013/04/3scale-raises-4-2-million-to-broaden-api-adoption/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
 
