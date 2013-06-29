@@ -1,0 +1,11 @@
+---
+layout: post
+title: IBM Looks for Bigger Slice of API Economy
+url: http://blog.programmableweb.com/2013/05/14/ibm-looks-for-bigger-slice-of-api-economy/
+source: http://blog.programmableweb.com/2013/05/14/ibm-looks-for-bigger-slice-of-api-economy/
+domain: blog.programmableweb.com
+image: http://kinlane-productions.s3.amazonaws.com/ap-evangelist-site/curated/screenshots/8783_blog_programmableweb_com.png
+---
+{% include JB/setup %}<p>IBM has been tracking the emergence of the API economy and likes what it sees.At the recent IBM Impact 2013 conference, IBM unveiled an API management platform that it views as a natural extension of its portfolio of software-oriented architecture (SOA) offerings while at the same time delivering a MessageSight middleware appliance based on the company’s Message Queuing Telemetry Transport (MQTT) protocol.According to Mike Riegel, vice president of IBM MobileFirst and WebSphere marketing, IBM intends to bring together the API management technologies that have become popular among providers of Internet services and more traditional SOA middleware platforms as personified by version 8.5 of WebSphere Application Server.At the same time, IBM is moving to unify its API management platform via an IBM Integration Bus with the Worklight application development and deployment platform that anchors the company’s MobileFirst initiative.</p>
+<center><p><a href="http://blog.programmableweb.com/2013/05/14/ibm-looks-for-bigger-slice-of-api-economy/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
+
