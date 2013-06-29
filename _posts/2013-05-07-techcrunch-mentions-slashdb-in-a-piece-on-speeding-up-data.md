@@ -4,7 +4,7 @@ title: TechCrunch Mentions SlashDB in a Piece on Speeding Up Data
 url: http://www.slashdb.com/2013/05/07/techcrunch-mentions-slashdb-in-a-piece-on-speeding-up-data/
 source: http://www.slashdb.com/2013/05/07/techcrunch-mentions-slashdb-in-a-piece-on-speeding-up-data/
 domain: www.slashdb.com
-image: http://kinlane-productions.s3.amazonaws.com/ap-evangelist-site/curated/screenshots/9352_api500_com.png
+image: http://kinlane-productions.s3.amazonaws.com/ap-evangelist-site/curated/screenshots/8390_www_slashdb_com.png
 ---
 {% include JB/setup %}<p>“Speed” and “data” are loaded terms that can be hard to cover in one article.TechCrunch has recently published an interesting compilation of perspectives from several leading technology firms that operate in this space.Our founder and chief architect of SlashDB, Victor Olex was quoted about challenges with integrating traditional databases and web-scale information systems.Here’s the link to the article:</p>
 <center><p><a href="http://www.slashdb.com/2013/05/07/techcrunch-mentions-slashdb-in-a-piece-on-speeding-up-data/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>

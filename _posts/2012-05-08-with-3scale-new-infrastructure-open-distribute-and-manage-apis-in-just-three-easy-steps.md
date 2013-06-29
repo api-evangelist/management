@@ -1,6 +1,6 @@
 ---
 layout: post
-title: With 3scale New Infrastructure Open, Distribute and Manage APIs in Just Three Easy Steps
+title: With 3scale New Infrastructure Open Distribute and Manage APIs in Just Three Easy Steps
 url: http://www.3scale.net/2012/05/3scale-democratizes-apis-with-new-free-self-service-api-management-infrastructure/
 source: http://www.3scale.net/2012/05/3scale-democratizes-apis-with-new-free-self-service-api-management-infrastructure/
 domain: www.3scale.net

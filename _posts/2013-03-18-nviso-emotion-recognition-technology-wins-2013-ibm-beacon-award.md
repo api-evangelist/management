@@ -4,10 +4,8 @@ title: nViso Emotion Recognition Technology Wins 2013 IBM Beacon Award
 url: http://www.3scale.net/2013/03/congratulations-nviso-wins-2013-ibm-beacon-award-for-smarter-computing-smartcloud-cloud-application-provider/
 source: http://www.3scale.net/2013/03/congratulations-nviso-wins-2013-ibm-beacon-award-for-smarter-computing-smartcloud-cloud-application-provider/
 domain: www.3scale.net
-image: http://kinlane-productions.s3.amazonaws.com/ap-evangelist-site/curated/screenshots/9352_api500_com.png
+image: http://kinlane-productions.s3.amazonaws.com/ap-evangelist-site/curated/screenshots/6966_www_3scale_net.png
 ---
-{% include JB/setup %}<p>nViso has developed an emotion recognition software that interprets human facial micro-expressions and eye movements captured through video.Its solutions use proprietary 3D facial imaging technology with artificial intelligence to track hundreds of different facial points to recognize human emotions.The capabilities of the technology can be seen in the on-line campaign to promote the Cinemax television series “Hunted.”
- 
- The promotion, developed by marketing agency Campfire, uses the nViso cloud-based API in one of the five tests to ‘interview’ potential applicants to the private security firm featured in the plot of the series.It interprets and analyzes web site visitors’ emotional responses to various stimuli and produces an instant evaluation of whether they could be qualified for a position with the firm.</p>
+{% include JB/setup %}<p>nViso has developed an emotion recognition software that interprets human facial micro-expressions and eye movements captured through video.Its solutions use proprietary 3D facial imaging technology with artificial intelligence to track hundreds of different facial points to recognize human emotions.The capabilities of the technology can be seen in the on-line campaign to promote the Cinemax television series “Hunted.” The promotion, developed by marketing agency Campfire, uses the nViso cloud-based API in one of the five tests to ‘interview’ potential applicants to the private security firm featured in the plot of the series.It interprets and analyzes web site visitors’ emotional responses to various stimuli and produces an instant evaluation of whether they could be qualified for a position with the firm.</p>
 <center><p><a href="http://www.3scale.net/2013/03/congratulations-nviso-wins-2013-ibm-beacon-award-for-smarter-computing-smartcloud-cloud-application-provider/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
 

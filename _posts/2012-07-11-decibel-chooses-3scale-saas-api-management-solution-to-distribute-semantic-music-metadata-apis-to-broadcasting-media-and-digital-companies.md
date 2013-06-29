@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Decibel Chooses 3scale SaaS API Management Solution to Distribute Semantic Music Metadata APIs to Broadcasting, Media and Digital Companies
+title: Decibel Chooses 3scale SaaS API Management Solution to Distribute Semantic Music Metadata APIs to Broadcasting Media and Digital Companies
 url: http://www.3scale.net/2012/07/decibel-chooses-3scale-saas-api-management-solution-distribute-semantic-music-metadata-apis-broadcasting-media-digital-companies/
 source: http://www.3scale.net/2012/07/decibel-chooses-3scale-saas-api-management-solution-distribute-semantic-music-metadata-apis-broadcasting-media-digital-companies/
 domain: www.3scale.net

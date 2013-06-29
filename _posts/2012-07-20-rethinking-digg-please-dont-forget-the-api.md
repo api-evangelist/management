@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Rethinking Digg: please don’t forget the API!
+title: Rethinking Digg: please don’t forget the API
 url: http://www.3scale.net/2012/07/rethinking-digg-please-dont-forget-the-api/
 source: http://www.3scale.net/2012/07/rethinking-digg-please-dont-forget-the-api/
 domain: www.3scale.net
