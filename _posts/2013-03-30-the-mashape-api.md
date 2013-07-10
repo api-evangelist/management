@@ -1,11 +1,0 @@
----
-layout: post
-title: The Mashape API
-url: http://blog.mashape.com/post/46685845444/the-mashape-api
-source: http://blog.mashape.com/post/46685845444/the-mashape-api
-domain: blog.mashape.com
-image: http://kinlane-productions.s3.amazonaws.com/ap-evangelist-site/curated/screenshots/7172_blog_mashape_com.png
----
-{% include JB/setup %}<p>The Mashape API lets you query and retrieve API and user information from Mashape.With close to 2000 APIs in catalog, this opens up tons of possibilities for developers to create exciting applications. Here’s the Mashape API test console in action: We have also released a Chrome extension to demonstrate what you can do with the Mashape API.You can get it here.We hope to see what you can do with the API.</p>
-<center><p><a href="http://blog.mashape.com/post/46685845444/the-mashape-api" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
-

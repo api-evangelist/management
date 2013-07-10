@@ -1,11 +1,0 @@
----
-layout: post
-title: Taking the Long View on API Ecosystems
-url: http://www.3scale.net/2012/07/taking-the-long-view-on-api-ecosystems/
-source: http://www.3scale.net/2012/07/taking-the-long-view-on-api-ecosystems/
-domain: www.3scale.net
-image: http://kinlane-productions.s3.amazonaws.com/ap-evangelist-site/curated/screenshots/9352_api500_com.png
----
-{% include JB/setup %}<p>Kin Lane has a nice post over at API Evangelist, reflecting on the some of the commentary of Twitter’s ecosystem changes – don’t forget the Pioneers as he says.API skeptics always step up and say they are different, that they have core web products, existing business models, etc.Sure, there are differences, but Salesforce, eBay and Amazon have all managed to achieve success with continued investment in their API ecosystem.Whatever Twitter’s particular reasons for their change (and on balance it seems likely to be more harmful than beneficial), building and maintaining an ecosystem is extremely challenging.Many companies have been successful however – and success seems to come almost entirely in those cases where the company’s business goals and it’s partners business goals align with API – in other words, there needs to be a clear benefit to all parties involved.</p>
-<center><p><a href="http://www.3scale.net/2012/07/taking-the-long-view-on-api-ecosystems/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
-
