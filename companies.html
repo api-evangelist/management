@@ -18,5 +18,20 @@ title: Companies
 </div>  
 
 <script type="text/javascript">
+function listCompanies()
+    {
+    $.getJSON('data/companies.json', function(data) {
+        toggle = 0;
+         $.each(data['company'], function(key, val) {
+            var template = $('#companyListingTemplate').html();
+            var html = Mustache.to_html(template, val);
+            $('#companyListing').append(html);                          
+            });
+        });
+    } 
+listCompanies();
+</script>
+
+<script type="text/javascript">
 listCompanies();
 </script>
