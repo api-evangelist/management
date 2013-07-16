@@ -1,0 +1,57 @@
+---
+layout: page
+title: API Tools
+---
+
+<h1>API Tools</h1>
+<p><a id="jsonlink" href="data/tools.json" target="_blank"><img src="https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-json-data-store.png" align="right" width="50" style="padding-top: 10px;" /></a></p>
+<p>This page is dedicated to tracking tools that can be used for API management, focusing on both open source tools and cloud services that are used by other API providers.</p>
+
+<script type="text/javascript">
+
+function listTools(tag,listing)
+    {
+    $.getJSON('data/tools.json', function(data) {
+
+         $.each(data['tools'], function(key, val) {
+             
+            thesetags = val['tags'];
+            
+            if (thesetags.indexOf(tag) !=-1) {
+                {             
+                var template = $('#toolListingTemplate').html();
+                var html = Mustache.to_html(template, val);
+                $('#'+listing).append(html);   
+                }                       
+            });
+        });
+    } 
+</script>
+
+<!-- Begin List API Design companies--->
+{% raw  %}
+<script id="toolListingTemplate" type="text/template">       
+    <li style="list-style: none; padding: 30px; border: 0px solid #000;">
+        <a href="tools-detail.html?id={{id}}"><img src="{{logo}}" width="200" align="left" style="padding: 15px;" /></a>
+        <a href="tools-detail.html?id={{id}}" style="color: #000;"><strong>{{name}}</strong></a> - {{details}}... <a href="tools-detail.html?id={{id}}">details</a>.
+    </li>                                                                                               
+</script>
+{% endraw %}
+
+<!-- End List API Design companies--->
+
+<h2>Documentation</h2>
+<div style="padding-left: 10px; padding-right: 10px; width:550px;">
+     <ul id="DocumentationToolListing" style="padding-left: 30px;"></ul>
+</div>  
+<script type="text/javascript">
+    listTools('Documentation','DocumentationToolListing');
+</script>
+
+<h2>Code</h2>
+<div style="padding-left: 10px; padding-right: 10px; width:550px;">
+     <ul id="CodeToolListing" style="padding-left: 30px;"></ul>
+</div>  
+<script type="text/javascript">
+    listTools('Code','CodeToolListing');
+</script>
