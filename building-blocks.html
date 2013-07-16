@@ -1,0 +1,97 @@
+---
+layout: page
+title: Building Blocks
+---
+<style>
+
+    .buildingblocklistingcontainer{
+        padding-left: 10px; 
+        padding-right: 10px; 
+        width:550px;
+    }
+    .buildingblockcategorylistingul{
+        padding-left: 30px;
+    }  
+    .buildingblockcategorylistingul li{
+        list-style: none; 
+        padding: 10px 10px 20px 10px;
+        border: 0px solid #000;
+        font-size: 18px;
+        font-weight: bold;
+    }  
+    .buildingblocklistingul{
+        padding-left: 30px;
+    }  
+    .buildingblocklistingul li{
+        padding: 20px; 
+        border: 0px solid #000;
+        font-size: 14px;
+        font-weight: normal;
+    } 
+</style>
+
+<ul class="toolbar">
+    <li>{"<a href="https://raw.github.com/kinlane/backend-as-a-service/gh-pages/data/buildingblocks.json" title="JSON" target="_blank">JSON</a>"}</li>
+    <li>{"<a href="https://apievangelist.3scale.net/docs" title="API" target="_blank">API</a>"}</li>
+    <li>{"<a href="https://gist.github.com/kinlane/5993280" title="Script" target="_blank">SCRIPT</a>"}</li>
+</ul>
+
+<h1 class="title">BaaS Building Blocks</h1>
+
+<p>After reviewing the top BaaS providers like Appcelerator, Appery.io Kinvey, Parse and StackMob, a pattern of building blocks begin to emerge. Building blocks that BaaS providers are using to assemble their platforms into meaningful stacks that developers can put to use. &nbsp;While each BaaS provider has their own approach, a handful of common building blocks emerge, allowing a coherent definition of what is a BaaS provider to emerge.</p>
+<p>Using this list of common building blocks I looked to find other companies that offer similar backend services, resulting in the discovery of 45 total BaaS providers. After reviewing each BaaS provider, each feature of their offering was entered into a database--uncovering a common blueprint, of which building blocks mobile developers are seeking.</p>
+<p>Over 200 building blocks have been identified in over 40 areas, across 45 BaaS providers. 37 building blocks in over 18 areas have been identified as common between at least 3 providers before they are included within my common BaaS blueprint.</p>
+<p>This common BaaS blueprint represents one potential blueprint for using APIs, that are just not about consuming single API for a mobile app, but aggregating them to improve the overall delivery, management and life-cycle of mobile applications.</p>
+
+<!--BaaS Full Listing Template--->
+{% raw  %}
+
+<script id="buildingblockcategoryTemplate" type="text/template">       
+    <li><strong>{{category}}</strong><ul id="{{slug}}" class="buildingblocklistingul"></ul></li>                                                                                               
+</script>
+
+<script id="buildingblockTemplate" type="text/template">       
+    <li><img src="{{image}}" width="50" align="left" style="padding: 15px;" /><strong>{{name}}</strong> - {{summary}}</li>                                                                                               
+</script>
+{% endraw %}
+
+<!--BaaS Full Listing Container--->
+<div class="buildingblocklistingcontainter">
+     <ul id="buildingblockListing" class="buildingblockcategorylistingul"></ul>
+</div>  
+
+<!--BaaS Full Listing JavaScript--->
+<script type="text/javascript">
+
+// Requires Mustache - http://mustache.github.io/
+
+function listbuidingblockcategories()
+    {
+    $.getJSON('data/buildingblockcategories.json', function(data) {
+         $.each(data['buildingblockcategories'], function(key, val) {
+             
+            var template = $('#buildingblockcategoryTemplate').html();
+            var html = Mustache.to_html(template, val);
+            $('#buildingblockListing').append(html);  
+            });                                   
+        });           
+    } 
+    
+function listbuidingblocks()
+    {
+    $.getJSON('data/buildingblocks.json', function(data) {
+         $.each(data['buildingblocks'], function(key, val) {
+            categoryslug = val['categoryslug']; 
+            var template = $('#buildingblockTemplate').html();
+            var html = Mustache.to_html(template, val);
+            $('#'+categoryslug).append(html);   
+            });                                   
+        });        
+    }    
+</script>
+
+<!--Trigger BaaS Full Listing JavaScript onLoad-->
+<script type="text/javascript">
+listbuidingblockcategories();
+listbuidingblocks();
+</script>
