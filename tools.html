@@ -34,7 +34,7 @@ function listTools(tag,listing)
 {% raw  %}
 <script id="toolListingTemplate" type="text/template">       
     <li style="list-style: none; padding: 30px; border: 0px solid #000;">
-        <a href="tools-detail.html?id={{id}}"><img src="{{logo}}" width="200" align="left" style="padding: 15px;" /></a>
+        <a href="tools-detail.html?id={{id}}"><img src="{{logo}}" width="{{width}}" align="left" style="padding: 15px;" /></a>
         <a href="tools-detail.html?id={{id}}" style="color: #000;"><strong>{{name}}</strong></a> - {{details}}... <a href="tools-detail.html?id={{id}}">details</a>.
     </li>                                                                                               
 </script>
