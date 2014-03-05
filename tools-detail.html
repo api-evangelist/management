@@ -23,7 +23,7 @@ title: Tools
 </div>  
 
 <script>
-function getCompanyDetails(id)
+function getToolsDetails(id)
     {
     $.getJSON('data/tools.json', function(data) {   
         $.each(data['tools'], function(key, val) {
@@ -43,5 +43,5 @@ function getCompanyDetails(id)
             });                                    
         });
     }  
-getCompanyDetails(getUrlVar('id'));
+getToolsDetails(getUrlVar('id'));
 </script>
