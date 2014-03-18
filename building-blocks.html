@@ -44,18 +44,23 @@ title: Building Blocks
 <!--BaaS Full Listing Template--->
 {% raw  %}
 
-<script id="buildingblockcategoryTemplate" type="text/template">       
-    <li><strong>{{category}}</strong><ul id="{{slug}}" class="buildingblocklistingul"></ul></li>                                                                                               
+<script id="buildingblockcategoryTemplate" type="text/template">        
+    <tr>       
+        <td colspan="2" align="left">strong>{{category}}</strong>}<table id="{{slug}}" class="buildingblocklistingul" style="width: 90%; padding-left: 25px;"></table></td>
+    </tr>                                                                                                 
 </script>
 
 <script id="buildingblockTemplate" type="text/template">       
-    <li><img src="{{image}}" width="50" align="left" style="padding: 15px;" /><strong>{{name}}</strong> - {{details}}</li>                                                                                               
+    <tr>       
+        <td width="60" align="center" valign="middle"><img src="{{image}}" width="50" align="left" style="padding: 15px;" /></td>
+        <td align="left" valign="middle"><strong>{{name}}</strong> - {{summary}}</td>
+    </tr>                                                                                             
 </script>
 {% endraw %}
 
 <!--BaaS Full Listing Container--->
 <div class="buildingblocklistingcontainter">
-     <ul id="buildingblockListing" class="buildingblockcategorylistingul"></ul>
+    <table id="buildingblockListing" class="buildingblocklistingul" style="width: 90%; padding-left: 25px;"></table>
 </div>  
 
 <!--BaaS Full Listing JavaScript--->
