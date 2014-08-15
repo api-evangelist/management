@@ -25,3 +25,17 @@ title: API Management
 <p>I used to showcase "service providers" and "tools", but now I will bundle services and tools into these different areas. Then using my <a href="http://hackerstorytelling.com/" target="_blank">Hacker Storytelling</a> format I will be publishing news, analysis, data as JSON and different snippets of code that let you view and interact with these API project areas.</p>
 <p>Using this project you can browse all API management providers, with the list of providers listed by their API Stack Ranking, which is based upon internal signals from the companies themselves, external signals from developers and the tech blogosophere, as well as analyst signals based upon my curation, notes and insight.</p>
 <p>My goal is to make all of my research as accessible as possible, allowing anyone to learn about APIs and put my research to work changing the companies where they work, and the industries they operate within.</p>
+
+<hr />                
+              
+{% for post in site.posts limit:2 %}
+<div class="post">
+    
+    <p><a href="{{ post.url }}" rel="bookmark" title="{{ post.title }}" style="color:#000;"><h4><strong>{{ post.title }}</strong></h4></a> (<i><strong><span class="small">Posted on</span> <span class="post-date">{{ post.date | date:"%m-%d-%Y" }}</span></strong></i>)
+    <p><a href="{{ post.url }}" rel="bookmark" title="{{ post.title }}"><img src="{{ post.image }}" width="175" align="left" style="padding: 15px;" /></a></p>
+    <p>{{ post.content | strip_html | truncatewords: 100 }}...<a href="{{ post.url }}" rel="bookmark" title="{{ post.title }}" style="color:#000; font-weight: bold;">read more</a>.</p>
+    <br />
+    <hr />     
+   
+</div> 
+{% endfor %}  
