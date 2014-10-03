@@ -1,0 +1,11 @@
+---
+layout: post
+title: 'Futures support and breaking changes in the Mobile Services Android SDK'
+url: http://azure.microsoft.com/blog/2014/08/04/futures-support-and-breaking-changes-in-azure-mobile-services-android-sdk/
+source: http://azure.microsoft.com/blog/2014/08/04/futures-support-and-breaking-changes-in-azure-mobile-services-android-sdk/
+domain: azure.microsoft.com
+image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/azure-microsoft-comblog20140804futures-support-and-breaking-changes-in-azure-mobile-services-android-sdk.png
+---
+
+<p>We’ve released a major update in the Android SDK for Azure Mobile Services.Addressing some feedback about the usage of asynchronous calls in Android, we added support for Futures in all of the asynchronous operations so that you can easily perform multiple of those operations (while on a background thread) without having to deal with multiple nested callbacks.The changes are additive (new methods which return futures in side by side with the ones which take a callback parameter) in most of the scenarios, but in some fundamental interfaces used in more advanced ones (such as the ServiceFilter) we made a breaking change so that futures is now the default model used by the Mobile Services Android SDK for dealing with asynchronous operations.In this release we also added offline support, but to focus on the breaking changes I’ll talk about that in an upcoming post.TL;DR: the rest of this post talks about the new futures support and the list of breaking changes; if all you want is the new SDK to play with it, you can get it at http://aka.</p>
+
