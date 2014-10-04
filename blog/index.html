@@ -5,7 +5,7 @@ title: API Management - News and Analysis
 
 <h1 class="title">API Management - News and Analysis</h1>
 
-<table cellpadding="5" cellspacing="2" width="100%" border="1">
+<table cellpadding="5" cellspacing="2" width="100%" border="0">
 {% for post in paginator.posts %}
 <tr>    
     <td width="55" align="center">
@@ -18,7 +18,7 @@ title: API Management - News and Analysis
 	    <br /><i><span class="small">Posted on</span> <span class="post-date">{{ post.date | date:"%m-%d-%Y" }} on <a href="http://{{ post.domain }}"></a>{{ post.domain }}</a></span></i>
     </td>   
 </tr>
-<tr><td colspan="2" align="center"><hr style="" /></td></tr>
+<tr><td colspan="2" align="center"><hr style="padding: 1px 1px 1px 1px; margin: 1px 1px 1px 1px;" /></td></tr>
 {% endfor %}
 </table>
 
