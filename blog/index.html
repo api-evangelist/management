@@ -10,7 +10,7 @@ title: API Management - News and Analysis
 <div class="post">
     
     {% if post.image != null %}
-    <a href="{{ post.source }}" rel="bookmark" title="{{ post.title }}"><img style="padding: 5px;" src="{{ post.image }}" width="50" align="left" /></a>
+    <a href="{{ post.source }}" rel="bookmark" title="{{ post.title }}"><img src="{{ post.image }}" width="50" align="left" /></a>
     {% endif %}
     <a href="{{ post.source }}" rel="bookmark" title="{{ post.title }}" style="color:#000; font-size: 16px;"><strong>{{ post.title }}</strong></a>
     <i><span class="small">Posted on</span> <span class="post-date">{{ post.date | date:"%m-%d-%Y" }} on <a href="http://{{ post.domain }}"></a>{{ post.domain }}</a></span></i><br /><hr />
