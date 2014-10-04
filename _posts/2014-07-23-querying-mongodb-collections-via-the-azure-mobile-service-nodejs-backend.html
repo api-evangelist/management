@@ -4,7 +4,7 @@ title: 'Querying MongoDB collections via the Azure Mobile Service node.js backen
 url: http://azure.microsoft.com/blog/2014/07/23/querying-mongodb-collections-via-the-azure-mobile-service-node-js-backend/
 source: http://azure.microsoft.com/blog/2014/07/23/querying-mongodb-collections-via-the-azure-mobile-service-node-js-backend/
 domain: azure.microsoft.com
-image: 
+image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/azure-microsoft-comblog20140723querying-mongodb-collections-via-the-azure-mobile-service-node-js-backend.png
 ---
 
 <p>In my previous post I talked about using Azure Mobile Services tables to use a Mongo database as the storage layer instead of the default SQL Azure.The post showed how to implement create, update, delete and simple read operations, but it didn’t have a good querying capability, as the table read operation was returning either one or all of the items in the collection.In this post we’ll look into an undocumented feature of the node.js runtime where we can get the query parameters passed by the user and add support for paging, sorting, selection and some filtering so that we can fully (or mostly) use a MongoDB collection from a node.js mobile service.</p>
