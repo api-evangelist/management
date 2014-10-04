@@ -5,19 +5,15 @@ title: API Management - News and Analysis
 
 <h1 class="title">API Management - News and Analysis</h1>
 
-<!-- This loops through the paginated posts -->
 {% for post in paginator.posts %}
 <div class="post">
     
     {% if post.image != null %}
-    <a href="{{ post.source }}" rel="bookmark" title="{{ post.title }}"><img src="{{ post.image }}" width="50" align="left" /></a>
+    	<a href="{{ post.source }}" rel="bookmark" title="{{ post.title }}"><img src="{{ post.image }}" width="50" align="left" /></a>
     {% endif %}
     <a href="{{ post.source }}" rel="bookmark" title="{{ post.title }}" style="color:#000; font-size: 16px;"><strong>{{ post.title }}</strong></a>
-    <i><span class="small">Posted on</span> <span class="post-date">{{ post.date | date:"%m-%d-%Y" }} on <a href="http://{{ post.domain }}"></a>{{ post.domain }}</a></span></i><br /><hr />
-    <!---<p><i><strong><span class="small">Posted on</span> <span class="post-date">{{ post.date | date:"%m-%d-%Y" }}</span></strong></i></p>-->
-    <!--<p><a href="{{ post.source }}" rel="bookmark" title="{{ post.title }}"><img src="{{ post.image }}" width="150" align="right" style="padding: 15px;" /></a></p>-->
-    <!--<p>{{ post.content | strip_html | truncatewords: 150 }}</p>-->
-   <!--<p align="center"><a href="{{ post.source }}">Read Full Story</a></p>--->    
+    <i><span class="small">Posted on</span> <span class="post-date">{{ post.date | date:"%m-%d-%Y" }} on <a href="http://{{ post.domain }}"></a>{{ post.domain }}</a></span></i>
+    <hr />  
    
 </div>
 {% endfor %}
