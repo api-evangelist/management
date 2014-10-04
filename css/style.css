@@ -127,7 +127,7 @@ h1 a:hover, h2 a:hover, h3 a:hover, h4 a:hover, h5 a:hover, h6 a:hover  {text-de
 
 .post  { margin: 15px 0 15px; height: 75px; border-bottom: 1px solid #000;}
 
-.post img { padding: 3px; top: -3px; float: left;}
+.post img { padding: 5px;}
 
 .post hr { margin-bottom: 5px; margin-top: 25px;}
 
