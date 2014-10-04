@@ -5,19 +5,21 @@ title: API Management - News and Analysis
 
 <h1 class="title">API Management - News and Analysis</h1>
 
+<table cellpadding="3" cellspacing="2" width="100%">
 {% for post in paginator.posts %}
-<div class="post">
-    
-    <p>
+<tr>    
+    <td width="55" align="center">
 	    {% if post.image != null %}
 	    	<a href="{{ post.source }}" rel="bookmark" title="{{ post.title }}"><img src="{{ post.image }}" width="50" align="left" /></a>
 	    {% endif %}
+    </td>
+    <td align="left">
 	    <a href="{{ post.source }}" rel="bookmark" title="{{ post.title }}" style="color:#000; font-size: 16px;"><strong>{{ post.title }}</strong></a>
 	    <br /><i><span class="small">Posted on</span> <span class="post-date">{{ post.date | date:"%m-%d-%Y" }} on <a href="http://{{ post.domain }}"></a>{{ post.domain }}</a></span></i>
-    </p>
-   
-</div>
+    </td>   
+</tr>
 {% endfor %}
+</table>
 <div class="pagination">
   <ul>
     {% if paginator.previous_page %}
