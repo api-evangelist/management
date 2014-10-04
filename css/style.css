@@ -125,7 +125,7 @@ h1 a:hover, h2 a:hover, h3 a:hover, h4 a:hover, h5 a:hover, h6 a:hover  {text-de
 .archive_header  { display: block; float: left; width: 100%; margin:0 0 30px; padding:0 0 10px; font-size: 18px; font-weight: bold; border-bottom:#e6e6e6 5px solid; }
 .archive_header .catrss a  { font-size: 14px; text-decoration: none; line-height: 28px; }
 
-.post  { margin: 15px 0 15px;}
+.post  { margin: 15px 0 15px; height: 150px;}
 
 .post img { padding: 3px; top: -3px; float: left;}
 
