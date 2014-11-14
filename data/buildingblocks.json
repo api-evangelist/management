@@ -75,7 +75,7 @@
 			"width": "150",
 			"tags": "",
 			"category": "Ideas",
-			"categoryslug": "research--development"
+			"categoryslug": "research-development"
 		},
 		{
 			"id": "141",
@@ -196,7 +196,7 @@
 			"width": "150",
 			"tags": "",
 			"category": "Labs",
-			"categoryslug": "research--development"
+			"categoryslug": "research-development"
 		},
 		{
 			"id": "165",
@@ -603,7 +603,7 @@
 			"width": "150",
 			"tags": "",
 			"category": "Opportunities",
-			"categoryslug": "research--development"
+			"categoryslug": "research-development"
 		},
 		{
 			"id": "254",
@@ -834,7 +834,7 @@
 			"width": "150",
 			"tags": "",
 			"category": "Heroku",
-			"categoryslug": "code--platform-development-kits-(pdk)"
+			"categoryslug": "code-platform-development-kits-(pdk)"
 		},
 		{
 			"id": "799",
@@ -845,7 +845,7 @@
 			"width": "150",
 			"tags": "",
 			"category": "Drupal",
-			"categoryslug": "code--platform-development-kits-(pdk)"
+			"categoryslug": "code-platform-development-kits-(pdk)"
 		},
 		{
 			"id": "800",
@@ -856,7 +856,7 @@
 			"width": "150",
 			"tags": "",
 			"category": "Wordpress",
-			"categoryslug": "code--platform-development-kits-(pdk)"
+			"categoryslug": "code-platform-development-kits-(pdk)"
 		},
 		{
 			"id": "801",
@@ -867,7 +867,7 @@
 			"width": "150",
 			"tags": "",
 			"category": "Google App Engine",
-			"categoryslug": "code--platform-development-kits-(pdk)"
+			"categoryslug": "code-platform-development-kits-(pdk)"
 		},
 		{
 			"id": "802",
@@ -911,7 +911,7 @@
 			"width": "150",
 			"tags": "",
 			"category": ".NET Library",
-			"categoryslug": "code--libraries"
+			"categoryslug": "code-libraries"
 		},
 		{
 			"id": "821",
@@ -922,7 +922,7 @@
 			"width": "150",
 			"tags": "",
 			"category": "PHP Library",
-			"categoryslug": "code--libraries"
+			"categoryslug": "code-libraries"
 		},
 		{
 			"id": "822",
@@ -933,7 +933,7 @@
 			"width": "150",
 			"tags": "",
 			"category": "Python Library",
-			"categoryslug": "code--libraries"
+			"categoryslug": "code-libraries"
 		},
 		{
 			"id": "823",
@@ -944,7 +944,7 @@
 			"width": "150",
 			"tags": "",
 			"category": "Ruby Library",
-			"categoryslug": "code--libraries"
+			"categoryslug": "code-libraries"
 		},
 		{
 			"id": "825",
@@ -966,7 +966,7 @@
 			"width": "100",
 			"tags": "",
 			"category": "Java Library",
-			"categoryslug": "code--libraries"
+			"categoryslug": "code-libraries"
 		},
 		{
 			"id": "827",
@@ -977,7 +977,7 @@
 			"width": "150",
 			"tags": "",
 			"category": "Node.js Library",
-			"categoryslug": "code--libraries"
+			"categoryslug": "code-libraries"
 		},
 		{
 			"id": "828",
@@ -988,7 +988,7 @@
 			"width": "150",
 			"tags": "",
 			"category": "Perl LIbrary",
-			"categoryslug": "code--libraries"
+			"categoryslug": "code-libraries"
 		},
 		{
 			"id": "829",
@@ -999,7 +999,7 @@
 			"width": "150",
 			"tags": "",
 			"category": "Chrome Extension",
-			"categoryslug": "code--platform-development-kits-(pdk)"
+			"categoryslug": "code-platform-development-kits-(pdk)"
 		},
 		{
 			"id": "830",
@@ -1010,7 +1010,7 @@
 			"width": "150",
 			"tags": "",
 			"category": "Firefox Add-On",
-			"categoryslug": "code--platform-development-kits-(pdk)"
+			"categoryslug": "code-platform-development-kits-(pdk)"
 		},
 		{
 			"id": "831",
@@ -1021,7 +1021,7 @@
 			"width": "150",
 			"tags": "",
 			"category": "ColdFusion Library",
-			"categoryslug": "code--libraries"
+			"categoryslug": "code-libraries"
 		},
 		{
 			"id": "832",
@@ -1043,7 +1043,7 @@
 			"width": "150",
 			"tags": "",
 			"category": "Haskell LIbrary",
-			"categoryslug": "code--libraries"
+			"categoryslug": "code-libraries"
 		},
 		{
 			"id": "834",
@@ -1065,7 +1065,7 @@
 			"width": "150",
 			"tags": "",
 			"category": "Scala Library",
-			"categoryslug": "code--libraries"
+			"categoryslug": "code-libraries"
 		},
 		{
 			"id": "836",
@@ -1109,7 +1109,7 @@
 			"width": "100",
 			"tags": "",
 			"category": "Java SDK",
-			"categoryslug": "code--software-development-kits-(sdk)"
+			"categoryslug": "code-software-development-kits-(sdk)"
 		},
 		{
 			"id": "842",
@@ -1120,7 +1120,7 @@
 			"width": "150",
 			"tags": "",
 			"category": "PHP SDK",
-			"categoryslug": "code--software-development-kits-(sdk)"
+			"categoryslug": "code-software-development-kits-(sdk)"
 		},
 		{
 			"id": "843",
@@ -1131,7 +1131,7 @@
 			"width": "150",
 			"tags": "",
 			"category": "Ruby SDK",
-			"categoryslug": "code--software-development-kits-(sdk)"
+			"categoryslug": "code-software-development-kits-(sdk)"
 		},
 		{
 			"id": "872",
@@ -1142,7 +1142,7 @@
 			"width": "150",
 			"tags": "",
 			"category": ".NET SDK",
-			"categoryslug": "code--software-development-kits-(sdk)"
+			"categoryslug": "code-software-development-kits-(sdk)"
 		},
 		{
 			"id": "873",
@@ -1230,7 +1230,7 @@
 			"width": "150",
 			"tags": "",
 			"category": "SalesForce",
-			"categoryslug": "code--platform-development-kits-(pdk)"
+			"categoryslug": "code-platform-development-kits-(pdk)"
 		},
 		{
 			"id": "892",
@@ -1296,7 +1296,7 @@
 			"width": "150",
 			"tags": "",
 			"category": "Python SDK",
-			"categoryslug": "code--software-development-kits-(sdk)"
+			"categoryslug": "code-software-development-kits-(sdk)"
 		},
 		{
 			"id": "910",
@@ -1307,7 +1307,7 @@
 			"width": "150",
 			"tags": "",
 			"category": "Node.js SDK",
-			"categoryslug": "code--software-development-kits-(sdk)"
+			"categoryslug": "code-software-development-kits-(sdk)"
 		},
 		{
 			"id": "911",
@@ -1318,7 +1318,7 @@
 			"width": "150",
 			"tags": "",
 			"category": "Joomla PDK",
-			"categoryslug": "code--platform-development-kits-(pdk)"
+			"categoryslug": "code-platform-development-kits-(pdk)"
 		},
 		{
 			"id": "912",
