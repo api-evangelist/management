@@ -31,7 +31,7 @@
 			"width": "0",
 			"tags": "",
 			"category": "Forum",
-			"categoryslug": "self-service-support"
+			"categoryslug": "selfservice-support"
 		},
 		{
 			"id": "132",
@@ -75,7 +75,7 @@
 			"width": "150",
 			"tags": "",
 			"category": "Ideas",
-			"categoryslug": "research-development"
+			"categoryslug": "research--development"
 		},
 		{
 			"id": "141",
@@ -196,7 +196,7 @@
 			"width": "150",
 			"tags": "",
 			"category": "Labs",
-			"categoryslug": "research-development"
+			"categoryslug": "research--development"
 		},
 		{
 			"id": "165",
@@ -515,7 +515,7 @@
 			"width": "150",
 			"tags": "",
 			"category": "Stack Overflow",
-			"categoryslug": "self-service-support"
+			"categoryslug": "selfservice-support"
 		},
 		{
 			"id": "246",
@@ -603,7 +603,7 @@
 			"width": "150",
 			"tags": "",
 			"category": "Opportunities",
-			"categoryslug": "research-development"
+			"categoryslug": "research--development"
 		},
 		{
 			"id": "254",
@@ -1098,7 +1098,7 @@
 			"width": "150",
 			"tags": "",
 			"category": "Forum RSS",
-			"categoryslug": "self-service-support"
+			"categoryslug": "selfservice-support"
 		},
 		{
 			"id": "841",
