@@ -834,7 +834,7 @@
 			"width": "150",
 			"tags": "",
 			"category": "Heroku",
-			"categoryslug": "code-platform-development-kits-(pdk)"
+			"categoryslug": "code-platform-development-kits-pdk"
 		},
 		{
 			"id": "799",
@@ -845,7 +845,7 @@
 			"width": "150",
 			"tags": "",
 			"category": "Drupal",
-			"categoryslug": "code-platform-development-kits-(pdk)"
+			"categoryslug": "code-platform-development-kits-pdk"
 		},
 		{
 			"id": "800",
@@ -856,7 +856,7 @@
 			"width": "150",
 			"tags": "",
 			"category": "Wordpress",
-			"categoryslug": "code-platform-development-kits-(pdk)"
+			"categoryslug": "code-platform-development-kits-pdk"
 		},
 		{
 			"id": "801",
@@ -867,7 +867,7 @@
 			"width": "150",
 			"tags": "",
 			"category": "Google App Engine",
-			"categoryslug": "code-platform-development-kits-(pdk)"
+			"categoryslug": "code-platform-development-kits-pdk"
 		},
 		{
 			"id": "802",
@@ -955,7 +955,7 @@
 			"width": "150",
 			"tags": "",
 			"category": "Angular.js",
-			"categoryslug": "single-page-applications-(spa)"
+			"categoryslug": "single-page-applications-spa"
 		},
 		{
 			"id": "826",
@@ -999,7 +999,7 @@
 			"width": "150",
 			"tags": "",
 			"category": "Chrome Extension",
-			"categoryslug": "code-platform-development-kits-(pdk)"
+			"categoryslug": "code-platform-development-kits-pdk"
 		},
 		{
 			"id": "830",
@@ -1010,7 +1010,7 @@
 			"width": "150",
 			"tags": "",
 			"category": "Firefox Add-On",
-			"categoryslug": "code-platform-development-kits-(pdk)"
+			"categoryslug": "code-platform-development-kits-pdk"
 		},
 		{
 			"id": "831",
@@ -1109,7 +1109,7 @@
 			"width": "100",
 			"tags": "",
 			"category": "Java SDK",
-			"categoryslug": "code-software-development-kits-(sdk)"
+			"categoryslug": "code-software-development-kits-sdk"
 		},
 		{
 			"id": "842",
@@ -1120,7 +1120,7 @@
 			"width": "150",
 			"tags": "",
 			"category": "PHP SDK",
-			"categoryslug": "code-software-development-kits-(sdk)"
+			"categoryslug": "code-software-development-kits-sdk"
 		},
 		{
 			"id": "843",
@@ -1131,7 +1131,7 @@
 			"width": "150",
 			"tags": "",
 			"category": "Ruby SDK",
-			"categoryslug": "code-software-development-kits-(sdk)"
+			"categoryslug": "code-software-development-kits-sdk"
 		},
 		{
 			"id": "872",
@@ -1142,7 +1142,7 @@
 			"width": "150",
 			"tags": "",
 			"category": ".NET SDK",
-			"categoryslug": "code-software-development-kits-(sdk)"
+			"categoryslug": "code-software-development-kits-sdk"
 		},
 		{
 			"id": "873",
@@ -1230,7 +1230,7 @@
 			"width": "150",
 			"tags": "",
 			"category": "SalesForce",
-			"categoryslug": "code-platform-development-kits-(pdk)"
+			"categoryslug": "code-platform-development-kits-pdk"
 		},
 		{
 			"id": "892",
@@ -1296,7 +1296,7 @@
 			"width": "150",
 			"tags": "",
 			"category": "Python SDK",
-			"categoryslug": "code-software-development-kits-(sdk)"
+			"categoryslug": "code-software-development-kits-sdk"
 		},
 		{
 			"id": "910",
@@ -1307,7 +1307,7 @@
 			"width": "150",
 			"tags": "",
 			"category": "Node.js SDK",
-			"categoryslug": "code-software-development-kits-(sdk)"
+			"categoryslug": "code-software-development-kits-sdk"
 		},
 		{
 			"id": "911",
@@ -1318,7 +1318,7 @@
 			"width": "150",
 			"tags": "",
 			"category": "Joomla PDK",
-			"categoryslug": "code-platform-development-kits-(pdk)"
+			"categoryslug": "code-platform-development-kits-pdk"
 		},
 		{
 			"id": "912",
