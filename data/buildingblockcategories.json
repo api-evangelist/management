@@ -18,11 +18,11 @@
 		},
 		{
 			"category": "Code - Libraries",
-			"slug": "code--libraries"
+			"slug": "code-libraries"
 		},
 		{
 			"category": "Code - Software Development Kits (SDK)",
-			"slug": "code--software-development-kits-(sdk)"
+			"slug": "code-software-development-kits-(sdk)"
 		},
 		{
 			"category": "Mobile Management",
@@ -30,7 +30,7 @@
 		},
 		{
 			"category": "Code - Platform Development Kits (PDK)",
-			"slug": "code--platform-development-kits-(pdk)"
+			"slug": "code-platform-development-kits-(pdk)"
 		},
 		{
 			"category": "Single Page Applications (SPA)",
@@ -38,7 +38,7 @@
 		},
 		{
 			"category": "Self-Service Support",
-			"slug": "selfservice-support"
+			"slug": "self-service-support"
 		},
 		{
 			"category": "Direct Support",
