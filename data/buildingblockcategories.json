@@ -1,1 +1,9 @@
-{"buildingblockcategories":[{"category":"Onboarding","slug":"onboarding"},{"category":"Documentation","slug":"documentation"},{"category":"Authentication","slug":"authentication"},{"category":"Code Management","slug":"code-management"},{"category":"Code - Libraries","slug":"code-libraries"},{"category":"Code - Software Development Kits (SDK)","slug":"code-software-development-kits-sdk"},{"category":"Mobile Management","slug":"mobile-management"},{"category":"Code - Platform Development Kits (PDK)","slug":"code-platform-development-kits-pdk"},{"category":"Single Page Applications (SPA)","slug":"single-page-applications-spa"},{"category":"Self-Service Support","slug":"self-service-support"},{"category":"Direct Support","slug":"direct-support"},{"category":"Communications","slug":"communications"},{"category":"Updates","slug":"updates"},{"category":"Service Levels","slug":"service-levels"},{"category":"Monetization","slug":"monetization"},{"category":"Resources","slug":"resources"},{"category":"Service Provider","slug":"service-provider"},{"category":"Research & Development","slug":"research-development"},{"category":"Legal","slug":"legal"},{"category":"Embeddable","slug":"embeddable"},{"category":"Environment","slug":"environment"},{"category":"Developer Account","slug":"developer-account"},{"category":"Reciprocity","slug":"reciprocity"}],"published":"11\/06\/2014"}
+{
+	"buildingblockcategories": [
+		{
+			"category": "API Design",
+			"slug": "api-design"
+		}
+	],
+	"published": "11/13/2014"
+}
