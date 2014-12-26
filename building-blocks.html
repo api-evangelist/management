@@ -33,67 +33,37 @@ title: Building Blocks
 <ul class="toolbar">
     <li>{"<a href="https://raw.github.com/kinlane/api-management/gh-pages/data/buildingblocks.json" title="JSON" target="_blank">JSON</a>"}</li>
     <li>{"<a href="https://apievangelist.3scale.net/docs" title="API" target="_blank">API</a>"}</li>
-    <li>{"<a href="https://gist.github.com/kinlane/5993280" title="Script" target="_blank">SCRIPT</a>"}</li>
 </ul>
 
 <h1 class="title">Building Blocks of API Management</h1>
 
-<p>In 2010 I started API Evangelist as a research project to look at how the top 250 popular APIs were doing business. I spent the summer of 2010 looking at these API providers and established a list of building blocks I found each provider using to manage their API operations.</p>
-<p>I've been maintaining this list for 3 years now, looking at over 9,000 APIs and assessing the building blocks used by the top 2,000 APIs. I've tried to standardize these and establish a potential list that any API provider could consider when planning their own API management strategy.</p>
-    
+<p>These are some of the building blocks of the API management space I've been seeing evolve out of open API management tools and companies. It can be tough to generalize what the building blocks are across the space, and identify how it overlaps with other areas I'm tracking, but this is my best attempt to date.</p>
+
 <!--BaaS Full Listing Template--->
 {% raw  %}
-
-<script id="buildingblockcategoryTemplate" type="text/template">        
+<script id="buildingblockTemplate" type="text/template">
     <tr>       
-        <td colspan="2" align="left"><span style="font-size: 18px;"><strong>{{category}}</strong></span><table id="{{slug}}" class="buildingblocklistingul" style="width: 90%; padding-left: 25px;padding-top: 5px; padding-bottom:5px;"></table></td>
-    </tr>                                                                                                 
-</script>
-
-<script id="buildingblockTemplate" type="text/template">     
-    <tr>       
-        <td colspan="2"></td>
-    </tr>        
-    <tr>       
-        <td width="60" align="center" valign="top"><img src="{{image}}" width="70" align="left" style="padding: 15px;" /></td>
-        <td align="left" valign="middle"><strong>{{name}}</strong> - {{details}}</td>
-    </tr> 
-    <tr>       
-        <td colspan="2"><br /></td>
-    </tr>                                                                                                  
+        <td width="60" align="center" valign="middle"><img src="{{image}}" width="75" align="left" style="padding: 15px;" /></td>
+        <td align="left" valign="middle"><strong>{{name}}</strong> - {{summary}}</td>
+    </tr>                                                                                           
 </script>
 {% endraw %}
 
-<!--BaaS Full Listing Container--->
+<!--Full Listing Container--->
 <div class="buildingblocklistingcontainter">
-    <table id="buildingblockListing" class="buildingblocklistingul" style="width: 90%; padding-left: 25px;" cellpadding="5" cellspoacing="3"></table>
+     <table id="buildingblockListing" class="buildingblocklistingul" style="width: 90%; padding-left: 25px;"></table>
 </div>  
 
 <!--BaaS Full Listing JavaScript--->
 <script type="text/javascript">
-
-// Requires Mustache - http://mustache.github.io/
-
-function listbuidingblockcategories()
-    {
-    $.getJSON('data/buildingblockcategories.json', function(data) {
-         $.each(data['buildingblockcategories'], function(key, val) {
-             
-            var template = $('#buildingblockcategoryTemplate').html();
-            var html = Mustache.to_html(template, val);
-            $('#buildingblockListing').append(html);  
-            });                                   
-        });           
-    } 
     
 function listbuidingblocks()
     {
     $.getJSON('data/buildingblocks.json', function(data) {
          $.each(data['buildingblocks'], function(key, val) {
-            categoryslug = val['categoryslug']; 
             var template = $('#buildingblockTemplate').html();
             var html = Mustache.to_html(template, val);
-            $('#'+categoryslug).append(html);   
+            $('#buildingblockListing').append(html);   
             });                                   
         });        
     }    
@@ -101,8 +71,7 @@ function listbuidingblocks()
 
 <!--Trigger BaaS Full Listing JavaScript onLoad-->
 <script type="text/javascript">
-listbuidingblockcategories();
 listbuidingblocks();
 </script>
 
-<p align="center"><a href="building-blocks-outline.html"<strong>View as Outline</strong></a></p>
+<p>If there are any features you depend on when managementing your APIs, please let me know <a href="https://twitter.com/kinlane/">@kinlane</a>. I'm not trying to create a complete list, just get an idea for what is available across the providers, and where the gaps are potentially.</p>
