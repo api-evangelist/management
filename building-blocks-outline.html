@@ -23,7 +23,7 @@ title: Building Blocks
         padding-left: 30px;
     }  
     .buildingblocklistingul li{
-        padding: 20px; 
+        padding: 2px; 
         border: 0px solid #000;
         font-size: 14px;
         font-weight: normal;
@@ -36,7 +36,7 @@ title: Building Blocks
     <li>{"<a href="https://gist.github.com/kinlane/5993280" title="Script" target="_blank">SCRIPT</a>"}</li>
 </ul>
 
-<h1 class="title">Building Blocks of API Management</h1>
+<h1 class="title">Building Blocks of API Management (Outline)</h1>
 
 <p>In 2010 I started API Evangelist as a research project to look at how the top 250 popular APIs were doing business. I spent the summer of 2010 looking at these API providers and established a list of building blocks I found each provider using to manage their API operations.</p>
 <p>I've been maintaining this list for 3 years now, looking at over 9,000 APIs and assessing the building blocks used by the top 2,000 APIs. I've tried to standardize these and establish a potential list that any API provider could consider when planning their own API management strategy.</p>
@@ -44,29 +44,18 @@ title: Building Blocks
 <!--BaaS Full Listing Template--->
 {% raw  %}
 
-<script id="buildingblockcategoryTemplate" type="text/template">        
-    <tr>       
-        <td colspan="2" align="left"><span style="font-size: 18px;"><strong>{{category}}</strong></span><table id="{{slug}}" class="buildingblocklistingul" style="width: 90%; padding-left: 25px;padding-top: 5px; padding-bottom:5px;"></table></td>
-    </tr>                                                                                                 
+<script id="buildingblockcategoryTemplate" type="text/template">       
+    <li><strong>{{category}}</strong><ul id="{{slug}}" class="buildingblocklistingul"></ul></li>                                                                                               
 </script>
 
-<script id="buildingblockTemplate" type="text/template">     
-    <tr>       
-        <td colspan="2"></td>
-    </tr>        
-    <tr>       
-        <td width="60" align="center" valign="top"><img src="{{image}}" width="70" align="left" style="padding: 15px;" /></td>
-        <td align="left" valign="middle"><strong>{{name}}</strong> - {{details}}</td>
-    </tr> 
-    <tr>       
-        <td colspan="2"><br /></td>
-    </tr>                                                                                                  
+<script id="buildingblockTemplate" type="text/template">       
+    <li><strong>{{name}}</strong></li>                                                                                               
 </script>
 {% endraw %}
 
 <!--BaaS Full Listing Container--->
 <div class="buildingblocklistingcontainter">
-    <table id="buildingblockListing" class="buildingblocklistingul" style="width: 90%; padding-left: 25px;" cellpadding="5" cellspoacing="3"></table>
+     <ul id="buildingblockListing" class="buildingblockcategorylistingul"></ul>
 </div>  
 
 <!--BaaS Full Listing JavaScript--->
@@ -104,5 +93,3 @@ function listbuidingblocks()
 listbuidingblockcategories();
 listbuidingblocks();
 </script>
-
-<p align="center"><a href="building-blocks-outline.html"<strong>View as Outline</strong></a></p>
