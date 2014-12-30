@@ -1499,8 +1499,8 @@
 		{
 			"id": "969",
 			"name": "Rate Limit Information Inline In Docs",
-			"summary": false,
-			"details": "",
+			"summary": "In addition to a rate limits page, explaining information about limitations on API usage, some API providers like Twitter are including rate limits within API documentation. With this approach, each API endpoint has its related rate limits published alongside other details.",
+			"details": "In addition to a rate limits page, explaining information about limitations on API usage, some API providers like Twitter are including rate limits within API documentation. With this approach, each API endpoint has its related rate limits published alongside other details.",
 			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-documentation-inline-rate-limits.png",
 			"width": "100",
 			"tags": "",
