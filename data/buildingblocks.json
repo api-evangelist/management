@@ -255,14 +255,14 @@
 		},
 		{
 			"id": "175",
-			"name": "Rate Limits",
-			"summary": "Rate limiting is the industry standard for controlling what a developer can do with an API and reducing abuse on the platform.  As with service tiers and pricing, put a considerable amount of thought into API rate limits. Make sure rate limits are in sync with service tiers, with pricing clearly posted, as well as proper relief valves so developers do not end up frustrated.  Rate limits are meant ",
-			"details": "Rate limiting is the industry standard for controlling what a developer can do with an API and reducing abuse on the platform.  As with service tiers and pricing, put a considerable amount of thought into API rate limits. Make sure rate limits are in sync with service tiers, with pricing clearly posted, as well as proper relief valves so developers do not end up frustrated.  Rate limits are meant to prevent abuse, not stifle innovation--put a lot of thought into the rate limits, and actively evaluate them to make sure they are achieving the objectives of the API platform.",
+			"name": "Rate Limits Page",
+			"summary": "Developers need to understand what the limitations of API usage are upfront. Rate limiting an throttling of API access has become commonplace to manage security, and resource load. This building block is about providing a single page explaining how this process works, setting expectations with API consumers.",
+			"details": "Developers need to understand what the limitations of API usage are upfront. Rate limiting an throttling of API access has become commonplace to manage security, and resource load. This building block is about providing a single page explaining how this process works, setting expectations with API consumers.",
 			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-speed-limit.jpeg",
 			"width": "150",
 			"tags": "",
-			"category": "Rate Limits",
-			"categoryslug": "service-levels"
+			"category": "Rate Limits Page",
+			"categoryslug": "rate-limits"
 		},
 		{
 			"id": "178",
@@ -1495,6 +1495,28 @@
 			"tags": "",
 			"category": "Zapier",
 			"categoryslug": "reciprocity"
+		},
+		{
+			"id": "969",
+			"name": "Rate Limit Information Inline In Docs",
+			"summary": false,
+			"details": "",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-documentation-inline-rate-limits.png",
+			"width": "100",
+			"tags": "",
+			"category": "Rate Limit Information Inline In Docs",
+			"categoryslug": "rate-limits"
+		},
+		{
+			"id": "970",
+			"name": "Account Rate Limit API",
+			"summary": "As API usage grows the need to be able to programmaticaly manage your account is increasing. Some API platforms also provide APIs for the management of platform operations. It makes sense that API providers should also offer an API for getting rate limit details for their account.",
+			"details": "As API usage grows the need to be able to programmaticaly manage your account is increasing. Some API platforms also provide APIs for the management of platform operations. It makes sense that API providers should also offer an API for getting rate limit details for their account.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-rate-limit-api.png",
+			"width": "100",
+			"tags": "",
+			"category": "Account Rate Limit API",
+			"categoryslug": "rate-limits"
 		}
 	],
 	"published": "12/29/2014"
