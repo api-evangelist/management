@@ -95,6 +95,10 @@
 		{
 			"category": "Security",
 			"slug": "security"
+		},
+		{
+			"category": "Rate Limits",
+			"slug": "rate-limits"
 		}
 	],
 	"published": "12/29/2014"
