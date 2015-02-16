@@ -99,7 +99,11 @@
 		{
 			"category": "Rate Limits",
 			"slug": "rate-limits"
+		},
+		{
+			"category": "Corporate",
+			"slug": "corporate"
 		}
 	],
-	"published": "12/29/2014"
+	"published": "02/16/2015"
 }
