@@ -134,13 +134,13 @@
 		},
 		{
 			"id": "150",
-			"name": "Terms of Use / Conditions",
+			"name": "Terms of Service",
 			"summary": "Terms of Use provide a legal framework for developers to operate within.  They set the stage for the business development relationships that will occur within an API ecosystem. TOS should protect the API owners company, assets and brand, but should also provide assurances for developers who are building businesses on top of an API. Make sure an APIs TOS pass insepection with the lawyers, but also ",
 			"details": "Terms of Use provide a legal framework for developers to operate within.  They set the stage for the business development relationships that will occur within an API ecosystem. TOS should protect the API owners company, assets and brand, but should also provide assurances for developers who are building businesses on top of an API. Make sure an APIs TOS pass insepection with the lawyers, but also strike a healthy balance within the ecosystem and foster innovation.",
 			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-terms-conditions.png",
 			"width": "150",
 			"tags": "",
-			"category": "Terms of Use / Conditions",
+			"category": "Terms of Service",
 			"categoryslug": "legal"
 		},
 		{
@@ -464,24 +464,24 @@
 		},
 		{
 			"id": "239",
-			"name": "iOS",
+			"name": "iOS SDK",
 			"summary": "The trends is clear.  Apple is the dominant platform for mobile application development.  API owners need to have a clear understanding of what iOS developers are needing for both iPhone and iPad application development.  When possible, provide iOS specific code samples, SDKs and other resources iOS developers can employ to make their API integrations successful.",
 			"details": "The trends is clear.  Apple is the dominant platform for mobile application development.  API owners need to have a clear understanding of what iOS developers are needing for both iPhone and iPad application development.  When possible, provide iOS specific code samples, SDKs and other resources iOS developers can employ to make their API integrations successful.",
 			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-iphone.png",
 			"width": "150",
 			"tags": "",
-			"category": "iOS",
+			"category": "iOS SDK",
 			"categoryslug": "mobile-management"
 		},
 		{
 			"id": "240",
-			"name": "Android",
+			"name": "Android SDK",
 			"summary": "When it comes to mobile development, Google&rsquo;s Android platform is definitely the number two player in the space, and warrants similar attention as the iOS building block.  Consider providing Java code samples and SDKs specifically for the Android mobile platform.  Android is picking up momentum in the space and with new devices being released all the time, API owners can&rsquo;t ignore the p",
 			"details": "When it comes to mobile development, Google&rsquo;s Android platform is definitely the number two player in the space, and warrants similar attention as the iOS building block.  Consider providing Java code samples and SDKs specifically for the Android mobile platform.  Android is picking up momentum in the space and with new devices being released all the time, API owners can&rsquo;t ignore the platform as a serious contender.",
 			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-android.jpg",
 			"width": "150",
 			"tags": "",
-			"category": "Android",
+			"category": "Android SDK",
 			"categoryslug": "mobile-management"
 		},
 		{
@@ -728,13 +728,13 @@
 		},
 		{
 			"id": "675",
-			"name": "Service Level Agreement (SLA)",
+			"name": "Service Level Agreement",
 			"summary": "A service level agreements (SLA) provides a legal framework for describing what service(s) is being offered by an API provider, with details about level and quality of service, includingwarranties,disaster recovery, and steps fortermination of agreement. SLAs may vary based upon multiple levels of access to API resources, and different API user groups.",
 			"details": "A service level agreements (SLA) provides a legal framework for describing what service(s) is being offered by an API provider, with details about level and quality of service, includingwarranties,disaster recovery, and steps fortermination of agreement. SLAs may vary based upon multiple levels of access to API resources, and different API user groups.",
 			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-handshake.jpg",
 			"width": "0",
 			"tags": "",
-			"category": "Service Level Agreement (SLA)",
+			"category": "Service Level Agreement",
 			"categoryslug": "legal"
 		},
 		{
@@ -1431,17 +1431,6 @@
 			"categoryslug": "code-management"
 		},
 		{
-			"id": "961",
-			"name": "",
-			"summary": false,
-			"details": "",
-			"image": "",
-			"width": "150",
-			"tags": "",
-			"category": "",
-			"categoryslug": "developer-account"
-		},
-		{
 			"id": "962",
 			"name": "Monetization Guidelines",
 			"summary": "Providing legal gudelines for how developers can monetize around resources that are available via an API.",
@@ -1517,7 +1506,29 @@
 			"tags": "",
 			"category": "Account Rate Limit API",
 			"categoryslug": "rate-limits"
+		},
+		{
+			"id": "971",
+			"name": "Apiary",
+			"summary": "Uses Apiary for their documentation manageent, and the API deisgn lifecycle for the platform.",
+			"details": "Uses Apiary for their documentation manageent, and the API deisgn lifecycle for the platform.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/apiary-icon.png",
+			"width": "0",
+			"tags": "",
+			"category": "Apiary",
+			"categoryslug": "service-provider"
+		},
+		{
+			"id": "972",
+			"name": "Team Showcase",
+			"summary": "Provide a simple team page, showcasing the team behind the API. Include photos, personal stories or bios, and any relevant social media accounts like Twitter and Github. Showcasing the team behind an APIs, gives the API personality, and helps build trust with consumers.",
+			"details": "Provide a simple team page, showcasing the team behind the API. Include photos, personal stories or bios, and any relevant social media accounts like Twitter and Github. Showcasing the team behind an APIs, gives the API personality, and helps build trust with consumers.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-teams.jpeg",
+			"width": "100",
+			"tags": "",
+			"category": "Team Showcase",
+			"categoryslug": "corporate"
 		}
 	],
-	"published": "12/29/2014"
+	"published": "02/16/2015"
 }
