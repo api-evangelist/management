@@ -1028,8 +1028,8 @@
 			"name": "Events",
 			"summary": "Publish a page with information about any events the an API program will be ateending, or maybe links to video and slide decks from past conferences.",
 			"details": "Publish a page with information about any events the an API program will be ateending, or maybe links to video and slide decks from past conferences.",
-			"image": "",
-			"width": "150",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-calendar.png",
+			"width": "0",
 			"tags": "",
 			"category": "Events",
 			"categoryslug": "resources"
@@ -1072,8 +1072,8 @@
 			"name": "Slideshare",
 			"summary": "Publish a list of slide decks available on a Slideshare account, providing developers with access to past talks the API program has done.",
 			"details": "Publish a list of slide decks available on a Slideshare account, providing developers with access to past talks the API program has done.",
-			"image": "",
-			"width": "150",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-slideshare.png",
+			"width": "100",
 			"tags": "",
 			"category": "Slideshare",
 			"categoryslug": "resources"
@@ -1083,8 +1083,8 @@
 			"name": "Codecademy",
 			"summary": "Creating courses on Codecademy, then publishing them within an API developer area, providing lessons for developers on how an API operates.",
 			"details": "Creating courses on Codecademy, then publishing them within an API developer area, providing lessons for developers on how an API operates.",
-			"image": "",
-			"width": "150",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-codecademy.png",
+			"width": "100",
 			"tags": "",
 			"category": "Codecademy",
 			"categoryslug": "resources"
@@ -1160,8 +1160,8 @@
 			"name": "Videos",
 			"summary": "Provides video resources, helping people understand the API platform, how it can be put to use, and any other supporting areas of API operations.",
 			"details": "Provides video resources, helping people understand the API platform, how it can be put to use, and any other supporting areas of API operations.",
-			"image": "",
-			"width": "150",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-video.png",
+			"width": "100",
 			"tags": "",
 			"category": "Videos",
 			"categoryslug": "resources"
@@ -1367,10 +1367,10 @@
 		{
 			"id": "956",
 			"name": "Github Authentication",
-			"summary": false,
-			"details": "",
-			"image": "",
-			"width": "150",
+			"summary": "Allow developers to create and login to their API developer account using their own Github account. It is easy to allow Github oAuth to be used, in place of making developers create yet another account.",
+			"details": "Allow developers to create and login to their API developer account using their own Github account. It is easy to allow Github oAuth to be used, in place of making developers create yet another account.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-github.jpg",
+			"width": "0",
 			"tags": "",
 			"category": "Github Authentication",
 			"categoryslug": "developer-account"
@@ -1563,5 +1563,5 @@
 			"categoryslug": "management-api"
 		}
 	],
-	"published": "03/12/2015"
+	"published": "03/13/2015"
 }
