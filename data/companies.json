@@ -16,6 +16,21 @@
 			"tags": "API Management"
 		},
 		{
+			"id": "20",
+			"name": "Akana",
+			"summary": "Akana&rsquo;s (formerly SOA Software) platform helps businesses accelerate digital transformation by securely extending their reach across multiple channels &ndash; mobile, cloud and Internet of Things. Akana enables enterprises to share data as APIs, connect and integrate applications, drive partner adoption, monetize their assets, and provide intelligent insights into their business and operatio",
+			"details": "Akana&rsquo;s (formerly SOA Software) platform helps businesses accelerate digital transformation by securely extending their reach across multiple channels &ndash; mobile, cloud and Internet of Things. Akana enables enterprises to share data as APIs, connect and integrate applications, drive partner adoption, monetize their assets, and provide intelligent insights into their business and operations.",
+			"website": "http://www.akana.com/",
+			"twitter": "https://twitter.com/AkanaInc",
+			"github": "",
+			"blog": "https://blog.akana.com/",
+			"blogrss": "https://blog.akana.com/feed/",
+			"logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/akana-logo-formerly-soa.png",
+			"logo_width": "150",
+			"screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/serviceproviders/Atmosphere-Screenshot.png",
+			"tags": "API Gateway,API Management,API-Deployment,Enterprise,SOA Software"
+		},
+		{
 			"id": "11382",
 			"name": "API Umbrella",
 			"summary": "API Umbrella is an open source API management platform for exposing web service APIs. The basic goal of API Umbrella is to make life easier for both API creators and API consumers. API Umbrella is a proxy that sits in front of your APIs. It can seamlessly add common functionality like api keys, rate limiting, and analytics to any API.",
@@ -136,6 +151,21 @@
 			"tags": "API Gateway,API Management,API-Deployment,Layer7"
 		},
 		{
+			"id": "11784",
+			"name": "deployd",
+			"summary": "An open source platform. Design, build, and scale APIs for web and mobile apps in minutes instead of days. 1) No boilerplate. With one command, your API is up and running. It's an empty canvas waiting for you to add Resources. No boilerplate code necessary. 2) Resources - Deployd APIs are built of plug-and-play resources, such as Collection, which can easily be added and defined through the deploy",
+			"details": "An open source platform. Design, build, and scale APIs for web and mobile apps in minutes instead of days. 1) No boilerplate. With one command, your API is up and running. It's an empty canvas waiting for you to add Resources. No boilerplate code necessary. 2) Resources - Deployd APIs are built of plug-and-play resources, such as Collection, which can easily be added and defined through the deployd dashboard. 3) Dashboard - Add and manage your API's resources through an intuitive web-based dashboard. 4) 1-step deploy - When it's time to deploy, easily deploy it yourself anywhere that can host a Node.js app and MongoDB.",
+			"website": "http://deployd.com/",
+			"twitter": "https://twitter.com/deploydapp",
+			"github": "https://github.com/deployd",
+			"blog": "",
+			"blogrss": "",
+			"logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/deployd-logo.jpeg",
+			"logo_width": "150",
+			"screenshot": null,
+			"tags": "API Deployment,API Design,API Management"
+		},
+		{
 			"id": "84",
 			"name": "Dexy",
 			"summary": "Dexy helps your code to speak for itself. Show off your code with beautiful syntax highlighting. Write examples and Dexy will run them, inserting the output into any document you wish. Everything is based on live code, so updating is easy, syntax errors blow up on you, not your users, and typos are a thing of the past. With Dexy's smart caching, your code is only executed when it needs updating, s",
@@ -238,6 +268,21 @@
 			"logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/microsoft-azure-logo.png",
 			"logo_width": "150",
 			"screenshot": "http://kinlane-productions.s3.amazonaws.com/ap-evangelist-site/api/screenshots/6443_apiphany.png",
+			"tags": "API Management"
+		},
+		{
+			"id": "11782",
+			"name": "Monarch API Manager",
+			"summary": "An open source solution for quickly deploying, managing, and analyzing your APIs. Manage partners, APIs, and internal access from an administrative GUI. Control security policies and apply authorization at a granular level around your digital assets. Capture and view real-time usage statistics across partners and APIs. Create custom data via our Analytics API. Use this data to derive business insi",
+			"details": "An open source solution for quickly deploying, managing, and analyzing your APIs. Manage partners, APIs, and internal access from an administrative GUI. Control security policies and apply authorization at a granular level around your digital assets. Capture and view real-time usage statistics across partners and APIs. Create custom data via our Analytics API. Use this data to derive business insights and drive monetization. Allow users to share their data with applications using the OAuth 2.0 protocol. Protect your customers' sign in credentials. Empower them to revoke applications at any time.",
+			"website": "http://www.monarchapis.com/",
+			"twitter": "",
+			"github": "https://github.com/monarchapis",
+			"blog": "",
+			"blogrss": "",
+			"logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/monarch-api-manager.png",
+			"logo_width": "150",
+			"screenshot": null,
 			"tags": "API Management"
 		},
 		{
@@ -376,21 +421,6 @@
 			"tags": "API Management,API-Deployment"
 		},
 		{
-			"id": "20",
-			"name": "Akana",
-			"summary": "Akana&rsquo;s (formerly SOA Software) platform helps businesses accelerate digital transformation by securely extending their reach across multiple channels &ndash; mobile, cloud and Internet of Things. Akana enables enterprises to share data as APIs, connect and integrate applications, drive partner adoption, monetize their assets, and provide intelligent insights into their business and operatio",
-			"details": "Akana&rsquo;s (formerly SOA Software) platform helps businesses accelerate digital transformation by securely extending their reach across multiple channels &ndash; mobile, cloud and Internet of Things. Akana enables enterprises to share data as APIs, connect and integrate applications, drive partner adoption, monetize their assets, and provide intelligent insights into their business and operations.",
-			"website": "http://www.akana.com/",
-			"twitter": "https://twitter.com/AkanaInc",
-			"github": "",
-			"blog": "https://blog.akana.com/",
-			"blogrss": "https://blog.akana.com/feed/",
-			"logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/akana-logo-formerly-soa.png",
-			"logo_width": "150",
-			"screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/serviceproviders/Atmosphere-Screenshot.png",
-			"tags": "API Gateway,API Management,API-Deployment,Enterprise,SOA Software"
-		},
-		{
 			"id": "24",
 			"name": "Socrata",
 			"summary": "Socrata is the leading developer and provider of Open Data Services, a category of cloud-based Web 2.0 solutions that enable federal, state, and local governments to dramatically improve the reach, usability and social utility of their public information assets. The Socrata Social Data Platform&trade; is a turnkey information delivery platform that reduces lifecycle management costs for government",
@@ -509,22 +539,7 @@
 			"logo_width": "200",
 			"screenshot": null,
 			"tags": "API Management,BaaS"
-		},
-		{
-			"id": "11782",
-			"name": "Monarch API Manager",
-			"summary": "An open source solution for quickly deploying, managing, and analyzing your APIs. Manage partners, APIs, and internal access from an administrative GUI. Control security policies and apply authorization at a granular level around your digital assets. Capture and view real-time usage statistics across partners and APIs. Create custom data via our Analytics API. Use this data to derive business insi",
-			"details": "An open source solution for quickly deploying, managing, and analyzing your APIs. Manage partners, APIs, and internal access from an administrative GUI. Control security policies and apply authorization at a granular level around your digital assets. Capture and view real-time usage statistics across partners and APIs. Create custom data via our Analytics API. Use this data to derive business insights and drive monetization. Allow users to share their data with applications using the OAuth 2.0 protocol. Protect your customers' sign in credentials. Empower them to revoke applications at any time.",
-			"website": "http://www.monarchapis.com/",
-			"twitter": "",
-			"github": "https://github.com/monarchapis",
-			"blog": "",
-			"blogrss": "",
-			"logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/monarch-api-manager.png",
-			"logo_width": "150",
-			"screenshot": null,
-			"tags": "API Management"
 		}
 	],
-	"published": "03/12/2015"
+	"published": "03/13/2015"
 }
