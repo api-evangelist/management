@@ -1521,46 +1521,46 @@
 		{
 			"id": "973",
 			"name": "User Management",
-			"summary": "Allow API API consumers to manage their own accounts via an API management API, enabling users to create, read, update, and delete information associated with their account--fields may vary, depending on what information each API requires for user accounts.nnUser CreatenUser ReadnUser UpdatenUser Deleten",
-			"details": "Allow API API consumers to manage their own accounts via an API management API, enabling users to create, read, update, and delete information associated with their account--fields may vary, depending on what information each API requires for user accounts.nnUser CreatenUser ReadnUser UpdatenUser Deleten",
+			"summary": "Allow API API consumers to manage their own accounts via an API management API, enabling users to create, read, update, and delete information associated with their account--fields may vary, depending on what information each API requires for user accounts. 1) User Create 2) User Read 3) User Update 4) User Delete",
+			"details": "Allow API API consumers to manage their own accounts via an API management API, enabling users to create, read, update, and delete information associated with their account--fields may vary, depending on what information each API requires for user accounts. 1) User Create 2) User Read 3) User Update 4) User Delete",
 			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-users-male-female.png",
 			"width": "100",
 			"tags": "",
 			"category": "User Management",
-			"categoryslug": "api"
+			"categoryslug": "management-api"
 		},
 		{
 			"id": "974",
 			"name": "Account Management",
-			"summary": "Allow API API consumers to manage their own accounts via an API management API, enabling users to create, read, update, and delete information associated with their account--fields may vary, depending on what information each API requires for user accounts.nnUser CreatenUser ReadnUser UpdatenUser Deleten",
-			"details": "Allow API API consumers to manage their own accounts via an API management API, enabling users to create, read, update, and delete information associated with their account--fields may vary, depending on what information each API requires for user accounts.nnUser CreatenUser ReadnUser UpdatenUser Deleten",
+			"summary": "Allow API API consumers to manage their own accounts via an API management API, enabling users to create, read, update, and delete information associated with their account--fields may vary, depending on what information each API requires for user accounts. 1) User Create 2) User Read 3) User Update 4) User Delete",
+			"details": "Allow API API consumers to manage their own accounts via an API management API, enabling users to create, read, update, and delete information associated with their account--fields may vary, depending on what information each API requires for user accounts. 1) User Create 2) User Read 3) User Update 4) User Delete",
 			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-account-settings.png",
 			"width": "100",
 			"tags": "",
 			"category": "Account Management",
-			"categoryslug": "api"
+			"categoryslug": "management-api"
 		},
 		{
 			"id": "975",
 			"name": "Service Management",
-			"summary": "Enable API consumers to retrieve information about plans available for a specific API, or stack of APIs. Allow for listing of plans, and the features available for each plan. Also recommend considering the ability to set default plan for an account, enabling smooth application management.nnService Plan ListnService Plan Feature ListnService Plan Set To Defaultn",
-			"details": "Enable API consumers to retrieve information about plans available for a specific API, or stack of APIs. Allow for listing of plans, and the features available for each plan. Also recommend considering the ability to set default plan for an account, enabling smooth application management.nnService Plan ListnService Plan Feature ListnService Plan Set To Defaultn",
+			"summary": "Enable API consumers to retrieve information about plans available for a specific API, or stack of APIs. Allow for listing of plans, and the features available for each plan. Also recommend considering the ability to set default plan for an account, enabling smooth application management. 1) Service Plan List 2) Service Plan Feature List 3) Service Plan Set To Default",
+			"details": "Enable API consumers to retrieve information about plans available for a specific API, or stack of APIs. Allow for listing of plans, and the features available for each plan. Also recommend considering the ability to set default plan for an account, enabling smooth application management. 1) Service Plan List 2) Service Plan Feature List 3) Service Plan Set To Default",
 			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-service-request.png",
 			"width": "100",
 			"tags": "",
 			"category": "Service Management",
-			"categoryslug": "api"
+			"categoryslug": "management-api"
 		},
 		{
 			"id": "976",
 			"name": "Application Management",
 			"summary": "Ideally each user can have multiple applications, consuming API resources at various rates. This allows for the most flexibility in API consumption, but may vary depending on what API management infrastructure employed. This API should allow for management of all applications, with secure control over application keys. Additionally, there should be analytics available, with a short, simple, but ro",
-			"details": "Ideally each user can have multiple applications, consuming API resources at various rates. This allows for the most flexibility in API consumption, but may vary depending on what API management infrastructure employed. This API should allow for management of all applications, with secure control over application keys. Additionally, there should be analytics available, with a short, simple, but robust list of metrics.nnApplication Plan List (per isolated service)nApplication ListnApplication CreatenApplication ReadnApplication UpdatenApplication Change PlannApplication Key ListnApplication Key CreatenApplication Key DeletenApplication Usage by Metricn",
+			"details": "Ideally each user can have multiple applications, consuming API resources at various rates. This allows for the most flexibility in API consumption, but may vary depending on what API management infrastructure employed. This API should allow for management of all applications, with secure control over application keys. Additionally, there should be analytics available, with a short, simple, but robust list of metrics. 1)Application Plan List (per isolated service) 2)Application List 3)Application Create 4)Application Read 5)Application Update 6)Application Change Plan 7)Application Key List 8)Application Key Create 9)Application Key Delete 10)Application Usage by Metric",
 			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-app.png",
 			"width": "0",
 			"tags": "",
 			"category": "Application Management",
-			"categoryslug": "api"
+			"categoryslug": "management-api"
 		}
 	],
 	"published": "03/12/2015"
