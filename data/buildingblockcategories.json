@@ -103,7 +103,11 @@
 		{
 			"category": "Corporate",
 			"slug": "corporate"
+		},
+		{
+			"category": "API",
+			"slug": "api"
 		}
 	],
-	"published": "02/16/2015"
+	"published": "03/12/2015"
 }
