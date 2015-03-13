@@ -105,8 +105,8 @@
 			"slug": "corporate"
 		},
 		{
-			"category": "API",
-			"slug": "api"
+			"category": "Management API",
+			"slug": "management-api"
 		}
 	],
 	"published": "03/12/2015"
