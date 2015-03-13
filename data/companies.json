@@ -520,8 +520,8 @@
 			"github": "https://github.com/monarchapis",
 			"blog": "",
 			"blogrss": "",
-			"logo": "",
-			"logo_width": "200",
+			"logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/monarch-api-manager.png",
+			"logo_width": "150",
 			"screenshot": null,
 			"tags": "API Management"
 		}
