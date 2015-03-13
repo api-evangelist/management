@@ -377,9 +377,9 @@
 		},
 		{
 			"id": "20",
-			"name": "SOA Software",
-			"summary": "SOA Software, Inc. provides API management and integrated service-oriented architecture (SOA) governance automation solutions. It offers Enterprise API Management; Policy Manager, which provides SOA registry/repository and SOA policy governance solutions; Repository Manager, which provides software development asset repository, lifecycle management, and metadata federation solutions; and Portfolio",
-			"details": "SOA Software, Inc. provides API management and integrated service-oriented architecture (SOA) governance automation solutions. It offers Enterprise API Management; Policy Manager, which provides SOA registry/repository and SOA policy governance solutions; Repository Manager, which provides software development asset repository, lifecycle management, and metadata federation solutions; and Portfolio Manager, a planning governance product that helps ensure the alignment of SOA programs with strategic IT investment and business objectives. The company also provides Service Manager, a SOA management and security product, which provides security, routing, mediation, monitoring, and management for SOA and Web services; and SOLA, which provides a governable mainframe SOA platform.",
+			"name": "Akana",
+			"summary": "Akana&rsquo;s (formerly SOA Software) platform helps businesses accelerate digital transformation by securely extending their reach across multiple channels &ndash; mobile, cloud and Internet of Things. Akana enables enterprises to share data as APIs, connect and integrate applications, drive partner adoption, monetize their assets, and provide intelligent insights into their business and operatio",
+			"details": "Akana&rsquo;s (formerly SOA Software) platform helps businesses accelerate digital transformation by securely extending their reach across multiple channels &ndash; mobile, cloud and Internet of Things. Akana enables enterprises to share data as APIs, connect and integrate applications, drive partner adoption, monetize their assets, and provide intelligent insights into their business and operations.",
 			"website": "http://www.akana.com/",
 			"twitter": "https://twitter.com/AkanaInc",
 			"github": "",
