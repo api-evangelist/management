@@ -414,7 +414,7 @@
 		"github": "",
 		"blog": "",
 		"blogrss": "",
-		"logo": "",
+		"logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/sdks-io-logo.png",
 		"logo_width": "150",
 		"screenshot": null,
 		"tags": "API Integration,API Management"
@@ -542,8 +542,8 @@
 	{
 		"id": "18702",
 		"name": "Varnish Software",
-		"summary": false,
-		"details": "",
+		"summary": "Varnish Software is the company behind Varnish Cache a widely trusted open source web accelerator significantly enhancing web performance for businesses online We power major sites across all industry typesmdashfor businesses such as Nikon Transport for London and Vimeo as well as more than 18 million websites worldwide Varnish Plus is our commercial suite offering products for scalability customi",
+		"details": "Varnish Software is the company behind Varnish Cache a widely trusted open source web accelerator significantly enhancing web performance for businesses online We power major sites across all industry typesmdashfor businesses such as Nikon Transport for London and Vimeo as well as more than 18 million websites worldwide Varnish Plus is our commercial suite offering products for scalability customization monitoring and expert support services",
 		"website": "https://www.varnish-software.com/",
 		"twitter": "https://twitter.com/varnishsoftware",
 		"github": "",
