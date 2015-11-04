@@ -22,28 +22,6 @@
 		"sort_order": "0"
 	},
 	{
-		"building_block_id": "wVc81wMLnCD13pU83VgNTif7zcTOGq1yX116I6DBrNtYn4IswUGn123m116Xf116Lg123LN116RafUJEGhC43KKbOp2vdfFhAg117117",
-		"building_block_category_id": "5jrtNEFnwvcjo65lPu79OTGiUym1qBy5pTYuV2fV123poVboCBZth9XBj7iMLTkIHCA0VGxL8H9nm7xYAMaGhfYA117117",
-		"name": "oAuth",
-		"about": "Providing an oAuth layer to API operations, securing high value APIs, while also opening up a conversation between an API platform, developers, and end-users regarding the access of their content and data.",
-		"category_id": "4",
-		"category": "Authentication",
-		"image": "",
-		"image_width": "100",
-		"sort_order": "0"
-	},
-	{
-		"building_block_id": "123g123idWRhjREORTNOxngXvU60AH21oXhxYGDP1vHgsr8eVJtU5DYhbiDoYO6M54mD3AqA2NGB3S2KOrjqXwvq9A117117",
-		"building_block_category_id": "5jrtNEFnwvcjo65lPu79OTGiUym1qBy5pTYuV2fV123poVboCBZth9XBj7iMLTkIHCA0VGxL8H9nm7xYAMaGhfYA117117",
-		"name": "Basic Auth",
-		"about": "Usage of the basic authentication format that is part of the standard HTTP operations, employing a username and password as credentials for accessing API resources.",
-		"category_id": "4",
-		"category": "Authentication",
-		"image": "",
-		"image_width": "100",
-		"sort_order": "0"
-	},
-	{
 		"building_block_id": "BO7uYnT74KBc116H5PA116ylKJO88kY2zWNBEqENJed5y2rAqDGnqTsuoWJJXtnYRJIKMrcN7j0tjjY59cG5h6gxxQ117117",
 		"building_block_category_id": "tqQqQVAT1G1noubD1233vPYxE1NzpktufYhA123PzgRBsDoRJxHWQNK123ZgLNvsRHDrtUWD2QyKMErxTCYwu1HpnLzg117117",
 		"name": "Python SDK",
@@ -116,17 +94,6 @@
 		"about": "<p>Use a&nbsp;query string lang= parameter to set the language the API documentation should be speaking.</p>",
 		"category_id": "239",
 		"category": "Internationalization",
-		"image": "",
-		"image_width": "100",
-		"sort_order": "0"
-	},
-	{
-		"building_block_id": "T116wWz0EJtyTs123vO2CIUa50F4pQSkLbltEd5123Wddp5Zgmt9Fce2BavtscTU123aUOmSL6fAifFkbWOHhSIMcZ1LoQ117117",
-		"building_block_category_id": "5jrtNEFnwvcjo65lPu79OTGiUym1qBy5pTYuV2fV123poVboCBZth9XBj7iMLTkIHCA0VGxL8H9nm7xYAMaGhfYA117117",
-		"name": "OAuth Scopes",
-		"about": "<p>Providing a dedicated page or section to listing out the differen OAuth scopes used by a platform.</p>",
-		"category_id": "4",
-		"category": "Authentication",
 		"image": "",
 		"image_width": "100",
 		"sort_order": "0"
@@ -671,17 +638,6 @@
 		"sort_order": "3"
 	},
 	{
-		"building_block_id": "DxyWjUMYdZHUc6ywzOMj2ujoWxyqkrXzaJ116njyKAMVOlIkb9LMFnW9BUivx6BBA8hboODN5VPSPvBl2YZf4CTQ117117",
-		"building_block_category_id": "5jrtNEFnwvcjo65lPu79OTGiUym1qBy5pTYuV2fV123poVboCBZth9XBj7iMLTkIHCA0VGxL8H9nm7xYAMaGhfYA117117",
-		"name": "Authentication Tester",
-		"about": "Providing a testing tool for authentication, that allows developers to test key and Basic Auth to oAuth, to help them understand how authentication works and if they are using proper credentials.",
-		"category_id": "4",
-		"category": "Authentication",
-		"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-authentication-test.png",
-		"image_width": "150",
-		"sort_order": "3"
-	},
-	{
 		"building_block_id": "mCyE5EykVq3qNWUpCBlOxdUgncrJVLz8trskcA116xP0s8susVLAYxRXBu6EP40gDypLY6xzUeMoIssU123eMTfefA117117",
 		"building_block_category_id": "y92mG2116XhGnBf0XgHtjMBKxnaImtoPCnc3bmvgUUqaaOB83KpuOg1161236ubrmc1VWmkVOYf2aKDqKyfa35Mdz3yQ117117",
 		"name": "Open Source",
@@ -789,6 +745,17 @@
 		"category": "Environment",
 		"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-data-template.png",
 		"image_width": "150",
+		"sort_order": "3"
+	},
+	{
+		"building_block_id": "123g123idWRhjREORTNOxngXvU60AH21oXhxYGDP1vHgsr8eVJtU5DYhbiDoYO6M54mD3AqA2NGB3S2KOrjqXwvq9A117117",
+		"building_block_category_id": "5jrtNEFnwvcjo65lPu79OTGiUym1qBy5pTYuV2fV123poVboCBZth9XBj7iMLTkIHCA0VGxL8H9nm7xYAMaGhfYA117117",
+		"name": "Basic Auth",
+		"about": "Usage of the basic authentication format that is part of the standard HTTP operations, employing a username and password as credentials for accessing API resources.",
+		"category_id": "4",
+		"category": "Authentication",
+		"image": "",
+		"image_width": "100",
 		"sort_order": "3"
 	},
 	{
@@ -963,6 +930,17 @@
 		"about": "Providing ready to go SalesForce integration, allowing developers, and sometimes even non-developers to immediately put an API to use through their SalesForce account.",
 		"category_id": "120",
 		"category": "Code - Platform Development Kits (PDK)",
+		"image": "",
+		"image_width": "100",
+		"sort_order": "4"
+	},
+	{
+		"building_block_id": "wVc81wMLnCD13pU83VgNTif7zcTOGq1yX116I6DBrNtYn4IswUGn123m116Xf116Lg123LN116RafUJEGhC43KKbOp2vdfFhAg117117",
+		"building_block_category_id": "5jrtNEFnwvcjo65lPu79OTGiUym1qBy5pTYuV2fV123poVboCBZth9XBj7iMLTkIHCA0VGxL8H9nm7xYAMaGhfYA117117",
+		"name": "oAuth",
+		"about": "Providing an oAuth layer to API operations, securing high value APIs, while also opening up a conversation between an API platform, developers, and end-users regarding the access of their content and data.",
+		"category_id": "4",
+		"category": "Authentication",
 		"image": "",
 		"image_width": "100",
 		"sort_order": "4"
@@ -1144,6 +1122,17 @@
 		"sort_order": "5"
 	},
 	{
+		"building_block_id": "T116wWz0EJtyTs123vO2CIUa50F4pQSkLbltEd5123Wddp5Zgmt9Fce2BavtscTU123aUOmSL6fAifFkbWOHhSIMcZ1LoQ117117",
+		"building_block_category_id": "5jrtNEFnwvcjo65lPu79OTGiUym1qBy5pTYuV2fV123poVboCBZth9XBj7iMLTkIHCA0VGxL8H9nm7xYAMaGhfYA117117",
+		"name": "OAuth Scopes",
+		"about": "<p>Providing a dedicated page or section to listing out the differen OAuth scopes used by a platform.</p>",
+		"category_id": "4",
+		"category": "Authentication",
+		"image": "",
+		"image_width": "100",
+		"sort_order": "5"
+	},
+	{
 		"building_block_id": "DrCkZbp116O0sxYpCp1uUvl206G7lxAJa4rX4R7Nq03oB116UiHUrVvcgiNqQg30qprW0Q8Wf8MW7ipALRQ6WxNVAw117117",
 		"building_block_category_id": "LX1rx08wESg7WxbJF4IVjInQUaWlt2Yw8MLCi7C123KWXxdCgc8f4kvivbTdgNWz0oSInt9br77tnMn3aQBOxpGg117117",
 		"name": "Calendar",
@@ -1163,6 +1152,17 @@
 		"category": "Communications",
 		"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-facebook.png",
 		"image_width": "0",
+		"sort_order": "6"
+	},
+	{
+		"building_block_id": "DxyWjUMYdZHUc6ywzOMj2ujoWxyqkrXzaJ116njyKAMVOlIkb9LMFnW9BUivx6BBA8hboODN5VPSPvBl2YZf4CTQ117117",
+		"building_block_category_id": "5jrtNEFnwvcjo65lPu79OTGiUym1qBy5pTYuV2fV123poVboCBZth9XBj7iMLTkIHCA0VGxL8H9nm7xYAMaGhfYA117117",
+		"name": "Authentication Tester",
+		"about": "Providing a testing tool for authentication, that allows developers to test key and Basic Auth to oAuth, to help them understand how authentication works and if they are using proper credentials.",
+		"category_id": "4",
+		"category": "Authentication",
+		"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-authentication-test.png",
+		"image_width": "150",
 		"sort_order": "6"
 	},
 	{
