@@ -121,6 +121,17 @@
 		"sort_order": "0"
 	},
 	{
+		"building_block_id": "T116wWz0EJtyTs123vO2CIUa50F4pQSkLbltEd5123Wddp5Zgmt9Fce2BavtscTU123aUOmSL6fAifFkbWOHhSIMcZ1LoQ117117",
+		"building_block_category_id": "5jrtNEFnwvcjo65lPu79OTGiUym1qBy5pTYuV2fV123poVboCBZth9XBj7iMLTkIHCA0VGxL8H9nm7xYAMaGhfYA117117",
+		"name": "OAuth Scopes",
+		"about": "<p>Providing a dedicated page or section to listing out the differen OAuth scopes used by a platform.</p>",
+		"category_id": "4",
+		"category": "Authentication",
+		"image": "",
+		"image_width": "100",
+		"sort_order": "0"
+	},
+	{
 		"building_block_id": "PvvkRURadG8LBOynkbYrYSIsg4123vlogeiyiCZ0j28ehcN116116ZfLSjBLv123stfVNxBBpnLbdhQZBAQcFGCLHb1169ng117117",
 		"building_block_category_id": "ZTvqp7KrG0w1eFKUKfSne2aY3HF123m123GTqAQGYa5qpR0v9dhQJrsF2tXdGljUAogE8ul7DRZrr9HI3agpj3PPDg117117",
 		"name": "Documentation",
