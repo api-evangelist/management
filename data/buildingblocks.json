@@ -66,17 +66,6 @@
 		"sort_order": "0"
 	},
 	{
-		"building_block_id": "6EjnO1jzRtoAK4T7MKUzFI3cNaYtb4fb16tbql8viwn5gDZIMZqmE6cun5hp6EdRpYQaVjPoG1236jsUiKmVef116w117117",
-		"building_block_category_id": "6s4tUwcbJ80Owtn2DeiA0t2UDyeOXpCMpcBn54vCS0puzue116EZ7sWASB5suQZ2fDPJCLkGYMqZi5C123YDiDd9123A117117",
-		"name": "JavaScript Library",
-		"about": "Code libraries in JavaScript for developers to use in their native language. Libraries are simple libraries meant to introduce developers to any API and are usually not meant for production environments.",
-		"category_id": "126",
-		"category": "Code - Libraries",
-		"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-javascript.png",
-		"image_width": "100",
-		"sort_order": "0"
-	},
-	{
 		"building_block_id": "thIVtomy7J123E10rw31wl1239IVyCz5CWq1uR7HwQxgIYxlZQBZ7oRRmINSSyj123OYVVdOvTm5hfc1mAW8aLbFk116ng117117",
 		"building_block_category_id": "thC2dBEKQKQpTEtMic7gjmgFnbPbIw123XKqtpQnVfHnh60zH8s7Nd2O4aQuc7LiR9123k6cwoDd435mKA74fUHP3Q117117",
 		"name": "Team Showcase",
@@ -116,6 +105,17 @@
 		"about": "Software Development Kits (SDK) in JavaScript for developers to use when integrating with their applications in the language they are familiar with. SDKs should be expected to be used in production environments.",
 		"category_id": "127",
 		"category": "Code - Software Development Kits (SDK)",
+		"image": "",
+		"image_width": "100",
+		"sort_order": "0"
+	},
+	{
+		"building_block_id": "jCqQ6pLRlifvMl0sYP6iJZ7k1238D20wL82oMBy6qQly15Q8OZ05QrPbij116AeGnyum9J8aZCxnL2oY5KGDv0sqYQ117117",
+		"building_block_category_id": "hS0uKBAr116WjL5TllOJBDkIJdxY2gqx2XZLPBcOk0p7cfScJLmvT1CZj2ruAIay8TLYNb5FPdBcwRBz3RsIEtlg117117",
+		"name": "Documentation Language",
+		"about": "<p>Use a&nbsp;query string lang= parameter to set the language the API documentation should be speaking.</p>",
+		"category_id": "239",
+		"category": "Internationalization",
 		"image": "",
 		"image_width": "100",
 		"sort_order": "0"
@@ -203,7 +203,7 @@
 		"name": "Widgets",
 		"about": "Widgets are highly functional, API driven JavaScript tools that provide portable applications that can be embedded on any website or application. ",
 		"category_id": "16",
-		"category": "Tools",
+		"category": "Embeddable Tools",
 		"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-widget.png",
 		"image_width": "0",
 		"sort_order": "1"
@@ -327,17 +327,6 @@
 		"category": "Code - Platform Development Kits (PDK)",
 		"image": "",
 		"image_width": "100",
-		"sort_order": "1"
-	},
-	{
-		"building_block_id": "cGwdkHgNfecvQllMety1236NARvUbHLCv1kfOHKeD0XCEOjCNXaiR116mtuPoysJLSchUF0Gu1HKUPV47bQ201ryxw117117",
-		"building_block_category_id": "6s4tUwcbJ80Owtn2DeiA0t2UDyeOXpCMpcBn54vCS0puzue116EZ7sWASB5suQZ2fDPJCLkGYMqZi5C123YDiDd9123A117117",
-		"name": "PHP Library",
-		"about": "Code libraries in PHP for developers to use in their native language. Libraries are simple libraries meant to introduce developers to any API and are usually not meant for production environments.",
-		"category_id": "126",
-		"category": "Code - Libraries",
-		"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-php.png",
-		"image_width": "150",
 		"sort_order": "1"
 	},
 	{
@@ -561,17 +550,6 @@
 		"sort_order": "2"
 	},
 	{
-		"building_block_id": "w116dP76YF8cbqoOiuOw6suMbUGIBrZhG1buanBh7plomkQbNkgJxTCr2YwIChKGC4bzslx7LccBe116NeFXLsXExA117117",
-		"building_block_category_id": "6s4tUwcbJ80Owtn2DeiA0t2UDyeOXpCMpcBn54vCS0puzue116EZ7sWASB5suQZ2fDPJCLkGYMqZi5C123YDiDd9123A117117",
-		"name": "Python Library",
-		"about": "Code libraries in Python for developers to use in their native language. Libraries are simple libraries meant to introduce developers to any API and are usually not meant for production environments.",
-		"category_id": "126",
-		"category": "Code - Libraries",
-		"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-python.png",
-		"image_width": "150",
-		"sort_order": "2"
-	},
-	{
 		"building_block_id": "FmJZJbo8yqGE2om67YU88DyudyOc3qOhsJtaLxO0rX123oqs116iQ6LZMJxdxrXI8QIDvptZdSe0QOE450pZHr5FNg117117",
 		"building_block_category_id": "AoZutt8l31l116iBsPPtcSW123qz0PE116ieGBMtg8afcXKQVRbfwbC4123kV4EUUrdu8K11686ZEYROmjtTsAzFkbpDH5AQ117117",
 		"name": "Forum RSS",
@@ -665,7 +643,7 @@
 		"name": "Badges",
 		"about": "Badges are common for displaying content and resources delivered via an API and allow these assets to be embedded on any website or application. ",
 		"category_id": "16",
-		"category": "Tools",
+		"category": "Embeddable Tools",
 		"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-badges.png",
 		"image_width": "0",
 		"sort_order": "3"
@@ -778,17 +756,6 @@
 		"category": "Code - Platform Development Kits (PDK)",
 		"image": "",
 		"image_width": "100",
-		"sort_order": "3"
-	},
-	{
-		"building_block_id": "et4pJnDtHgvA50123u8oj29EJZL6rQuF0NWbDbeNDcph3CnuRhR6e6868b3bIr2VvknQx4TWwA3KABWoUrgSbUbQ117117",
-		"building_block_category_id": "6s4tUwcbJ80Owtn2DeiA0t2UDyeOXpCMpcBn54vCS0puzue116EZ7sWASB5suQZ2fDPJCLkGYMqZi5C123YDiDd9123A117117",
-		"name": "Ruby Library",
-		"about": "Code libraries in Ruby for developers to use in their native language. Libraries are simple libraries meant to introduce developers to any API and are usually not meant for production environments.",
-		"category_id": "126",
-		"category": "Code - Libraries",
-		"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-ruby.png",
-		"image_width": "150",
 		"sort_order": "3"
 	},
 	{
@@ -951,19 +918,8 @@
 		"name": "Widget Builder",
 		"about": "A widget builder provides a form that API consumers can use to configure a predefined widget that is integrated with an API, allowing them to customize and tailor the widget experience.",
 		"category_id": "232",
-		"category": "Engines",
+		"category": "Embed Engines",
 		"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-embeddable.png",
-		"image_width": "150",
-		"sort_order": "4"
-	},
-	{
-		"building_block_id": "xYamQRol2WAIXUJENevdWwm6bCekd123ANDouH84hxog2WyBHmz0T123xYJt2iBgOgPPQ4GV3a80gc8QrJ73pAoHuQ117117",
-		"building_block_category_id": "6s4tUwcbJ80Owtn2DeiA0t2UDyeOXpCMpcBn54vCS0puzue116EZ7sWASB5suQZ2fDPJCLkGYMqZi5C123YDiDd9123A117117",
-		"name": "Node.js Library",
-		"about": "Code libraries in Node.js for developers to use in their native language. Libraries are simple libraries meant to introduce developers to any API and are usually not meant for production environments.",
-		"category_id": "126",
-		"category": "Code - Libraries",
-		"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-node-js.png",
 		"image_width": "150",
 		"sort_order": "4"
 	},
@@ -1061,7 +1017,7 @@
 		"name": "Buttons",
 		"about": "Buttons are shareable snippets of code that often share, syndicate or trigger a variety of events that use APIs as their source.",
 		"category_id": "16",
-		"category": "Tools",
+		"category": "Embeddable Tools",
 		"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-power-button.png",
 		"image_width": "150",
 		"sort_order": "5"
@@ -1108,17 +1064,6 @@
 		"category": "Legal",
 		"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-data-license.png",
 		"image_width": "0",
-		"sort_order": "5"
-	},
-	{
-		"building_block_id": "Rzz9HSAIFVfxc0z3aqqKR123R6qhsV12aP116spy4rII9SckAX7x123HUEwlnWzfHGRh7mNiysDyJ4lNug3pc2pNG5gQ117117",
-		"building_block_category_id": "6s4tUwcbJ80Owtn2DeiA0t2UDyeOXpCMpcBn54vCS0puzue116EZ7sWASB5suQZ2fDPJCLkGYMqZi5C123YDiDd9123A117117",
-		"name": "Java Library",
-		"about": "Code libraries in Java for developers to use in their native language. Libraries are simple libraries meant to introduce developers to any API and are usually not meant for production environments.",
-		"category_id": "126",
-		"category": "Code - Libraries",
-		"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-java.png",
-		"image_width": "100",
 		"sort_order": "5"
 	},
 	{
@@ -1254,17 +1199,6 @@
 		"sort_order": "6"
 	},
 	{
-		"building_block_id": "60hN1230jd3kTCTiA0jzB4Wq8lCcUrHj2nhYVRRmCsnlEbpibz7BK5qTrVqw116mC1pvpwLyjOaKNQI2qIzO1mv3OA117117",
-		"building_block_category_id": "6s4tUwcbJ80Owtn2DeiA0t2UDyeOXpCMpcBn54vCS0puzue116EZ7sWASB5suQZ2fDPJCLkGYMqZi5C123YDiDd9123A117117",
-		"name": ".NET Library",
-		"about": "Code libraries in .NET for developers to use in their native language. Libraries are simple libraries meant to introduce developers to any API and are usually not meant for production environments.",
-		"category_id": "126",
-		"category": "Code - Libraries",
-		"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-dot-net.png",
-		"image_width": "150",
-		"sort_order": "6"
-	},
-	{
 		"building_block_id": "to2d123123anQFxHAAcwTExTMUW4Xj3To123VJ123gPNlW8GE5RECTqAv123oP7116C21238XzB8yNL43jhW8NPgTkkRkg9qR0Dg117117",
 		"building_block_category_id": "123D123SOaWk5DjaZZJRTktVMbnSdR6KZLqYeKdCWoQSr6rMtvsH62vTF5BDKOo2UAthvdK123QAQoPEsd6HGV9dBmTQ117117",
 		"name": "Slideshare",
@@ -1292,7 +1226,7 @@
 		"name": "JavaScript API",
 		"about": "A complete JavaScript API that developers can use to build and manage their own JavaScript integrations with an APIs resources, beyond existing widgets.",
 		"category_id": "232",
-		"category": "Engines",
+		"category": "Embed Engines",
 		"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-javascript-api.png",
 		"image_width": "100",
 		"sort_order": "6"
@@ -1339,17 +1273,6 @@
 		"category": "Code - Platform Development Kits (PDK)",
 		"image": "",
 		"image_width": "100",
-		"sort_order": "7"
-	},
-	{
-		"building_block_id": "jd116tYHIgCAhSNKN96A0b0jGofWdeu3bqvw112yZuuYMNgUt6mGOKusHxhUKaOcUsHmknpOmhvxMexwotn0mmmg117117",
-		"building_block_category_id": "6s4tUwcbJ80Owtn2DeiA0t2UDyeOXpCMpcBn54vCS0puzue116EZ7sWASB5suQZ2fDPJCLkGYMqZi5C123YDiDd9123A117117",
-		"name": "Scala Library",
-		"about": "Code libraries in Scala for developers to use in their native language. Libraries are simple libraries meant to introduce developers to any API and are usually not meant for production environments.",
-		"category_id": "126",
-		"category": "Code - Libraries",
-		"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-scala.png",
-		"image_width": "150",
 		"sort_order": "7"
 	},
 	{
@@ -1430,17 +1353,6 @@
 		"sort_order": "8"
 	},
 	{
-		"building_block_id": "F0ZvhH1v7eTsYj5i3VTApllbVEhl116HtWxFYQQ1k74KutIhKijDoJ7GTm123q4hwZhQG7Kh4VuUekmnPrFFBZ4YiQ117117",
-		"building_block_category_id": "6s4tUwcbJ80Owtn2DeiA0t2UDyeOXpCMpcBn54vCS0puzue116EZ7sWASB5suQZ2fDPJCLkGYMqZi5C123YDiDd9123A117117",
-		"name": "Haskell LIbrary",
-		"about": "Code libraries in Haskell for developers to use in their native language. Libraries are simple libraries meant to introduce developers to any API and are usually not meant for production environments.",
-		"category_id": "126",
-		"category": "Code - Libraries",
-		"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-haskell.png",
-		"image_width": "150",
-		"sort_order": "8"
-	},
-	{
 		"building_block_id": "PUU0hzhXtV4C82fhsGYWsvMk1HxbwWjdoK0mWYdhon6STKyo116ofqR123HrUs12vbH8VijpMs5G0116u5GCU2y68wPA117117",
 		"building_block_category_id": "bbjPuELPFAaZfsPRl2QIvFIjww116UD52xfRz7nFt83iXfXqjbVo9Gp0F7fS8FCoSXR8116VAQdTeMV123IVZTYuf123sA117117",
 		"name": "Google Authentication",
@@ -1483,17 +1395,6 @@
 		"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-path.png",
 		"image_width": "100",
 		"sort_order": "8"
-	},
-	{
-		"building_block_id": "uCKyKSU1PCPNwFmYabSZVwMPRb7I4WnIg7J1Gda2uT0PUVQbym7vjSOj0Hi5FhcHTg5EMXcC0tn6ObHihzyTWg117117",
-		"building_block_category_id": "6s4tUwcbJ80Owtn2DeiA0t2UDyeOXpCMpcBn54vCS0puzue116EZ7sWASB5suQZ2fDPJCLkGYMqZi5C123YDiDd9123A117117",
-		"name": "ColdFusion Library",
-		"about": "Code libraries in ColdFusion for developers to use in their native language. Libraries are simple libraries meant to introduce developers to any API and are usually not meant for production environments.",
-		"category_id": "126",
-		"category": "Code - Libraries",
-		"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-cold-fusion.png",
-		"image_width": "150",
-		"sort_order": "9"
 	},
 	{
 		"building_block_id": "ycKvrRYLHG0PE6uiDvlBgCS18qNJIttlAQRYScbApTOh0MrJ4zFsmmdVzpnnN116TnV4svQG4xf123u7AS5qyK0fCw117117",
@@ -1551,17 +1452,6 @@
 		"sort_order": "9"
 	},
 	{
-		"building_block_id": "zcu116hjlcCmgUDys116m5zb123xAsLSPABe9Z116eGky9hhCom0yZkjNz123k8oDk4oLuSh8xPbzkP0Na116Pk6jf5PExuCyA117117",
-		"building_block_category_id": "6s4tUwcbJ80Owtn2DeiA0t2UDyeOXpCMpcBn54vCS0puzue116EZ7sWASB5suQZ2fDPJCLkGYMqZi5C123YDiDd9123A117117",
-		"name": "Perl LIbrary",
-		"about": "Code libraries in Perl for developers to use in their native language. Libraries are simple libraries meant to introduce developers to any API and are usually not meant for production environments.",
-		"category_id": "126",
-		"category": "Code - Libraries",
-		"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-perl.png",
-		"image_width": "150",
-		"sort_order": "10"
-	},
-	{
 		"building_block_id": "1j116x7XyDrpL9nazr7YjM4EslD3S9jjqHCUQZ0OiJI1SMypaMh1hKcqhz4tUUVFNPl5w1234gGCTHq68dMlUPl123rA117117",
 		"building_block_category_id": "123D123SOaWk5DjaZZJRTktVMbnSdR6KZLqYeKdCWoQSr6rMtvsH62vTF5BDKOo2UAthvdK123QAQoPEsd6HGV9dBmTQ117117",
 		"name": "Videos",
@@ -1607,11 +1497,11 @@
 	},
 	{
 		"building_block_id": "6fijlJeNapOL0PG29fCrTSvkun5123y116GKK61167QHmxUK0SI9QSwXkZAOh0ilkuryS81162qEJ2A511230kipLpdkLYFQ117117",
-		"building_block_category_id": "123D123SOaWk5DjaZZJRTktVMbnSdR6KZLqYeKdCWoQSr6rMtvsH62vTF5BDKOo2UAthvdK123QAQoPEsd6HGV9dBmTQ117117",
+		"building_block_category_id": "hS0uKBAr116WjL5TllOJBDkIJdxY2gqx2XZLPBcOk0p7cfScJLmvT1CZj2ruAIay8TLYNb5FPdBcwRBz3RsIEtlg117117",
 		"name": "Internationalization",
 		"about": "Provide resources that help developers localize, and internationalize their applications to meet the needs of specific global markets.",
-		"category_id": "13",
-		"category": "Resources",
+		"category_id": "239",
+		"category": "Internationalization",
 		"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-global.png",
 		"image_width": "100",
 		"sort_order": "11"
