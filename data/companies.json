@@ -9,9 +9,9 @@
 		"github": "https://github.com/3scale",
 		"blog": "http://www.3scale.net/blog/",
 		"blogrss": "view-source:http://www.3scale.net/feed/",
-		"logo": "http://kinlane-productions.s3.amazonaws.com/ap-evangelist-site/serviceproviders/3Scale-Tag-Cloud.png",
-		"logo_width": "150",
-		"screenshot": "http://kinlane-productions.s3.amazonaws.com/ap-evangelist-site/serviceproviders/3Scale-Tag-Cloud.png",
+		"logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/serviceproviders/3scale-logo.jpg",
+		"logo_width": "300",
+		"screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/serviceproviders/3scale-logo.jpg",
 		"tags": null
 	},
 	{
@@ -39,9 +39,9 @@
 		"github": "https://github.com/amazonwebservices",
 		"blog": "http://aws.amazon.com/blogs/aws/",
 		"blogrss": "http://feeds.feedburner.com/AmazonWebServicesBlog",
-		"logo": "",
-		"logo_width": "0",
-		"screenshot": "",
+		"logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/aws-logo.jpg",
+		"logo_width": "150",
+		"screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/aws-logo.jpg",
 		"tags": null
 	},
 	{
