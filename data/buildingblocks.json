@@ -22,6 +22,50 @@
 		"sort_order": "0"
 	},
 	{
+		"building_block_id": "SCMy2n0uiqnetA116DuELLcrormIXeJTqBx5lS4eXE3zbGyU1igrUmcIcSYSqXSNXN3116JjxubqMpWdOcnMMTI84g117117",
+		"building_block_category_id": "thC2dBEKQKQpTEtMic7gjmgFnbPbIw123XKqtpQnVfHnh60zH8s7Nd2O4aQuc7LiR9123k6cwoDd435mKA74fUHP3Q117117",
+		"name": "Mission",
+		"about": "What is the mission of your company, organization, or government agency behind the platform.",
+		"category_id": "163",
+		"category": "Corporate",
+		"image": "",
+		"image_width": "100",
+		"sort_order": "0"
+	},
+	{
+		"building_block_id": "P4xbltIMas3y116sSgn3AqGXH123kyEBdk1FRow47I116Lstkh8HHb98R0tKZJ5iN123123AFYMqOmVXIfj116KtH5lVSAX6kA117117",
+		"building_block_category_id": "DxyWjUMYdZHUc6ywzOMj2ujoWxyqkrXzaJ116njyKAMVOlIkb9LMFnW9BUivx6BBA8hboODN5VPSPvBl2YZf4CTQ117117",
+		"name": "Value of Resources",
+		"about": "What is the value of an API resource? Often you will be just making this up, but at the least you should be able to articulate in some way.",
+		"category_id": "234",
+		"category": "Pricing & Credits",
+		"image": "",
+		"image_width": "100",
+		"sort_order": "0"
+	},
+	{
+		"building_block_id": "uAz3DZ1234NHJDXafJXSVkMx7hzN7j7rAqcDlu6uAHsNjuNJIQnlUeyI116V3116vYdLWtgkUmU3mIb7XPPe66rDn6nA117117",
+		"building_block_category_id": "DxyWjUMYdZHUc6ywzOMj2ujoWxyqkrXzaJ116njyKAMVOlIkb9LMFnW9BUivx6BBA8hboODN5VPSPvBl2YZf4CTQ117117",
+		"name": "Revenue",
+		"about": "What revenue opportunities for the ecosystem around an API and its operation, sharing in the money made from platform operations.",
+		"category_id": "234",
+		"category": "Pricing & Credits",
+		"image": "",
+		"image_width": "100",
+		"sort_order": "0"
+	},
+	{
+		"building_block_id": "95BzGu7cKKqhnWUhGcQVgNSZGCk1163fXrf123Lgae8XVFV3HsSjILFUODjSx116QWKa32SbDMYVWcVe19EjiybODe3g117117",
+		"building_block_category_id": "bvoV4JpZz1fUreAwChki8ceHjJXZzSm116dFmskYsWiZKsDBd4laQpl9ZcP116VrfNH2IYWmeQTW123trAqD0e5SyiLQ117117",
+		"name": "Slack",
+		"about": "Using Slack to create private channels just for communicating with internal, partner, or public API consumers.",
+		"category_id": "9",
+		"category": "Communications",
+		"image": "",
+		"image_width": "100",
+		"sort_order": "0"
+	},
+	{
 		"building_block_id": "PvvkRURadG8LBOynkbYrYSIsg4123vlogeiyiCZ0j28ehcN116116ZfLSjBLv123stfVNxBBpnLbdhQZBAQcFGCLHb1169ng117117",
 		"building_block_category_id": "ZTvqp7KrG0w1eFKUKfSne2aY3HF123m123GTqAQGYa5qpR0v9dhQJrsF2tXdGljUAogE8ul7DRZrr9HI3agpj3PPDg117117",
 		"name": "Documentation",
@@ -154,17 +198,6 @@
 		"sort_order": "1"
 	},
 	{
-		"building_block_id": "ubOXaIPSZe0s46NJj0i1XuUgu18KPCDAYwjnrDLy18tKydV123KlUlIR3l123UtOAbEjM116BGdEg123gb0YFxzd5VK0Zw117117",
-		"building_block_category_id": "ALQ5kYqU0wGBAviuvleN2JqY0XKF123ggHiLcTS0fVUAebX3zVZOkD9gQ116YaJm4123EDms8Y5O7UpmykHy9zXOtY5w117117",
-		"name": "Pricing",
-		"about": "A single page that outlines what an API costs, providing details on what consumers get with API calls, and what they will cost.",
-		"category_id": "11",
-		"category": "Service Levels",
-		"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-dollar-sign.jpg",
-		"image_width": "150",
-		"sort_order": "1"
-	},
-	{
 		"building_block_id": "zgzgq4iKS05VHxbsYwat5TjE1123oaY7XbCNPAcdBDq9jp6wXIx116zlnzJK01167Qus2uuZW2jQ1CLruE7LGU8eVuHQ117117",
 		"building_block_category_id": "bRBSxQDmB116MShXFSCz62116BJuS123UhbI1161tUi3kxVUNgRvdU0pHHMQaRbhfxlRzWskaLa0KCa7O6cqYFh9jVGUfA117117",
 		"name": "Developer Dashboard",
@@ -227,28 +260,6 @@
 		"category_id": "130",
 		"category": "Single Page Applications (SPA)",
 		"image": "",
-		"image_width": "100",
-		"sort_order": "1"
-	},
-	{
-		"building_block_id": "X123tQksiXprR57gCzpzL6fSwwysnCMCHzbH9CXZ4g5r0gOQ5tIHlk116O11617iN1230IjNg3g6BVvbAYZmfjMNH4LPVQ117117",
-		"building_block_category_id": "tqQqQVAT1G1noubD1233vPYxE1NzpktufYhA123PzgRBsDoRJxHWQNK123ZgLNvsRHDrtUWD2QyKMErxTCYwu1HpnLzg117117",
-		"name": "PHP SDK",
-		"about": "Software Development Kits (SDK) in PHP for developers to use when integrating with their applications in the language they are familiar with. SDKs should be expected to be used in production environments.",
-		"category_id": "127",
-		"category": "Code - Software Development Kits (SDK)",
-		"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-php.png",
-		"image_width": "150",
-		"sort_order": "1"
-	},
-	{
-		"building_block_id": "CloDrPWRG1O1x116mylPeFlmqNWdZ9e7C8NVzc123sPE5f4JjuLk8Ydol0G0mnK123iKfuxupuThQptjd2M2zThfcWHA117117",
-		"building_block_category_id": "DrCkZbp116O0sxYpCp1uUvl206G7lxAJa4rX4R7Nq03oB116UiHUrVvcgiNqQg30qprW0Q8Wf8MW7ipALRQ6WxNVAw117117",
-		"name": "Security Overview",
-		"about": "Offer an overview page outlining the security practices, and technology used by a platform demonstrating the security practices of the platform, and what is expected of developers.",
-		"category_id": "146",
-		"category": "Security",
-		"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-padlock.png",
 		"image_width": "100",
 		"sort_order": "1"
 	},
@@ -363,17 +374,6 @@
 		"sort_order": "2"
 	},
 	{
-		"building_block_id": "nY123n5h2B3L6nMV2t0D1uFuwG116116gu0zZxYdD8SP5CrTzsQ3BHwPD0ebsHSx7SeaIt1TphqcLyGz6Yl6RHM1dhCg117117",
-		"building_block_category_id": "ALQ5kYqU0wGBAviuvleN2JqY0XKF123ggHiLcTS0fVUAebX3zVZOkD9gQ116YaJm4123EDms8Y5O7UpmykHy9zXOtY5w117117",
-		"name": "Service Tiers",
-		"about": "A clear breakdown of any different service tiers that are available for API operations, with features available for each level of access.",
-		"category_id": "11",
-		"category": "Service Levels",
-		"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-tiers.jpg",
-		"image_width": "150",
-		"sort_order": "2"
-	},
-	{
 		"building_block_id": "XseAVQU3ywd92AWV123Q26PF5Gh1236DqAxcouegKY4b5ULaqSa9WRv7CTkJtgLMo116Npl2WHXatI07ikd123fFkwyeag117117",
 		"building_block_category_id": "116oKmTXtN3PE19XBjD1xD0ws5tvZFY0y7Vrn2Rq6cqTbYScyKfJQHua0pIHI1IB09Das8XqPe9mVCV7Y7IoUPSg117117",
 		"name": "Production",
@@ -480,17 +480,6 @@
 		"category_id": "164",
 		"category": "Management API",
 		"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-account-settings.png",
-		"image_width": "100",
-		"sort_order": "2"
-	},
-	{
-		"building_block_id": "OS123qghqVNSAMpbbp82AEnuhIm7SfyyoMWGUo0KaWKSNFjN4OhiKaIejY8eTsfDYNDOodJ4D7JfV123HRM6yfDIUQ117117",
-		"building_block_category_id": "tqQqQVAT1G1noubD1233vPYxE1NzpktufYhA123PzgRBsDoRJxHWQNK123ZgLNvsRHDrtUWD2QyKMErxTCYwu1HpnLzg117117",
-		"name": "JavaScript SDK",
-		"about": "Software Development Kits (SDK) in JavaScript for developers to use when integrating with their applications in the language they are familiar with. SDKs should be expected to be used in production environments.",
-		"category_id": "127",
-		"category": "Code - Software Development Kits (SDK)",
-		"image": "",
 		"image_width": "100",
 		"sort_order": "2"
 	},
@@ -660,17 +649,6 @@
 		"sort_order": "3"
 	},
 	{
-		"building_block_id": "uTIA3x88zMYwl3sRliGrUNoCE5kRRN1160MArWVovRpMxcf0aoTEFE4SrOcQC8iD2PjxGq9123WakC123V680yyrO0Yg117117",
-		"building_block_category_id": "tqQqQVAT1G1noubD1233vPYxE1NzpktufYhA123PzgRBsDoRJxHWQNK123ZgLNvsRHDrtUWD2QyKMErxTCYwu1HpnLzg117117",
-		"name": "Ruby SDK",
-		"about": "Software Development Kits (SDK) in Ruby for developers to use when integrating with their applications in the language they are familiar with. SDKs should be expected to be used in production environments.",
-		"category_id": "127",
-		"category": "Code - Software Development Kits (SDK)",
-		"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-ruby.png",
-		"image_width": "150",
-		"sort_order": "3"
-	},
-	{
 		"building_block_id": "PFNFHdHwlA80coj116wkWubcXG0bqevZJCLotr9zB1ZaXh7tmmxaxUQOUP6pvyRuqwLMWkNukHc4Jk116bDV0pUq7A117117",
 		"building_block_category_id": "116oKmTXtN3PE19XBjD1xD0ws5tvZFY0y7Vrn2Rq6cqTbYScyKfJQHua0pIHI1IB09Das8XqPe9mVCV7Y7IoUPSg117117",
 		"name": "Simulator",
@@ -836,17 +814,6 @@
 		"sort_order": "4"
 	},
 	{
-		"building_block_id": "awQKydREqZrPU53PVuem1A116bQnPqSII0BJbirPVx0YKSV1Fav7cRxUwXJmpiWh0RaHjZksLC116lQGt1y6C2rqtA117117",
-		"building_block_category_id": "ALQ5kYqU0wGBAviuvleN2JqY0XKF123ggHiLcTS0fVUAebX3zVZOkD9gQ116YaJm4123EDms8Y5O7UpmykHy9zXOtY5w117117",
-		"name": "Partner Program",
-		"about": "A formal, public, and documented partnership program for consumers to get higher levels of access to API and platform resources.",
-		"category_id": "11",
-		"category": "Service Levels",
-		"image": "",
-		"image_width": "100",
-		"sort_order": "4"
-	},
-	{
 		"building_block_id": "Odnev0BVKsdSxcrqU4n123g2EDkbOyye7gcKw3zt4tHdiyMUPc123HAlpHWtphmDTy123l60fB3MGUAIYT3Gpn21QhNg117117",
 		"building_block_category_id": "mGIQslJ1LbLipoY116VoLoFUD123TeZnvWIsoyv123Wl06laUB8WOhywf9JdTOZ297tDtb3116nqVrdgcTNITR9ChaWGkQ117117",
 		"name": "Status RSS",
@@ -875,17 +842,6 @@
 		"about": "Providing an oAuth layer to API operations, securing high value APIs, while also opening up a conversation between an API platform, developers, and end-users regarding the access of their content and data.",
 		"category_id": "4",
 		"category": "Authentication",
-		"image": "",
-		"image_width": "100",
-		"sort_order": "4"
-	},
-	{
-		"building_block_id": "hX66ktVSxhoDQRgoZCuMs5GKMDhb7uOnxbIxN3Qxp123MnOxxt8GdoX5sjIDICkvvCENrJsLYwU123FlNJ8WXvx3AQ117117",
-		"building_block_category_id": "tqQqQVAT1G1noubD1233vPYxE1NzpktufYhA123PzgRBsDoRJxHWQNK123ZgLNvsRHDrtUWD2QyKMErxTCYwu1HpnLzg117117",
-		"name": "Node.js SDK",
-		"about": "Software Development Kits (SDK) in Node.js for developers to use when integrating with their applications in the language they are familiar with. SDKs should be expected to be used in production environments.",
-		"category_id": "127",
-		"category": "Code - Software Development Kits (SDK)",
 		"image": "",
 		"image_width": "100",
 		"sort_order": "4"
@@ -1023,17 +979,6 @@
 		"sort_order": "5"
 	},
 	{
-		"building_block_id": "1pCPTJodvaPBoQ3VD2116dhv32X6zAIQNkVR46x123z6rdaAqFvxxvdY4123c7GA3K8eRyeMlm3Qq3FdXNwkeBDrCGNQ117117",
-		"building_block_category_id": "tqQqQVAT1G1noubD1233vPYxE1NzpktufYhA123PzgRBsDoRJxHWQNK123ZgLNvsRHDrtUWD2QyKMErxTCYwu1HpnLzg117117",
-		"name": "Java SDK",
-		"about": "Software Development Kits (SDK) in Java for developers to use when integrating with their applications in the language they are familiar with. SDKs should be expected to be used in production environments.",
-		"category_id": "127",
-		"category": "Code - Software Development Kits (SDK)",
-		"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-java.png",
-		"image_width": "150",
-		"sort_order": "5"
-	},
-	{
 		"building_block_id": "HY2YreCSaW123oqpNPYtVDogVKLiOos5nW72v123CX1236PwPhIiEYsQEFAqSwhUeIFEY8ZqgqoZAuLoZh116F95zre21Q117117",
 		"building_block_category_id": "116116Uf1169eOHbdMPoV1zgX2ow9J116wHq6HytD51233G9b2YAvPOcMwZnrlcpPKi123Vx4dnBMnyk116F7CMFvFB45gfV2uXQ117117",
 		"name": "Integrations",
@@ -1056,17 +1001,6 @@
 		"sort_order": "5"
 	},
 	{
-		"building_block_id": "BO7uYnT74KBc116H5PA116ylKJO88kY2zWNBEqENJed5y2rAqDGnqTsuoWJJXtnYRJIKMrcN7j0tjjY59cG5h6gxxQ117117",
-		"building_block_category_id": "tqQqQVAT1G1noubD1233vPYxE1NzpktufYhA123PzgRBsDoRJxHWQNK123ZgLNvsRHDrtUWD2QyKMErxTCYwu1HpnLzg117117",
-		"name": "Python SDK",
-		"about": "Software Development Kits (SDK) in Python for developers to use when integrating with their applications in the language they are familiar with. SDKs should be expected to be used in production environments.",
-		"category_id": "127",
-		"category": "Code - Software Development Kits (SDK)",
-		"image": "",
-		"image_width": "100",
-		"sort_order": "5"
-	},
-	{
 		"building_block_id": "vzjS2ibvRp123KstMvmOx5lXaXVldcdCs116diGqUvlz2AZJvU7EfPz9WqEDnTxLHbn3rHv68qWEx5ZI2p2jstLqfA117117",
 		"building_block_category_id": "PvvkRURadG8LBOynkbYrYSIsg4123vlogeiyiCZ0j28ehcN116116ZfLSjBLv123stfVNxBBpnLbdhQZBAQcFGCLHb1169ng117117",
 		"name": "Joomla",
@@ -1074,17 +1008,6 @@
 		"category_id": "120",
 		"category": "Code - Platform Development Kits (PDK)",
 		"image": "",
-		"image_width": "100",
-		"sort_order": "5"
-	},
-	{
-		"building_block_id": "bR8XlKFBCDU6vBDeZzn5Ufupb0ruCM123hPeoRB5Jti1HYW88OfVVZVMu116s2hLArpNvIQ8FslHpJiscELUXpaPDQ117117",
-		"building_block_category_id": "ALQ5kYqU0wGBAviuvleN2JqY0XKF123ggHiLcTS0fVUAebX3zVZOkD9gQ116YaJm4123EDms8Y5O7UpmykHy9zXOtY5w117117",
-		"name": "Reseller",
-		"about": "A formal program for managing resellers of products and services sold via APIs, with revenue sharing opportunities.",
-		"category_id": "11",
-		"category": "Service Levels",
-		"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-reseller.png",
 		"image_width": "100",
 		"sort_order": "5"
 	},
@@ -1188,17 +1111,6 @@
 		"sort_order": "6"
 	},
 	{
-		"building_block_id": "MnBN51WnO123uBpaqINHM1vuWhzBuS123rBcLWSc8KHJvA8CzcxvP8I6XiSpMQ4Y98w4DMRXoDjOQ116p4mW0W6SlH5w117117",
-		"building_block_category_id": "tqQqQVAT1G1noubD1233vPYxE1NzpktufYhA123PzgRBsDoRJxHWQNK123ZgLNvsRHDrtUWD2QyKMErxTCYwu1HpnLzg117117",
-		"name": ".NET SDK",
-		"about": "Software Development Kits (SDK) in .NET (VB or C#) for developers to use when integrating with their applications in the language they are familiar with. SDKs should be expected to be used in production environments.",
-		"category_id": "127",
-		"category": "Code - Software Development Kits (SDK)",
-		"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-dot-net.png",
-		"image_width": "150",
-		"sort_order": "6"
-	},
-	{
 		"building_block_id": "aMQQjavD0Z116v3eUsIHsOVfkRkliY4EF116116oM116V6hyrbaAintxKW2uyEyTe8I320tjWAU2iOJoc3aueChAmKX6ng117117",
 		"building_block_category_id": "y92mG2116XhGnBf0XgHtjMBKxnaImtoPCnc3bmvgUUqaaOB83KpuOg1161236ubrmc1VWmkVOYf2aKDqKyfa35Mdz3yQ117117",
 		"name": "Code Builder",
@@ -1217,17 +1129,6 @@
 		"category_id": "232",
 		"category": "Embed Engines",
 		"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-javascript-api.png",
-		"image_width": "100",
-		"sort_order": "6"
-	},
-	{
-		"building_block_id": "2VAg45c123V5llSZ5jiLU7Oc5hlkBBrw2dzvDGGGtrUwewul26SRsLmKuS6Y4116RrKD7zresc7Nn9Xba6caF116NNXA117117",
-		"building_block_category_id": "ALQ5kYqU0wGBAviuvleN2JqY0XKF123ggHiLcTS0fVUAebX3zVZOkD9gQ116YaJm4123EDms8Y5O7UpmykHy9zXOtY5w117117",
-		"name": "Volume Pricing",
-		"about": "Providing additional layers of pricing based upon volume purchases, allowing users to better understand their API usage and potentially buy in bulk based upon their past habits.",
-		"category_id": "11",
-		"category": "Service Levels",
-		"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-volume-pricing.png",
 		"image_width": "100",
 		"sort_order": "6"
 	},
@@ -1316,17 +1217,6 @@
 		"category_id": "2",
 		"category": "Onboarding",
 		"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-email-open.png",
-		"image_width": "100",
-		"sort_order": "7"
-	},
-	{
-		"building_block_id": "TRHP91DoZyE8nV6NrsBWSo15i7JsqpFkY116116sRV3KI44Pgq9x64l4y7swgjhGadDJvntj48zKN7Qr88lOoecvQA117117",
-		"building_block_category_id": "ALQ5kYqU0wGBAviuvleN2JqY0XKF123ggHiLcTS0fVUAebX3zVZOkD9gQ116YaJm4123EDms8Y5O7UpmykHy9zXOtY5w117117",
-		"name": "Certification Program",
-		"about": "Allowing developer to get certified, providing a verified layer of developers that can be used by the platform, and ecosystem partners.",
-		"category_id": "11",
-		"category": "Service Levels",
-		"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-check.png",
 		"image_width": "100",
 		"sort_order": "7"
 	},
