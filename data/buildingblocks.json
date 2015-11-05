@@ -99,6 +99,17 @@
 		"sort_order": "0"
 	},
 	{
+		"building_block_id": "ejfMDy7dPcft7STUh8dIaUwI7zMjBMXtSw4XwkOyjfiPNHhR24BfC37inM6rBs123pbksfcmAE6duvxBqAxcIcyg117117",
+		"building_block_category_id": "bbjPuELPFAaZfsPRl2QIvFIjww116UD52xfRz7nFt83iXfXqjbVo9Gp0F7fS8FCoSXR8116VAQdTeMV123IVZTYuf123sA117117",
+		"name": "Flexible Messaging Area",
+		"about": "Provide a simple, flexible messaging area on the top or bottom of login or signup, providing consumers with simple updates about platform operations.",
+		"category_id": "2",
+		"category": "Onboarding",
+		"image": "",
+		"image_width": "100",
+		"sort_order": "0"
+	},
+	{
 		"building_block_id": "PvvkRURadG8LBOynkbYrYSIsg4123vlogeiyiCZ0j28ehcN116116ZfLSjBLv123stfVNxBBpnLbdhQZBAQcFGCLHb1169ng117117",
 		"building_block_category_id": "ZTvqp7KrG0w1eFKUKfSne2aY3HF123m123GTqAQGYa5qpR0v9dhQJrsF2tXdGljUAogE8ul7DRZrr9HI3agpj3PPDg117117",
 		"name": "Documentation",
