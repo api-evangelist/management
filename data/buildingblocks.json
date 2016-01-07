@@ -154,17 +154,6 @@
 		"sort_order": "1"
 	},
 	{
-		"building_block_id": "bo6116ny1166hrs68tV61116116qmDceVcckb0u97S9uBoeaxopIICz8McZkN2jPAUtAMfdlOZALEJsGDX123F0VqiWqs1167A117117",
-		"building_block_category_id": "2LLI47VW6wAHhTqAUN0DdPkss9hUOOwcH116F9fVZaWgf5DNSnxTcz0PbbiaNQxW2rbqoEsLLBJBLw3VqrBP4iRQ117117",
-		"name": "Rate Limits Page",
-		"about": "Provide a single page explaining how rate limits for a platform works, setting expectations with API consumers about how their consumption of APIs will be impacted.",
-		"category_id": "162",
-		"category": "Rate Limits",
-		"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-speed-limit.jpeg",
-		"image_width": "150",
-		"sort_order": "1"
-	},
-	{
 		"building_block_id": "smGD8f2kKVx2H5pOCIjjGNyg6upwprIPlTxePtSIm5plisA0X7qPhAKOmcOZ123h123FkWSnMUjw3123BSx4azZxUILw117117",
 		"building_block_category_id": "5jrtNEFnwvcjo65lPu79OTGiUym1qBy5pTYuV2fV123poVboCBZth9XBj7iMLTkIHCA0VGxL8H9nm7xYAMaGhfYA117117",
 		"name": "Authentication Overview",
@@ -462,17 +451,6 @@
 		"sort_order": "2"
 	},
 	{
-		"building_block_id": "RbhoZ0JFeIWvUZ116Ms8f2qIvyw123CXsYW116qc2Spigsfl5HZFgrI32d9g6O9nsP123keu11234Z123SHzKDREAyzwDfyYGw117117",
-		"building_block_category_id": "2LLI47VW6wAHhTqAUN0DdPkss9hUOOwcH116F9fVZaWgf5DNSnxTcz0PbbiaNQxW2rbqoEsLLBJBLw3VqrBP4iRQ117117",
-		"name": "Rate Limit Information Inline In Docs",
-		"about": "In addition to a rate limits page, provide information about limitations on API usage, some API providers like Twitter are including rate limits within API documentation.",
-		"category_id": "162",
-		"category": "Rate Limits",
-		"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-documentation-inline-rate-limits.png",
-		"image_width": "100",
-		"sort_order": "2"
-	},
-	{
 		"building_block_id": "OsAfql3FjM116mMc5C116evDwx2qk7bgpj6eTTituOvcUcEI6jPWT7C9rHDjUrHjzR2Hbm1bVSde29BFfLB1913Btw117117",
 		"building_block_category_id": "20LoUasKazc9usXmXK0g3VrXzPFySuO12cTlbO1234srC7fwtWKew6x2V116hzUZoNMzk41hA2TGfLxSYKb8SMWJAA117117",
 		"name": "Account Management",
@@ -667,17 +645,6 @@
 		"category_id": "4",
 		"category": "Authentication",
 		"image": "",
-		"image_width": "100",
-		"sort_order": "3"
-	},
-	{
-		"building_block_id": "gVfURsJvLOoD7DVPSKbYxFqO116BoePfQnR5VCgtLZ116Gn8Ms3DdZhIOuwNlTth41164JEMGWU5CNzR04UGj6lgr2aQ117117",
-		"building_block_category_id": "2LLI47VW6wAHhTqAUN0DdPkss9hUOOwcH116F9fVZaWgf5DNSnxTcz0PbbiaNQxW2rbqoEsLLBJBLw3VqrBP4iRQ117117",
-		"name": "Account Rate Limit API",
-		"about": "Provide an API for accessing the rate limits for an API platform, as well as where a user or their apps stand with usage at any point in time.",
-		"category_id": "162",
-		"category": "Rate Limits",
-		"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-rate-limit-api.png",
 		"image_width": "100",
 		"sort_order": "3"
 	},
@@ -1015,7 +982,7 @@
 		"building_block_id": "T116wWz0EJtyTs123vO2CIUa50F4pQSkLbltEd5123Wddp5Zgmt9Fce2BavtscTU123aUOmSL6fAifFkbWOHhSIMcZ1LoQ117117",
 		"building_block_category_id": "5jrtNEFnwvcjo65lPu79OTGiUym1qBy5pTYuV2fV123poVboCBZth9XBj7iMLTkIHCA0VGxL8H9nm7xYAMaGhfYA117117",
 		"name": "OAuth Scopes",
-		"about": "Providing a dedicated page or section to listing out the differen OAuth scopes used by a platform.",
+		"about": "Providing a dedicated page or section to listing out the different OAuth scopes used by a platform. Providing a transparent window into all the scopes available, and some of the logic into why they exist.",
 		"category_id": "4",
 		"category": "Authentication",
 		"image": "",
