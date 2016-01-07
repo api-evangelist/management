@@ -534,9 +534,9 @@
 		"github": "https://github.com/restlet",
 		"blog": "http://restlet.com/blog",
 		"blogrss": "http://restlet.com/blog/feed/",
-		"logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/apispark-logo",
-		"logo_width": "275",
-		"screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/apispark-logo",
+		"logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Logo-Restlet-Horizontal-800x225.png",
+		"logo_width": "150",
+		"screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Logo-Restlet-Horizontal-800x225.png",
 		"tags": null
 	},
 	{
