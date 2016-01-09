@@ -1190,7 +1190,7 @@
 	{
 		"building_block_id": "62aEx13wJ3rWUs1Cxex123QjFr4xd4pm2116fwzfYZqUm5R7v2TN48Jz1Cyt8xrHlTbApEucSDAsp7eqIiA9ng4JDA117117",
 		"building_block_category_id": "y92mG2116XhGnBf0XgHtjMBKxnaImtoPCnc3bmvgUUqaaOB83KpuOg1161236ubrmc1VWmkVOYf2aKDqKyfa35Mdz3yQ117117",
-		"name": "Code",
+		"name": "Code Page",
 		"about": "A page dedicated to providing access to code resources, whether samples, libraries, SDKs, PDKs, or starter projects.",
 		"category_id": "5",
 		"category": "Code Management",
