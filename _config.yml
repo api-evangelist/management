@@ -85,7 +85,7 @@ navigation:
     decorate: 0
   - label1: (View as PDF Guide)
     link1: http://bit.ly/1JZBO9f
-    size1: 45
+    size1: 65
     extend: 0
     label2:
     link2:
@@ -94,7 +94,7 @@ navigation:
     decorate: 0
   - label1: (Take a Journey)
     link1: http://management.apievangelist.com/journey/index.html
-    size1: 60
+    size1: 65
     extend: 0
     label2:
     link2:
