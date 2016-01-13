@@ -30,6 +30,21 @@
 		"tags": null
 	},
 	{
+		"id": "CXOISKdl8BSKfRkNcIZi7ZA9sdYt7SYAJHZ7DHuUKJm1B16aqoexiypDxzDmKEzCffGoEAd9O6Y116K8HUUwKJFw117117",
+		"name": "Aladtec",
+		"summary": false,
+		"details": "",
+		"website": "http://www.aladtec.com",
+		"twitter": "https://twitter.com/aladtec",
+		"github": "",
+		"blog": "http://aladtec.blogspot.com/",
+		"blogrss": "http://aladtec.blogspot.com/feeds/posts/default?alt=rss",
+		"logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/326_logo.png",
+		"logo_width": "150",
+		"screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/326_logo.png",
+		"tags": null
+	},
+	{
 		"id": "NAzS116wMod33FWf8j116PiE97ZQTTC116LTdgJnOGux3WKT4fN9mKNgkpvE1UFn9smje123bhBD98rL4WgSkSfJe116eBSQ117117",
 		"name": "Amazon Web Services",
 		"summary": "Amazon API Gateway is a fully managed service that makes it easy for developers to create, publish, maintain, monitor, and secure APIs at any scale. With a few clicks in the AWS Management Console, you can create an API that acts as a u201cfront dooru201d for applications to access data, business logic, or functionality from your back-end services, such as workloads running on Amazon Elastic Compu",
@@ -150,6 +165,36 @@
 		"tags": null
 	},
 	{
+		"id": "VgOH17kMBZ2L37c5L1dE1ei8vJKV7N8rOnaciIlMsArCDTs116CntjlQ116xyCESn4S6NCkmNIeBCl9FPb123wWh0DKg117117",
+		"name": "Blueleaf Advisor",
+		"summary": false,
+		"details": "",
+		"website": "http://www.blueleaf.com/developer/",
+		"twitter": "https://twitter.com/blueleafadvisor",
+		"github": "https://github.com/Blueleaf",
+		"blog": "http://blog.blueleaf.com/category/savings-investments/",
+		"blogrss": "http://blog.blueleaf.com/feed/",
+		"logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/1313_logo.png",
+		"logo_width": "150",
+		"screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/1313_logo.png",
+		"tags": null
+	},
+	{
+		"id": "geeFhlmHc6GeZ8pE7HphV116EmYko72c02zPQK34Ziz2txe7lmGWkX8JmReHoLlOdxbMfOJ6123sMDyWN0Jxf8ZyGA117117",
+		"name": "Bugswarm",
+		"summary": "Acquire data from and control embedded devices using JavaScript or plain old HTTP. Combine multiple resources together to create a swarm. Once a member of a swarm, a resource can communicate and share data with other resources in that swarm. Control the level of access a resource has to a swarm. Grant a resource permission to produce data, consume data, or do both. Invite another users resources i",
+		"details": "Acquire data from and control embedded devices using JavaScript or plain old HTTP. Combine multiple resources together to create a swarm. Once a member of a swarm, a resource can communicate and share data with other resources in that swarm. Control the level of access a resource has to a swarm. Grant a resource permission to produce data, consume data, or do both. Invite another users resources into your swarms and accept invitations to place your resources in somebody elses swarms. Share your data easily and securely.",
+		"website": "http://developer.bugswarm.net/index.html",
+		"twitter": "",
+		"github": "",
+		"blog": "",
+		"blogrss": "",
+		"logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/bugswarm-logo.png",
+		"logo_width": "150",
+		"screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/bugswarm-logo.png",
+		"tags": null
+	},
+	{
 		"id": "oS9io1QodWE5EpxAMwWlyqUISt123NV4gAd1237Aq116D123PbAVt123MLJExntcCDIjFYprrOtI123X116OH123hi1MQoz7zViP123Q117117",
 		"name": "CA API Management",
 		"summary": "CA API Management provides the tools any organization needs to integrate and expose legacy systems and applications as APIs. Onboard, enable and manage developers to create apps. Secure enterprise data to meet the toughest compliance and regulatory standards and choose which apps, developers and partners can access your APIs.",
@@ -162,6 +207,21 @@
 		"logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/ca-technologies-logo.png",
 		"logo_width": "150",
 		"screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/ca-technologies-logo.png",
+		"tags": null
+	},
+	{
+		"id": "OWq2n912333IfV7dPIjkyOpf4ByMBIXYpKJAYHNEaLSWSyqeG3nPlRNwrji1vtE4xrX9ZiCA5BTTt0116kZfTVRq7g117117",
+		"name": "Carbon Calculated",
+		"summary": false,
+		"details": "",
+		"website": "http://api-docs.carboncalculated.com/",
+		"twitter": "https://twitter.com/carbonhq",
+		"github": "https://github.com/carboncalculated",
+		"blog": "http://blog.carboncalculated.com",
+		"blogrss": "http://feeds.feedburner.com/carboncalculated/feed",
+		"logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/556_logo.png",
+		"logo_width": "150",
+		"screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/556_logo.png",
 		"tags": null
 	},
 	{
@@ -210,6 +270,36 @@
 		"tags": null
 	},
 	{
+		"id": "49oBSTZ5zNxfjpRC4noNGCgcnJ0MwgxHSykwty8kM2Op2nacA116Qa1168pk6OG2TDs3VuWS4fc5Bv116t19RJYxiG1A117117",
+		"name": "Donor Tools",
+		"summary": false,
+		"details": "",
+		"website": "http://www.donortools.com",
+		"twitter": "https://twitter.com/donortools",
+		"github": "",
+		"blog": "http://blog.donortools.com",
+		"blogrss": "http://blog.donortools.com/feed/",
+		"logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/1049_logo.png",
+		"logo_width": "150",
+		"screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/1049_logo.png",
+		"tags": null
+	},
+	{
+		"id": "Keas7MolXmMLqnWNxGBtam1mmIIuaSwV2J2XJ1JUcfVgTeahZj116ZToior123Pq9116uuTNoTpUY123sYe123IinIz3ApWA117117",
+		"name": "u041cu0435u0434u0432u0435u0434u0435u0432u0430rn u041du0438u043du0430rn",
+		"summary": false,
+		"details": "",
+		"website": "http://www.bluekai.com/exchange_integration.php",
+		"twitter": "https://twitter.com/bluekai",
+		"github": "https://github.com/BlueKai",
+		"blog": "http://blogs.bluekai.com/",
+		"blogrss": "",
+		"logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/708_logo.png",
+		"logo_width": "150",
+		"screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/708_logo.png",
+		"tags": null
+	},
+	{
 		"id": "116amUAm1237BVtUzyduxYwCEanhPcymWBcNIGHnLRd123FjX3khPdW6jeXPNcKDaq6wArYU3ghvotJ5g8xRWWWNSV116w117117",
 		"name": "Exicon",
 		"summary": "Exicon is the AppCycle management company that simplifies the creation, deployment and management of mobile applications for some of the worlds biggest companies allowing them to accelerate their success in mobile. Through its proprietary AppCycle Management platform, Exicon provides the services and tools to support customers in defining their application needs, finding the best developers, stori",
@@ -222,6 +312,21 @@
 		"logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/serviceproviders/exicon-logo.png",
 		"logo_width": "200",
 		"screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/serviceproviders/exicon-logo.png",
+		"tags": null
+	},
+	{
+		"id": "Kbg4r4jZDIMbksTqN6YepIjZ6Eoj0WUjh7t0rALPjDAwHmjv4MNJBlA6cQ8jRZkVjThAxMISobsfY3S6vmOPCA117117",
+		"name": "ezeep",
+		"summary": false,
+		"details": "",
+		"website": "",
+		"twitter": "",
+		"github": "",
+		"blog": "",
+		"blogrss": "",
+		"logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/2127_logo.png",
+		"logo_width": "150",
+		"screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/2127_logo.png",
 		"tags": null
 	},
 	{
@@ -315,6 +420,66 @@
 		"tags": null
 	},
 	{
+		"id": "v123ZE012339JhMGjNvk2wnUGh2QkzN5H1n6FbasnZs1160uD3CmQc1UO7qkSOj1239K116M7j3tOyEgVEsgKBtsoA2116RhQw117117",
+		"name": "Gnip, Inc.",
+		"summary": "Gnip is the world&rsquo;s largest and most trusted provider of social media data, serving customers in a range of industries from social media monitoring and business intelligence to finance and government. Gnip&rsquo;s customers deliver social media analytics to over 90% of the Fortune 500. Gnip delivers more than 100 billion realtime social data activities each month, providing access to data fr",
+		"details": "Gnip is the world&rsquo;s largest and most trusted provider of social media data, serving customers in a range of industries from social media monitoring and business intelligence to finance and government. Gnip&rsquo;s customers deliver social media analytics to over 90% of the Fortune 500. Gnip delivers more than 100 billion realtime social data activities each month, providing access to data from dozens of sources including Twitter, Tumblr, WordPress, Disqus and more.",
+		"website": "http://gnip.com/",
+		"twitter": "https://twitter.com/Gnip",
+		"github": "https://github.com/gnip",
+		"blog": "http://blog.gnip.com",
+		"blogrss": "http://feeds.feedburner.com/gnip/JGtz",
+		"logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/414_logo.png",
+		"logo_width": "125",
+		"screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/414_logo.png",
+		"tags": null
+	},
+	{
+		"id": "28Z8rG536xyy3ojnY39LlnQFRMmcWFVRE0FiO4uxJEWTFpms71W8FuFstnlYbi7yNFrf61123QJYNQX3Sm5iuo123A117117",
+		"name": "GoMobileIQ Headlight",
+		"summary": false,
+		"details": "",
+		"website": "http://www.gomobileiq.com/optimize-daily-routes/",
+		"twitter": "",
+		"github": "",
+		"blog": "",
+		"blogrss": "",
+		"logo": "",
+		"logo_width": "0",
+		"screenshot": "",
+		"tags": null
+	},
+	{
+		"id": "X1KgE95pPBAPNk1yaNy7j8voMkH3q6rYEO0IjylpavQmfxC9HRizZG123fa116E5116kx1232mJjXat5k02Zc4MF6iT5Iw117117",
+		"name": "GroupDocs",
+		"summary": "GroupDocs is a web-based service for online document sharing, collaboration and management. You can easily and securely upload, convert, view, sign and compare any document format (PDF, DOC, DOCX, XLS, PPT, PPTX and many more) with your colleagues and business partners in the realtime without the need to install any software. All the typical file management operations like managing Folders, Copy, ",
+		"details": "GroupDocs is a web-based service for online document sharing, collaboration and management. You can easily and securely upload, convert, view, sign and compare any document format (PDF, DOC, DOCX, XLS, PPT, PPTX and many more) with your colleagues and business partners in the realtime without the need to install any software. All the typical file management operations like managing Folders, Copy, Move and Delete are supported.",
+		"website": "http://groupdocs.com",
+		"twitter": "https://twitter.com/#!/groupdocs",
+		"github": "https://github.com/groupdocs",
+		"blog": "http://groupdocs.com/blog/",
+		"blogrss": "http://groupdocs.com/blog/feed",
+		"logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/1066_logo.png",
+		"logo_width": "150",
+		"screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/1066_logo.png",
+		"tags": null
+	},
+	{
+		"id": "vwj1YJOlvGQi9VWXQ633gJ123iiLmfHGe2hUx2zVJhfZ5d55uYGbj116iZAZt2cSkJameUN7RtXn72ItXfvg7d123zfQ117117",
+		"name": "Hoppio",
+		"summary": false,
+		"details": "",
+		"website": "http://support.appharbor.com/kb/api/api-overview",
+		"twitter": "https://twitter.com/hoppioapp",
+		"github": "https://github.com/appharbor",
+		"blog": "http://blog.appharbor.com/",
+		"blogrss": "https://twitter.com/healthfinder",
+		"logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/348_logo.png",
+		"logo_width": "150",
+		"screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/348_logo.png",
+		"tags": null
+	},
+	{
 		"id": "jGMsAVTXTD2116R726L2XNWBWxwDxaQ3UjUrw47idJ0zZWyi0ZT6LuixoWDGMZPr9a1vMi123Nd4pmHYMeb9Fq123r5w117117",
 		"name": "IBM",
 		"summary": "IBMu00ae API Management solution provides a complete set of web API capabilities to help you extend services from the back-office to new front-office engagements. It offers flexible deployment options, including capabilities for creating, proxying, assembling, securing, and scaling web APIs. IBM API Management provides detailed analytics and operational metrics to the business owner, as well as a ",
@@ -327,6 +492,21 @@
 		"logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/bw-ibm-logo.jpeg",
 		"logo_width": "200",
 		"screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/bw-ibm-logo.jpeg",
+		"tags": null
+	},
+	{
+		"id": "wN4EsxxbIX0VyF6KFAy116f2p2uLLR0123mlv1uafe5Q0KjqXGyus0pCDgl1161CBbgG23apfmpMdjICnaWtRQ6poPFw117117",
+		"name": "Janrain",
+		"summary": false,
+		"details": "",
+		"website": "http://janrain.com",
+		"twitter": "https://twitter.com/janrain",
+		"github": "",
+		"blog": "http://www.janrain.com/blog",
+		"blogrss": "http://feeds.feedburner.com/janrain-blog",
+		"logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/825_logo.jpg",
+		"logo_width": "150",
+		"screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/825_logo.jpg",
 		"tags": null
 	},
 	{
@@ -375,6 +555,21 @@
 		"tags": null
 	},
 	{
+		"id": "NWCACkV116hcqvFV5EWhoTIlNVp1pujBUpEUm1236uRyQspJ47ZBNx8iHAFqAtLoAOtvDwCYODySKivYU1234123QTC8yQ117117",
+		"name": "Magnus Health",
+		"summary": "The technology team at Magnus Health has developed a robust application programming interface (API) that facilitates interaction between your school&rsquo;s information system and Magnus Health. Schools that are already using a student information system can take advantage of having a single sign-on (SSO) integration with Magnus Health&rsquo;s web-based SMR (student medical record).",
+		"details": "The technology team at Magnus Health has developed a robust application programming interface (API) that facilitates interaction between your school&rsquo;s information system and Magnus Health. Schools that are already using a student information system can take advantage of having a single sign-on (SSO) integration with Magnus Health&rsquo;s web-based SMR (student medical record).",
+		"website": "http://magnushealth.com",
+		"twitter": "https://twitter.com/magnushealth",
+		"github": "",
+		"blog": "",
+		"blogrss": "",
+		"logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/mangus-health-logo.jpg",
+		"logo_width": "150",
+		"screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/mangus-health-logo.jpg",
+		"tags": null
+	},
+	{
 		"id": "M98fwooQajZdPZtav116K29116wcE18BiHXzhlURpZH23Sc8jao5tira0vTbmvvNVNxA1KdStPQX7JZIthKwPrSRjA117117",
 		"name": "Mashape",
 		"summary": "Mashape provides an API editor, as part of their API management and discovery platform, allowing API providers to add, edit, and manage the details of an API design, while also managing the rest of API operations--from design to discovery and integration. Mashape editor is just a piece of the overall Mashape suite of API lifecycle management tooling.",
@@ -405,6 +600,21 @@
 		"tags": null
 	},
 	{
+		"id": "z50Zb4pq2RknvqRXuIYC2z0O8ZcGLV116Ao8uvvF6NUIGzElZ99qNlftk7e55EgXxjX5M116wTnBhVedhjmGD1ENOA117117",
+		"name": "Microsoft Atlas",
+		"summary": false,
+		"details": "",
+		"website": "http://msdn.microsoft.com/en-us/library/dd468072%28v=msads.10%29",
+		"twitter": "",
+		"github": "",
+		"blog": "",
+		"blogrss": "",
+		"logo": "",
+		"logo_width": "0",
+		"screenshot": "",
+		"tags": null
+	},
+	{
 		"id": "VlYc0XaXqPduT998iZg116KFGd5kT0kdl3g116TOHXc4iaLmgleUeQcZmeYk2YrZFXkkI0dM95uQSAs412HNJsybEg117117",
 		"name": "Microsoft Azure",
 		"summary": "Simple and frictionless access for developers is key to the success of any API program. Minimizing the time it takes for a new developer to complete a transaction with your API is crucial. API Management generates great documentation and provides an interactive console that rapidly increases developer success.",
@@ -417,6 +627,21 @@
 		"logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/microsoft-azure-logo.png",
 		"logo_width": "150",
 		"screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/microsoft-azure-logo.png",
+		"tags": null
+	},
+	{
+		"id": "g6FZeM6DiFBq116ilW3116WeIGWuuOgB116dxuuhcLFSlEcO7tzYwo5BuQ96CPkwhBQdBc8nYvwyx1123nQVjR4kp98DEg117117",
+		"name": "MokiMobility +MDM",
+		"summary": false,
+		"details": "",
+		"website": "http://www.mokimobility.com/",
+		"twitter": "https://twitter.com/#!/mokimobility",
+		"github": "",
+		"blog": "http://blog.mokimobility.com",
+		"blogrss": "http://feeds.feedburner.com/MokimobilityBlog",
+		"logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/1092_logo.png",
+		"logo_width": "150",
+		"screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/1092_logo.png",
 		"tags": null
 	},
 	{
@@ -435,6 +660,21 @@
 		"tags": null
 	},
 	{
+		"id": "nmxxXH1sXNwRUZpHecJnmD8MnSq0tcrTPDwZQZRtO9vBpAO116CJCE3VW2CCOy9V9krzxZWBG8DI123T123123wf68nzQg117117",
+		"name": "MoneyBird",
+		"summary": "MoneyBird is an online service providing fast and easy billing. You can create, manage and send invoices, but also manage your contacts, send recurring invoices and manage your expenses. PayPal integration available to enable your contacts to pay even faster!",
+		"details": "MoneyBird is an online service providing fast and easy billing. You can create, manage and send invoices, but also manage your contacts, send recurring invoices and manage your expenses. PayPal integration available to enable your contacts to pay even faster!",
+		"website": "https://www.moneybird.nl/api",
+		"twitter": "http://twitter.com/moneybird",
+		"github": "https://github.com/moneybird",
+		"blog": "https://www.moneybird.nl/blog",
+		"blogrss": "http://feeds.feedburner.com/bluetools",
+		"logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/money-bird-logo.png",
+		"logo_width": "150",
+		"screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/money-bird-logo.png",
+		"tags": null
+	},
+	{
 		"id": "2w0Dr123XdAqXavkuNJz5xjrAtmS0mLP5gFYU7p70PwxJQcWmUAC2xZDVI6jiWCO5QVBQjGCi8UrxWwdWef0i0Xg117117",
 		"name": "MuleSoft",
 		"summary": "MuleSoft provides the most widely used integration platform for connecting SaaS and enterprise applications in the cloud and on-premise. With the rise of cloud and mobile, enterprises face a choice: get overwhelmed by the resulting explosion of end points or seize the opportunity to gain competitive advantage. Founded on the idea that connecting applications should not be hard, MuleSoft lets organ",
@@ -447,6 +687,51 @@
 		"logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/mulesoft-logo.jpeg",
 		"logo_width": "225",
 		"screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/mulesoft-logo.jpeg",
+		"tags": null
+	},
+	{
+		"id": "DT06n8KMaIohDyvLFh7oTZCkNnBHzx8ijxkDUvOROMfIoMZ573kQEq419njmjd1123gt6uJNsbAC16HeXKrZWq116w117117",
+		"name": "MutualMind",
+		"summary": false,
+		"details": "",
+		"website": "http://dev.mutualmind.com/",
+		"twitter": "https://twitter.com/#!/mutualmind",
+		"github": "https://github.com/mutualmind",
+		"blog": "http://www.mutualmind.com/blog/",
+		"blogrss": "http://feeds.feedburner.com/mutualmindblog",
+		"logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/1094_logo.jpg",
+		"logo_width": "150",
+		"screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/1094_logo.jpg",
+		"tags": null
+	},
+	{
+		"id": "snBQD5QnbPawk1237w1166E6T5cSBjTB3HlAe25L7iNe1ytn123qo1lCxudMx5dqcWOgv1pZUfScrGbu2WW6123cHFEQuA117117",
+		"name": "MyCase, Inc.",
+		"summary": false,
+		"details": "",
+		"website": "http://www.mycaseinc.com/press/mycase_launches_app_bar_and_api",
+		"twitter": "https://twitter.com/#!/mycaseinc",
+		"github": "https://github.com/mycase",
+		"blog": "http://www.mutualmind.com/blog/",
+		"blogrss": "http://www.mycaseinc.com/blog/feed/",
+		"logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/1095_logo.jpg",
+		"logo_width": "150",
+		"screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/1095_logo.jpg",
+		"tags": null
+	},
+	{
+		"id": "Ig36IzlLPuryh3Y2l1nA4xOmqNKdYY0Q3x8lbm7116123rlQX9OOJ5gu91237123kfr5tbfuw7drMVNMW019A4z6XCxHgA117117",
+		"name": "NationBuilder",
+		"summary": false,
+		"details": "",
+		"website": "",
+		"twitter": "https://twitter.com/NationBuilder",
+		"github": "",
+		"blog": "http://nationbuilder.com/blog",
+		"blogrss": "",
+		"logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/2130_logo.jpg",
+		"logo_width": "150",
+		"screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/2130_logo.jpg",
 		"tags": null
 	},
 	{
@@ -465,6 +750,21 @@
 		"tags": null
 	},
 	{
+		"id": "x7gR8Tgd2opMLieM5jO5116C6w6kpgV04dR4ysWPRs4wNIHJFQiqhl2123123Ky5116Qj4CuwZ3FkwWsmTvuo1164h123xZNRQ117117",
+		"name": "New Dawn",
+		"summary": false,
+		"details": "",
+		"website": "http://newdawn.com/",
+		"twitter": "https://twitter.com/#!/newdawntech",
+		"github": "",
+		"blog": "",
+		"blogrss": "http://newdawn.com/feed/",
+		"logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/NewDawnLogo.png",
+		"logo_width": "150",
+		"screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/NewDawnLogo.png",
+		"tags": null
+	},
+	{
 		"id": "6TK72I7rm123Cow647bsmc8p78YyZX8YydQ5jvIFy0QLoIpiwBbbtL2MafSJLgw2UOdXIe123mm123QNrQOd587dbCNQ117117",
 		"name": "OpenRepose",
 		"summary": "Repose is an open-source platform that you can use to build stacks of reusable software components. These components can be leveraged by service developers to perform common API processing tasks. By using Reposes components rather than creating their own, service developers can focus on the unique features of their services. Repose can be used inside a service to perform API operations. It can als",
@@ -477,6 +777,36 @@
 		"logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/repose-logo.png",
 		"logo_width": "150",
 		"screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/repose-logo.png",
+		"tags": null
+	},
+	{
+		"id": "ANZoRuHXLGeygEszmdQlI0mTwhb5BpT15jzTu123dxuD0KYX18ZrbYJSS0AAk5eU3Kl5jhsNnAMdWwysBAtVfw3A117117",
+		"name": "Pagely",
+		"summary": "Pagely is the first Managed WordPress Hosting service that handles most of the technical stuff like upgrades, performance, and security to allow you to focus on your content. We provide WordPress Hosting for personal sites to multi-server clusters for enterprise and all manner of sites in between.",
+		"details": "Pagely is the first Managed WordPress Hosting service that handles most of the technical stuff like upgrades, performance, and security to allow you to focus on your content. We provide WordPress Hosting for personal sites to multi-server clusters for enterprise and all manner of sites in between.",
+		"website": "http://pagely.com/",
+		"twitter": "https://twitter.com/pagely",
+		"github": "",
+		"blog": "http://blog.pagely.com/",
+		"blogrss": "",
+		"logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/pagely-logo.png",
+		"logo_width": "150",
+		"screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/pagely-logo.png",
+		"tags": null
+	},
+	{
+		"id": "bhXG0Z7123A8MtOQ2G123sG6ZwbryZAPrVu7aVADgwXTiO7pkx5mGpm8mHY0Tq9zaK19gOctMgegdcv3ooBMkZwCRQ117117",
+		"name": "PagerDuty",
+		"summary": "PagerDuty is the 911 dispatch system for IT, helping operations engineers, DevOps and developers resolve IT system problems as quickly as possible. PagerDuty aggregates errors from all of your IT monitoring tools and handles the people part of the equation: alerting via phone, SMS or email, on-call scheduling and automatic escalation of critical incidents.",
+		"details": "PagerDuty is the 911 dispatch system for IT, helping operations engineers, DevOps and developers resolve IT system problems as quickly as possible. PagerDuty aggregates errors from all of your IT monitoring tools and handles the people part of the equation: alerting via phone, SMS or email, on-call scheduling and automatic escalation of critical incidents.",
+		"website": "http://www.pagerduty.com",
+		"twitter": "https://twitter.com/pagerduty",
+		"github": "https://github.com/PagerDuty",
+		"blog": "http://blog.pagerduty.com/",
+		"blogrss": "http://blog.pagerduty.com/feed/",
+		"logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/632_logo.png",
+		"logo_width": "150",
+		"screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/632_logo.png",
 		"tags": null
 	},
 	{
@@ -507,6 +837,21 @@
 		"logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/readme-io-logo.png",
 		"logo_width": "150",
 		"screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/readme-io-logo.png",
+		"tags": null
+	},
+	{
+		"id": "7o9d1V116d4zoAFRIA2Ooygoj6dlGCio3nEqbHwqmThJLh6uZX9ZOn5FHDtPXMQYzw4rA84YR6NUZQXc57IG8EjA117117",
+		"name": "RegOnline",
+		"summary": false,
+		"details": "",
+		"website": "http://regonline.com",
+		"twitter": "https://twitter.com/RegOnline",
+		"github": "",
+		"blog": "",
+		"blogrss": "http://feeds.feedburner.com/RegonlineDeveloperResources",
+		"logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/active-regonline.png",
+		"logo_width": "175",
+		"screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/active-regonline.png",
 		"tags": null
 	},
 	{
@@ -720,6 +1065,21 @@
 		"tags": null
 	},
 	{
+		"id": "C31kJAsvoHRpNaNS3rFysMyn66gQ011pDVFf11ow123lYEaGd2OOG116hBKNMMVf1hFSLiDI116Tgg116HRBxyvVLQvYmg117117",
+		"name": "WIP Factory",
+		"summary": false,
+		"details": "",
+		"website": "http://www.wipfactory.com/",
+		"twitter": "https://twitter.com/WIPFactory",
+		"github": "",
+		"blog": "http://www.wipfactory.com/blog/",
+		"blogrss": "http://www.wipfactory.com/blog?format=RSS",
+		"logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/wip-factory-logo.png",
+		"logo_width": "150",
+		"screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/wip-factory-logo.png",
+		"tags": null
+	},
+	{
 		"id": "q1M8ytxkVLzwU116PRWJwhjVeNkkRtVqYFm0ippdeJx10PQFZEOQVOhOZzG539FJIEWpG1166yQNcWE123gWeVPud116tg117117",
 		"name": "WSO2",
 		"summary": "WSO2 is the lean enterprise middleware company. It delivers the only complete open source enterprise SOA middleware stack purpose-built as an integrated platform to support todayu2019s heterogeneous enterprise environments internally and in the cloud. WSO2u2019s service and support team is led by technical experts who have proven success in deploying enterprise SOAs and contribute to the technolog",
@@ -732,6 +1092,21 @@
 		"logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/wso2-logo-white-800X360.jpg",
 		"logo_width": "200",
 		"screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/wso2-logo-white-800X360.jpg",
+		"tags": null
+	},
+	{
+		"id": "kn4TC5DTR2F87NhCu9IhtzTByveNCjAgSjrGHBraF2LOd7MeqZxvZLkrchomZSqKRaDr1mEaYgp9wPU1xP0Gew117117",
+		"name": "YourMembership.com",
+		"summary": false,
+		"details": "",
+		"website": "http://www.yourmembership.com/administrative-features/api.aspx",
+		"twitter": "https://twitter.com/#!/yourmembership",
+		"github": "",
+		"blog": "",
+		"blogrss": "http://www.yourmembership.com/blog/wp-rss.php",
+		"logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/1226_logo.tiff",
+		"logo_width": "150",
+		"screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/1226_logo.tiff",
 		"tags": null
 	}
 ]
