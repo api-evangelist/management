@@ -3,10 +3,12 @@ layout: default
 ---
 <ul style="padding: 0px 50px 0px 50px;">
 {% for post in paginator.posts %}
+	{% if post.title != null %}
 	<li>
 		<a href="{{ post.source }}" title="{{ post.title }}" style="color:#000; font-size: 12px;">{{ post.title }}</a>
-		{% if post.domain != null %}(<a href="http://{{ post.domain }}" style="color:#000; font-size: 12px;"><i>{{ post.domain }}</i></a>){% endif %}
+		<span style="color:#000; font-size: 12px;">(&nbsp;<a href="http://{{ post.domain }}" style="color:#000; font-size: 12px;"><i>{{ post.date | date_to_string }}&nbsp;{% if post.domain != null %}on&nbsp;{{ post.domain }}{% endif %}</i></a>)</span>
 	</li>
+	{% endif %}
 {% endfor %}
 </ul>
 <div class="pagination">
