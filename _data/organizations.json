@@ -7,12 +7,27 @@
 		"website": "http://www.3scale.net",
 		"twitter": "https://twitter.com/3scale",
 		"github": "https://github.com/3scale",
+		"apisjson_url": "http://theapistack.com/data/3scale/apis.json",
+		"sdksio_url": "",
+		"postman_url": "",
+		"portal_url": "https://github.com/3scale",
+		"base_url": "",
 		"blog": "http://www.3scale.net/blog/",
 		"blogrss": "view-source:http://www.3scale.net/feed/",
 		"logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/serviceproviders/3scale-logo.jpg",
 		"logo_width": "300",
 		"screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/serviceproviders/3scale-logo.jpg",
-		"tags": null
+		"tags": [
+			"Stack-API-Management",
+			"My API Stack",
+			"Management",
+			"Deployment",
+			"API-Stack",
+			"API-Management-Stack",
+			"API Management Portal",
+			"API LIfeycle",
+			"API Deployment Gateways"
+		]
 	},
 	{
 		"id": "jsJaMOFwk4wMBLQPz8kJkp2hM116hCGH4ag0qmSte7123IcHBEAzWaX3gU123fdaxp2VUaejoAQjnr1235Yj7ejcrJvd9A117117",
@@ -22,12 +37,27 @@
 		"website": "http://www.akana.com/",
 		"twitter": "https://twitter.com/AkanaInc",
 		"github": "",
+		"apisjson_url": "",
+		"sdksio_url": "",
+		"postman_url": "",
+		"portal_url": "",
+		"base_url": "",
 		"blog": "https://blog.akana.com/",
 		"blogrss": "https://blog.akana.com/feed/",
 		"logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/akana-logo-formerly-soa.png",
 		"logo_width": "150",
 		"screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/akana-logo-formerly-soa.png",
-		"tags": null
+		"tags": [
+			"Management",
+			"Enterprise",
+			"Deployment",
+			"Deployment",
+			"API Management Other",
+			"API LIfeycle",
+			"API Gateways",
+			"API Deployment Gateways",
+			"API Analytics"
+		]
 	},
 	{
 		"id": "CXOISKdl8BSKfRkNcIZi7ZA9sdYt7SYAJHZ7DHuUKJm1B16aqoexiypDxzDmKEzCffGoEAd9O6Y116K8HUUwKJFw117117",
@@ -37,12 +67,24 @@
 		"website": "http://www.aladtec.com",
 		"twitter": "https://twitter.com/aladtec",
 		"github": "",
+		"apisjson_url": "http://theapistack.com/data/aisle411/apis.json",
+		"sdksio_url": "",
+		"postman_url": "",
+		"portal_url": "",
+		"base_url": null,
 		"blog": "http://aladtec.blogspot.com/",
 		"blogrss": "http://aladtec.blogspot.com/feeds/posts/default?alt=rss",
 		"logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/326_logo.png",
 		"logo_width": "150",
 		"screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/326_logo.png",
-		"tags": null
+		"tags": [
+			"Workforce Management",
+			"Scheduling",
+			"Office",
+			"Management",
+			"Calendar-Stack",
+			"API-Stack"
+		]
 	},
 	{
 		"id": "NAzS116wMod33FWf8j116PiE97ZQTTC116LTdgJnOGux3WKT4fN9mKNgkpvE1UFn9smje123bhBD98rL4WgSkSfJe116eBSQ117117",
@@ -52,12 +94,43 @@
 		"website": "http://aws.amazon.com/api-gateway/",
 		"twitter": "https://twitter.com/awscloud",
 		"github": "https://github.com/amazonwebservices",
+		"apisjson_url": "http://theapistack.com/data/amazon-web-services/apis.json",
+		"sdksio_url": "",
+		"postman_url": "",
+		"portal_url": "https://github.com/amazonwebservices",
+		"base_url": "",
 		"blog": "http://aws.amazon.com/blogs/aws/",
 		"blogrss": "http://feeds.feedburner.com/AmazonWebServicesBlog",
-		"logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/aws-logo.jpg",
+		"logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/amazon-aws-logo.jpg",
 		"logo_width": "150",
-		"screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/aws-logo.jpg",
-		"tags": null
+		"screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/amazon-aws-logo.jpg",
+		"tags": [
+			"Voice",
+			"Virtualization",
+			"Storage-Stack",
+			"Real Time",
+			"Plans",
+			"Payments",
+			"Payment-API",
+			"Partners",
+			"My API Stack",
+			"Monitoring",
+			"Management",
+			"Hypermedia",
+			"File-Stack",
+			"DNS",
+			"Deployment",
+			"Compute-Stack",
+			"Cloud-Stack",
+			"Cloud Storage",
+			"Cloud Computing",
+			"BaaS",
+			"API-Stack",
+			"API Management Other",
+			"API LIfeycle",
+			"API Deployment Gateways",
+			"API Deployment Cloud"
+		]
 	},
 	{
 		"id": "P1aj3SP36vrlOrcUiaoyhJZj5ILEebNgo7DDadxf3MmrywadvW3RbEktTHSVm5sJjQDziaeNh1235UrrQKZFMb5A117117",
@@ -67,12 +140,21 @@
 		"website": "http://nrel.github.io/api-umbrella/",
 		"twitter": "",
 		"github": "",
+		"apisjson_url": "",
+		"sdksio_url": "",
+		"postman_url": "",
+		"portal_url": "",
+		"base_url": "",
 		"blog": "",
 		"blogrss": "",
 		"logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/api-umbrella-logo.png",
 		"logo_width": "150",
 		"screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/api-umbrella-logo.png",
-		"tags": null
+		"tags": [
+			"Open source",
+			"Management",
+			"API Management Portal Open Source"
+		]
 	},
 	{
 		"id": "mkzjqqR13lebbY0pf91123DfqjPCEj8kFH2ZgmrqaN899uc5BVjcXAeEe1231231123j5jl2gtnGzS6mwJr1kXUFZX5zgA117117",
@@ -82,12 +164,22 @@
 		"website": "http://apiaxle.com/",
 		"twitter": "https://twitter.com/apiaxle",
 		"github": "https://github.com/apiaxle",
+		"apisjson_url": "",
+		"sdksio_url": "",
+		"postman_url": "",
+		"portal_url": "https://github.com/apiaxle",
+		"base_url": "",
 		"blog": "http://blog.apiaxle.com/",
 		"blogrss": "http://blog.apiaxle.com/feed.xml",
 		"logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/api-axle-logo-3.png",
 		"logo_width": "225",
 		"screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/api-axle-logo-3.png",
-		"tags": null
+		"tags": [
+			"Management",
+			"Deployment",
+			"API Management Other",
+			"API Deployment Gateways"
+		]
 	},
 	{
 		"id": "M0XOd7i4eZOgTJq1AvWPhws116yHHJC80fBCb3NDG1160O4ROTVS2NNGSfoqVPfMGtMB2LsKMBN5xVPVAYHhL99peg117117",
@@ -97,12 +189,20 @@
 		"website": "http://www.apifydoc.com/",
 		"twitter": "https://twitter.com/api_fy",
 		"github": "https://github.com/apify",
+		"apisjson_url": "",
+		"sdksio_url": "",
+		"postman_url": "",
+		"portal_url": "https://github.com/apify",
+		"base_url": "",
 		"blog": "",
 		"blogrss": "http://www.apifydoc.com/posts/recent.rss",
 		"logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/serviceproviders/apify-logo.png",
 		"logo_width": "200",
 		"screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/serviceproviders/apify-logo.png",
-		"tags": null
+		"tags": [
+			"Management",
+			"API Management Open Source"
+		]
 	},
 	{
 		"id": "1mxjXpZIY3Of9Djfb8uTvoK8JIDqLndYYWpK123bGAorTQryqVRSoTTsI7uhzqxc6nf538AjyGFE1165123PmOZUqQ0w117117",
@@ -112,12 +212,25 @@
 		"website": "https://apigee.com",
 		"twitter": "https://twitter.com/Apigee",
 		"github": "https://github.com/apigee",
+		"apisjson_url": "",
+		"sdksio_url": "",
+		"postman_url": "",
+		"portal_url": "https://github.com/apigee",
+		"base_url": "",
 		"blog": "https://blog.apigee.com/front",
 		"blogrss": "",
 		"logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/serviceproviders/apigee-logo.gif",
 		"logo_width": "175",
 		"screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/serviceproviders/apigee-logo.gif",
-		"tags": null
+		"tags": [
+			"Management",
+			"Discovery",
+			"Deployment",
+			"BaaS",
+			"API Management Other",
+			"API Gateways",
+			"API Deployment Gateways"
+		]
 	},
 	{
 		"id": "gRZjeD40iWsw6sJrUa5TQfCO0Ut116Ep5at1N400mv8P6ubqQCqpCETHxR3hWayWd30YI0Gibe3u307vIcFo6yVw117117",
@@ -127,12 +240,21 @@
 		"website": "http://www.apiman.io",
 		"twitter": "https://twitter.com/apiman_io",
 		"github": "",
+		"apisjson_url": "",
+		"sdksio_url": "",
+		"postman_url": "",
+		"portal_url": "",
+		"base_url": "",
 		"blog": "http://www.apiman.io/blog/",
 		"blogrss": "http://apiman.io/blog/feed.xml",
 		"logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/apiman-logo.png",
 		"logo_width": "150",
 		"screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/apiman-logo.png",
-		"tags": null
+		"tags": [
+			"Open source",
+			"Management",
+			"API Management Open Source"
+		]
 	},
 	{
 		"id": "HYldZLyI8dZVfbXwURjdm97ehdY35u8KpdcR83LbLpjwJHKK123k6OErLs123bv2vWcSbyyQwSWC91rgjFi0xifhvg117117",
@@ -142,12 +264,24 @@
 		"website": "https://www.apitite.net/",
 		"twitter": "https://twitter.com/ApititeAPI",
 		"github": "",
+		"apisjson_url": "",
+		"sdksio_url": "",
+		"postman_url": "",
+		"portal_url": "",
+		"base_url": "",
 		"blog": "http://blog.apitite.net/",
 		"blogrss": "http://blog.apitite.net/feeds/posts/default?alt=rss",
 		"logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/apitite-logo.png",
 		"logo_width": "150",
 		"screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/apitite-logo.png",
-		"tags": null
+		"tags": [
+			"Management",
+			"Deployment",
+			"API Management Other",
+			"API Deployment Database",
+			"API Deployment Code",
+			"API Deployment Cloud"
+		]
 	},
 	{
 		"id": "Yza6Ds7mjoQwfSt2ZT0LsGAeGGa42i4Rfmg6Rn51161g2n01TXhK116nWpxI1234ZO8IsPVcszpsmXOcg5DzjztR9J3g117117",
@@ -157,12 +291,25 @@
 		"website": "https://www.axway.com/en/node/74#tablist1-tab1",
 		"twitter": "https://twitter.com/axway",
 		"github": "",
+		"apisjson_url": "",
+		"sdksio_url": "",
+		"postman_url": "",
+		"portal_url": "",
+		"base_url": "",
 		"blog": "http://blogs.axway.com/",
 		"blogrss": "http://blogs.axway.com/feed/rss",
 		"logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Axway_Logo_4_Color.jpg",
 		"logo_width": "150",
 		"screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Axway_Logo_4_Color.jpg",
-		"tags": null
+		"tags": [
+			"Management",
+			"Enterprise",
+			"Deployment",
+			"API Management Other",
+			"API LIfeycle",
+			"API Gateways",
+			"API Deployment Gateways"
+		]
 	},
 	{
 		"id": "VgOH17kMBZ2L37c5L1dE1ei8vJKV7N8rOnaciIlMsArCDTs116CntjlQ116xyCESn4S6NCkmNIeBCl9FPb123wWh0DKg117117",
@@ -172,12 +319,22 @@
 		"website": "http://www.blueleaf.com/developer/",
 		"twitter": "https://twitter.com/blueleafadvisor",
 		"github": "https://github.com/Blueleaf",
+		"apisjson_url": "",
+		"sdksio_url": "",
+		"postman_url": "",
+		"portal_url": "https://github.com/Blueleaf",
+		"base_url": null,
 		"blog": "http://blog.blueleaf.com/category/savings-investments/",
 		"blogrss": "http://blog.blueleaf.com/feed/",
 		"logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/1313_logo.png",
 		"logo_width": "150",
 		"screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/1313_logo.png",
-		"tags": null
+		"tags": [
+			"Management",
+			"Financial",
+			"CRM",
+			"API-United-Kingdom"
+		]
 	},
 	{
 		"id": "geeFhlmHc6GeZ8pE7HphV116EmYko72c02zPQK34Ziz2txe7lmGWkX8JmReHoLlOdxbMfOJ6123sMDyWN0Jxf8ZyGA117117",
@@ -187,12 +344,22 @@
 		"website": "http://developer.bugswarm.net/index.html",
 		"twitter": "",
 		"github": "",
+		"apisjson_url": "",
+		"sdksio_url": "",
+		"postman_url": "",
+		"portal_url": "",
+		"base_url": null,
 		"blog": "",
 		"blogrss": "",
 		"logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/bugswarm-logo.png",
 		"logo_width": "150",
 		"screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/bugswarm-logo.png",
-		"tags": null
+		"tags": [
+			"Management",
+			"Internet of Things - Dead",
+			"Device",
+			"Data"
+		]
 	},
 	{
 		"id": "oS9io1QodWE5EpxAMwWlyqUISt123NV4gAd1237Aq116D123PbAVt123MLJExntcCDIjFYprrOtI123X116OH123hi1MQoz7zViP123Q117117",
@@ -202,12 +369,20 @@
 		"website": "http://www.ca.com/us/products/api-management.aspx",
 		"twitter": "https://twitter.com/cainc",
 		"github": "",
+		"apisjson_url": "",
+		"sdksio_url": "",
+		"postman_url": "",
+		"portal_url": "",
+		"base_url": "",
 		"blog": "",
 		"blogrss": "",
 		"logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/ca-technologies-logo.png",
 		"logo_width": "150",
 		"screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/ca-technologies-logo.png",
-		"tags": null
+		"tags": [
+			"Management",
+			"API Management Other"
+		]
 	},
 	{
 		"id": "OWq2n912333IfV7dPIjkyOpf4ByMBIXYpKJAYHNEaLSWSyqeG3nPlRNwrji1vtE4xrX9ZiCA5BTTt0116kZfTVRq7g117117",
@@ -217,12 +392,22 @@
 		"website": "http://api-docs.carboncalculated.com/",
 		"twitter": "https://twitter.com/carbonhq",
 		"github": "https://github.com/carboncalculated",
+		"apisjson_url": "",
+		"sdksio_url": "",
+		"postman_url": "",
+		"portal_url": "https://github.com/carboncalculated",
+		"base_url": null,
 		"blog": "http://blog.carboncalculated.com",
 		"blogrss": "http://feeds.feedburner.com/carboncalculated/feed",
 		"logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/556_logo.png",
 		"logo_width": "150",
 		"screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/556_logo.png",
-		"tags": null
+		"tags": [
+			"Management",
+			"Green",
+			"Environment",
+			"Energy"
+		]
 	},
 	{
 		"id": "123vj8123e4JexBC7g2X0bDfT3R9gmdNheezuRFhzmIOU123wdVepbq6IvBvPW3HZpO6QTxjDKyQ5xnLmNU9VBR8BjkA117117",
@@ -232,12 +417,21 @@
 		"website": "http://www.boomi.com/",
 		"twitter": "",
 		"github": "",
+		"apisjson_url": "",
+		"sdksio_url": "",
+		"postman_url": "",
+		"portal_url": "",
+		"base_url": "",
 		"blog": "http://blogs.boomi.com/bod/",
 		"blogrss": "http://feeds.feedburner.com/boomi/bod",
 		"logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/dell-boomi-logo.png",
 		"logo_width": "150",
 		"screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/dell-boomi-logo.png",
-		"tags": null
+		"tags": [
+			"Management",
+			"API Management Other",
+			"API Integration"
+		]
 	},
 	{
 		"id": "XTLJFGAiwZMjp116mdMGeEqekA9D8RkxVpT8eASs55JL6u7123UZ1lLYf85DJ3gvGM3QNlboIID9KK1238P0tj116IPe2A117117",
@@ -247,12 +441,23 @@
 		"website": "http://deployd.com/",
 		"twitter": "https://twitter.com/deploydapp",
 		"github": "https://github.com/deployd",
+		"apisjson_url": "",
+		"sdksio_url": "",
+		"postman_url": "",
+		"portal_url": "https://github.com/deployd",
+		"base_url": "",
 		"blog": "",
 		"blogrss": "",
 		"logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/deployd-logo.jpeg",
 		"logo_width": "200",
 		"screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/deployd-logo.jpeg",
-		"tags": null
+		"tags": [
+			"Management",
+			"Design",
+			"Deployment",
+			"API Management Open Source",
+			"API Deployment Cloud"
+		]
 	},
 	{
 		"id": "ccExQSqSfBdQ8Bot123123YjHPxvVVSoUAKYUUkPzjukaQYv1wqezmJetHlgzYR0tZi1G4KRbKpc5CAMrSUzEPEDiw117117",
@@ -262,12 +467,21 @@
 		"website": "http://dexy.it/",
 		"twitter": "",
 		"github": "https://github.com/dexy",
+		"apisjson_url": "",
+		"sdksio_url": "",
+		"postman_url": "",
+		"portal_url": "https://github.com/dexy",
+		"base_url": "",
 		"blog": "http://blog.dexy.it/",
 		"blogrss": "view-source:http://blog.dexy.it/feed",
 		"logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/serviceproviders/Dexy-Logo.png",
 		"logo_width": "150",
 		"screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/serviceproviders/Dexy-Logo.png",
-		"tags": null
+		"tags": [
+			"Management",
+			"Documentation",
+			"API Management Documentation"
+		]
 	},
 	{
 		"id": "49oBSTZ5zNxfjpRC4noNGCgcnJ0MwgxHSykwty8kM2Op2nacA116Qa1168pk6OG2TDs3VuWS4fc5Bv116t19RJYxiG1A117117",
@@ -277,12 +491,28 @@
 		"website": "http://www.donortools.com",
 		"twitter": "https://twitter.com/donortools",
 		"github": "",
+		"apisjson_url": "http://theapistack.com/data/domaintools/apis.json",
+		"sdksio_url": "",
+		"postman_url": "",
+		"portal_url": "",
+		"base_url": null,
 		"blog": "http://blog.donortools.com",
 		"blogrss": "http://blog.donortools.com/feed/",
 		"logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/1049_logo.png",
 		"logo_width": "150",
 		"screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/1049_logo.png",
-		"tags": null
+		"tags": [
+			"Tracking",
+			"Nonprofit",
+			"Management",
+			"Giving",
+			"Fundraising",
+			"Donor management service",
+			"Donation-Stack",
+			"Donation Management",
+			"Donation",
+			"API-Stack"
+		]
 	},
 	{
 		"id": "Keas7MolXmMLqnWNxGBtam1mmIIuaSwV2J2XJ1JUcfVgTeahZj116ZToior123Pq9116uuTNoTpUY123sYe123IinIz3ApWA117117",
@@ -292,12 +522,23 @@
 		"website": "http://www.bluekai.com/exchange_integration.php",
 		"twitter": "https://twitter.com/bluekai",
 		"github": "https://github.com/BlueKai",
+		"apisjson_url": "",
+		"sdksio_url": "",
+		"postman_url": "",
+		"portal_url": "https://github.com/BlueKai",
+		"base_url": null,
 		"blog": "http://blogs.bluekai.com/",
 		"blogrss": "",
 		"logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/708_logo.png",
 		"logo_width": "150",
 		"screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/708_logo.png",
-		"tags": null
+		"tags": [
+			"Marketing",
+			"Management",
+			"Business Intelligence",
+			"Audience",
+			"Analytics"
+		]
 	},
 	{
 		"id": "116amUAm1237BVtUzyduxYwCEanhPcymWBcNIGHnLRd123FjX3khPdW6jeXPNcKDaq6wArYU3ghvotJ5g8xRWWWNSV116w117117",
@@ -307,12 +548,21 @@
 		"website": "https://twitter.com/",
 		"twitter": "https://twitter.com/exicon",
 		"github": "",
+		"apisjson_url": "",
+		"sdksio_url": "",
+		"postman_url": "",
+		"portal_url": "",
+		"base_url": "",
 		"blog": "http://www.exiconglobal.com/blog/",
 		"blogrss": "http://feeds.feedburner.com/ExiconBlog",
 		"logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/serviceproviders/exicon-logo.png",
 		"logo_width": "200",
 		"screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/serviceproviders/exicon-logo.png",
-		"tags": null
+		"tags": [
+			"Management",
+			"Application Management",
+			"API Management Other"
+		]
 	},
 	{
 		"id": "Kbg4r4jZDIMbksTqN6YepIjZ6Eoj0WUjh7t0rALPjDAwHmjv4MNJBlA6cQ8jRZkVjThAxMISobsfY3S6vmOPCA117117",
@@ -322,12 +572,22 @@
 		"website": "",
 		"twitter": "",
 		"github": "",
+		"apisjson_url": "",
+		"sdksio_url": "",
+		"postman_url": "",
+		"portal_url": "",
+		"base_url": null,
 		"blog": "",
 		"blogrss": "",
 		"logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/2127_logo.png",
 		"logo_width": "150",
 		"screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/2127_logo.png",
-		"tags": null
+		"tags": [
+			"Social",
+			"Printing",
+			"Management",
+			"Efficiency"
+		]
 	},
 	{
 		"id": "YTuywNxEZ123gXcDM116OBJcI43FhFgNvQbGL1231SW1232BXlKllWN87KX3mPKY2hDI94JaKIDqwSDpFVwkObs7itjttw117117",
@@ -337,12 +597,21 @@
 		"website": "http://www.fiorano.com/",
 		"twitter": "https://twitter.com/FioranoGlobal",
 		"github": "",
+		"apisjson_url": "",
+		"sdksio_url": "",
+		"postman_url": "",
+		"portal_url": "",
+		"base_url": "",
 		"blog": "http://www.fiorano.com/blog/",
 		"blogrss": "http://www.fiorano.com/blog/feed/",
 		"logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/fiorano-logo.gif",
 		"logo_width": "150",
 		"screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/fiorano-logo.gif",
-		"tags": null
+		"tags": [
+			"Microservices",
+			"Management",
+			"API Management Other"
+		]
 	},
 	{
 		"id": "JXeZzGegE123JEYq3QBS7GctT116890SnfkcOuP09cNnxAQNnMLF123E29Z6FOdjqWtuRra7QFm5iSvsn2116N46nZT5PQ117117",
@@ -352,12 +621,23 @@
 		"website": "https://gelato.io/",
 		"twitter": "",
 		"github": "",
+		"apisjson_url": "",
+		"sdksio_url": "",
+		"postman_url": "",
+		"portal_url": "",
+		"base_url": "https://meta.gelato.io/",
 		"blog": "",
 		"blogrss": "",
 		"logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/gelato-io-logo.png",
 		"logo_width": "150",
 		"screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/gelato-io-logo.png",
-		"tags": null
+		"tags": [
+			"Management",
+			"Documentation",
+			"Design",
+			"API Management Portal",
+			"API Management Documentation"
+		]
 	},
 	{
 		"id": "spownwaOUBjB3edA5UfxoK36V1CQM23iguhUwg58Rz4t19xrUpgBHYxAWfTGjhI0NmNvwQ45rrgf3Ft123bGXW0g117117",
@@ -367,12 +647,30 @@
 		"website": "https://github.com",
 		"twitter": "https://twitter.com/github",
 		"github": "https://github.com/github",
+		"apisjson_url": "http://theapistack.com/data/github/apis.json",
+		"sdksio_url": "",
+		"postman_url": "",
+		"portal_url": "https://github.com/github",
+		"base_url": "https://developer.github.com/",
 		"blog": "http://github.com/blog",
 		"blogrss": "https://github.com/blog/subscribe",
 		"logo": "https://assets-cdn.github.com/images/modules/logos_page/Octocat.png",
 		"logo_width": "150",
 		"screenshot": "https://assets-cdn.github.com/images/modules/logos_page/Octocat.png",
-		"tags": null
+		"tags": [
+			"Social Networking",
+			"Social",
+			"Programming",
+			"Platform-Stack",
+			"My API Stack",
+			"Management",
+			"Jobs",
+			"Hacker Storytelling",
+			"Coding",
+			"Code-Stack",
+			"API-Stack",
+			"API Management Code Management"
+		]
 	},
 	{
 		"id": "F123zwajOZ3iVx8X9PZshhwSDWWAnRxGlNWfgQwFe137m123lrBUam6RiqOYIFReuICvzHiEKeNLrhCtEC46KqrE0Q117117",
@@ -382,12 +680,20 @@
 		"website": "https://gist.github.com/",
 		"twitter": "",
 		"github": "",
+		"apisjson_url": "",
+		"sdksio_url": "",
+		"postman_url": "",
+		"portal_url": "",
+		"base_url": "",
 		"blog": "",
 		"blogrss": "",
 		"logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/github-gists.png",
 		"logo_width": "150",
 		"screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/github-gists.png",
-		"tags": null
+		"tags": [
+			"Management",
+			"API Management Code Management"
+		]
 	},
 	{
 		"id": "CmWm7dehqXJEVFA9z8gAQRYPdSbPjUwl7FRvLux6JzG5pIAE4KhWAlBvEhaKWgyVkaN4qVMhTtztPErjo6xY7Q117117",
@@ -397,12 +703,21 @@
 		"website": "https://pages.github.com/",
 		"twitter": "",
 		"github": "",
+		"apisjson_url": "",
+		"sdksio_url": "",
+		"postman_url": "",
+		"portal_url": "",
+		"base_url": "",
 		"blog": "",
 		"blogrss": "",
 		"logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/githubpages.jpg",
 		"logo_width": "150",
 		"screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/githubpages.jpg",
-		"tags": null
+		"tags": [
+			"Management",
+			"Hosting",
+			"API Management Portal"
+		]
 	},
 	{
 		"id": "dpNuS2VZVnRsCLCXyVRp6ZrEGIK0UzoLDeL2PfK1162NY97TFXzwlTCSSHPlTsvFGNAKRYJpMfs1235eokugKO4116lw117117",
@@ -412,27 +727,22 @@
 		"website": "http://www.gluu.org/",
 		"twitter": "https://twitter.com/GluuFederation",
 		"github": "",
+		"apisjson_url": "",
+		"sdksio_url": "",
+		"postman_url": "",
+		"portal_url": "",
+		"base_url": "",
 		"blog": "http://www.gluu.org/blog/",
 		"blogrss": "http://www.gluu.org/blog/feed",
 		"logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/gluu-logo.png",
 		"logo_width": "140",
 		"screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/gluu-logo.png",
-		"tags": null
-	},
-	{
-		"id": "v123ZE012339JhMGjNvk2wnUGh2QkzN5H1n6FbasnZs1160uD3CmQc1UO7qkSOj1239K116M7j3tOyEgVEsgKBtsoA2116RhQw117117",
-		"name": "Gnip, Inc.",
-		"summary": "Gnip is the world&rsquo;s largest and most trusted provider of social media data, serving customers in a range of industries from social media monitoring and business intelligence to finance and government. Gnip&rsquo;s customers deliver social media analytics to over 90% of the Fortune 500. Gnip delivers more than 100 billion realtime social data activities each month, providing access to data fr",
-		"details": "Gnip is the world&rsquo;s largest and most trusted provider of social media data, serving customers in a range of industries from social media monitoring and business intelligence to finance and government. Gnip&rsquo;s customers deliver social media analytics to over 90% of the Fortune 500. Gnip delivers more than 100 billion realtime social data activities each month, providing access to data from dozens of sources including Twitter, Tumblr, WordPress, Disqus and more.",
-		"website": "http://gnip.com/",
-		"twitter": "https://twitter.com/Gnip",
-		"github": "https://github.com/gnip",
-		"blog": "http://blog.gnip.com",
-		"blogrss": "http://feeds.feedburner.com/gnip/JGtz",
-		"logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/414_logo.png",
-		"logo_width": "125",
-		"screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/414_logo.png",
-		"tags": null
+		"tags": [
+			"Management",
+			"Identity",
+			"Authentication",
+			"API Management Other"
+		]
 	},
 	{
 		"id": "28Z8rG536xyy3ojnY39LlnQFRMmcWFVRE0FiO4uxJEWTFpms71W8FuFstnlYbi7yNFrf61123QJYNQX3Sm5iuo123A117117",
@@ -442,12 +752,22 @@
 		"website": "http://www.gomobileiq.com/optimize-daily-routes/",
 		"twitter": "",
 		"github": "",
+		"apisjson_url": "",
+		"sdksio_url": "",
+		"postman_url": "",
+		"portal_url": "",
+		"base_url": null,
 		"blog": "",
 		"blogrss": "",
 		"logo": "",
 		"logo_width": "0",
 		"screenshot": "",
-		"tags": null
+		"tags": [
+			"Transportation",
+			"Shipping",
+			"Management",
+			"Books"
+		]
 	},
 	{
 		"id": "X1KgE95pPBAPNk1yaNy7j8voMkH3q6rYEO0IjylpavQmfxC9HRizZG123fa116E5116kx1232mJjXat5k02Zc4MF6iT5Iw117117",
@@ -457,12 +777,24 @@
 		"website": "http://groupdocs.com",
 		"twitter": "https://twitter.com/#!/groupdocs",
 		"github": "https://github.com/groupdocs",
+		"apisjson_url": "http://theapistack.com/data/groupdocs/apis.json",
+		"sdksio_url": "",
+		"postman_url": "",
+		"portal_url": "https://github.com/groupdocs",
+		"base_url": null,
 		"blog": "http://groupdocs.com/blog/",
 		"blogrss": "http://groupdocs.com/blog/feed",
 		"logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/1066_logo.png",
 		"logo_width": "150",
 		"screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/1066_logo.png",
-		"tags": null
+		"tags": [
+			"Notifications",
+			"Management",
+			"File-sharing",
+			"Documents",
+			"Document-Stack",
+			"API-Stack"
+		]
 	},
 	{
 		"id": "vwj1YJOlvGQi9VWXQ633gJ123iiLmfHGe2hUx2zVJhfZ5d55uYGbj116iZAZt2cSkJameUN7RtXn72ItXfvg7d123zfQ117117",
@@ -472,12 +804,23 @@
 		"website": "http://support.appharbor.com/kb/api/api-overview",
 		"twitter": "https://twitter.com/hoppioapp",
 		"github": "https://github.com/appharbor",
+		"apisjson_url": "",
+		"sdksio_url": "",
+		"postman_url": "",
+		"portal_url": "https://github.com/appharbor",
+		"base_url": null,
 		"blog": "http://blog.appharbor.com/",
 		"blogrss": "https://twitter.com/healthfinder",
 		"logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/348_logo.png",
 		"logo_width": "150",
 		"screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/348_logo.png",
-		"tags": null
+		"tags": [
+			"Triathlon",
+			"Management",
+			"Applications",
+			"Application Management",
+			"Application"
+		]
 	},
 	{
 		"id": "jGMsAVTXTD2116R726L2XNWBWxwDxaQ3UjUrw47idJ0zZWyi0ZT6LuixoWDGMZPr9a1vMi123Nd4pmHYMeb9Fq123r5w117117",
@@ -487,27 +830,21 @@
 		"website": "https://apim.ibmcloud.com/",
 		"twitter": "https://twitter.com/ibmapimgt",
 		"github": "",
+		"apisjson_url": "",
+		"sdksio_url": "",
+		"postman_url": "",
+		"portal_url": "",
+		"base_url": "",
 		"blog": "https://developer.ibm.com/api/blog/",
 		"blogrss": "https://developer.ibm.com/api/feed/",
 		"logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/bw-ibm-logo.jpeg",
 		"logo_width": "200",
 		"screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/bw-ibm-logo.jpeg",
-		"tags": null
-	},
-	{
-		"id": "wN4EsxxbIX0VyF6KFAy116f2p2uLLR0123mlv1uafe5Q0KjqXGyus0pCDgl1161CBbgG23apfmpMdjICnaWtRQ6poPFw117117",
-		"name": "Janrain",
-		"summary": false,
-		"details": "",
-		"website": "http://janrain.com",
-		"twitter": "https://twitter.com/janrain",
-		"github": "",
-		"blog": "http://www.janrain.com/blog",
-		"blogrss": "http://feeds.feedburner.com/janrain-blog",
-		"logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/825_logo.jpg",
-		"logo_width": "150",
-		"screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/825_logo.jpg",
-		"tags": null
+		"tags": [
+			"Management",
+			"API Management Other",
+			"API LIfeycle"
+		]
 	},
 	{
 		"id": "Cwa61IKcNUu58BAF0cWhdmzrTvULqbDOXjPHDclyjFfQcxipuQu36AaeJ123XNJyEDl123mDGr123otCZVB9A7G4Bbxg117117",
@@ -517,12 +854,23 @@
 		"website": "http://justapis.com/",
 		"twitter": "https://twitter.com/JustAPIs",
 		"github": "",
+		"apisjson_url": "",
+		"sdksio_url": "",
+		"postman_url": "",
+		"portal_url": "",
+		"base_url": "",
 		"blog": "",
 		"blogrss": "",
 		"logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/justapis-logo.png",
 		"logo_width": "150",
 		"screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/justapis-logo.png",
-		"tags": null
+		"tags": [
+			"Management",
+			"Deployment",
+			"API Management Other",
+			"API Management Internet of Things",
+			"API Deployment Gateways"
+		]
 	},
 	{
 		"id": "0ueBSOcBWfRHfK0MgJyYdOrEIPsTLpOlBx3HdUAgnzPc0xQqg116JJTIYu1F6b65X6pgf925GtfI7kwl3f8p6hpg117117",
@@ -532,12 +880,20 @@
 		"website": "https://getkong.org/",
 		"twitter": "",
 		"github": "",
+		"apisjson_url": "",
+		"sdksio_url": "",
+		"postman_url": "",
+		"portal_url": "",
+		"base_url": "",
 		"blog": "",
 		"blogrss": "",
 		"logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/kong-logo.png",
 		"logo_width": "150",
 		"screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/kong-logo.png",
-		"tags": null
+		"tags": [
+			"Management",
+			"API Management Open Source"
+		]
 	},
 	{
 		"id": "Unwun123deND123eIHrPJoeRjrsxCSapO123Ta116p5ljfab5116945QBfLigBl8sddi9w0baOHcqNnQseAm2uswuEvw123qNw117117",
@@ -547,12 +903,22 @@
 		"website": "http://www.machineshop.io/",
 		"twitter": "https://twitter.com/machineshopio",
 		"github": "",
+		"apisjson_url": "",
+		"sdksio_url": "",
+		"postman_url": "",
+		"portal_url": "",
+		"base_url": "",
 		"blog": "http://www.machineshop.io/blog",
 		"blogrss": "http://www.machineshop.io/blog/rss.xml",
 		"logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/machineshop-logo.png",
 		"logo_width": "150",
 		"screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/machineshop-logo.png",
-		"tags": null
+		"tags": [
+			"Management",
+			"Internet of Things",
+			"API Management Internet of Things",
+			"Agency"
+		]
 	},
 	{
 		"id": "NWCACkV116hcqvFV5EWhoTIlNVp1pujBUpEUm1236uRyQspJ47ZBNx8iHAFqAtLoAOtvDwCYODySKivYU1234123QTC8yQ117117",
@@ -562,12 +928,26 @@
 		"website": "http://magnushealth.com",
 		"twitter": "https://twitter.com/magnushealth",
 		"github": "",
+		"apisjson_url": "http://theapistack.com/data/magnus-health/apis.json",
+		"sdksio_url": "",
+		"postman_url": "",
+		"portal_url": "",
+		"base_url": null,
 		"blog": "",
 		"blogrss": "",
 		"logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/mangus-health-logo.jpg",
 		"logo_width": "150",
 		"screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/mangus-health-logo.jpg",
-		"tags": null
+		"tags": [
+			"Whois",
+			"Student",
+			"Management",
+			"Healthcare-Stack",
+			"Healthcare",
+			"Education-Stac",
+			"Education",
+			"API-Stack"
+		]
 	},
 	{
 		"id": "M98fwooQajZdPZtav116K29116wcE18BiHXzhlURpZH23Sc8jao5tira0vTbmvvNVNxA1KdStPQX7JZIthKwPrSRjA117117",
@@ -577,12 +957,25 @@
 		"website": "http://mashape.com",
 		"twitter": "https://twitter.com/mashape",
 		"github": "https://github.com/Mashape",
+		"apisjson_url": "",
+		"sdksio_url": "",
+		"postman_url": "",
+		"portal_url": "https://github.com/Mashape",
+		"base_url": "",
 		"blog": "http://blog.mashape.com/",
 		"blogrss": "",
 		"logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/serviceproviders/mashape-logo.png",
 		"logo_width": "175",
 		"screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/serviceproviders/mashape-logo.png",
-		"tags": null
+		"tags": [
+			"Management",
+			"Discovery",
+			"Discovery",
+			"Design",
+			"API Management Other",
+			"API LIfeycle",
+			"API Integration"
+		]
 	},
 	{
 		"id": "QQv123123EV9RddM9dj8mleHC36Ql9cLZRBE386Yk6l6pykr020pay7UyU1PNmbPEuJFTzQaWMd40YGjlfPf4YitGQ117117",
@@ -592,12 +985,22 @@
 		"website": "http://mashery.com",
 		"twitter": "https://twitter.com/Mashery",
 		"github": "https://github.com/mashery",
+		"apisjson_url": "",
+		"sdksio_url": "",
+		"postman_url": "",
+		"portal_url": "https://github.com/mashery",
+		"base_url": "",
 		"blog": "http://www.mashery.com/blog",
 		"blogrss": "http://feeds.feedburner.com/MasheryBlog",
 		"logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/serviceproviders/mashery-logo.png",
 		"logo_width": "200",
 		"screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/serviceproviders/mashery-logo.png",
-		"tags": null
+		"tags": [
+			"Management",
+			"Definitions",
+			"API Management Other",
+			"API LIfeycle"
+		]
 	},
 	{
 		"id": "z50Zb4pq2RknvqRXuIYC2z0O8ZcGLV116Ao8uvvF6NUIGzElZ99qNlftk7e55EgXxjX5M116wTnBhVedhjmGD1ENOA117117",
@@ -607,12 +1010,22 @@
 		"website": "http://msdn.microsoft.com/en-us/library/dd468072%28v=msads.10%29",
 		"twitter": "",
 		"github": "",
+		"apisjson_url": "",
+		"sdksio_url": "",
+		"postman_url": "",
+		"portal_url": "",
+		"base_url": null,
 		"blog": "",
 		"blogrss": "",
 		"logo": "",
 		"logo_width": "0",
 		"screenshot": "",
-		"tags": null
+		"tags": [
+			"Reporting",
+			"Management",
+			"Campaign",
+			"Advertising"
+		]
 	},
 	{
 		"id": "VlYc0XaXqPduT998iZg116KFGd5kT0kdl3g116TOHXc4iaLmgleUeQcZmeYk2YrZFXkkI0dM95uQSAs412HNJsybEg117117",
@@ -622,12 +1035,22 @@
 		"website": "http://azure.microsoft.com/en-us/services/api-management/",
 		"twitter": "https://twitter.com/azure",
 		"github": "",
+		"apisjson_url": "",
+		"sdksio_url": "",
+		"postman_url": "",
+		"portal_url": "",
+		"base_url": "",
 		"blog": "http://azure.microsoft.com/blog/",
 		"blogrss": "http://azure.microsoft.com/blog/feed/",
 		"logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/microsoft-azure-logo.png",
 		"logo_width": "150",
 		"screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/microsoft-azure-logo.png",
-		"tags": null
+		"tags": [
+			"Management",
+			"Deployment",
+			"API Management Other",
+			"API LIfeycle"
+		]
 	},
 	{
 		"id": "g6FZeM6DiFBq116ilW3116WeIGWuuOgB116dxuuhcLFSlEcO7tzYwo5BuQ96CPkwhBQdBc8nYvwyx1123nQVjR4kp98DEg117117",
@@ -637,12 +1060,22 @@
 		"website": "http://www.mokimobility.com/",
 		"twitter": "https://twitter.com/#!/mokimobility",
 		"github": "",
+		"apisjson_url": "",
+		"sdksio_url": "",
+		"postman_url": "",
+		"portal_url": "",
+		"base_url": null,
 		"blog": "http://blog.mokimobility.com",
 		"blogrss": "http://feeds.feedburner.com/MokimobilityBlog",
 		"logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/1092_logo.png",
 		"logo_width": "150",
 		"screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/1092_logo.png",
-		"tags": null
+		"tags": [
+			"Tablets",
+			"Spelling",
+			"Mobile",
+			"Management"
+		]
 	},
 	{
 		"id": "X39uPf65wbgSdK116NSFkrhOG1aPd1Nv1eEpYfo5zvNuEnsDAnwjrqo2nsLGqXckGaIkgHTzWHV116v5eAGKRFmQDw117117",
@@ -652,12 +1085,20 @@
 		"website": "http://www.monarchapis.com/",
 		"twitter": "",
 		"github": "https://github.com/monarchapis",
+		"apisjson_url": "",
+		"sdksio_url": "",
+		"postman_url": "",
+		"portal_url": "https://github.com/monarchapis",
+		"base_url": "http://www.monarchapis.com/docs/",
 		"blog": "",
 		"blogrss": "",
 		"logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/monarch-api-manager.png",
 		"logo_width": "150",
 		"screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/monarch-api-manager.png",
-		"tags": null
+		"tags": [
+			"Management",
+			"API Management Other"
+		]
 	},
 	{
 		"id": "nmxxXH1sXNwRUZpHecJnmD8MnSq0tcrTPDwZQZRtO9vBpAO116CJCE3VW2CCOy9V9krzxZWBG8DI123T123123wf68nzQg117117",
@@ -667,12 +1108,23 @@
 		"website": "https://www.moneybird.nl/api",
 		"twitter": "http://twitter.com/moneybird",
 		"github": "https://github.com/moneybird",
+		"apisjson_url": "",
+		"sdksio_url": "",
+		"postman_url": "",
+		"portal_url": "https://github.com/moneybird",
+		"base_url": null,
 		"blog": "https://www.moneybird.nl/blog",
 		"blogrss": "http://feeds.feedburner.com/bluetools",
 		"logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/money-bird-logo.png",
 		"logo_width": "150",
 		"screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/money-bird-logo.png",
-		"tags": null
+		"tags": [
+			"Payments",
+			"Management",
+			"Invoicing",
+			"Billing",
+			"API-NL"
+		]
 	},
 	{
 		"id": "2w0Dr123XdAqXavkuNJz5xjrAtmS0mLP5gFYU7p70PwxJQcWmUAC2xZDVI6jiWCO5QVBQjGCi8UrxWwdWef0i0Xg117117",
@@ -682,12 +1134,22 @@
 		"website": "http://www.mulesoft.com/",
 		"twitter": "https://twitter.com/MuleSoft",
 		"github": "https://github.com/mulesoft",
+		"apisjson_url": "",
+		"sdksio_url": "",
+		"postman_url": "",
+		"portal_url": "https://github.com/mulesoft",
+		"base_url": "",
 		"blog": "http://blogs.mulesoft.org/",
 		"blogrss": "http://feeds.feedburner.com/muleblog",
 		"logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/mulesoft-logo.jpeg",
 		"logo_width": "225",
 		"screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/mulesoft-logo.jpeg",
-		"tags": null
+		"tags": [
+			"Management",
+			"Design",
+			"API Management Other",
+			"API LIfeycle"
+		]
 	},
 	{
 		"id": "DT06n8KMaIohDyvLFh7oTZCkNnBHzx8ijxkDUvOROMfIoMZ573kQEq419njmjd1123gt6uJNsbAC16HeXKrZWq116w117117",
@@ -697,12 +1159,22 @@
 		"website": "http://dev.mutualmind.com/",
 		"twitter": "https://twitter.com/#!/mutualmind",
 		"github": "https://github.com/mutualmind",
+		"apisjson_url": "",
+		"sdksio_url": "",
+		"postman_url": "",
+		"portal_url": "https://github.com/mutualmind",
+		"base_url": null,
 		"blog": "http://www.mutualmind.com/blog/",
 		"blogrss": "http://feeds.feedburner.com/mutualmindblog",
 		"logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/1094_logo.jpg",
 		"logo_width": "150",
 		"screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/1094_logo.jpg",
-		"tags": null
+		"tags": [
+			"Social Media Marketing",
+			"Social",
+			"Management",
+			"Brand Management"
+		]
 	},
 	{
 		"id": "snBQD5QnbPawk1237w1166E6T5cSBjTB3HlAe25L7iNe1ytn123qo1lCxudMx5dqcWOgv1pZUfScrGbu2WW6123cHFEQuA117117",
@@ -712,12 +1184,24 @@
 		"website": "http://www.mycaseinc.com/press/mycase_launches_app_bar_and_api",
 		"twitter": "https://twitter.com/#!/mycaseinc",
 		"github": "https://github.com/mycase",
+		"apisjson_url": "",
+		"sdksio_url": "",
+		"postman_url": "",
+		"portal_url": "https://github.com/mycase",
+		"base_url": null,
 		"blog": "http://www.mutualmind.com/blog/",
 		"blogrss": "http://www.mycaseinc.com/blog/feed/",
 		"logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/1095_logo.jpg",
 		"logo_width": "150",
 		"screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/1095_logo.jpg",
-		"tags": null
+		"tags": [
+			"Telephony",
+			"Social Media Marketing",
+			"Social",
+			"Office",
+			"Management",
+			"Law"
+		]
 	},
 	{
 		"id": "Ig36IzlLPuryh3Y2l1nA4xOmqNKdYY0Q3x8lbm7116123rlQX9OOJ5gu91237123kfr5tbfuw7drMVNMW019A4z6XCxHgA117117",
@@ -727,12 +1211,21 @@
 		"website": "",
 		"twitter": "https://twitter.com/NationBuilder",
 		"github": "",
+		"apisjson_url": "",
+		"sdksio_url": "",
+		"postman_url": "",
+		"portal_url": "",
+		"base_url": null,
 		"blog": "http://nationbuilder.com/blog",
 		"blogrss": "",
 		"logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/2130_logo.jpg",
 		"logo_width": "150",
 		"screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/2130_logo.jpg",
-		"tags": null
+		"tags": [
+			"Organization",
+			"Management",
+			"Community"
+		]
 	},
 	{
 		"id": "hMCnTR1bnMkwnx9Nq7qtwBf6tO4RFeEX1ZCsokGjmidjDFILD5UfEbfuDqUpy5ZuLfDM6thNCgHQTbZKM61wcA117117",
@@ -742,12 +1235,20 @@
 		"website": "http://www.nevatech.com/",
 		"twitter": "https://twitter.com/nevatechinc",
 		"github": "",
+		"apisjson_url": "",
+		"sdksio_url": "",
+		"postman_url": "",
+		"portal_url": "",
+		"base_url": "",
 		"blog": "http://www.nevatech.com/blog",
 		"blogrss": "http://www.nevatech.com/blog/syndication.axd",
 		"logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/serviceproviders/Nevatech-Logo.png",
 		"logo_width": "175",
 		"screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/serviceproviders/Nevatech-Logo.png",
-		"tags": null
+		"tags": [
+			"Management",
+			"API Management Other"
+		]
 	},
 	{
 		"id": "x7gR8Tgd2opMLieM5jO5116C6w6kpgV04dR4ysWPRs4wNIHJFQiqhl2123123Ky5116Qj4CuwZ3FkwWsmTvuo1164h123xZNRQ117117",
@@ -757,12 +1258,21 @@
 		"website": "http://newdawn.com/",
 		"twitter": "https://twitter.com/#!/newdawntech",
 		"github": "",
+		"apisjson_url": "",
+		"sdksio_url": "",
+		"postman_url": "",
+		"portal_url": "",
+		"base_url": null,
 		"blog": "",
 		"blogrss": "http://newdawn.com/feed/",
 		"logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/NewDawnLogo.png",
 		"logo_width": "150",
 		"screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/NewDawnLogo.png",
-		"tags": null
+		"tags": [
+			"Management",
+			"Legal",
+			"Government"
+		]
 	},
 	{
 		"id": "6TK72I7rm123Cow647bsmc8p78YyZX8YydQ5jvIFy0QLoIpiwBbbtL2MafSJLgw2UOdXIe123mm123QNrQOd587dbCNQ117117",
@@ -772,12 +1282,20 @@
 		"website": "http://openrepose.org/",
 		"twitter": "https://twitter.com/openrepose",
 		"github": "https://github.com/rackerlabs/repose",
+		"apisjson_url": "",
+		"sdksio_url": "",
+		"postman_url": "",
+		"portal_url": "https://github.com/rackerlabs/repose",
+		"base_url": "",
 		"blog": "",
 		"blogrss": "",
 		"logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/repose-logo.png",
 		"logo_width": "150",
 		"screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/repose-logo.png",
-		"tags": null
+		"tags": [
+			"Management",
+			"API Management Open Source"
+		]
 	},
 	{
 		"id": "ANZoRuHXLGeygEszmdQlI0mTwhb5BpT15jzTu123dxuD0KYX18ZrbYJSS0AAk5eU3Kl5jhsNnAMdWwysBAtVfw3A117117",
@@ -787,12 +1305,24 @@
 		"website": "http://pagely.com/",
 		"twitter": "https://twitter.com/pagely",
 		"github": "",
+		"apisjson_url": "http://theapistack.com/data/pagely/apis.json",
+		"sdksio_url": "",
+		"postman_url": "",
+		"portal_url": "",
+		"base_url": null,
 		"blog": "http://blog.pagely.com/",
 		"blogrss": "",
 		"logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/pagely-logo.png",
 		"logo_width": "150",
 		"screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/pagely-logo.png",
-		"tags": null
+		"tags": [
+			"Web-Stack",
+			"Management",
+			"Hosting",
+			"Copy",
+			"Blogging",
+			"API-Stack"
+		]
 	},
 	{
 		"id": "bhXG0Z7123A8MtOQ2G123sG6ZwbryZAPrVu7aVADgwXTiO7pkx5mGpm8mHY0Tq9zaK19gOctMgegdcv3ooBMkZwCRQ117117",
@@ -802,12 +1332,25 @@
 		"website": "http://www.pagerduty.com",
 		"twitter": "https://twitter.com/pagerduty",
 		"github": "https://github.com/PagerDuty",
+		"apisjson_url": "http://theapistack.com/data/pagerduty/apis.json",
+		"sdksio_url": "",
+		"postman_url": "",
+		"portal_url": "https://github.com/PagerDuty",
+		"base_url": null,
 		"blog": "http://blog.pagerduty.com/",
 		"blogrss": "http://blog.pagerduty.com/feed/",
 		"logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/632_logo.png",
 		"logo_width": "150",
 		"screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/632_logo.png",
-		"tags": null
+		"tags": [
+			"Platform-Stack",
+			"Monitoring",
+			"Monitoring",
+			"Management",
+			"Incident",
+			"API-Stack",
+			"Alerts"
+		]
 	},
 	{
 		"id": "PDKHxBEY670Y116JOamJxHwUPqPb8K9sBVcp123638SXiHGo5QwYQ93a3fE123tpFOv4gV1RbCS2TzNtrHXLy116xSxg6Q117117",
@@ -817,12 +1360,21 @@
 		"website": "http://www.projectoverlord.io",
 		"twitter": "https://twitter.com/OverlordAPIMan",
 		"github": "https://github.com/Governance",
+		"apisjson_url": "",
+		"sdksio_url": "",
+		"postman_url": "",
+		"portal_url": "https://github.com/Governance",
+		"base_url": "",
 		"blog": "http://jboss-overlord.blogspot.com/",
 		"blogrss": "http://jboss-overlord.blogspot.com/feeds/posts/default?alt=rss",
 		"logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/project-overlord-logo.png",
 		"logo_width": "150",
 		"screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/project-overlord-logo.png",
-		"tags": null
+		"tags": [
+			"Open source",
+			"Management",
+			"API Management Open Source"
+		]
 	},
 	{
 		"id": "eGGAkvYTJnbSjjjQcpsL123Gttxg116GF7w1231xjfN0SZnlJZJ0MxPqGNdn8hfHgwQzptF6jZ6SrSg6A0C0xTX123biTQ117117",
@@ -832,12 +1384,23 @@
 		"website": "https://readme.io/",
 		"twitter": "https://twitter.com/readmeio",
 		"github": "",
+		"apisjson_url": "",
+		"sdksio_url": "",
+		"postman_url": "",
+		"portal_url": "",
+		"base_url": "",
 		"blog": "",
 		"blogrss": "",
 		"logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/readme-io-logo.png",
 		"logo_width": "150",
 		"screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/readme-io-logo.png",
-		"tags": null
+		"tags": [
+			"Management",
+			"Documentation",
+			"API Management Portal",
+			"API Management Documentation",
+			"API LIfeycle"
+		]
 	},
 	{
 		"id": "7o9d1V116d4zoAFRIA2Ooygoj6dlGCio3nEqbHwqmThJLh6uZX9ZOn5FHDtPXMQYzw4rA84YR6NUZQXc57IG8EjA117117",
@@ -847,12 +1410,28 @@
 		"website": "http://regonline.com",
 		"twitter": "https://twitter.com/RegOnline",
 		"github": "",
+		"apisjson_url": "http://theapistack.com/data/regonline/apis.json",
+		"sdksio_url": "",
+		"postman_url": "",
+		"portal_url": "",
+		"base_url": null,
 		"blog": "",
 		"blogrss": "http://feeds.feedburner.com/RegonlineDeveloperResources",
 		"logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/active-regonline.png",
 		"logo_width": "175",
 		"screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/active-regonline.png",
-		"tags": null
+		"tags": [
+			"Tracking",
+			"Registration",
+			"Promotion",
+			"Marketing",
+			"Management",
+			"JavaScript",
+			"Events-Stack",
+			"Event Management",
+			"Event",
+			"API-Stack"
+		]
 	},
 	{
 		"id": "SkaAkkWeK6lJLIpM116yaGKIChA4b9sp3v4DAMFy8hk2YdVgPbHCh12376Nc9hF123a9OtcX2NDL1SAj5as06HCF6KzA117117",
@@ -862,12 +1441,24 @@
 		"website": "http://restunited.com/",
 		"twitter": "https://twitter.com/restunited",
 		"github": "",
+		"apisjson_url": "",
+		"sdksio_url": "",
+		"postman_url": "",
+		"portal_url": "",
+		"base_url": "",
 		"blog": "",
 		"blogrss": "",
 		"logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/rest-united.png",
 		"logo_width": "150",
 		"screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/rest-united.png",
-		"tags": null
+		"tags": [
+			"Testing",
+			"SDK",
+			"Management",
+			"Documentation",
+			"Debugging",
+			"API Management SDK"
+		]
 	},
 	{
 		"id": "VzLklKPnQEzeR1EgY1236S9RXgiis4GsHYvpmEH6Uic57yGXsbb4Ya8Qmq1nkf7w9116ty123DqMFKuCE4CzWGHxmrZw117117",
@@ -877,12 +1468,27 @@
 		"website": "https://restlet.com/",
 		"twitter": "https://twitter.com/restlet",
 		"github": "https://github.com/restlet",
+		"apisjson_url": "",
+		"sdksio_url": "",
+		"postman_url": "",
+		"portal_url": "https://github.com/restlet",
+		"base_url": "",
 		"blog": "http://restlet.com/blog",
 		"blogrss": "http://restlet.com/blog/feed/",
 		"logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Logo-Restlet-Horizontal-800x225.png",
 		"logo_width": "150",
 		"screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Logo-Restlet-Horizontal-800x225.png",
-		"tags": null
+		"tags": [
+			"Spreadsheets",
+			"Management",
+			"Design",
+			"Deployment",
+			"API Management Other",
+			"API LIfeycle",
+			"API Deployment Spreadsheets",
+			"API Deployment Frameworks",
+			"API Deployment Cloud"
+		]
 	},
 	{
 		"id": "db4123Owz123iHWUrSeM3jUKa12323Fii5siUV3jkS9mIb7vOVU1LKRNhnzwi3Kbs51if2NXhXktRSriPV0RpNFBtgUg117117",
@@ -892,12 +1498,20 @@
 		"website": "http://sdks.io/",
 		"twitter": "https://twitter.com/sdksio",
 		"github": "",
+		"apisjson_url": "",
+		"sdksio_url": "",
+		"postman_url": "",
+		"portal_url": "",
+		"base_url": "",
 		"blog": "",
 		"blogrss": "",
 		"logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/sdks-io-logo.png",
 		"logo_width": "150",
 		"screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/sdks-io-logo.png",
-		"tags": null
+		"tags": [
+			"SDK",
+			"Management"
+		]
 	},
 	{
 		"id": "JXuw123goj2bYo6UmJyA00fdlBAejb428IbVowI4CUqB4SO5OCoKBL2Ix8bA52TOMCX13xE5MiWhEHE68jT8eMWQ117117",
@@ -907,12 +1521,21 @@
 		"website": "http://sensedia.com/br/",
 		"twitter": "https://twitter.com/Sensedia_BR",
 		"github": "",
+		"apisjson_url": "",
+		"sdksio_url": "",
+		"postman_url": "",
+		"portal_url": "",
+		"base_url": "",
 		"blog": "",
 		"blogrss": "",
 		"logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/sensedia-logo.jpeg",
 		"logo_width": "150",
 		"screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/sensedia-logo.jpeg",
-		"tags": null
+		"tags": [
+			"Management",
+			"Brazil",
+			"API Management Other"
+		]
 	},
 	{
 		"id": "jmNqgmkWDNK2OAdIgQExCDnnsOT18qQCrdwYNF4eAw9YGLfsNTx31ajTdO3oTD123Cuc0BryZEN4dFylHHyOtS9Q117117",
@@ -922,12 +1545,23 @@
 		"website": "http://www.slashdb.com/",
 		"twitter": "http://twitter.com/slash_db",
 		"github": "",
+		"apisjson_url": "",
+		"sdksio_url": "",
+		"postman_url": "",
+		"portal_url": "",
+		"base_url": "",
 		"blog": "",
 		"blogrss": "http://www.slashdb.com/feed/",
 		"logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/slashdb-logo.png",
 		"logo_width": "150",
 		"screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/slashdb-logo.png",
-		"tags": null
+		"tags": [
+			"Management",
+			"Deployment",
+			"API Management Other",
+			"API LIfeycle",
+			"API Deployment Database"
+		]
 	},
 	{
 		"id": "pspV1JmF6NzjUa6EA2KmRo6e2ghC7ey9MAxUh116Winho7iaQjEMGG116gBH1bqHEZ2116UNDEN0RPxUN80YEU7DkSvQ117117",
@@ -937,12 +1571,31 @@
 		"website": "http://socrata.com",
 		"twitter": "https://twitter.com/socrata",
 		"github": "https://github.com/socrata",
+		"apisjson_url": "",
+		"sdksio_url": "",
+		"postman_url": "",
+		"portal_url": "https://github.com/socrata",
+		"base_url": "",
 		"blog": "http://www.socrata.com/tech-blog/",
 		"blogrss": "http://www.socrata.com/feed/",
 		"logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/serviceproviders/socrata_logo.jpg",
 		"logo_width": "150",
 		"screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/serviceproviders/socrata_logo.jpg",
-		"tags": null
+		"tags": [
+			"State Government Services",
+			"Socrata",
+			"Management",
+			"Federal Government Services",
+			"Deployment",
+			"Data API Management",
+			"Data",
+			"County Government Services",
+			"City Services",
+			"City Government Services",
+			"API Management Other",
+			"API LIfeycle",
+			"API Deployment Spreadsheets"
+		]
 	},
 	{
 		"id": "zWqZsqxyT7n116T123EcahIE11szHg2eCYmLV1uff2NcWxY123dqhpw1w0Vr72ybajmhC1DVRJ8UtEV8xx3wrjVMnLWw117117",
@@ -952,12 +1605,52 @@
 		"website": "http://www.strikeiron.com/Catalog/ProductDetail.aspx?pv=1.0.0&pn=Midnight+Trader+Financial+News",
 		"twitter": "https://twitter.com/strikeiron",
 		"github": "",
+		"apisjson_url": "http://theapistack.com/data/strikeiron/apis.json",
+		"sdksio_url": "",
+		"postman_url": "",
+		"portal_url": "",
+		"base_url": "",
 		"blog": "http://blog.strikeiron.com",
 		"blogrss": "http://blog.strikeiron.com/CMS/UI/Modules/BizBlogger/rss.aspx",
 		"logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/372_logo.png",
 		"logo_width": "150",
 		"screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/372_logo.png",
-		"tags": null
+		"tags": [
+			"Zip Code",
+			"Verification",
+			"Travel",
+			"Stocks",
+			"Shopping",
+			"Phone",
+			"Phone",
+			"News",
+			"Money",
+			"Messaging",
+			"Marketplace",
+			"Mapping",
+			"Mapping",
+			"Management",
+			"Location-Stack",
+			"Location",
+			"Location",
+			"Government",
+			"Global",
+			"Geocoding",
+			"Financial-Stack",
+			"Financial",
+			"Exchange",
+			"Enterprise",
+			"Email",
+			"Distance",
+			"Currency",
+			"Census",
+			"Catalog",
+			"Business",
+			"API-Stack",
+			"API Management Other",
+			"API LIfeycle",
+			"Address Verification"
+		]
 	},
 	{
 		"id": "OIbIjYWePvHDsnaf1gB2lQunIz0RdHP7WHCGl8ypcdf0x9kevHfHqmOS1ToHOfl99XChulNkg0TVgNfNizCeYQ117117",
@@ -967,12 +1660,24 @@
 		"website": "http://strongloop.com/",
 		"twitter": "https://twitter.com/StrongLoop",
 		"github": "https://github.com/strongloop",
+		"apisjson_url": "",
+		"sdksio_url": "",
+		"postman_url": "",
+		"portal_url": "https://github.com/strongloop",
+		"base_url": "",
 		"blog": "http://strongloop.com/strongblog/",
 		"blogrss": "http://strongloop.com/feed/",
 		"logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/strongloop-logo.png",
 		"logo_width": "150",
 		"screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/strongloop-logo.png",
-		"tags": null
+		"tags": [
+			"Management",
+			"Deployment",
+			"API Management Other",
+			"API LIfeycle",
+			"API Deployment Gateways",
+			"API Deployment Cloud"
+		]
 	},
 	{
 		"id": "fIDDg9AU5IecT70n3KZECSHYpIZMTHE0MWg0R123oz7Twd45r116sMJSP3rDeZO8j91pwO2UWTOv3123eqiMLNbbDvzQ117117",
@@ -982,12 +1687,26 @@
 		"website": "http://www.swiftiq.com/",
 		"twitter": "https://twitter.com/swiftiq",
 		"github": "https://github.com/SwiftIQ",
+		"apisjson_url": "",
+		"sdksio_url": "",
+		"postman_url": "",
+		"portal_url": "https://github.com/SwiftIQ",
+		"base_url": "",
 		"blog": "http://www.swiftiq.com/blog",
 		"blogrss": "http://www.swiftiq.com/blog/rss.xml",
 		"logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/swift-iq-logo.jpg",
 		"logo_width": "200",
 		"screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/swift-iq-logo.jpg",
-		"tags": null
+		"tags": [
+			"Management",
+			"E-commerce",
+			"Deployment",
+			"BaaS",
+			"API Management Other",
+			"API LIfeycle",
+			"API Deployment Cloud",
+			"Adaptive Intelligence"
+		]
 	},
 	{
 		"id": "dPrlmlGpgYN03osqDxu4z7Rllw1231LfdOjVZETil4GgS3whwcO0Kx8Ltu116COvzvNoxmbVs8fcTazmyye1QT1233AA117117",
@@ -997,12 +1716,22 @@
 		"website": "http://www.tibco.com/",
 		"twitter": "https://twitter.com/tibco",
 		"github": "",
+		"apisjson_url": "",
+		"sdksio_url": "",
+		"postman_url": "",
+		"portal_url": "",
+		"base_url": "",
 		"blog": "http://www.tibco.com/blog/",
 		"blogrss": "http://feeds.feedburner.com/TheTibcoBlog",
 		"logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/tibco-logo.png",
 		"logo_width": "150",
 		"screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/tibco-logo.png",
-		"tags": null
+		"tags": [
+			"Management",
+			"Deployment",
+			"API Management Other",
+			"API Deployment Gateways"
+		]
 	},
 	{
 		"id": "GRGZx9xEShMSpnxSSbBojIqmDw6dzQkyBnMeR074K39ZxLYiCzfXpdlc56EaOnU7u8mVV3hF17L123KqhN8g7VBw117117",
@@ -1012,12 +1741,27 @@
 		"website": "https://www.tumblr.com/",
 		"twitter": "https://twitter.com/tumblr",
 		"github": "https://github.com/tumblr",
+		"apisjson_url": "http://theapistack.com/data/tumblr/apis.json",
+		"sdksio_url": "",
+		"postman_url": "",
+		"portal_url": "https://github.com/tumblr",
+		"base_url": "https://www.tumblr.com/docs/en/api/v2",
 		"blog": "http://staff.tumblr.com/",
 		"blogrss": "http://staff.tumblr.com/rss",
 		"logo": "http://assets.tumblr.com/images/logo_page/img_logotype_34465d_2x.png",
 		"logo_width": "150",
 		"screenshot": "http://assets.tumblr.com/images/logo_page/img_logotype_34465d_2x.png",
-		"tags": null
+		"tags": [
+			"Social",
+			"Management",
+			"Copy",
+			"Content-Stack",
+			"Blog-Stack",
+			"Blog",
+			"API-Stack",
+			"API Management Communication",
+			"API LIfeycle"
+		]
 	},
 	{
 		"id": "dDTUfm3AWkAyOnIYNnEMuDLEkP62Tk4gWSYSFphMHZqjAlspU116BaONbhtu123d5uwrWpcTGnFywNMLD8Urj3vlXg117117",
@@ -1027,12 +1771,22 @@
 		"website": "http://tyk.io/",
 		"twitter": "",
 		"github": "",
+		"apisjson_url": "",
+		"sdksio_url": "",
+		"postman_url": "",
+		"portal_url": "",
+		"base_url": "",
 		"blog": "http://tyk.io/blog/",
 		"blogrss": "",
 		"logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/tyk-dark.png",
 		"logo_width": "150",
 		"screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/tyk-dark.png",
-		"tags": null
+		"tags": [
+			"Management",
+			"Deployment",
+			"API Management Open Source",
+			"API Deployment Gateways"
+		]
 	},
 	{
 		"id": "yj8Qe5qE7g1YSkfCNg1167hiUlB7aE20KaQ0jfxIqStmDHpY0WRSFpwCm95oiWkFIDxIkD97nmbe4Cl116YbXbxS8Q117117",
@@ -1042,12 +1796,23 @@
 		"website": "https://www.varnish-software.com/",
 		"twitter": "https://twitter.com/varnishsoftware",
 		"github": "",
+		"apisjson_url": "",
+		"sdksio_url": "",
+		"postman_url": "",
+		"portal_url": "",
+		"base_url": "",
 		"blog": "https://www.varnish-software.com/blog",
 		"blogrss": "https://www.varnish-software.com/blog/feed.rss",
 		"logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/varnish-software.jpeg",
 		"logo_width": "150",
 		"screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/varnish-software.jpeg",
-		"tags": null
+		"tags": [
+			"Management",
+			"Caching",
+			"API Proxy",
+			"API Management Open Source",
+			"API LIfeycle"
+		]
 	},
 	{
 		"id": "Q3123m40JUkRvPcDvM5HnR0hI3wb4Z0htBXS368nPbidw7E1EUUEELqwy21mpL1uG1I8FXXbKu9xeI116mXy98W4HA117117",
@@ -1057,12 +1822,23 @@
 		"website": "http://www.wavemaker.com/",
 		"twitter": "https://twitter.com/WaveMaker",
 		"github": "https://github.com/wavemaker",
+		"apisjson_url": "",
+		"sdksio_url": "",
+		"postman_url": "",
+		"portal_url": "https://github.com/wavemaker",
+		"base_url": "",
 		"blog": "http://www.wavemaker.com/blog/",
 		"blogrss": "",
 		"logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/wavemaker-logo.png",
 		"logo_width": "225",
 		"screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/wavemaker-logo.png",
-		"tags": null
+		"tags": [
+			"Management",
+			"Deployment",
+			"API Management Other",
+			"API Deployment Gateways",
+			"API Deployment Cloud"
+		]
 	},
 	{
 		"id": "C31kJAsvoHRpNaNS3rFysMyn66gQ011pDVFf11ow123lYEaGd2OOG116hBKNMMVf1hFSLiDI116Tgg116HRBxyvVLQvYmg117117",
@@ -1072,12 +1848,21 @@
 		"website": "http://www.wipfactory.com/",
 		"twitter": "https://twitter.com/WIPFactory",
 		"github": "",
+		"apisjson_url": "",
+		"sdksio_url": "",
+		"postman_url": "",
+		"portal_url": "",
+		"base_url": null,
 		"blog": "http://www.wipfactory.com/blog/",
 		"blogrss": "http://www.wipfactory.com/blog?format=RSS",
 		"logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/wip-factory-logo.png",
 		"logo_width": "150",
 		"screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/wip-factory-logo.png",
-		"tags": null
+		"tags": [
+			"Management",
+			"Evangelism",
+			"API-Partner"
+		]
 	},
 	{
 		"id": "q1M8ytxkVLzwU116PRWJwhjVeNkkRtVqYFm0ippdeJx10PQFZEOQVOhOZzG539FJIEWpG1166yQNcWE123gWeVPud116tg117117",
@@ -1087,12 +1872,22 @@
 		"website": "http://wso2.com",
 		"twitter": "http://twitter.com/wso2",
 		"github": "https://github.com/wso2",
+		"apisjson_url": "",
+		"sdksio_url": "",
+		"postman_url": "",
+		"portal_url": "https://github.com/wso2",
+		"base_url": "",
 		"blog": "http://wso2.com/blogs/thesource/",
 		"blogrss": "http://wso2.com/blogs/thesource/feed/",
 		"logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/wso2-logo-white-800X360.jpg",
 		"logo_width": "200",
 		"screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/wso2-logo-white-800X360.jpg",
-		"tags": null
+		"tags": [
+			"Management",
+			"BaaS",
+			"API Management Open Source",
+			"API LIfeycle"
+		]
 	},
 	{
 		"id": "kn4TC5DTR2F87NhCu9IhtzTByveNCjAgSjrGHBraF2LOd7MeqZxvZLkrchomZSqKRaDr1mEaYgp9wPU1xP0Gew117117",
@@ -1102,11 +1897,21 @@
 		"website": "http://www.yourmembership.com/administrative-features/api.aspx",
 		"twitter": "https://twitter.com/#!/yourmembership",
 		"github": "",
+		"apisjson_url": "",
+		"sdksio_url": "",
+		"postman_url": "",
+		"portal_url": "",
+		"base_url": null,
 		"blog": "",
 		"blogrss": "http://www.yourmembership.com/blog/wp-rss.php",
 		"logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/1226_logo.tiff",
 		"logo_width": "150",
 		"screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/1226_logo.tiff",
-		"tags": null
+		"tags": [
+			"Social",
+			"Membership Management",
+			"Management",
+			"Clubs"
+		]
 	}
 ]
