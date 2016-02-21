@@ -1,1410 +1,2165 @@
 [
-  {
-    "building_block_id": "thIVtomy7J123E10rw31wl1239IVyCz5CWq1uR7HwQxgIYxlZQBZ7oRRmINSSyj123OYVVdOvTm5hfc1mAW8aLbFk116ng117117",
-    "building_block_category_id": "thC2dBEKQKQpTEtMic7gjmgFnbPbIw123XKqtpQnVfHnh60zH8s7Nd2O4aQuc7LiR9123k6cwoDd435mKA74fUHP3Q117117",
-    "name": "Team Showcase",
-    "about": "Provide a simple team page, showcasing the team behind the API, including photos, personal stories or bios, and any relevant social media accounts like Twitter and Github. ",
-    "category_id": "163",
-    "category": "Corporate",
-    "image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-teams.jpeg",
-    "image_width": "100",
-    "sort_order": "0"
-  },
-  {
-    "building_block_id": "jCqQ6pLRlifvMl0sYP6iJZ7k1238D20wL82oMBy6qQly15Q8OZ05QrPbij116AeGnyum9J8aZCxnL2oY5KGDv0sqYQ117117",
-    "building_block_category_id": "hS0uKBAr116WjL5TllOJBDkIJdxY2gqx2XZLPBcOk0p7cfScJLmvT1CZj2ruAIay8TLYNb5FPdBcwRBz3RsIEtlg117117",
-    "name": "Documentation Language",
-    "about": "Use a&nbsp;query string lang= parameter to set the language the API documentation should be speaking.",
-    "category_id": "239",
-    "category": "Internationalization",
-    "image": "",
-    "image_width": "100",
-    "sort_order": "0"
-  },
-  {
-    "building_block_id": "SCMy2n0uiqnetA116DuELLcrormIXeJTqBx5lS4eXE3zbGyU1igrUmcIcSYSqXSNXN3116JjxubqMpWdOcnMMTI84g117117",
-    "building_block_category_id": "thC2dBEKQKQpTEtMic7gjmgFnbPbIw123XKqtpQnVfHnh60zH8s7Nd2O4aQuc7LiR9123k6cwoDd435mKA74fUHP3Q117117",
-    "name": "Mission",
-    "about": "What is the mission of your company, organization, or government agency behind the platform.",
-    "category_id": "163",
-    "category": "Corporate",
-    "image": "",
-    "image_width": "100",
-    "sort_order": "0"
-  },
-  {
-    "building_block_id": "P4xbltIMas3y116sSgn3AqGXH123kyEBdk1FRow47I116Lstkh8HHb98R0tKZJ5iN123123AFYMqOmVXIfj116KtH5lVSAX6kA117117",
-    "building_block_category_id": "DxyWjUMYdZHUc6ywzOMj2ujoWxyqkrXzaJ116njyKAMVOlIkb9LMFnW9BUivx6BBA8hboODN5VPSPvBl2YZf4CTQ117117",
-    "name": "Value of Resources",
-    "about": "What is the value of an API resource? Often you will be just making this up, but at the least you should be able to articulate in some way.",
-    "category_id": "234",
-    "category": "Pricing & Credits",
-    "image": "",
-    "image_width": "100",
-    "sort_order": "0"
-  },
-  {
-    "building_block_id": "uAz3DZ1234NHJDXafJXSVkMx7hzN7j7rAqcDlu6uAHsNjuNJIQnlUeyI116V3116vYdLWtgkUmU3mIb7XPPe66rDn6nA117117",
-    "building_block_category_id": "DxyWjUMYdZHUc6ywzOMj2ujoWxyqkrXzaJ116njyKAMVOlIkb9LMFnW9BUivx6BBA8hboODN5VPSPvBl2YZf4CTQ117117",
-    "name": "Revenue",
-    "about": "What revenue opportunities for the ecosystem around an API and its operation, sharing in the money made from platform operations.",
-    "category_id": "234",
-    "category": "Pricing & Credits",
-    "image": "",
-    "image_width": "100",
-    "sort_order": "0"
-  },
-  {
-    "building_block_id": "95BzGu7cKKqhnWUhGcQVgNSZGCk1163fXrf123Lgae8XVFV3HsSjILFUODjSx116QWKa32SbDMYVWcVe19EjiybODe3g117117",
-    "building_block_category_id": "bvoV4JpZz1fUreAwChki8ceHjJXZzSm116dFmskYsWiZKsDBd4laQpl9ZcP116VrfNH2IYWmeQTW123trAqD0e5SyiLQ117117",
-    "name": "Slack",
-    "about": "Using Slack to create private channels just for communicating with internal, partner, or public API consumers.",
-    "category_id": "9",
-    "category": "Communications",
-    "image": "",
-    "image_width": "100",
-    "sort_order": "0"
-  },
-  {
-    "building_block_id": "PvvkRURadG8LBOynkbYrYSIsg4123vlogeiyiCZ0j28ehcN116116ZfLSjBLv123stfVNxBBpnLbdhQZBAQcFGCLHb1169ng117117",
-    "building_block_category_id": "ZTvqp7KrG0w1eFKUKfSne2aY3HF123m123GTqAQGYa5qpR0v9dhQJrsF2tXdGljUAogE8ul7DRZrr9HI3agpj3PPDg117117",
-    "name": "Documentation",
-    "about": "Simple, easy to understand, documentation of what an API does, that is kept up to date with API roadmap.",
-    "category_id": "3",
-    "category": "Documentation",
-    "image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-documentation.png",
-    "image_width": "150",
-    "sort_order": "1"
-  },
-  {
-    "building_block_id": "I9YVTdjdss0SJpeBMVMbcLjQ123ZQ1ipgP01mG123WS8b1v5KaV12380v123alWgJeJilaRI7PtZjx123QgYidlcFYWPslzA117117",
-    "building_block_category_id": "bvoV4JpZz1fUreAwChki8ceHjJXZzSm116dFmskYsWiZKsDBd4laQpl9ZcP116VrfNH2IYWmeQTW123trAqD0e5SyiLQ117117",
-    "name": "Blog",
-    "about": "Providing a blog dedicated to API platform operations, with stories about the providers, consumers, and other related stories.",
-    "category_id": "9",
-    "category": "Communications",
-    "image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-blog-icon.png",
-    "image_width": "150",
-    "sort_order": "1"
-  },
-  {
-    "building_block_id": "H4wbcc14FaSHGjiVrGLnUPqbZ4qDLXoZK73yfRdTx116l9d6B0Kkq4Gdne0123123Xj7RS7CrSXdSwbl123VZ8m0hXfvXA117117",
-    "building_block_category_id": "AoZutt8l31l116iBsPPtcSW123qz0PE116ieGBMtg8afcXKQVRbfwbC4123kV4EUUrdu8K11686ZEYROmjtTsAzFkbpDH5AQ117117",
-    "name": "Forum",
-    "about": "A modern, up to date, active, and well monitored forum, providing self-service access to information about an APIs operation.",
-    "category_id": "7",
-    "category": "Self-Service Support",
-    "image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-forum.png",
-    "image_width": "0",
-    "sort_order": "1"
-  },
-  {
-    "building_block_id": "bVlre1123wwHoWxIeMv3KuwNLTG9n29aZiKSrFlvIITDTsUFUyYGduZ4oyt8u116jZbEZLjZzk1TD8pLVE116kkvhDoQ117117",
-    "building_block_category_id": "123D123SOaWk5DjaZZJRTktVMbnSdR6KZLqYeKdCWoQSr6rMtvsH62vTF5BDKOo2UAthvdK123QAQoPEsd6HGV9dBmTQ117117",
-    "name": "Case Studies",
-    "about": "Offering a wealth of case studies of actual implementations that have occurred with an API , showing potential consumers what is possible.",
-    "category_id": "13",
-    "category": "Resources",
-    "image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-case-study.png",
-    "image_width": "150",
-    "sort_order": "1"
-  },
-  {
-    "building_block_id": "m0frQ0BDsV641XyvxVUx9nthVeOqqFzCr67tkkMaIazjycNB05K7LEjF3C0PUMdviRWQtP1HhBBKLETae0YX9A117117",
-    "building_block_category_id": "mGIQslJ1LbLipoY116VoLoFUD123TeZnvWIsoyv123Wl06laUB8WOhywf9JdTOZ297tDtb3116nqVrdgcTNITR9ChaWGkQ117117",
-    "name": "Status Dashboard",
-    "about": "A single location, at dedicated subdomain, providing status update(s) for all API resources, giving developers a place to go when looking to see if platform is available.",
-    "category_id": "10",
-    "category": "Updates",
-    "image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-status-dashboard.png",
-    "image_width": "150",
-    "sort_order": "1"
-  },
-  {
-    "building_block_id": "ltu61Tk5HjgEFYbrEitt21EHDOY65123Qe7NAKZdqwVIttXrBOJKvWUXhtEuHTEnfI7uQAxAXAzENrDwdCS2Bwgw117117",
-    "building_block_category_id": "pExOMVAuQeFEcO7MyQn7ieLdC8C2cnLrjJEmp4VA1166c5o9Wi6yK8xSCDe8ldpmNrB2NbCHYODcBAFiJ0UkjlVA117117",
-    "name": "Terms of Service",
-    "about": "Terms of Use provide a legal framework for developers to operate within, protecting the platforms interest, while also enabling potential innovation.",
-    "category_id": "15",
-    "category": "Legal",
-    "image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-terms-conditions.png",
-    "image_width": "150",
-    "sort_order": "1"
-  },
-  {
-    "building_block_id": "20LoUasKazc9usXmXK0g3VrXzPFySuO12cTlbO1234srC7fwtWKew6x2V116hzUZoNMzk41hA2TGfLxSYKb8SMWJAA117117",
-    "building_block_category_id": "9jjnrinqdQy91o5fuekwMThrMisMsimKIbgaxdcRbWfbvtLbQymUEYYtmn5iH9Dd123iWxsQdEXdkMvfcF3fpK9Q117117",
-    "name": "Labs",
-    "about": "Offering a labs environment, that showcases ideas that are being developed internally and by partners, possibly even providing opportunities for public consumers.",
-    "category_id": "14",
-    "category": "Research & Development",
-    "image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-app-development.png",
-    "image_width": "150",
-    "sort_order": "1"
-  },
-  {
-    "building_block_id": "CKjJhhwGEFL0116vXDGw5eyxsiHr8OXrfDyOc1fptFJwpSpSD29AsfAVL5WrS116iTMWkwU116iRO2hBKmYb1160pP3Ilg117117",
-    "building_block_category_id": "Z9yrJFOmotw79NOMgDrLDMk5x7VCTGQE5dRnBRs9S39KuY06Oa3YRYsdemexuFyIAGVksw5LW7D8FbxfZsMZdQ117117",
-    "name": "Widgets",
-    "about": "Widgets are highly functional, API driven JavaScript tools that provide portable applications that can be embedded on any website or application. ",
-    "category_id": "16",
-    "category": "Embeddable Tools",
-    "image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-widget.png",
-    "image_width": "0",
-    "sort_order": "1"
-  },
-  {
-    "building_block_id": "smGD8f2kKVx2H5pOCIjjGNyg6upwprIPlTxePtSIm5plisA0X7qPhAKOmcOZ123h123FkWSnMUjw3123BSx4azZxUILw117117",
-    "building_block_category_id": "5jrtNEFnwvcjo65lPu79OTGiUym1qBy5pTYuV2fV123poVboCBZth9XBj7iMLTkIHCA0VGxL8H9nm7xYAMaGhfYA117117",
-    "name": "Authentication Overview",
-    "about": "An overview of how authentication is handled for a platform, and which formats are supported, setting expectations for consumers.",
-    "category_id": "4",
-    "category": "Authentication",
-    "image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-authentication.png",
-    "image_width": "150",
-    "sort_order": "1"
-  },
-  {
-    "building_block_id": "gnJD3S20HyFh8kdpabHu9R2HaaK6w5l6BsqlsQvzATRNEdqXuJCAcvj3mEblgq14bmhF9oDpuX0LwI36ULOjBw117117",
-    "building_block_category_id": "y92mG2116XhGnBf0XgHtjMBKxnaImtoPCnc3bmvgUUqaaOB83KpuOg1161236ubrmc1VWmkVOYf2aKDqKyfa35Mdz3yQ117117",
-    "name": "Github",
-    "about": "Using Github for managing of code samples, libraries, SDKs, and other supporting elements of an API platform.",
-    "category_id": "5",
-    "category": "Code Management",
-    "image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-github.jpg",
-    "image_width": "150",
-    "sort_order": "1"
-  },
-  {
-    "building_block_id": "VMyXC24ds116lEoKMGcZtLxJZCneDOEtzjciBADT1165bjzeLPD123E2Vk2FPdx116gY8mclis9Rap3NvJ2nfUXfqay9Yg117117",
-    "building_block_category_id": "116oKmTXtN3PE19XBjD1xD0ws5tvZFY0y7Vrn2Rq6cqTbYScyKfJQHua0pIHI1IB09Das8XqPe9mVCV7Y7IoUPSg117117",
-    "name": "Sandbox",
-    "about": "Provide developers a sandbox environment to develop and test their code, reducing headaches for consumers when developing their applications.",
-    "category_id": "17",
-    "category": "Environment",
-    "image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-sandbox.jpeg",
-    "image_width": "150",
-    "sort_order": "1"
-  },
-  {
-    "building_block_id": "zgzgq4iKS05VHxbsYwat5TjE1123oaY7XbCNPAcdBDq9jp6wXIx116zlnzJK01167Qus2uuZW2jQ1CLruE7LGU8eVuHQ117117",
-    "building_block_category_id": "bRBSxQDmB116MShXFSCz62116BJuS123UhbI1161tUi3kxVUNgRvdU0pHHMQaRbhfxlRzWskaLa0KCa7O6cqYFh9jVGUfA117117",
-    "name": "Developer Dashboard",
-    "about": "Provide developers a single dashboard for getting at all their tools, metrics and information they need to successfully manage their usage.",
-    "category_id": "18",
-    "category": "Developer Account",
-    "image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-dashboard.png",
-    "image_width": "150",
-    "sort_order": "1"
-  },
-  {
-    "building_block_id": "lAjaZwijdjO12311nO02vog5dVithRyEM92sMiTuuxmRI7pCdatkY8Qf8zSGK116oPUYJ1mKy8sFECbaHZn8jf7JwA117117",
-    "building_block_category_id": "116116Uf1169eOHbdMPoV1zgX2ow9J116wHq6HytD51233G9b2YAvPOcMwZnrlcpPKi123Vx4dnBMnyk116F7CMFvFB45gfV2uXQ117117",
-    "name": "Terms of Service",
-    "about": "Provide loose enough terms of service, that users can migrate their data from one platform to another, without violating the terms of service.",
-    "category_id": "91",
-    "category": "Reciprocity",
-    "image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-terms-conditions.png",
-    "image_width": "0",
-    "sort_order": "1"
-  },
-  {
-    "building_block_id": "ouptCLZP53WfxL1iSoPOFhsOP3VBYpMNOYUIechYQfaoK8TRfohsWAnsezXhjuAWabx3pO6lODOiHmUd4gbVzA117117",
-    "building_block_category_id": "LX1rx08wESg7WxbJF4IVjInQUaWlt2Yw8MLCi7C123KWXxdCgc8f4kvivbTdgNWz0oSInt9br77tnMn3aQBOxpGg117117",
-    "name": "Email",
-    "about": "Providing a simple email address that API consumers can use when looking to get answers to their questions.",
-    "category_id": "8",
-    "category": "Direct Support",
-    "image": "https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-dictionary.png",
-    "image_width": "0",
-    "sort_order": "1"
-  },
-  {
-    "building_block_id": "CFogCaU9lmzNh3bpFEKvEYsUAtYHfMwiBikSy4zdE4LE362I3AnDObpmAmqjfbURN5SFrhwxzLkQlFzPwaxfeA117117",
-    "building_block_category_id": "bbjPuELPFAaZfsPRl2QIvFIjww116UD52xfRz7nFt83iXfXqjbVo9Gp0F7fS8FCoSXR8116VAQdTeMV123IVZTYuf123sA117117",
-    "name": "Portal",
-    "about": "A simple, easily accessible portal for engaging with API consumers, providing a single point of entry for all API engagements.",
-    "category_id": "2",
-    "category": "Onboarding",
-    "image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-portal.jpg",
-    "image_width": "150",
-    "sort_order": "1"
-  },
-  {
-    "building_block_id": "A4Aj123jHq0kaQGULq6WpbBHujY6GfCF0bW3dOfnH5QYcJw5iYCq1116S93dm4QWSagp7B7VZnoY7BnUFsO3k7SBRg117117",
-    "building_block_category_id": "PvvkRURadG8LBOynkbYrYSIsg4123vlogeiyiCZ0j28ehcN116116ZfLSjBLv123stfVNxBBpnLbdhQZBAQcFGCLHb1169ng117117",
-    "name": "Wordpress",
-    "about": "Providing ready to go WordPress integration, allowing developers, and sometimes even non-developers to immediately put an API to use through their WordPress site(s).",
-    "category_id": "120",
-    "category": "Code - Platform Development Kits (PDK)",
-    "image": "",
-    "image_width": "100",
-    "sort_order": "1"
-  },
-  {
-    "building_block_id": "M2ZcfQVt7cRFLvAB3lAB116QymAnqrveC9ruL8onnQOyyJXYfFa1uu5IRdYKgZUriRxgm1a1XH2i2QidM02Y4M3Q117117",
-    "building_block_category_id": "5swgWlvrYhuAMb3tIG1R8wOERnXcggk9hp8ELJdulp71kl2SwBSIC5scErKc0Lu4p4W116F3VpKLxJw0Jj123GUBqQ117117",
-    "name": "Angular.js",
-    "about": "Providing developers with AngularJS framework integration, allowing them to build single page applications using API resources.",
-    "category_id": "130",
-    "category": "Single Page Applications (SPA)",
-    "image": "",
-    "image_width": "100",
-    "sort_order": "1"
-  },
-  {
-    "building_block_id": "9XOnITnjHpxC116p9Og14dLCQEcMgg4123KVQdyDmTYb1232y9YYGnNpDwvTgay747S75jm1sUAG3VpTqAUuN1LEvtJg117117",
-    "building_block_category_id": "20LoUasKazc9usXmXK0g3VrXzPFySuO12cTlbO1234srC7fwtWKew6x2V116hzUZoNMzk41hA2TGfLxSYKb8SMWJAA117117",
-    "name": "User Management",
-    "about": "A user management API, enabling the ability to create, read, update, and delete information associated with a specific user.",
-    "category_id": "164",
-    "category": "Management API",
-    "image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-users-male-female.png",
-    "image_width": "100",
-    "sort_order": "1"
-  },
-  {
-    "building_block_id": "n8bZ15rpyqA0s835STT6gztysK8DdZaD1gxddv6taARQLln7P123RtYr5Bk2Dii8jyBDLQy70116xt9a5KpR76Dlhw117117",
-    "building_block_category_id": "rYhU7Jf0XOU6VHXwpd382Sbti123JZ8qWLR84VErQX3xGYWweQQCXazS6Fijj8y116RfaxhXRKFV9L5yeICIv123gCIA117117",
-    "name": "Mobile Overview",
-    "about": "An overview page, dedicated to mobile application development, giving equal time to each platform, including iOS, Android, and Windows.",
-    "category_id": "6",
-    "category": "Mobile Management",
-    "image": "",
-    "image_width": "100",
-    "sort_order": "1"
-  },
-  {
-    "building_block_id": "s5DnzPKFHS9iKOAAAadLj6DJMDuihlth5vzeWWEKoquQa8FmSi3LmKjtL6KE0zaYxFzJmEvZX4HB38ym116SQJfw117117",
-    "building_block_category_id": "9jjnrinqdQy91o5fuekwMThrMisMsimKIbgaxdcRbWfbvtLbQymUEYYtmn5iH9Dd123iWxsQdEXdkMvfcF3fpK9Q117117",
-    "name": "Ideas",
-    "about": "Like showcase existing applications, an idea showcase is about providing a place where new and existing ideas can be shared, and potentially built upon by the community.",
-    "category_id": "14",
-    "category": "Research & Development",
-    "image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-light-bulb-bright.png",
-    "image_width": "150",
-    "sort_order": "2"
-  },
-  {
-    "building_block_id": "Y48ufIEqIm65uRcYCsBa123nmj116M5mlaXonXxY1vWIQP8dByQDpKgTKwR123jbg3p8Nmenq6NewO4tGyYOwOXbVv8g117117",
-    "building_block_category_id": "mGIQslJ1LbLipoY116VoLoFUD123TeZnvWIsoyv123Wl06laUB8WOhywf9JdTOZ297tDtb3116nqVrdgcTNITR9ChaWGkQ117117",
-    "name": "Roadmap",
-    "about": "A detailed list of what additions and changes are being planned as part of API operations, giving consumers a place where they can go learn about what is next in an APIs evolution.",
-    "category_id": "10",
-    "category": "Updates",
-    "image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-highway.png",
-    "image_width": "150",
-    "sort_order": "2"
-  },
-  {
-    "building_block_id": "SYz4dQ502j0VGn5kQCwlpw7VIcB6oMuORT9aSqfPNU116XPcarRqjl116p3Yz1dh7h123pyQSXYCqXnLQMow5OX5vuIw117117",
-    "building_block_category_id": "123D123SOaWk5DjaZZJRTktVMbnSdR6KZLqYeKdCWoQSr6rMtvsH62vTF5BDKOo2UAthvdK123QAQoPEsd6HGV9dBmTQ117117",
-    "name": "How-to Guides",
-    "about": "Providing how-to guides that walk consumers through common aspects of API integration, giving them self-service resources they can use.",
-    "category_id": "13",
-    "category": "Resources",
-    "image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-how-to-guide.png",
-    "image_width": "150",
-    "sort_order": "2"
-  },
-  {
-    "building_block_id": "CuLGOZFlYmjXl123meGhpK116MCafOFiq45Z6b61jSoUCyhN116poIfi123ZtWk6kx5hPU6123lNcjp6cRhG2hIqdI03OPpA117117",
-    "building_block_category_id": "pExOMVAuQeFEcO7MyQn7ieLdC8C2cnLrjJEmp4VA1166c5o9Wi6yK8xSCDe8ldpmNrB2NbCHYODcBAFiJ0UkjlVA117117",
-    "name": "Privacy Policy",
-    "about": "Privacy policies protect the rights of partners, developers and platform users while also protecting the API owner from damaging activity via the API platform. ",
-    "category_id": "15",
-    "category": "Legal",
-    "image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-privacy.png",
-    "image_width": "150",
-    "sort_order": "2"
-  },
-  {
-    "building_block_id": "hPC123o6tZKET4kbJPswxX116wEBO1116vofa2lk116cyV8aRgQDpOgRNWWTGAT36116PsgknrH123rWTpE4pEyjpcwDfId7123Q117117",
-    "building_block_category_id": "y92mG2116XhGnBf0XgHtjMBKxnaImtoPCnc3bmvgUUqaaOB83KpuOg1161236ubrmc1VWmkVOYf2aKDqKyfa35Mdz3yQ117117",
-    "name": "Application Gallery",
-    "about": "A gallery of all applications that have been built on top of an API platform, for the public and API community to explore.",
-    "category_id": "5",
-    "category": "Code Management",
-    "image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-app-icon.jpg",
-    "image_width": "150",
-    "sort_order": "2"
-  },
-  {
-    "building_block_id": "SzOi123xK5A116A9OKPALQ3RPXyZ4lAm8d8GDnpsq361UX1m5ZRhCKOkQITO3I116Yd5LZNQJPhbydTKGZRFkUBvrGnQ117117",
-    "building_block_category_id": "bbjPuELPFAaZfsPRl2QIvFIjww116UD52xfRz7nFt83iXfXqjbVo9Gp0F7fS8FCoSXR8116VAQdTeMV123IVZTYuf123sA117117",
-    "name": "Getting Started",
-    "about": "Laying out simple, clear steps for developers on how to register, authenticate, access documentation and code samples, and get support and any other details that are essential to integration.",
-    "category_id": "2",
-    "category": "Onboarding",
-    "image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-running.png",
-    "image_width": "150",
-    "sort_order": "2"
-  },
-  {
-    "building_block_id": "zexZREQenObAHf4FvU123Il6YODV6U116euGH5JC2cqL5wvbHioq7Bnq123AYk7YIaYQAhibmsFRtdzvvcf116kO0GUF9g117117",
-    "building_block_category_id": "ZTvqp7KrG0w1eFKUKfSne2aY3HF123m123GTqAQGYa5qpR0v9dhQJrsF2tXdGljUAogE8ul7DRZrr9HI3agpj3PPDg117117",
-    "name": "List of Endpoints",
-    "about": " A simple listing of all endpoints provides a quick introduction of what is available with an API.",
-    "category_id": "3",
-    "category": "Documentation",
-    "image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-list.png",
-    "image_width": "150",
-    "sort_order": "2"
-  },
-  {
-    "building_block_id": "hS0uKBAr116WjL5TllOJBDkIJdxY2gqx2XZLPBcOk0p7cfScJLmvT1CZj2ruAIay8TLYNb5FPdBcwRBz3RsIEtlg117117",
-    "building_block_category_id": "rYhU7Jf0XOU6VHXwpd382Sbti123JZ8qWLR84VErQX3xGYWweQQCXazS6Fijj8y116RfaxhXRKFV9L5yeICIv123gCIA117117",
-    "name": "iOS SDK",
-    "about": "Providing mobile focused SDKs for developers to build IOS mobile applications on top of an API.",
-    "category_id": "6",
-    "category": "Mobile Management",
-    "image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-iphone.png",
-    "image_width": "150",
-    "sort_order": "2"
-  },
-  {
-    "building_block_id": "XseAVQU3ywd92AWV123Q26PF5Gh1236DqAxcouegKY4b5ULaqSa9WRv7CTkJtgLMo116Npl2WHXatI07ikd123fFkwyeag117117",
-    "building_block_category_id": "116oKmTXtN3PE19XBjD1xD0ws5tvZFY0y7Vrn2Rq6cqTbYScyKfJQHua0pIHI1IB09Das8XqPe9mVCV7Y7IoUPSg117117",
-    "name": "Production",
-    "about": "Offer a production environment in addition to a sandbox, allowing developers to push an application into production mode when it is ready.",
-    "category_id": "17",
-    "category": "Environment",
-    "image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-production.png",
-    "image_width": "150",
-    "sort_order": "2"
-  },
-  {
-    "building_block_id": "UWDl9fpHQkVPhbMKePYjzI4Fx5fUNRk4zNZHZs0Gua5xnEz4eF9OS8p81nGmlemZ123a1O7wNnLQI9Gr9rjJbM6w117117",
-    "building_block_category_id": "bRBSxQDmB116MShXFSCz62116BJuS123UhbI1161tUi3kxVUNgRvdU0pHHMQaRbhfxlRzWskaLa0KCa7O6cqYFh9jVGUfA117117",
-    "name": "Account Settings",
-    "about": "Provide developers access to their basic account detail and settings, giving them quick access to their account configuration and allow for easy updates.",
-    "category_id": "18",
-    "category": "Developer Account",
-    "image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-account-settings.png",
-    "image_width": "150",
-    "sort_order": "2"
-  },
-  {
-    "building_block_id": "8MoG7MCgGCbHdTtMEKG123sa123h6qUh2tKYnQZG4WFJ0wdQfX9WxFnfCt6fH0BpNaTTyMUK12371A1MdJD116IAP1123jMg117117",
-    "building_block_category_id": "116116Uf1169eOHbdMPoV1zgX2ow9J116wHq6HytD51233G9b2YAvPOcMwZnrlcpPKi123Vx4dnBMnyk116F7CMFvFB45gfV2uXQ117117",
-    "name": "Data Portability",
-    "about": "Providing users with the ability to get data out of a system through a bulk download and via an API in a usable format that employs open standards.",
-    "category_id": "91",
-    "category": "Reciprocity",
-    "image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-suitcase.png",
-    "image_width": "0",
-    "sort_order": "2"
-  },
-  {
-    "building_block_id": "wvmz8kcaax3hs1160123fVSqC6hJ7uUiQBQTSFi3KHX6AuXFzjoaQQgGvmox1wteXNPjSgKfQ0duRKmF8jpbxICJZw117117",
-    "building_block_category_id": "bvoV4JpZz1fUreAwChki8ceHjJXZzSm116dFmskYsWiZKsDBd4laQpl9ZcP116VrfNH2IYWmeQTW123trAqD0e5SyiLQ117117",
-    "name": "Blog RSS Feed",
-    "about": "Make sure there is an RSS feed for any blog that is published as part of API operations.",
-    "category_id": "9",
-    "category": "Communications",
-    "image": "https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-rss-icon.png",
-    "image_width": "150",
-    "sort_order": "2"
-  },
-  {
-    "building_block_id": "7W93dml4WSmb7xtvznuU6SPFhLBv2JlueuHKomuDlo8OXJ3sPQGpBQ1uDBC4w6E5lm123B8123V1230bDjefZzYO123nPw117117",
-    "building_block_category_id": "LX1rx08wESg7WxbJF4IVjInQUaWlt2Yw8MLCi7C123KWXxdCgc8f4kvivbTdgNWz0oSInt9br77tnMn3aQBOxpGg117117",
-    "name": "Contact Form",
-    "about": "A contact form available in the central API portal, that developers can use to ask questions.",
-    "category_id": "8",
-    "category": "Direct Support",
-    "image": "https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-news-icon.png",
-    "image_width": "0",
-    "sort_order": "2"
-  },
-  {
-    "building_block_id": "W6Gn1ehr70D7ZoXAHu0Nl116JDybRvRVJolW98NEPpGNwu1123qVy8rSRx116GFfH2LMffXXjNPhBYq116B5NWrVm16X123A117117",
-    "building_block_category_id": "PvvkRURadG8LBOynkbYrYSIsg4123vlogeiyiCZ0j28ehcN116116ZfLSjBLv123stfVNxBBpnLbdhQZBAQcFGCLHb1169ng117117",
-    "name": "Heroku",
-    "about": "Providing ready to go Heroku integration, allowing developers, and sometimes even non-developers to immediately put an API to use through their Heroku platform account.",
-    "category_id": "120",
-    "category": "Code - Platform Development Kits (PDK)",
-    "image": "",
-    "image_width": "100",
-    "sort_order": "2"
-  },
-  {
-    "building_block_id": "uSCuDCF4f116JXjkK116nMFik1237jPGThgOEIzY123ZaPdRAkJFHgiCGVraZVS0aGJf524ZE116q4sxj4cWnGY0sDdtU123gA117117",
-    "building_block_category_id": "5jrtNEFnwvcjo65lPu79OTGiUym1qBy5pTYuV2fV123poVboCBZth9XBj7iMLTkIHCA0VGxL8H9nm7xYAMaGhfYA117117",
-    "name": "Key Access",
-    "about": "Providing simple tokens, often called API key as a common way to access to APIs, issuing one to each developer and per application they register.",
-    "category_id": "4",
-    "category": "Authentication",
-    "image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-key.png",
-    "image_width": "150",
-    "sort_order": "2"
-  },
-  {
-    "building_block_id": "FmJZJbo8yqGE2om67YU88DyudyOc3qOhsJtaLxO0rX123oqs116iQ6LZMJxdxrXI8QIDvptZdSe0QOE450pZHr5FNg117117",
-    "building_block_category_id": "AoZutt8l31l116iBsPPtcSW123qz0PE116ieGBMtg8afcXKQVRbfwbC4123kV4EUUrdu8K11686ZEYROmjtTsAzFkbpDH5AQ117117",
-    "name": "Forum RSS",
-    "about": "Going beyond just a forum, and providing an RSS feed for all forum activity. ",
-    "category_id": "7",
-    "category": "Self-Service Support",
-    "image": "",
-    "image_width": "100",
-    "sort_order": "2"
-  },
-  {
-    "building_block_id": "OsAfql3FjM116mMc5C116evDwx2qk7bgpj6eTTituOvcUcEI6jPWT7C9rHDjUrHjzR2Hbm1bVSde29BFfLB1913Btw117117",
-    "building_block_category_id": "20LoUasKazc9usXmXK0g3VrXzPFySuO12cTlbO1234srC7fwtWKew6x2V116hzUZoNMzk41hA2TGfLxSYKb8SMWJAA117117",
-    "name": "Account Management",
-    "about": "An account management API, enabling users to create, read, update, and delete information associated with their account.",
-    "category_id": "164",
-    "category": "Management API",
-    "image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-account-settings.png",
-    "image_width": "100",
-    "sort_order": "2"
-  },
-  {
-    "building_block_id": "rPPmi6savJbJTZEVuotzJmB123LgFfmtJ7rl1230cyNpGJ4HJCqfoOVuhI116ukmuCmR123oAH0RVkOI8xt8ofHpk1167fnw117117",
-    "building_block_category_id": "123D123SOaWk5DjaZZJRTktVMbnSdR6KZLqYeKdCWoQSr6rMtvsH62vTF5BDKOo2UAthvdK123QAQoPEsd6HGV9dBmTQ117117",
-    "name": "White Papers",
-    "about": "Offer white papers that educate consumers around topics that are relevant to the platform, consumers, and the industry that is being operated in.",
-    "category_id": "13",
-    "category": "Resources",
-    "image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-documentation.png",
-    "image_width": "150",
-    "sort_order": "3"
-  },
-  {
-    "building_block_id": "Il95Fp4116sWzlXIFSD9NMcujQeIFqkp5H9jOjBDWgxhNaBcW123P5qybfAoMRlne17r4RukTp0xzmFy116LM116W57WlQ117117",
-    "building_block_category_id": "pExOMVAuQeFEcO7MyQn7ieLdC8C2cnLrjJEmp4VA1166c5o9Wi6yK8xSCDe8ldpmNrB2NbCHYODcBAFiJ0UkjlVA117117",
-    "name": "Branding",
-    "about": " Branding Guidelines set the tone for how partners and developers can use the resources and assets made available via an API, setting expectations of how the brand can be use.",
-    "category_id": "15",
-    "category": "Legal",
-    "image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-brand.png",
-    "image_width": "150",
-    "sort_order": "3"
-  },
-  {
-    "building_block_id": "ZVJg1fLBG123VVkWxdz3HnS7FIE5116HwOry6oRcSdw40rMfs3PYYyLKu21LReKXwHKeAeKAxUcF7lyDM38u3X4yOw117117",
-    "building_block_category_id": "bvoV4JpZz1fUreAwChki8ceHjJXZzSm116dFmskYsWiZKsDBd4laQpl9ZcP116VrfNH2IYWmeQTW123trAqD0e5SyiLQ117117",
-    "name": "Twitter",
-    "about": "Provide an active Twitter account for support, as well as evangelism efforts around an APIs operations.",
-    "category_id": "9",
-    "category": "Communications",
-    "image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-twitter-icon.png",
-    "image_width": "150",
-    "sort_order": "3"
-  },
-  {
-    "building_block_id": "bM4jvDbY5uKz3oKE1DgJ5yKcPEYlO2e70HSffs7kjBFY3gtj6dK5Fx5yTBrQKdc7zw1164YP2qBTpE2juoXPORFg117117",
-    "building_block_category_id": "mGIQslJ1LbLipoY116VoLoFUD123TeZnvWIsoyv123Wl06laUB8WOhywf9JdTOZ297tDtb3116nqVrdgcTNITR9ChaWGkQ117117",
-    "name": "Change Log",
-    "about": "A detailed list of changes have been made to an API platform, giving consumers a single place they can go to learn about what changes have been made.",
-    "category_id": "10",
-    "category": "Updates",
-    "image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-recycling.jpg",
-    "image_width": "150",
-    "sort_order": "3"
-  },
-  {
-    "building_block_id": "C123bV5Oj6r5AmLG4n5rLKZOYBTB7gL8SUQ3VxFKOueqeGlDHpVFGLZ8PcBevEGs9CxRVz8K9aA6foZnCIB8123k9g117117",
-    "building_block_category_id": "bbjPuELPFAaZfsPRl2QIvFIjww116UD52xfRz7nFt83iXfXqjbVo9Gp0F7fS8FCoSXR8116VAQdTeMV123IVZTYuf123sA117117",
-    "name": "Self-Service Registration",
-    "about": "Providing a self-service registration for a developer portal, allowing developers to signup and get access to an API, 24 hours a day, 7 days a week.",
-    "category_id": "2",
-    "category": "Onboarding",
-    "image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-hand-wrench.jpg",
-    "image_width": "150",
-    "sort_order": "3"
-  },
-  {
-    "building_block_id": "yKLdPWs116hZPX041xEhxkT123123cI4RVDiyI4slZ116123AIjyUAozyQVOcKR0WeZP6DvmnjmKpku9CR5UPxqXOgcqu5VA117117",
-    "building_block_category_id": "Z9yrJFOmotw79NOMgDrLDMk5x7VCTGQE5dRnBRs9S39KuY06Oa3YRYsdemexuFyIAGVksw5LW7D8FbxfZsMZdQ117117",
-    "name": "Badges",
-    "about": "Badges are common for displaying content and resources delivered via an API and allow these assets to be embedded on any website or application. ",
-    "category_id": "16",
-    "category": "Embeddable Tools",
-    "image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-badges.png",
-    "image_width": "0",
-    "sort_order": "3"
-  },
-  {
-    "building_block_id": "uQKYWYRs7iYVEB5C0wtKSbQ6KQHWxdVdMSY4akdOVPVlbujj123Xj0nBddBDxTuZZPAogh9R46dCS46377qA7HkA117117",
-    "building_block_category_id": "ZTvqp7KrG0w1eFKUKfSne2aY3HF123m123GTqAQGYa5qpR0v9dhQJrsF2tXdGljUAogE8ul7DRZrr9HI3agpj3PPDg117117",
-    "name": "Interactive Documentation",
-    "about": "Interactive, hands-on documentation, provided by common approaches like Swagger and API Blueprint.",
-    "category_id": "3",
-    "category": "Documentation",
-    "image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-documentation-interactive.png",
-    "image_width": "150",
-    "sort_order": "3"
-  },
-  {
-    "building_block_id": "mCyE5EykVq3qNWUpCBlOxdUgncrJVLz8trskcA116xP0s8susVLAYxRXBu6EP40gDypLY6xzUeMoIssU123eMTfefA117117",
-    "building_block_category_id": "y92mG2116XhGnBf0XgHtjMBKxnaImtoPCnc3bmvgUUqaaOB83KpuOg1161236ubrmc1VWmkVOYf2aKDqKyfa35Mdz3yQ117117",
-    "name": "Open Source",
-    "about": "Using open source licenses across any code samples, libraries, SDKs, and complete applications provided as part of aPI operations.",
-    "category_id": "5",
-    "category": "Code Management",
-    "image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-open-source.png",
-    "image_width": "150",
-    "sort_order": "3"
-  },
-  {
-    "building_block_id": "lZAkZC1qHPlqV12GZmHuWDiBpG2i6Bg123V8rMME9LsRA9mWgFylDlSBlutH1161RL6OTOe1116OdBKspGtfICxpCxRg117117",
-    "building_block_category_id": "rYhU7Jf0XOU6VHXwpd382Sbti123JZ8qWLR84VErQX3xGYWweQQCXazS6Fijj8y116RfaxhXRKFV9L5yeICIv123gCIA117117",
-    "name": "Android SDK",
-    "about": "Providing mobile focused SDKs for developers to build Android mobile applications on top of an API.",
-    "category_id": "6",
-    "category": "Mobile Management",
-    "image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-android.jpg",
-    "image_width": "150",
-    "sort_order": "3"
-  },
-  {
-    "building_block_id": "w4nk9JCm116MPOm3m74Wc2HqyKF6XIyfNG0LjOmMSW7bzSWU123KqOMPYQWe9Agj123jhghhuVHFAdHm1Z6wXwSPxSSA117117",
-    "building_block_category_id": "AoZutt8l31l116iBsPPtcSW123qz0PE116ieGBMtg8afcXKQVRbfwbC4123kV4EUUrdu8K11686ZEYROmjtTsAzFkbpDH5AQ117117",
-    "name": "Stack Overflow",
-    "about": "Using the public QA site Stack Overflow as part of support operations for an API.",
-    "category_id": "7",
-    "category": "Self-Service Support",
-    "image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-stack-exchange.png",
-    "image_width": "150",
-    "sort_order": "3"
-  },
-  {
-    "building_block_id": "hFBSWZDqk4mYHOCUNrzpx123FsmDUqYCfx1TtpI5LF116123BLOq123NzeyHhOgA1Jia3sEgkhtJCcpiKGoOtiSw1236QYnw117117",
-    "building_block_category_id": "LX1rx08wESg7WxbJF4IVjInQUaWlt2Yw8MLCi7C123KWXxdCgc8f4kvivbTdgNWz0oSInt9br77tnMn3aQBOxpGg117117",
-    "name": "Phone",
-    "about": "Providing a phone number that developers can call when they need support.",
-    "category_id": "8",
-    "category": "Direct Support",
-    "image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-phone.jpeg",
-    "image_width": "150",
-    "sort_order": "3"
-  },
-  {
-    "building_block_id": "u6McJIBlbsKDumb8dCSfBrnptz4VyqcZ8KSmRFTcBOFzFV8MqlxandoebDggGwIDhNzCqRQJR7kQBEQPzeRqGA117117",
-    "building_block_category_id": "9jjnrinqdQy91o5fuekwMThrMisMsimKIbgaxdcRbWfbvtLbQymUEYYtmn5iH9Dd123iWxsQdEXdkMvfcF3fpK9Q117117",
-    "name": "Opportunities",
-    "about": "Providing an area where aPI consumers can find opportunities available on the platform from potential projects, to posting job opportunities that are currently available.",
-    "category_id": "14",
-    "category": "Research & Development",
-    "image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-exlamation-point.gif",
-    "image_width": "150",
-    "sort_order": "3"
-  },
-  {
-    "building_block_id": "123RqHIKT7j123psZCyBhrzYpSG9cZgz9evled116P3123IH03a3LBLuNR9kp1jhq7VuCPJWuPIJeK2TJHZAqpouBrWQjg117117",
-    "building_block_category_id": "bRBSxQDmB116MShXFSCz62116BJuS123UhbI1161tUi3kxVUNgRvdU0pHHMQaRbhfxlRzWskaLa0KCa7O6cqYFh9jVGUfA117117",
-    "name": "Reset Password",
-    "about": "Provide the necessary tools for developers to gain access to their account if they lose their password.",
-    "category_id": "18",
-    "category": "Developer Account",
-    "image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-reset.jpeg",
-    "image_width": "150",
-    "sort_order": "3"
-  },
-  {
-    "building_block_id": "ndUptEH2guPe1239ZQ8IQ8123aIw7fEWkVNFTWxxa0pLU0NxBooDQsrkQUct2eru9fbV7NeQy561Kn116fHo5DA8sd123Q117117",
-    "building_block_category_id": "116116Uf1169eOHbdMPoV1zgX2ow9J116wHq6HytD51233G9b2YAvPOcMwZnrlcpPKi123Vx4dnBMnyk116F7CMFvFB45gfV2uXQ117117",
-    "name": "Automation",
-    "about": "Offer ready to go integrations with popular API automation platforms like Zapier and IFTTT, allowing any user to migrate data between platforms.",
-    "category_id": "91",
-    "category": "Reciprocity",
-    "image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-clock-gear.png",
-    "image_width": "0",
-    "sort_order": "3"
-  },
-  {
-    "building_block_id": "pzCU14uLwTgOykjtIUEOgqO9x8JP070T1168uuuM2OpoDJpSNQ7ObYM2e1gcNIs123Hui4NjQ70179csyMddjEBajA117117",
-    "building_block_category_id": "PvvkRURadG8LBOynkbYrYSIsg4123vlogeiyiCZ0j28ehcN116116ZfLSjBLv123stfVNxBBpnLbdhQZBAQcFGCLHb1169ng117117",
-    "name": "Drupal",
-    "about": "Providing ready to go Drupal integration, allowing developers, and sometimes even non-developers to immediately put an API to use through their Drupal site(s).",
-    "category_id": "120",
-    "category": "Code - Platform Development Kits (PDK)",
-    "image": "",
-    "image_width": "100",
-    "sort_order": "3"
-  },
-  {
-    "building_block_id": "PFNFHdHwlA80coj116wkWubcXG0bqevZJCLotr9zB1ZaXh7tmmxaxUQOUP6pvyRuqwLMWkNukHc4Jk116bDV0pUq7A117117",
-    "building_block_category_id": "116oKmTXtN3PE19XBjD1xD0ws5tvZFY0y7Vrn2Rq6cqTbYScyKfJQHua0pIHI1IB09Das8XqPe9mVCV7Y7IoUPSg117117",
-    "name": "Simulator",
-    "about": "Providing an environment where developers can find existing profiles, templates or other collections of data, as well as sequence for simulating a particular experience via an API platform.",
-    "category_id": "17",
-    "category": "Environment",
-    "image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-data-template.png",
-    "image_width": "150",
-    "sort_order": "3"
-  },
-  {
-    "building_block_id": "123g123idWRhjREORTNOxngXvU60AH21oXhxYGDP1vHgsr8eVJtU5DYhbiDoYO6M54mD3AqA2NGB3S2KOrjqXwvq9A117117",
-    "building_block_category_id": "5jrtNEFnwvcjo65lPu79OTGiUym1qBy5pTYuV2fV123poVboCBZth9XBj7iMLTkIHCA0VGxL8H9nm7xYAMaGhfYA117117",
-    "name": "Basic Auth",
-    "about": "Usage of the basic authentication format that is part of the standard HTTP operations, employing a username and password as credentials for accessing API resources.",
-    "category_id": "4",
-    "category": "Authentication",
-    "image": "",
-    "image_width": "100",
-    "sort_order": "3"
-  },
-  {
-    "building_block_id": "ADqgW3DnEyZrmw6ZUFTW2HqPc116ak7mkeNlnlZzKdaHHSWFpyNc2CWsL4sxkHCgqTLv4S6Ilx8ZMJPFmStipR6w117117",
-    "building_block_category_id": "20LoUasKazc9usXmXK0g3VrXzPFySuO12cTlbO1234srC7fwtWKew6x2V116hzUZoNMzk41hA2TGfLxSYKb8SMWJAA117117",
-    "name": "Application Management",
-    "about": "An application management API, allowing users to manage their registered applications, and get information about their consumption.",
-    "category_id": "164",
-    "category": "Management API",
-    "image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-app.png",
-    "image_width": "0",
-    "sort_order": "3"
-  },
-  {
-    "building_block_id": "NYQdpPnCfnS71123Po6dGY116Ix116jbhA7aFyu80stt123l15Pr70YvKH4116Qx6Xbb1vq116Jnp4v7h3kXk4akK8pBuA9oVQ117117",
-    "building_block_category_id": "LX1rx08wESg7WxbJF4IVjInQUaWlt2Yw8MLCi7C123KWXxdCgc8f4kvivbTdgNWz0oSInt9br77tnMn3aQBOxpGg117117",
-    "name": "Ticket System",
-    "about": "Provide a central ticketing system for all support requests, possibly using popular support software like Zendesk.",
-    "category_id": "8",
-    "category": "Direct Support",
-    "image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-ticket-system.png",
-    "image_width": "150",
-    "sort_order": "4"
-  },
-  {
-    "building_block_id": "sWjCsmpC6px5hcCf116123egreiylrQV2PnHWutJqPTT7p123cqI0zlHZMlYEZq7E7pvX4hqz1239VGw6BMoNwYAdjiQnQ117117",
-    "building_block_category_id": "bvoV4JpZz1fUreAwChki8ceHjJXZzSm116dFmskYsWiZKsDBd4laQpl9ZcP116VrfNH2IYWmeQTW123trAqD0e5SyiLQ117117",
-    "name": "Email",
-    "about": "Provide an email for not just support, but also general platform communications.",
-    "category_id": "9",
-    "category": "Communications",
-    "image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-email.png",
-    "image_width": "150",
-    "sort_order": "4"
-  },
-  {
-    "building_block_id": "i6Ab123W5mYttVGKi1G1116ck2KVXUzVn1165Cxc4CDo190rQ0mqwR116BnMG2RkGsj6N1160PAAOZFu1KQrKFKF123uF2UZeA117117",
-    "building_block_category_id": "bRBSxQDmB116MShXFSCz62116BJuS123UhbI1161tUi3kxVUNgRvdU0pHHMQaRbhfxlRzWskaLa0KCa7O6cqYFh9jVGUfA117117",
-    "name": "Application Manager",
-    "about": "Providing an interface that allows developers to manage one or many applications that will be integrating with an API.",
-    "category_id": "18",
-    "category": "Developer Account",
-    "image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-app-icon.jpg",
-    "image_width": "150",
-    "sort_order": "4"
-  },
-  {
-    "building_block_id": "0JGzGhrLZn1ICG8E8g9ivtBda123Z9r5LB1123LHmPkHFKrH7123F6pKSEUUnM3z116CB6TTs8f2Q81ynb7VmmE116rVGZvQ117117",
-    "building_block_category_id": "ZTvqp7KrG0w1eFKUKfSne2aY3HF123m123GTqAQGYa5qpR0v9dhQJrsF2tXdGljUAogE8ul7DRZrr9HI3agpj3PPDg117117",
-    "name": "API Explorer",
-    "about": "API explorers allow users to make calls and explore REST APIs using a web interface. ",
-    "category_id": "3",
-    "category": "Documentation",
-    "image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-explorer.png",
-    "image_width": "150",
-    "sort_order": "4"
-  },
-  {
-    "building_block_id": "6GYfB6cmvsXUNWY2KO8W48Tcv2uyNjM5qZWOqNmGEy4dP6IObggm3t0GKETMBo0tSwRo123wP116YYsWK6cKFpRtiw117117",
-    "building_block_category_id": "bbjPuELPFAaZfsPRl2QIvFIjww116UD52xfRz7nFt83iXfXqjbVo9Gp0F7fS8FCoSXR8116VAQdTeMV123IVZTYuf123sA117117",
-    "name": "Best Practices",
-    "about": "Publishing of a plain english introduction to the best practices around integrating with an API, providing introductory lesson for developers of how to properly integrate with an API.",
-    "category_id": "2",
-    "category": "Onboarding",
-    "image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-yingyang.jpg",
-    "image_width": "150",
-    "sort_order": "4"
-  },
-  {
-    "building_block_id": "pd9FJeaU80p6Nspb1iiWZ9YH8Sa2UZj123d7aF116R116ba0Z037P09O0CAibkyXmFVWFFauCYlFVzXehbhvCiSyRTXA117117",
-    "building_block_category_id": "y92mG2116XhGnBf0XgHtjMBKxnaImtoPCnc3bmvgUUqaaOB83KpuOg1161236ubrmc1VWmkVOYf2aKDqKyfa35Mdz3yQ117117",
-    "name": "Starter Projects",
-    "about": "Offer fully functional applications that API developers can reverse engineer, and possible put to use as a starting point for their integrations.",
-    "category_id": "5",
-    "category": "Code Management",
-    "image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-starter-kit.png",
-    "image_width": "150",
-    "sort_order": "4"
-  },
-  {
-    "building_block_id": "JIgPVnB2V3OHHR0gdohWtewTrqOcS9i6AExs123poARqeu71ZdoTUTMG7vyj2LbjhNQI7qY116Qsg2VxGZ8x6splaA117117",
-    "building_block_category_id": "rYhU7Jf0XOU6VHXwpd382Sbti123JZ8qWLR84VErQX3xGYWweQQCXazS6Fijj8y116RfaxhXRKFV9L5yeICIv123gCIA117117",
-    "name": "HTML5",
-    "about": "Providing mobile focused SDKs for developers to build HTML5 mobile applications on top of an API.",
-    "category_id": "6",
-    "category": "Mobile Management",
-    "image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-html5.png",
-    "image_width": "150",
-    "sort_order": "4"
-  },
-  {
-    "building_block_id": "DWkI8dBzf95r8KN14jofGeulR90KmfjSUEO4Omqs6fp4u116O0uGNvH19nvN1NWP9OJprqi7M123uDj3dN7rH9h0eA117117",
-    "building_block_category_id": "123D123SOaWk5DjaZZJRTktVMbnSdR6KZLqYeKdCWoQSr6rMtvsH62vTF5BDKOo2UAthvdK123QAQoPEsd6HGV9dBmTQ117117",
-    "name": "Webinars",
-    "about": "Provide online webinars on a regular basis that API consumers can attend to learn about various aspects of platform operations.",
-    "category_id": "13",
-    "category": "Resources",
-    "image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-webinar.png",
-    "image_width": "150",
-    "sort_order": "4"
-  },
-  {
-    "building_block_id": "FIvml6An123VdJ71uT9MtN19oUc2p8R1HJvldqFWMNo4rbxlbB80bfF1Ouph123beySN2TU1dNy04jKKc31SMbVS8w117117",
-    "building_block_category_id": "116116Uf1169eOHbdMPoV1zgX2ow9J116wHq6HytD51233G9b2YAvPOcMwZnrlcpPKi123Vx4dnBMnyk116F7CMFvFB45gfV2uXQ117117",
-    "name": "oAuth",
-    "about": "Provides an identify and access layer for API driven resource, one that allows for reciprocity to occur within a single API ecosystem, and between multiple ecosystems.",
-    "category_id": "91",
-    "category": "Reciprocity",
-    "image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/oauth-logo.png",
-    "image_width": "0",
-    "sort_order": "4"
-  },
-  {
-    "building_block_id": "VRN1G2TiCOx123knYSDt6S17ToMggoetuva4pnz2vSjU7jHP9sgWoEz7U4QLELr116XT54rnzS6Bh116r2m5sxDjgE8w117117",
-    "building_block_category_id": "pExOMVAuQeFEcO7MyQn7ieLdC8C2cnLrjJEmp4VA1166c5o9Wi6yK8xSCDe8ldpmNrB2NbCHYODcBAFiJ0UkjlVA117117",
-    "name": "Code License",
-    "about": "Provide a license for the code that is available via the platform setting expectations with consumers regarding how they can use code within their businesses, while also protecting API providers intellectual property.",
-    "category_id": "15",
-    "category": "Legal",
-    "image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-mit-code-license.png",
-    "image_width": "0",
-    "sort_order": "4"
-  },
-  {
-    "building_block_id": "x9GrbJo4WWLCcm1163C11504w1j2kXR8R0A8O29123fvgQIo8aSdUUZQKKead1160vRwQqYlPVdsbfMgc19k1166p4q4wQ117117",
-    "building_block_category_id": "5yYtdYYfab4p0TN8N6k123Ns99O3BfoaDONk31791hIOUU123jTyRIfgf1KoerIjneha9EW8tIkqBahBEpsM116zXM116g117117",
-    "name": "Widget Builder",
-    "about": "A widget builder provides a form that API consumers can use to configure a predefined widget that is integrated with an API, allowing them to customize and tailor the widget experience.",
-    "category_id": "232",
-    "category": "Embed Engines",
-    "image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-embeddable.png",
-    "image_width": "150",
-    "sort_order": "4"
-  },
-  {
-    "building_block_id": "Odnev0BVKsdSxcrqU4n123g2EDkbOyye7gcKw3zt4tHdiyMUPc123HAlpHWtphmDTy123l60fB3MGUAIYT3Gpn21QhNg117117",
-    "building_block_category_id": "mGIQslJ1LbLipoY116VoLoFUD123TeZnvWIsoyv123Wl06laUB8WOhywf9JdTOZ297tDtb3116nqVrdgcTNITR9ChaWGkQ117117",
-    "name": "Status RSS",
-    "about": "Providing an RSS feed for a status dashboard, allowing users to receive updates on any website, and via any RSS client.",
-    "category_id": "10",
-    "category": "Updates",
-    "image": "",
-    "image_width": "100",
-    "sort_order": "4"
-  },
-  {
-    "building_block_id": "Mv6GW86vZ0IXnJsF9oIPR6AL16oBqC5NlpAZkkIN6RrWviLYJ123QnlZQsGtTumdqy0iOIcOnK123gkdCnTWFwH8FA117117",
-    "building_block_category_id": "PvvkRURadG8LBOynkbYrYSIsg4123vlogeiyiCZ0j28ehcN116116ZfLSjBLv123stfVNxBBpnLbdhQZBAQcFGCLHb1169ng117117",
-    "name": "SalesForce",
-    "about": "Providing ready to go SalesForce integration, allowing developers, and sometimes even non-developers to immediately put an API to use through their SalesForce account.",
-    "category_id": "120",
-    "category": "Code - Platform Development Kits (PDK)",
-    "image": "",
-    "image_width": "100",
-    "sort_order": "4"
-  },
-  {
-    "building_block_id": "wVc81wMLnCD13pU83VgNTif7zcTOGq1yX116I6DBrNtYn4IswUGn123m116Xf116Lg123LN116RafUJEGhC43KKbOp2vdfFhAg117117",
-    "building_block_category_id": "5jrtNEFnwvcjo65lPu79OTGiUym1qBy5pTYuV2fV123poVboCBZth9XBj7iMLTkIHCA0VGxL8H9nm7xYAMaGhfYA117117",
-    "name": "oAuth",
-    "about": "Providing an oAuth layer to API operations, securing high value APIs, while also opening up a conversation between an API platform, developers, and end-users regarding the access of their content and data.",
-    "category_id": "4",
-    "category": "Authentication",
-    "image": "",
-    "image_width": "100",
-    "sort_order": "4"
-  },
-  {
-    "building_block_id": "ManLj2LorpNQlRQwWbxWUDOtBK2123KtrKpHH116B5MKjb3P37N72GxTwkaf5xnGlaXDmeKnqCABFC3FiHF1hQiLvw117117",
-    "building_block_category_id": "AoZutt8l31l116iBsPPtcSW123qz0PE116ieGBMtg8afcXKQVRbfwbC4123kV4EUUrdu8K11686ZEYROmjtTsAzFkbpDH5AQ117117",
-    "name": "Knowledgebase",
-    "about": "Providing a single repository of content, organized by title, and tag, allowing you to search for keywords and phrases, as well as browse for answers.",
-    "category_id": "7",
-    "category": "Self-Service Support",
-    "image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-knowledge.png",
-    "image_width": "100",
-    "sort_order": "4"
-  },
-  {
-    "building_block_id": "RZSB44123QWTwVaPjU9Qzr9123dx5RWjxKfO7gV6D9EIO3V116Gpb9vSYE0Qj116Qa8TQ1pPHjgoCIyDyctmYILqpd123gMQ117117",
-    "building_block_category_id": "20LoUasKazc9usXmXK0g3VrXzPFySuO12cTlbO1234srC7fwtWKew6x2V116hzUZoNMzk41hA2TGfLxSYKb8SMWJAA117117",
-    "name": "Service Management",
-    "about": "A service management API, providing users to see what services are available, and their access and usage levels for any given service.",
-    "category_id": "164",
-    "category": "Management API",
-    "image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-service-request.png",
-    "image_width": "100",
-    "sort_order": "4"
-  },
-  {
-    "building_block_id": "tZ7aP0V98ZlHGlGGgYZm11IfQ123GHGUyZALlvzWh0XA0Zs350vXCkV116cRlENa4zA6kzONlE42crhQ37Vyu5dtEA117117",
-    "building_block_category_id": "116oKmTXtN3PE19XBjD1xD0ws5tvZFY0y7Vrn2Rq6cqTbYScyKfJQHua0pIHI1IB09Das8XqPe9mVCV7Y7IoUPSg117117",
-    "name": "Templates",
-    "about": "Offering predefined templates ofu00a0operation, when a new environment is setup, either sandbox, production, or simulator, it can be pre-populated with data, and other configuration.",
-    "category_id": "17",
-    "category": "Environment",
-    "image": "",
-    "image_width": "100",
-    "sort_order": "4"
-  },
-  {
-    "building_block_id": "WookaYQo123McdJaByas123S6kz62123116PM3pw1A0P0qElz7mN8rBPsuT116yhawMvuUWDHI6KF0wRYl0tSTkURAqP91232g117117",
-    "building_block_category_id": "bbjPuELPFAaZfsPRl2QIvFIjww116UD52xfRz7nFt83iXfXqjbVo9Gp0F7fS8FCoSXR8116VAQdTeMV123IVZTYuf123sA117117",
-    "name": "FAQ",
-    "about": "Providing developers a list of the common questions asked of an API platform, with simple answers to each question, allowing them to understand the common problems faced during onboarding.",
-    "category_id": "2",
-    "category": "Onboarding",
-    "image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-question-mark.png",
-    "image_width": "150",
-    "sort_order": "5"
-  },
-  {
-    "building_block_id": "uE1YMjRiVIbcVczLiaAMuAh5oSONFnTkFHlx6lk123E1dlRjx5nl3rFtaNZWplr169123GBoseUY9eMmYM9g2tCCYw117117",
-    "building_block_category_id": "bvoV4JpZz1fUreAwChki8ceHjJXZzSm116dFmskYsWiZKsDBd4laQpl9ZcP116VrfNH2IYWmeQTW123trAqD0e5SyiLQ117117",
-    "name": "LinkedIn",
-    "about": "Provide an active LinkedIn account for support, as well as evangelism efforts around an APIs operations.",
-    "category_id": "9",
-    "category": "Communications",
-    "image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-linkedin.png",
-    "image_width": "0",
-    "sort_order": "5"
-  },
-  {
-    "building_block_id": "HEd6jqEhv9123Yhg116QE5EZ3z9hJ10iI123p116UMlg8uEjGGd6IoPQZ0rMLCu5v5zjBvsXHL8invsBwLd116xS3Nz7lujw117117",
-    "building_block_category_id": "Z9yrJFOmotw79NOMgDrLDMk5x7VCTGQE5dRnBRs9S39KuY06Oa3YRYsdemexuFyIAGVksw5LW7D8FbxfZsMZdQ117117",
-    "name": "Buttons",
-    "about": "Buttons are shareable snippets of code that often share, syndicate or trigger a variety of events that use APIs as their source.",
-    "category_id": "16",
-    "category": "Embeddable Tools",
-    "image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-power-button.png",
-    "image_width": "150",
-    "sort_order": "5"
-  },
-  {
-    "building_block_id": "5yYtdYYfab4p0TN8N6k123Ns99O3BfoaDONk31791hIOUU123jTyRIfgf1KoerIjneha9EW8tIkqBahBEpsM116zXM116g117117",
-    "building_block_category_id": "ZTvqp7KrG0w1eFKUKfSne2aY3HF123m123GTqAQGYa5qpR0v9dhQJrsF2tXdGljUAogE8ul7DRZrr9HI3agpj3PPDg117117",
-    "name": "Error Response Codes",
-    "about": "Provide a robust, complete, clear and meaningful list of API error response codes.",
-    "category_id": "3",
-    "category": "Documentation",
-    "image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-error.png",
-    "image_width": "150",
-    "sort_order": "5"
-  },
-  {
-    "building_block_id": "TjhTRyTVIGTlaifcNxb4FJN11t9q7c3ehOIvkPvTQa0aWYp8rkYgk8ghjTYfwt3XV11690JCY5123XgpiMdRRzwdbg117117",
-    "building_block_category_id": "rYhU7Jf0XOU6VHXwpd382Sbti123JZ8qWLR84VErQX3xGYWweQQCXazS6Fijj8y116RfaxhXRKFV9L5yeICIv123gCIA117117",
-    "name": "Appery.io",
-    "about": "Providing mobile focused SDKs for developers to build mobile applications on top of an API, using Appery.io.",
-    "category_id": "6",
-    "category": "Mobile Management",
-    "image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-appery.png",
-    "image_width": "150",
-    "sort_order": "5"
-  },
-  {
-    "building_block_id": "ucyekTMaWwLqWcREPvOsDCXM8tLLzIDeBM4sAd3wspqCxUtSLsIrOX9exKpjctz1230pN4mNVBj4pHTZf1rCKPgw117117",
-    "building_block_category_id": "LX1rx08wESg7WxbJF4IVjInQUaWlt2Yw8MLCi7C123KWXxdCgc8f4kvivbTdgNWz0oSInt9br77tnMn3aQBOxpGg117117",
-    "name": "Office Hours",
-    "about": "Dedicated a specific time each week or monthly where support staff will be available via live chat to answer questions.",
-    "category_id": "8",
-    "category": "Direct Support",
-    "image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-clock.jpeg",
-    "image_width": "150",
-    "sort_order": "5"
-  },
-  {
-    "building_block_id": "OhLKYx16qQq2hcBLhbB5w4MpZ9D6JLE1168ZzpEfaKKeevqaIl6XdTRTROZuCgU7FGS2Jbl45GlDcV4AdM9gDoyg117117",
-    "building_block_category_id": "bRBSxQDmB116MShXFSCz62116BJuS123UhbI1161tUi3kxVUNgRvdU0pHHMQaRbhfxlRzWskaLa0KCa7O6cqYFh9jVGUfA117117",
-    "name": "Usage Logs & Analytics",
-    "about": "Allowing developers to be able to see where they stand with usage, logging and other aspects of operations, by providing them reports and analytics of their history.",
-    "category_id": "18",
-    "category": "Developer Account",
-    "image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-analytics-2.png",
-    "image_width": "150",
-    "sort_order": "5"
-  },
-  {
-    "building_block_id": "tisXHRmeSWgqg123mP4Jl9VeWR94IhLK1qBPGCRbjHFoHPtiZ7d5sdkPrG8xw116xqiuD1161kiEXa116rN57A2OQiorFg117117",
-    "building_block_category_id": "pExOMVAuQeFEcO7MyQn7ieLdC8C2cnLrjJEmp4VA1166c5o9Wi6yK8xSCDe8ldpmNrB2NbCHYODcBAFiJ0UkjlVA117117",
-    "name": "Data License",
-    "about": "Provide a data license to set the expectations with API consumers regarding how they can use data, and also protects API providers and their partners intellectual property.",
-    "category_id": "15",
-    "category": "Legal",
-    "image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-data-license.png",
-    "image_width": "0",
-    "sort_order": "5"
-  },
-  {
-    "building_block_id": "YvHVUbhOu1TQesTSL8huV3EJ0o123xFSV5cRz95dFVWWH123116fomrGqArC116X5D2EQtXa9XUUdtvcHPyYuF9nmI9Bsg117117",
-    "building_block_category_id": "123D123SOaWk5DjaZZJRTktVMbnSdR6KZLqYeKdCWoQSr6rMtvsH62vTF5BDKOo2UAthvdK123QAQoPEsd6HGV9dBmTQ117117",
-    "name": "Events",
-    "about": "Publish a page with information about any events the an API program will be attending, or maybe links to video and slide decks from past conferences.",
-    "category_id": "13",
-    "category": "Resources",
-    "image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-calendar.png",
-    "image_width": "0",
-    "sort_order": "5"
-  },
-  {
-    "building_block_id": "HY2YreCSaW123oqpNPYtVDogVKLiOos5nW72v123CX1236PwPhIiEYsQEFAqSwhUeIFEY8ZqgqoZAuLoZh116F95zre21Q117117",
-    "building_block_category_id": "116116Uf1169eOHbdMPoV1zgX2ow9J116wHq6HytD51233G9b2YAvPOcMwZnrlcpPKi123Vx4dnBMnyk116F7CMFvFB45gfV2uXQ117117",
-    "name": "Integrations",
-    "about": "Integrations showcase other 3rd party platforms that an API provider is already connected to, providing ready to go platform integration solutions that any developer can take advantage of. ",
-    "category_id": "91",
-    "category": "Reciprocity",
-    "image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-gears.png",
-    "image_width": "150",
-    "sort_order": "5"
-  },
-  {
-    "building_block_id": "ON3Upesup0NNXsSJX4FF36qzGxQ5116tImAc6aTuGZfzfrJlbSFHBiGH5q7HwR9DKpKJgEIbJTYcVMp3Rh3SRHVQ117117",
-    "building_block_category_id": "y92mG2116XhGnBf0XgHtjMBKxnaImtoPCnc3bmvgUUqaaOB83KpuOg1161236ubrmc1VWmkVOYf2aKDqKyfa35Mdz3yQ117117",
-    "name": "Community Supported Libraries",
-    "about": "In addition to providing your own company developed libraries, showcasing the libraries of trusted developers fro within the API community.",
-    "category_id": "5",
-    "category": "Code Management",
-    "image": "",
-    "image_width": "100",
-    "sort_order": "5"
-  },
-  {
-    "building_block_id": "vzjS2ibvRp123KstMvmOx5lXaXVldcdCs116diGqUvlz2AZJvU7EfPz9WqEDnTxLHbn3rHv68qWEx5ZI2p2jstLqfA117117",
-    "building_block_category_id": "PvvkRURadG8LBOynkbYrYSIsg4123vlogeiyiCZ0j28ehcN116116ZfLSjBLv123stfVNxBBpnLbdhQZBAQcFGCLHb1169ng117117",
-    "name": "Joomla",
-    "about": "Providing ready to go Joomla integration, allowing developers, and sometimes even non-developers to immediately put an API to use through their Joomla account.",
-    "category_id": "120",
-    "category": "Code - Platform Development Kits (PDK)",
-    "image": "",
-    "image_width": "100",
-    "sort_order": "5"
-  },
-  {
-    "building_block_id": "T116wWz0EJtyTs123vO2CIUa50F4pQSkLbltEd5123Wddp5Zgmt9Fce2BavtscTU123aUOmSL6fAifFkbWOHhSIMcZ1LoQ117117",
-    "building_block_category_id": "5jrtNEFnwvcjo65lPu79OTGiUym1qBy5pTYuV2fV123poVboCBZth9XBj7iMLTkIHCA0VGxL8H9nm7xYAMaGhfYA117117",
-    "name": "OAuth Scopes",
-    "about": "Providing a dedicated page or section to listing out the different OAuth scopes used by a platform. Providing a transparent window into all the scopes available, and some of the logic into why they exist.",
-    "category_id": "4",
-    "category": "Authentication",
-    "image": "",
-    "image_width": "100",
-    "sort_order": "5"
-  },
-  {
-    "building_block_id": "DrCkZbp116O0sxYpCp1uUvl206G7lxAJa4rX4R7Nq03oB116UiHUrVvcgiNqQg30qprW0Q8Wf8MW7ipALRQ6WxNVAw117117",
-    "building_block_category_id": "LX1rx08wESg7WxbJF4IVjInQUaWlt2Yw8MLCi7C123KWXxdCgc8f4kvivbTdgNWz0oSInt9br77tnMn3aQBOxpGg117117",
-    "name": "Calendar",
-    "about": "A single calendar of all events related to API operations, providing a place where developers can find all related goings on.",
-    "category_id": "8",
-    "category": "Direct Support",
-    "image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-calendar.png",
-    "image_width": "150",
-    "sort_order": "6"
-  },
-  {
-    "building_block_id": "rvUy1fuPXwoV1MNjbFziASm3Kb123nKISwk5jCcV3NiOf0G5F1234elwWjPwHykY4tciy116QHWS8WDziF4BxKOLxVGA117117",
-    "building_block_category_id": "bvoV4JpZz1fUreAwChki8ceHjJXZzSm116dFmskYsWiZKsDBd4laQpl9ZcP116VrfNH2IYWmeQTW123trAqD0e5SyiLQ117117",
-    "name": "Facebook",
-    "about": "Provide an active Facebook account for support, as well as evangelism efforts around an APIs operations.",
-    "category_id": "9",
-    "category": "Communications",
-    "image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-facebook.png",
-    "image_width": "0",
-    "sort_order": "6"
-  },
-  {
-    "building_block_id": "DxyWjUMYdZHUc6ywzOMj2ujoWxyqkrXzaJ116njyKAMVOlIkb9LMFnW9BUivx6BBA8hboODN5VPSPvBl2YZf4CTQ117117",
-    "building_block_category_id": "5jrtNEFnwvcjo65lPu79OTGiUym1qBy5pTYuV2fV123poVboCBZth9XBj7iMLTkIHCA0VGxL8H9nm7xYAMaGhfYA117117",
-    "name": "Authentication Tester",
-    "about": "Providing a testing tool for authentication, that allows developers to test key and Basic Auth to oAuth, to help them understand how authentication works and if they are using proper credentials.",
-    "category_id": "4",
-    "category": "Authentication",
-    "image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-authentication-test.png",
-    "image_width": "150",
-    "sort_order": "6"
-  },
-  {
-    "building_block_id": "LQhcbh1dtFV4dovx9bceCzZVQbM6u1zoIFHxTLHg123ck1V1236LJH3116ZUTPyffb5UQsecUjxxO5CY7pT9G1umsj2A117117",
-    "building_block_category_id": "bRBSxQDmB116MShXFSCz62116BJuS123UhbI1161tUi3kxVUNgRvdU0pHHMQaRbhfxlRzWskaLa0KCa7O6cqYFh9jVGUfA117117",
-    "name": "Billing History",
-    "about": "Provide clear and easy access to what a developer has been billed, allowing them to access and download their billing history around API usage.",
-    "category_id": "18",
-    "category": "Developer Account",
-    "image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-history.jpeg",
-    "image_width": "150",
-    "sort_order": "6"
-  },
-  {
-    "building_block_id": "wHg8xHXtu6nv7V3sR5123h1zDsd9ZUOSSSMOtRvFPW0Uko123ZZHJJRXfiHCfX7QJ123bUEUx59mDD8mJSgcd8MmVy9A117117",
-    "building_block_category_id": "bbjPuELPFAaZfsPRl2QIvFIjww116UD52xfRz7nFt83iXfXqjbVo9Gp0F7fS8FCoSXR8116VAQdTeMV123IVZTYuf123sA117117",
-    "name": "Service Accord",
-    "about": "Service level agreements (SLA) provide a legal framework managing the relationships between API consumers, and service accords provide a plain english explanation of what they expect from a provider, without the legaleze, in a format they can understand without calling the lawyers.",
-    "category_id": "2",
-    "category": "Onboarding",
-    "image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-handshake.jpg",
-    "image_width": "0",
-    "sort_order": "6"
-  },
-  {
-    "building_block_id": "LzA281238Ub7tqNJcbDDRGkCfFw3EJrY4ZXZIpEWtO6uBd3sAalv1M6K1164l116WjIHdcSPCgYFLzTcwwBGoBxnzJbg117117",
-    "building_block_category_id": "pExOMVAuQeFEcO7MyQn7ieLdC8C2cnLrjJEmp4VA1166c5o9Wi6yK8xSCDe8ldpmNrB2NbCHYODcBAFiJ0UkjlVA117117",
-    "name": "Service Level Agreement",
-    "about": "Provide a service level agreements (SLA) describing what service(s) are offered by an API provider, with details about quality of service, warranties,u00a0disaster recovery, and steps foru00a0termination of agreement. ",
-    "category_id": "15",
-    "category": "Legal",
-    "image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-handshake.jpg",
-    "image_width": "0",
-    "sort_order": "6"
-  },
-  {
-    "building_block_id": "SPqBkBvKCUGf1cMNTtPI7JvGMJUxEXKGjqqFOLiDJrHXPj7hm6C123uEUv6AiPGoPbNxZDaLdMGBvUqDWnPfHsKw117117",
-    "building_block_category_id": "PvvkRURadG8LBOynkbYrYSIsg4123vlogeiyiCZ0j28ehcN116116ZfLSjBLv123stfVNxBBpnLbdhQZBAQcFGCLHb1169ng117117",
-    "name": "Google App Engine",
-    "about": "Providing ready to go Google App Engine integration, allowing developers, and sometimes even non-developers to immediately put an API to use through the Google Cloud platform.",
-    "category_id": "120",
-    "category": "Code - Platform Development Kits (PDK)",
-    "image": "",
-    "image_width": "100",
-    "sort_order": "6"
-  },
-  {
-    "building_block_id": "to2d123123anQFxHAAcwTExTMUW4Xj3To123VJ123gPNlW8GE5RECTqAv123oP7116C21238XzB8yNL43jhW8NPgTkkRkg9qR0Dg117117",
-    "building_block_category_id": "123D123SOaWk5DjaZZJRTktVMbnSdR6KZLqYeKdCWoQSr6rMtvsH62vTF5BDKOo2UAthvdK123QAQoPEsd6HGV9dBmTQ117117",
-    "name": "Slideshare",
-    "about": "Publish a list of slide decks available on a Slideshare account, providing developers with access to past talks the API program has done.",
-    "category_id": "13",
-    "category": "Resources",
-    "image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-slideshare.png",
-    "image_width": "100",
-    "sort_order": "6"
-  },
-  {
-    "building_block_id": "aMQQjavD0Z116v3eUsIHsOVfkRkliY4EF116116oM116V6hyrbaAintxKW2uyEyTe8I320tjWAU2iOJoc3aueChAmKX6ng117117",
-    "building_block_category_id": "y92mG2116XhGnBf0XgHtjMBKxnaImtoPCnc3bmvgUUqaaOB83KpuOg1161236ubrmc1VWmkVOYf2aKDqKyfa35Mdz3yQ117117",
-    "name": "Code Builder",
-    "about": "A tool allowing for the generation of client code for various API endpoint, for specific language or platform objectives.",
-    "category_id": "5",
-    "category": "Code Management",
-    "image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-tools.png",
-    "image_width": "100",
-    "sort_order": "6"
-  },
-  {
-    "building_block_id": "NbQhzdcCIq1e0qbNzk4T2HCr24nbTsNLMOrd3bwrvQPIoxjBRMEIWjAXM5irzrDoBUOtnG28rMCt9XfAFX567A117117",
-    "building_block_category_id": "5yYtdYYfab4p0TN8N6k123Ns99O3BfoaDONk31791hIOUU123jTyRIfgf1KoerIjneha9EW8tIkqBahBEpsM116zXM116g117117",
-    "name": "JavaScript API",
-    "about": "A complete JavaScript API that developers can use to build and manage their own JavaScript integrations with an APIs resources, beyond existing widgets.",
-    "category_id": "232",
-    "category": "Embed Engines",
-    "image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-javascript-api.png",
-    "image_width": "100",
-    "sort_order": "6"
-  },
-  {
-    "building_block_id": "5fZt123GO0b5TYcYq3ectmRxDf9ZPkpGiM7orUHdoq7jbNadmz9ifVbrZxlzkT8uA6aBZOYBHO772TlAfnbVRSwg117117",
-    "building_block_category_id": "rYhU7Jf0XOU6VHXwpd382Sbti123JZ8qWLR84VErQX3xGYWweQQCXazS6Fijj8y116RfaxhXRKFV9L5yeICIv123gCIA117117",
-    "name": "Windows Mobile SDK",
-    "about": "Providing mobile focused SDKs for developers to build Windows mobile applications on top of an API.",
-    "category_id": "6",
-    "category": "Mobile Management",
-    "image": "",
-    "image_width": "100",
-    "sort_order": "6"
-  },
-  {
-    "building_block_id": "ZiLQ102bcJQyeVUoTgrLLN5mDpLes116rP116mFmDkIrU116CTHvr123L123Tw7RbbpK5Gb9jqywgJS58hdACyL9WK59R0Mw117117",
-    "building_block_category_id": "bvoV4JpZz1fUreAwChki8ceHjJXZzSm116dFmskYsWiZKsDBd4laQpl9ZcP116VrfNH2IYWmeQTW123trAqD0e5SyiLQ117117",
-    "name": "Google+",
-    "about": "Provide an active Google+ account for support, as well as evangelism efforts around an APIs operations.",
-    "category_id": "9",
-    "category": "Communications",
-    "image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-google-plus.png",
-    "image_width": "150",
-    "sort_order": "7"
-  },
-  {
-    "building_block_id": "3cEH6fv90vqFBh123Ygn8WQa3e8TYbwW9gwAbSpvKZcYck01w0kRg0MFMt3oRlsr9OwrAijD1167bwqd8paLngV123gQ117117",
-    "building_block_category_id": "pExOMVAuQeFEcO7MyQn7ieLdC8C2cnLrjJEmp4VA1166c5o9Wi6yK8xSCDe8ldpmNrB2NbCHYODcBAFiJ0UkjlVA117117",
-    "name": "Deprecation Policy",
-    "about": "Provide a API deprecation policy setting expectations with API consumers about when and how API resources will be deprecated and shut down. ",
-    "category_id": "15",
-    "category": "Legal",
-    "image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-deprecation.png",
-    "image_width": "0",
-    "sort_order": "7"
-  },
-  {
-    "building_block_id": "jlPKHR0G9pEWinHHyVvbjRl4eyIfuoOB8Rksxe21161Vzo9MMM4ASsjNsavj2uZYFPiXMa116N48rzf7B6flo1Rmsg117117",
-    "building_block_category_id": "PvvkRURadG8LBOynkbYrYSIsg4123vlogeiyiCZ0j28ehcN116116ZfLSjBLv123stfVNxBBpnLbdhQZBAQcFGCLHb1169ng117117",
-    "name": "Chrome Extension",
-    "about": "Providing ready to go Google Chrome browser integration, allowing developers, and sometimes even non-developers to immediately put an API to use in their browser, with a Google Chrome extension.",
-    "category_id": "120",
-    "category": "Code - Platform Development Kits (PDK)",
-    "image": "",
-    "image_width": "100",
-    "sort_order": "7"
-  },
-  {
-    "building_block_id": "5Xe1mZgNUq2mPrmCQDPOnm5FZ83qRNECmFUBJ4WrLPrJiIqbIVa0QgOjRHAT0ImUGOQe29VssgAx6T6ak12398RA117117",
-    "building_block_category_id": "123D123SOaWk5DjaZZJRTktVMbnSdR6KZLqYeKdCWoQSr6rMtvsH62vTF5BDKOo2UAthvdK123QAQoPEsd6HGV9dBmTQ117117",
-    "name": "Codecademy",
-    "about": "Creating courses on Codecademy, then publishing them within an API developer area, providing lessons for developers on how an API operates.",
-    "category_id": "13",
-    "category": "Resources",
-    "image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-codecademy.png",
-    "image_width": "100",
-    "sort_order": "7"
-  },
-  {
-    "building_block_id": "DEQDdq6mo9uhSZXanDr9AzzazFY8CdwFCeRBipaU61Pf1YZXpiKuDF33vKoaIDOJwiTdzKZ0SA9gzE8SiyPvgg117117",
-    "building_block_category_id": "LX1rx08wESg7WxbJF4IVjInQUaWlt2Yw8MLCi7C123KWXxdCgc8f4kvivbTdgNWz0oSInt9br77tnMn3aQBOxpGg117117",
-    "name": "Paid Support Plans",
-    "about": "Providing paid support tiers for developers to use, allowing them to pay by the minute, hour, or project, and get the intimate, direct support they desire.",
-    "category_id": "8",
-    "category": "Direct Support",
-    "image": "",
-    "image_width": "100",
-    "sort_order": "7"
-  },
-  {
-    "building_block_id": "wY0s116enyiDbFexdssKQcORXjM4M1zcLOUkrEq5XTYvdyeK5Q2hayF3NpH12pCJbEb90UoM1Gwotc9KogKCM87Q117117",
-    "building_block_category_id": "bRBSxQDmB116MShXFSCz62116BJuS123UhbI1161tUi3kxVUNgRvdU0pHHMQaRbhfxlRzWskaLa0KCa7O6cqYFh9jVGUfA117117",
-    "name": "Message Center",
-    "about": "Providing developers with a messaging system within their developer accounts, and communicate with API providers, and receive system updates.",
-    "category_id": "18",
-    "category": "Developer Account",
-    "image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-message-send.png",
-    "image_width": "100",
-    "sort_order": "7"
-  },
-  {
-    "building_block_id": "Uul6g7123HiZsIv0QS3bRueasoaRkkknufKSlUaJjFk123B2xXU3T4mw1EtbKtTrHYfyFGtsYhoaKEySyd123v7ZRNfw117117",
-    "building_block_category_id": "bbjPuELPFAaZfsPRl2QIvFIjww116UD52xfRz7nFt83iXfXqjbVo9Gp0F7fS8FCoSXR8116VAQdTeMV123IVZTYuf123sA117117",
-    "name": "Sign Up Email",
-    "about": "Providing a simple, informative, personal email immediately upon signup, letting developers know what they need to onboard.",
-    "category_id": "2",
-    "category": "Onboarding",
-    "image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-email-open.png",
-    "image_width": "100",
-    "sort_order": "7"
-  },
-  {
-    "building_block_id": "62aEx13wJ3rWUs1Cxex123QjFr4xd4pm2116fwzfYZqUm5R7v2TN48Jz1Cyt8xrHlTbApEucSDAsp7eqIiA9ng4JDA117117",
-    "building_block_category_id": "y92mG2116XhGnBf0XgHtjMBKxnaImtoPCnc3bmvgUUqaaOB83KpuOg1161236ubrmc1VWmkVOYf2aKDqKyfa35Mdz3yQ117117",
-    "name": "Code Page",
-    "about": "A page dedicated to providing access to code resources, whether samples, libraries, SDKs, PDKs, or starter projects.",
-    "category_id": "5",
-    "category": "Code Management",
-    "image": "",
-    "image_width": "100",
-    "sort_order": "7"
-  },
-  {
-    "building_block_id": "GJAgqBOKy123f116tfInwVxM3olWB2123JJkd5zWTB97aUnSUoS116lEaIumePrs5GDmIARH6FwFZjd3SEJ7AcpyUQUb4w117117",
-    "building_block_category_id": "bvoV4JpZz1fUreAwChki8ceHjJXZzSm116dFmskYsWiZKsDBd4laQpl9ZcP116VrfNH2IYWmeQTW123trAqD0e5SyiLQ117117",
-    "name": "Email Newsletter",
-    "about": "An email newsletter dedicated to cover news across platform operations, providing weekly summary of activity in the inbox.",
-    "category_id": "9",
-    "category": "Communications",
-    "image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-email-newsletter.png",
-    "image_width": "0",
-    "sort_order": "8"
-  },
-  {
-    "building_block_id": "uacQ4KUo8EOldR32hzaDkRNHXIUD2ktq1IBM0q00cLTeek3jfqsZgADwrkXQjqdV0bt2HoFa123vPg1239OV123TRxYQ117117",
-    "building_block_category_id": "PvvkRURadG8LBOynkbYrYSIsg4123vlogeiyiCZ0j28ehcN116116ZfLSjBLv123stfVNxBBpnLbdhQZBAQcFGCLHb1169ng117117",
-    "name": "Firefox Add-On",
-    "about": "Providing ready to go Mozilla Firefox browser integration, allowing developers, and sometimes even non-developers to immediately put an API to use in their browser, with a Mozilla Firefox add-on.",
-    "category_id": "120",
-    "category": "Code - Platform Development Kits (PDK)",
-    "image": "",
-    "image_width": "100",
-    "sort_order": "8"
-  },
-  {
-    "building_block_id": "PUU0hzhXtV4C82fhsGYWsvMk1HxbwWjdoK0mWYdhon6STKyo116ofqR123HrUs12vbH8VijpMs5G0116u5GCU2y68wPA117117",
-    "building_block_category_id": "bbjPuELPFAaZfsPRl2QIvFIjww116UD52xfRz7nFt83iXfXqjbVo9Gp0F7fS8FCoSXR8116VAQdTeMV123IVZTYuf123sA117117",
-    "name": "Google Authentication",
-    "about": "Allowing developers to create their API account using their Google account, and allowing the to login in the future using their Google oAuth.",
-    "category_id": "2",
-    "category": "Onboarding",
-    "image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-google.png",
-    "image_width": "100",
-    "sort_order": "8"
-  },
-  {
-    "building_block_id": "35L8eH3thOuQDjkLJVInoZc3nPe7Tysvotn5VWgBkF41yRthtmua9edp116UsGZjijJlYF5Sqv1F35N1Z2GmmnHw117117",
-    "building_block_category_id": "bRBSxQDmB116MShXFSCz62116BJuS123UhbI1161tUi3kxVUNgRvdU0pHHMQaRbhfxlRzWskaLa0KCa7O6cqYFh9jVGUfA117117",
-    "name": "Github Authentication",
-    "about": "Allow developers to create and login to their API developer account using their own Github account credentials.",
-    "category_id": "18",
-    "category": "Developer Account",
-    "image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-github.jpg",
-    "image_width": "0",
-    "sort_order": "8"
-  },
-  {
-    "building_block_id": "116SIDH9veIVAJ3wtYl631yvSvOhqr116IMNIjYsLZXEaLfb1237sbNe82CBAU6qhKqfvfnDVY1239zswuD62dbh123hbw116Q117117",
-    "building_block_category_id": "pExOMVAuQeFEcO7MyQn7ieLdC8C2cnLrjJEmp4VA1166c5o9Wi6yK8xSCDe8ldpmNrB2NbCHYODcBAFiJ0UkjlVA117117",
-    "name": "Monetization Guidelines",
-    "about": "Providing legal guidelines for how developers can monetize around resources that are available via an API.",
-    "category_id": "15",
-    "category": "Legal",
-    "image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-dollar-sign.png",
-    "image_width": "100",
-    "sort_order": "8"
-  },
-  {
-    "building_block_id": "ciDDiaxT1jJXWxD8ry7am1162tXNI4mkrL60blCCopTSbKEgFMkHXoSWmB8BKq1arIvGKElSubBd0mpzuDz116Elsw117117",
-    "building_block_category_id": "123D123SOaWk5DjaZZJRTktVMbnSdR6KZLqYeKdCWoQSr6rMtvsH62vTF5BDKOo2UAthvdK123QAQoPEsd6HGV9dBmTQ117117",
-    "name": "Tour",
-    "about": "Providing a guided tour of how a platform and API operates, allowing new developers to walk through all aspects of operations in an interactive or video format.",
-    "category_id": "13",
-    "category": "Resources",
-    "image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-path.png",
-    "image_width": "100",
-    "sort_order": "8"
-  },
-  {
-    "building_block_id": "ycKvrRYLHG0PE6uiDvlBgCS18qNJIttlAQRYScbApTOh0MrJ4zFsmmdVzpnnN116TnV4svQG4xf123u7AS5qyK0fCw117117",
-    "building_block_category_id": "bbjPuELPFAaZfsPRl2QIvFIjww116UD52xfRz7nFt83iXfXqjbVo9Gp0F7fS8FCoSXR8116VAQdTeMV123IVZTYuf123sA117117",
-    "name": "Github Authentication",
-    "about": "Allowing developers to create their API account using their Github account, and allowing the to login in the future using their Github oAuth.",
-    "category_id": "2",
-    "category": "Onboarding",
-    "image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-github.jpg",
-    "image_width": "100",
-    "sort_order": "9"
-  },
-  {
-    "building_block_id": "3J0IEVYFbXhm1163XGkfd9nz1VvgST9U9PtrJotiRZZsnJTq3dsZnjBFWJycWjdaUaNMlcotOr004NJaYftqSn2A117117",
-    "building_block_category_id": "bRBSxQDmB116MShXFSCz62116BJuS123UhbI1161tUi3kxVUNgRvdU0pHHMQaRbhfxlRzWskaLa0KCa7O6cqYFh9jVGUfA117117",
-    "name": "Delete Account",
-    "about": "Giving developers the ability to delete their account from within their account portal.",
-    "category_id": "18",
-    "category": "Developer Account",
-    "image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/3-factor-x.jpeg",
-    "image_width": "100",
-    "sort_order": "9"
-  },
-  {
-    "building_block_id": "Shz73MTQdR4MGLBEjxr116TbnzGXbzud5bq9xwivCS3Xr5B1uE68APUY123DYZCy3TMgi9ptMVB3il6gJvLCfxmSaA117117",
-    "building_block_category_id": "pExOMVAuQeFEcO7MyQn7ieLdC8C2cnLrjJEmp4VA1166c5o9Wi6yK8xSCDe8ldpmNrB2NbCHYODcBAFiJ0UkjlVA117117",
-    "name": "Compliance",
-    "about": "A page providing compliance related information, covering how a company, platform, and APIs complies with government and industry regulations.",
-    "category_id": "15",
-    "category": "Legal",
-    "image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-compliance.png",
-    "image_width": "100",
-    "sort_order": "9"
-  },
-  {
-    "building_block_id": "Paq123SRn59agPKPyKHqATyh1jIe3hnqpqMrpv9ZKX5Om98auJY1otu116wdvqM00WDdR7T8qOkZHDNcusGdvOuCag117117",
-    "building_block_category_id": "123D123SOaWk5DjaZZJRTktVMbnSdR6KZLqYeKdCWoQSr6rMtvsH62vTF5BDKOo2UAthvdK123QAQoPEsd6HGV9dBmTQ117117",
-    "name": "Glossary",
-    "about": "A glossary of terms that applies to an industry, platform, and the business or technical aspects of operations, providing API consumers who may not be familiar with sector or platform specific terms, with a dictionary they can use during integration.",
-    "category_id": "13",
-    "category": "Resources",
-    "image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-dictionary.png",
-    "image_width": "100",
-    "sort_order": "9"
-  },
-  {
-    "building_block_id": "ctVheEcIu116aLzTUVPcWYvUikieBXxffFcF6om1168KkGLQH6ZKKivDkN3p0WlKf6jSkqRZXyBmAN3T75qTEsgwXQ117117",
-    "building_block_category_id": "bvoV4JpZz1fUreAwChki8ceHjJXZzSm116dFmskYsWiZKsDBd4laQpl9ZcP116VrfNH2IYWmeQTW123trAqD0e5SyiLQ117117",
-    "name": "Instagram",
-    "about": "Using Instagram as a way to communicate with platform users, and let users know there is someone home.",
-    "category_id": "9",
-    "category": "Communications",
-    "image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-instagram.png",
-    "image_width": "0",
-    "sort_order": "9"
-  },
-  {
-    "building_block_id": "1j116x7XyDrpL9nazr7YjM4EslD3S9jjqHCUQZ0OiJI1SMypaMh1hKcqhz4tUUVFNPl5w1234gGCTHq68dMlUPl123rA117117",
-    "building_block_category_id": "123D123SOaWk5DjaZZJRTktVMbnSdR6KZLqYeKdCWoQSr6rMtvsH62vTF5BDKOo2UAthvdK123QAQoPEsd6HGV9dBmTQ117117",
-    "name": "Videos",
-    "about": "Provides video resources, helping people understand the API platform, how it can be put to use, and any other supporting areas of API operations.",
-    "category_id": "13",
-    "category": "Resources",
-    "image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-video.png",
-    "image_width": "100",
-    "sort_order": "10"
-  },
-  {
-    "building_block_id": "X123taRBybj8p1238EkNwEl8vS4d3eFZPXKiH5s6yXJNDtnTvCf0l2Ta4JTKUFu8NxWfiKfEryHf6K2Scm8xAtu7kw117117",
-    "building_block_category_id": "bRBSxQDmB116MShXFSCz62116BJuS123UhbI1161tUi3kxVUNgRvdU0pHHMQaRbhfxlRzWskaLa0KCa7O6cqYFh9jVGUfA117117",
-    "name": "Service Tier Management",
-    "about": "Allow developers to change the service tier they operate with in via their developer dashboard, without having to request changes from platform support.",
-    "category_id": "18",
-    "category": "Developer Account",
-    "image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-tiers.jpg",
-    "image_width": "100",
-    "sort_order": "10"
-  },
-  {
-    "building_block_id": "B5zP2zdu2116dI9CMujEgM123l54W6LNWNtusOf1230RYHhBRLvf1p3h4NNJnrq1166XkWQ49KXeISYP9ES4oeYstIsLnQ117117",
-    "building_block_category_id": "bbjPuELPFAaZfsPRl2QIvFIjww116UD52xfRz7nFt83iXfXqjbVo9Gp0F7fS8FCoSXR8116VAQdTeMV123IVZTYuf123sA117117",
-    "name": "Facebook Authentication",
-    "about": "Allowing developers to create their API account using their Facebook account, and allowing the to login in the future using their Facebook credentials.",
-    "category_id": "2",
-    "category": "Onboarding",
-    "image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-facebook.png",
-    "image_width": "100",
-    "sort_order": "10"
-  },
-  {
-    "building_block_id": "3BV8sIb7WCmHrKJffI116sPZBaVlK1gE3zVE9dqKtgcwF0s0gppl116DsZxSkNCme63l1231160h3123DLD123gdenYhaNJMtA117117",
-    "building_block_category_id": "bvoV4JpZz1fUreAwChki8ceHjJXZzSm116dFmskYsWiZKsDBd4laQpl9ZcP116VrfNH2IYWmeQTW123trAqD0e5SyiLQ117117",
-    "name": "Vimeo",
-    "about": "Using Vimeo as a communication channel for educating users about an API platform.",
-    "category_id": "9",
-    "category": "Communications",
-    "image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-vimeo.png",
-    "image_width": "100",
-    "sort_order": "10"
-  },
-  {
-    "building_block_id": "6fijlJeNapOL0PG29fCrTSvkun5123y116GKK61167QHmxUK0SI9QSwXkZAOh0ilkuryS81162qEJ2A511230kipLpdkLYFQ117117",
-    "building_block_category_id": "hS0uKBAr116WjL5TllOJBDkIJdxY2gqx2XZLPBcOk0p7cfScJLmvT1CZj2ruAIay8TLYNb5FPdBcwRBz3RsIEtlg117117",
-    "name": "Internationalization",
-    "about": "Provide resources that help developers localize, and internationalize their applications to meet the needs of specific global markets.",
-    "category_id": "239",
-    "category": "Internationalization",
-    "image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-global.png",
-    "image_width": "100",
-    "sort_order": "11"
-  },
-  {
-    "building_block_id": "B5Hr116bMCjsdiJIny7JlMDmgsc5wNrw9BMBoRXGG11J1237rXjByJstp16hkxCQHqnN8JUiFnGggDy5123EJrtAFl123g117117",
-    "building_block_category_id": "bvoV4JpZz1fUreAwChki8ceHjJXZzSm116dFmskYsWiZKsDBd4laQpl9ZcP116VrfNH2IYWmeQTW123trAqD0e5SyiLQ117117",
-    "name": "Youtube",
-    "about": "Using Youtube as a regular content and communication channel to help users learn about platform operations.",
-    "category_id": "9",
-    "category": "Communications",
-    "image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-youtube.png",
-    "image_width": "100",
-    "sort_order": "11"
-  },
-  {
-    "building_block_id": "ejfMDy7dPcft7STUh8dIaUwI7zMjBMXtSw4XwkOyjfiPNHhR24BfC37inM6rBs123pbksfcmAE6duvxBqAxcIcyg117117",
-    "building_block_category_id": "bbjPuELPFAaZfsPRl2QIvFIjww116UD52xfRz7nFt83iXfXqjbVo9Gp0F7fS8FCoSXR8116VAQdTeMV123IVZTYuf123sA117117",
-    "name": "Flexible Messaging Area",
-    "about": "Provide a simple, flexible messaging area on the top or bottom of login or signup, providing consumers with simple updates about platform operations.",
-    "category_id": "2",
-    "category": "Onboarding",
-    "image": "",
-    "image_width": "100",
-    "sort_order": "11"
-  },
-  {
-    "building_block_id": "OEESI07XQ6D0IMbzwEEpexmO4y2uNqPO2GR4bi2FHgK9kdOdIhdErnmt116wCSsNA123FR4GuNuluPv1230fsii2hysQ117117",
-    "building_block_category_id": "bvoV4JpZz1fUreAwChki8ceHjJXZzSm116dFmskYsWiZKsDBd4laQpl9ZcP116VrfNH2IYWmeQTW123trAqD0e5SyiLQ117117",
-    "name": "Chat",
-    "about": "Providing a live chant mechanism in the developer portal, allowing developers to connect directly with API support and evangelists.",
-    "category_id": "9",
-    "category": "Communications",
-    "image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-chat.png",
-    "image_width": "100",
-    "sort_order": "12"
-  }
+	{
+		"category_name": "Onboarding",
+		"building_blocks": [
+			{
+				"building_block_id": "0srT5x116grKRXzyVASSHza1o123ljAe2xH7wwsloX5NXgc117",
+				"building_block_category_id": "gqYAk4h6ZzpWtRBBQ123ZvoJAGqMO9RicldJy1230xnxy5Y117",
+				"name": "Portal",
+				"about": "A simple, easily accessible portal for engaging with API consumers, providing a single point of entry for all API engagements.",
+				"category_id": "2",
+				"category": "Onboarding",
+				"category_about": "What is the process for on-boarding of new users? Walk through what a new user will experience, looking at each step from landing on home page, to having what I need to make my own API call. Reduce as much friction as I can, and making on-boarding as fast as possible.",
+				"category_image": "https://s3.amazonaws.com/kinlane-productions/api-evangelist/services/api-management.png",
+				"category_hex": "#EE352E",
+				"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-portal.jpg",
+				"image_width": "150",
+				"sort_order": "1",
+				"organizations": [
+				],
+				"apis": [
+				],
+				"links": [
+				],
+				"tools": [
+				],
+				"questions": [
+				]
+			},
+			{
+				"building_block_id": "5qql116lSd2300RvTjmW8pI2WZVUbM0dNehjtzFXJgbyE117",
+				"building_block_category_id": "gqYAk4h6ZzpWtRBBQ123ZvoJAGqMO9RicldJy1230xnxy5Y117",
+				"name": "Getting Started",
+				"about": "Laying out simple, clear steps for developers on how to register, authenticate, access documentation and code samples, and get support and any other details that are essential to integration.",
+				"category_id": "2",
+				"category": "Onboarding",
+				"category_about": "What is the process for on-boarding of new users? Walk through what a new user will experience, looking at each step from landing on home page, to having what I need to make my own API call. Reduce as much friction as I can, and making on-boarding as fast as possible.",
+				"category_image": "https://s3.amazonaws.com/kinlane-productions/api-evangelist/services/api-management.png",
+				"category_hex": "#EE352E",
+				"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-running.png",
+				"image_width": "150",
+				"sort_order": "2",
+				"organizations": [
+				],
+				"apis": [
+				],
+				"links": [
+				],
+				"tools": [
+				],
+				"questions": [
+				]
+			},
+			{
+				"building_block_id": "U0zjCj6xnBNAAjCQsNKgfpqsy5K76zhhcMDWlEehUPo117",
+				"building_block_category_id": "gqYAk4h6ZzpWtRBBQ123ZvoJAGqMO9RicldJy1230xnxy5Y117",
+				"name": "Self-Service Registration",
+				"about": "Providing a self-service registration for a developer portal, allowing developers to signup and get access to an API, 24 hours a day, 7 days a week.",
+				"category_id": "2",
+				"category": "Onboarding",
+				"category_about": "What is the process for on-boarding of new users? Walk through what a new user will experience, looking at each step from landing on home page, to having what I need to make my own API call. Reduce as much friction as I can, and making on-boarding as fast as possible.",
+				"category_image": "https://s3.amazonaws.com/kinlane-productions/api-evangelist/services/api-management.png",
+				"category_hex": "#EE352E",
+				"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-hand-wrench.jpg",
+				"image_width": "150",
+				"sort_order": "3",
+				"organizations": [
+				],
+				"apis": [
+				],
+				"links": [
+				],
+				"tools": [
+				],
+				"questions": [
+				]
+			},
+			{
+				"building_block_id": "m8WcsC45gI8sQnj123QqMh5Y52ix4kvp2ACy3SxL4l5iU117",
+				"building_block_category_id": "gqYAk4h6ZzpWtRBBQ123ZvoJAGqMO9RicldJy1230xnxy5Y117",
+				"name": "Best Practices",
+				"about": "Publishing of a plain english introduction to the best practices around integrating with an API, providing introductory lesson for developers of how to properly integrate with an API.",
+				"category_id": "2",
+				"category": "Onboarding",
+				"category_about": "What is the process for on-boarding of new users? Walk through what a new user will experience, looking at each step from landing on home page, to having what I need to make my own API call. Reduce as much friction as I can, and making on-boarding as fast as possible.",
+				"category_image": "https://s3.amazonaws.com/kinlane-productions/api-evangelist/services/api-management.png",
+				"category_hex": "#EE352E",
+				"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-yingyang.jpg",
+				"image_width": "150",
+				"sort_order": "4",
+				"organizations": [
+				],
+				"apis": [
+				],
+				"links": [
+				],
+				"tools": [
+				],
+				"questions": [
+				]
+			},
+			{
+				"building_block_id": "QzUaxl3V2HbFZ7123pFe6aWmxDMhLaWDOG9Cdiu116r44ZA117",
+				"building_block_category_id": "gqYAk4h6ZzpWtRBBQ123ZvoJAGqMO9RicldJy1230xnxy5Y117",
+				"name": "FAQ",
+				"about": "Providing developers a list of the common questions asked of an API platform, with simple answers to each question, allowing them to understand the common problems faced during onboarding.",
+				"category_id": "2",
+				"category": "Onboarding",
+				"category_about": "What is the process for on-boarding of new users? Walk through what a new user will experience, looking at each step from landing on home page, to having what I need to make my own API call. Reduce as much friction as I can, and making on-boarding as fast as possible.",
+				"category_image": "https://s3.amazonaws.com/kinlane-productions/api-evangelist/services/api-management.png",
+				"category_hex": "#EE352E",
+				"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-question-mark.png",
+				"image_width": "150",
+				"sort_order": "5",
+				"organizations": [
+				],
+				"apis": [
+				],
+				"links": [
+				],
+				"tools": [
+				],
+				"questions": [
+				]
+			},
+			{
+				"building_block_id": "mEKrDGpcsMY4qM2tyrBPC9iiaG1zSMU6QhX6xldhOH8117",
+				"building_block_category_id": "gqYAk4h6ZzpWtRBBQ123ZvoJAGqMO9RicldJy1230xnxy5Y117",
+				"name": "Service Accord",
+				"about": "Service level agreements (SLA) provide a legal framework managing the relationships between API consumers, and service accords provide a plain english explanation of what they expect from a provider, without the legaleze, in a format they can understand without calling the lawyers.",
+				"category_id": "2",
+				"category": "Onboarding",
+				"category_about": "What is the process for on-boarding of new users? Walk through what a new user will experience, looking at each step from landing on home page, to having what I need to make my own API call. Reduce as much friction as I can, and making on-boarding as fast as possible.",
+				"category_image": "https://s3.amazonaws.com/kinlane-productions/api-evangelist/services/api-management.png",
+				"category_hex": "#EE352E",
+				"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-handshake.jpg",
+				"image_width": "0",
+				"sort_order": "6",
+				"organizations": [
+				],
+				"apis": [
+				],
+				"links": [
+				],
+				"tools": [
+				],
+				"questions": [
+				]
+			},
+			{
+				"building_block_id": "q8X6OjltUUsqMik123116iZPkFwoNVp116ZslqelIOO7ONH6s117",
+				"building_block_category_id": "gqYAk4h6ZzpWtRBBQ123ZvoJAGqMO9RicldJy1230xnxy5Y117",
+				"name": "Sign Up Email",
+				"about": "Providing a simple, informative, personal email immediately upon signup, letting developers know what they need to onboard.",
+				"category_id": "2",
+				"category": "Onboarding",
+				"category_about": "What is the process for on-boarding of new users? Walk through what a new user will experience, looking at each step from landing on home page, to having what I need to make my own API call. Reduce as much friction as I can, and making on-boarding as fast as possible.",
+				"category_image": "https://s3.amazonaws.com/kinlane-productions/api-evangelist/services/api-management.png",
+				"category_hex": "#EE352E",
+				"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-email-open.png",
+				"image_width": "100",
+				"sort_order": "7",
+				"organizations": [
+				],
+				"apis": [
+				],
+				"links": [
+				],
+				"tools": [
+				],
+				"questions": [
+				]
+			},
+			{
+				"building_block_id": "zxH3yhMvK6hx123dsiAKXADCrI71165ETfywdonBpvpzxoI117",
+				"building_block_category_id": "gqYAk4h6ZzpWtRBBQ123ZvoJAGqMO9RicldJy1230xnxy5Y117",
+				"name": "Google Authentication",
+				"about": "Allowing developers to create their API account using their Google account, and allowing the to login in the future using their Google oAuth.",
+				"category_id": "2",
+				"category": "Onboarding",
+				"category_about": "What is the process for on-boarding of new users? Walk through what a new user will experience, looking at each step from landing on home page, to having what I need to make my own API call. Reduce as much friction as I can, and making on-boarding as fast as possible.",
+				"category_image": "https://s3.amazonaws.com/kinlane-productions/api-evangelist/services/api-management.png",
+				"category_hex": "#EE352E",
+				"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-google.png",
+				"image_width": "100",
+				"sort_order": "8",
+				"organizations": [
+				],
+				"apis": [
+				],
+				"links": [
+				],
+				"tools": [
+				],
+				"questions": [
+				]
+			},
+			{
+				"building_block_id": "VAwBkAdQa2OBDCEDlt116hIgf7Nw123w9vnOF5hlkDz6vYo117",
+				"building_block_category_id": "gqYAk4h6ZzpWtRBBQ123ZvoJAGqMO9RicldJy1230xnxy5Y117",
+				"name": "Github Authentication",
+				"about": "Allowing developers to create their API account using their Github account, and allowing the to login in the future using their Github oAuth.",
+				"category_id": "2",
+				"category": "Onboarding",
+				"category_about": "What is the process for on-boarding of new users? Walk through what a new user will experience, looking at each step from landing on home page, to having what I need to make my own API call. Reduce as much friction as I can, and making on-boarding as fast as possible.",
+				"category_image": "https://s3.amazonaws.com/kinlane-productions/api-evangelist/services/api-management.png",
+				"category_hex": "#EE352E",
+				"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-github.jpg",
+				"image_width": "100",
+				"sort_order": "9",
+				"organizations": [
+				],
+				"apis": [
+				],
+				"links": [
+				],
+				"tools": [
+				],
+				"questions": [
+				]
+			},
+			{
+				"building_block_id": "MX65U4Y5ppDxwwEfRW1j9srj1232123B116brrF1Nsz123NJrvQ117",
+				"building_block_category_id": "gqYAk4h6ZzpWtRBBQ123ZvoJAGqMO9RicldJy1230xnxy5Y117",
+				"name": "Facebook Authentication",
+				"about": "Allowing developers to create their API account using their Facebook account, and allowing the to login in the future using their Facebook credentials.",
+				"category_id": "2",
+				"category": "Onboarding",
+				"category_about": "What is the process for on-boarding of new users? Walk through what a new user will experience, looking at each step from landing on home page, to having what I need to make my own API call. Reduce as much friction as I can, and making on-boarding as fast as possible.",
+				"category_image": "https://s3.amazonaws.com/kinlane-productions/api-evangelist/services/api-management.png",
+				"category_hex": "#EE352E",
+				"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-facebook.png",
+				"image_width": "100",
+				"sort_order": "10",
+				"organizations": [
+				],
+				"apis": [
+				],
+				"links": [
+				],
+				"tools": [
+				],
+				"questions": [
+				]
+			},
+			{
+				"building_block_id": "yHmo97JNIA4U7nhuoG8H9AhR9wb2nZ3TpbjpmEZwl7o117",
+				"building_block_category_id": "gqYAk4h6ZzpWtRBBQ123ZvoJAGqMO9RicldJy1230xnxy5Y117",
+				"name": "Flexible Messaging Area",
+				"about": "Provide a simple, flexible messaging area on the top or bottom of login or signup, providing consumers with simple updates about platform operations.",
+				"category_id": "2",
+				"category": "Onboarding",
+				"category_about": "What is the process for on-boarding of new users? Walk through what a new user will experience, looking at each step from landing on home page, to having what I need to make my own API call. Reduce as much friction as I can, and making on-boarding as fast as possible.",
+				"category_image": "https://s3.amazonaws.com/kinlane-productions/api-evangelist/services/api-management.png",
+				"category_hex": "#EE352E",
+				"image": "",
+				"image_width": "100",
+				"sort_order": "11",
+				"organizations": [
+				],
+				"apis": [
+				],
+				"links": [
+				],
+				"tools": [
+				],
+				"questions": [
+				]
+			}
+		]
+	},
+	{
+		"category_name": "Authentication",
+		"building_blocks": [
+			{
+				"building_block_id": "ZC1w1235rIQrytcpr03n9DAn9S7BEadv9CBXhHH4FynbE117",
+				"building_block_category_id": "nRWeWRTxZOrmadY9lXewBsMTtrr7lDdxV0h3Qah8Hs4117",
+				"name": "Authentication Overview",
+				"about": "An overview of how authentication is handled for a platform, and which formats are supported, setting expectations for consumers.",
+				"category_id": "4",
+				"category": "Authentication",
+				"category_about": "Authentication is central to many other lines of the API life cycle. There are several common elements present in modern API solutions that address authentication.",
+				"category_image": "https://s3.amazonaws.com/kinlane-productions/api-evangelist/services/api-management.png",
+				"category_hex": "#EE352E",
+				"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-authentication.png",
+				"image_width": "150",
+				"sort_order": "1",
+				"organizations": [
+				],
+				"apis": [
+				],
+				"links": [
+				],
+				"tools": [
+				],
+				"questions": [
+				]
+			},
+			{
+				"building_block_id": "Ihe5ETCYWEVC6o4Q1NHSd165lgc116MqgMsSfosPtXO4o117",
+				"building_block_category_id": "nRWeWRTxZOrmadY9lXewBsMTtrr7lDdxV0h3Qah8Hs4117",
+				"name": "Key Access",
+				"about": "Providing simple tokens, often called API key as a common way to access to APIs, issuing one to each developer and per application they register.",
+				"category_id": "4",
+				"category": "Authentication",
+				"category_about": "Authentication is central to many other lines of the API life cycle. There are several common elements present in modern API solutions that address authentication.",
+				"category_image": "https://s3.amazonaws.com/kinlane-productions/api-evangelist/services/api-management.png",
+				"category_hex": "#EE352E",
+				"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-key.png",
+				"image_width": "150",
+				"sort_order": "2",
+				"organizations": [
+				],
+				"apis": [
+				],
+				"links": [
+				],
+				"tools": [
+				],
+				"questions": [
+				]
+			},
+			{
+				"building_block_id": "pcOLuEzec8wvIjuuzzZz45MbLH123A1eyTNtRf9R7Qt123w117",
+				"building_block_category_id": "nRWeWRTxZOrmadY9lXewBsMTtrr7lDdxV0h3Qah8Hs4117",
+				"name": "Basic Auth",
+				"about": "Usage of the basic authentication format that is part of the standard HTTP operations, employing a username and password as credentials for accessing API resources.",
+				"category_id": "4",
+				"category": "Authentication",
+				"category_about": "Authentication is central to many other lines of the API life cycle. There are several common elements present in modern API solutions that address authentication.",
+				"category_image": "https://s3.amazonaws.com/kinlane-productions/api-evangelist/services/api-management.png",
+				"category_hex": "#EE352E",
+				"image": "",
+				"image_width": "100",
+				"sort_order": "3",
+				"organizations": [
+				],
+				"apis": [
+				],
+				"links": [
+				],
+				"tools": [
+				],
+				"questions": [
+				]
+			},
+			{
+				"building_block_id": "LiWUTbRqDZFOsUPVkCRdnAjb0hR2ZFG1160vJn6OlvFco117",
+				"building_block_category_id": "nRWeWRTxZOrmadY9lXewBsMTtrr7lDdxV0h3Qah8Hs4117",
+				"name": "oAuth",
+				"about": "Providing an oAuth layer to API operations, securing high value APIs, while also opening up a conversation between an API platform, developers, and end-users regarding the access of their content and data.",
+				"category_id": "4",
+				"category": "Authentication",
+				"category_about": "Authentication is central to many other lines of the API life cycle. There are several common elements present in modern API solutions that address authentication.",
+				"category_image": "https://s3.amazonaws.com/kinlane-productions/api-evangelist/services/api-management.png",
+				"category_hex": "#EE352E",
+				"image": "",
+				"image_width": "100",
+				"sort_order": "4",
+				"organizations": [
+				],
+				"apis": [
+				],
+				"links": [
+				],
+				"tools": [
+				],
+				"questions": [
+				]
+			},
+			{
+				"building_block_id": "rnLsqHAWgaRsNK123JkmhM123e80xQCeggrUYVMYLaWdE9M117",
+				"building_block_category_id": "nRWeWRTxZOrmadY9lXewBsMTtrr7lDdxV0h3Qah8Hs4117",
+				"name": "OAuth Scopes",
+				"about": "Providing a dedicated page or section to listing out the different OAuth scopes used by a platform. Providing a transparent window into all the scopes available, and some of the logic into why they exist.",
+				"category_id": "4",
+				"category": "Authentication",
+				"category_about": "Authentication is central to many other lines of the API life cycle. There are several common elements present in modern API solutions that address authentication.",
+				"category_image": "https://s3.amazonaws.com/kinlane-productions/api-evangelist/services/api-management.png",
+				"category_hex": "#EE352E",
+				"image": "",
+				"image_width": "100",
+				"sort_order": "5",
+				"organizations": [
+				],
+				"apis": [
+				],
+				"links": [
+					{
+						"name": "Reference",
+						"url": "https://api.slack.com/docs/oauth-scopes",
+						"text": "Slack has a page dedicated to showcasing their OAuth scopes."
+					}
+				],
+				"tools": [
+				],
+				"questions": [
+				]
+			},
+			{
+				"building_block_id": "LhRne3C3lAglZvD116liajoC8NK7BNo9lwmS1gBOt3FHQ117",
+				"building_block_category_id": "nRWeWRTxZOrmadY9lXewBsMTtrr7lDdxV0h3Qah8Hs4117",
+				"name": "Authentication Tester",
+				"about": "Providing a testing tool for authentication, that allows developers to test key and Basic Auth to oAuth, to help them understand how authentication works and if they are using proper credentials.",
+				"category_id": "4",
+				"category": "Authentication",
+				"category_about": "Authentication is central to many other lines of the API life cycle. There are several common elements present in modern API solutions that address authentication.",
+				"category_image": "https://s3.amazonaws.com/kinlane-productions/api-evangelist/services/api-management.png",
+				"category_hex": "#EE352E",
+				"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-authentication-test.png",
+				"image_width": "150",
+				"sort_order": "6",
+				"organizations": [
+				],
+				"apis": [
+				],
+				"links": [
+				],
+				"tools": [
+				],
+				"questions": [
+				]
+			}
+		]
+	},
+	{
+		"category_name": "Code Management",
+		"building_blocks": [
+			{
+				"building_block_id": "jZyOOTliBbYAQHq4S4FHMxMt6EBT29H8lonLCWdP7Ek117",
+				"building_block_category_id": "XqzBQbsGpPMLPJ1yRQQyZUyOw4pUI0JtegGh4mcByJU117",
+				"name": "Github",
+				"about": "Using Github for managing of code samples, libraries, SDKs, and other supporting elements of an API platform.",
+				"category_id": "5",
+				"category": "Code Management",
+				"category_about": "What resources are available for managing code across the platform. This are focuses on just the services, tooling, and process associated with code management, not always the code itself.",
+				"category_image": "https://s3.amazonaws.com/kinlane-productions/api-evangelist/services/api-management.png",
+				"category_hex": "#EE352E",
+				"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-github.jpg",
+				"image_width": "150",
+				"sort_order": "1",
+				"organizations": [
+				],
+				"apis": [
+				],
+				"links": [
+				],
+				"tools": [
+				],
+				"questions": [
+				]
+			},
+			{
+				"building_block_id": "YEQKEwyB54mIpmxFW7cYNwNi43AvpMz071IkY7Pxvmg117",
+				"building_block_category_id": "XqzBQbsGpPMLPJ1yRQQyZUyOw4pUI0JtegGh4mcByJU117",
+				"name": "Application Gallery",
+				"about": "A gallery of all applications that have been built on top of an API platform, for the public and API community to explore.",
+				"category_id": "5",
+				"category": "Code Management",
+				"category_about": "What resources are available for managing code across the platform. This are focuses on just the services, tooling, and process associated with code management, not always the code itself.",
+				"category_image": "https://s3.amazonaws.com/kinlane-productions/api-evangelist/services/api-management.png",
+				"category_hex": "#EE352E",
+				"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-app-icon.jpg",
+				"image_width": "150",
+				"sort_order": "2",
+				"organizations": [
+				],
+				"apis": [
+				],
+				"links": [
+				],
+				"tools": [
+				],
+				"questions": [
+				]
+			},
+			{
+				"building_block_id": "aykHTzyiNSrM6p123dte116FNPqaAQMut123fbk3GmsEz8GwA117",
+				"building_block_category_id": "XqzBQbsGpPMLPJ1yRQQyZUyOw4pUI0JtegGh4mcByJU117",
+				"name": "Open Source",
+				"about": "Using open source licenses across any code samples, libraries, SDKs, and complete applications provided as part of aPI operations.",
+				"category_id": "5",
+				"category": "Code Management",
+				"category_about": "What resources are available for managing code across the platform. This are focuses on just the services, tooling, and process associated with code management, not always the code itself.",
+				"category_image": "https://s3.amazonaws.com/kinlane-productions/api-evangelist/services/api-management.png",
+				"category_hex": "#EE352E",
+				"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-open-source.png",
+				"image_width": "150",
+				"sort_order": "3",
+				"organizations": [
+				],
+				"apis": [
+				],
+				"links": [
+				],
+				"tools": [
+				],
+				"questions": [
+				]
+			},
+			{
+				"building_block_id": "epkD116EmYa504oejr5NU7S123TmrXbrYoE6116J3GjpjVYX4117",
+				"building_block_category_id": "XqzBQbsGpPMLPJ1yRQQyZUyOw4pUI0JtegGh4mcByJU117",
+				"name": "Starter Projects",
+				"about": "Offer fully functional applications that API developers can reverse engineer, and possible put to use as a starting point for their integrations.",
+				"category_id": "5",
+				"category": "Code Management",
+				"category_about": "What resources are available for managing code across the platform. This are focuses on just the services, tooling, and process associated with code management, not always the code itself.",
+				"category_image": "https://s3.amazonaws.com/kinlane-productions/api-evangelist/services/api-management.png",
+				"category_hex": "#EE352E",
+				"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-starter-kit.png",
+				"image_width": "150",
+				"sort_order": "4",
+				"organizations": [
+				],
+				"apis": [
+				],
+				"links": [
+				],
+				"tools": [
+				],
+				"questions": [
+				]
+			},
+			{
+				"building_block_id": "w2yQzPdxPsLD42FhkPtOrm123rFCb8HV1TAJUhL116mc1Wo117",
+				"building_block_category_id": "XqzBQbsGpPMLPJ1yRQQyZUyOw4pUI0JtegGh4mcByJU117",
+				"name": "Community Supported Libraries",
+				"about": "In addition to providing your own company developed libraries, showcasing the libraries of trusted developers fro within the API community.",
+				"category_id": "5",
+				"category": "Code Management",
+				"category_about": "What resources are available for managing code across the platform. This are focuses on just the services, tooling, and process associated with code management, not always the code itself.",
+				"category_image": "https://s3.amazonaws.com/kinlane-productions/api-evangelist/services/api-management.png",
+				"category_hex": "#EE352E",
+				"image": "",
+				"image_width": "100",
+				"sort_order": "5",
+				"organizations": [
+				],
+				"apis": [
+				],
+				"links": [
+				],
+				"tools": [
+				],
+				"questions": [
+				]
+			},
+			{
+				"building_block_id": "nyQUZcPTdhK0c5augvG116qCZfqIUvQ4qpi7Ra9zuOFlQ117",
+				"building_block_category_id": "XqzBQbsGpPMLPJ1yRQQyZUyOw4pUI0JtegGh4mcByJU117",
+				"name": "Code Builder",
+				"about": "A tool allowing for the generation of client code for various API endpoint, for specific language or platform objectives.",
+				"category_id": "5",
+				"category": "Code Management",
+				"category_about": "What resources are available for managing code across the platform. This are focuses on just the services, tooling, and process associated with code management, not always the code itself.",
+				"category_image": "https://s3.amazonaws.com/kinlane-productions/api-evangelist/services/api-management.png",
+				"category_hex": "#EE352E",
+				"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-tools.png",
+				"image_width": "100",
+				"sort_order": "6",
+				"organizations": [
+				],
+				"apis": [
+				],
+				"links": [
+				],
+				"tools": [
+				],
+				"questions": [
+				]
+			},
+			{
+				"building_block_id": "nlAuMoYELIUGDtdjcR2H8X5TS7SjY123VPhyJRQlgU116nw117",
+				"building_block_category_id": "XqzBQbsGpPMLPJ1yRQQyZUyOw4pUI0JtegGh4mcByJU117",
+				"name": "Code Page",
+				"about": "A page dedicated to providing access to code resources, whether samples, libraries, SDKs, PDKs, or starter projects.",
+				"category_id": "5",
+				"category": "Code Management",
+				"category_about": "What resources are available for managing code across the platform. This are focuses on just the services, tooling, and process associated with code management, not always the code itself.",
+				"category_image": "https://s3.amazonaws.com/kinlane-productions/api-evangelist/services/api-management.png",
+				"category_hex": "#EE352E",
+				"image": "",
+				"image_width": "100",
+				"sort_order": "7",
+				"organizations": [
+				],
+				"apis": [
+				],
+				"links": [
+				],
+				"tools": [
+				],
+				"questions": [
+				]
+			},
+			{
+				"building_block_id": "1a5f7LpaWXeSHZ116ru80znvLTFvotg88zq5SdKUsoMJ8117",
+				"building_block_category_id": "XqzBQbsGpPMLPJ1yRQQyZUyOw4pUI0JtegGh4mcByJU117",
+				"name": "SDKs.io",
+				"about": "Making sure your profile on SDKs.io is complete, with up to date SDKs available so users can use in their integration.",
+				"category_id": "5",
+				"category": "Code Management",
+				"category_about": "What resources are available for managing code across the platform. This are focuses on just the services, tooling, and process associated with code management, not always the code itself.",
+				"category_image": "https://s3.amazonaws.com/kinlane-productions/api-evangelist/services/api-management.png",
+				"category_hex": "#EE352E",
+				"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/sdks-io-icon.png",
+				"image_width": "100",
+				"sort_order": "8",
+				"organizations": [
+				],
+				"apis": [
+				],
+				"links": [
+				],
+				"tools": [
+				],
+				"questions": [
+				]
+			}
+		]
+	},
+	{
+		"category_name": "Communications",
+		"building_blocks": [
+			{
+				"building_block_id": "tm1Ye8BJZJKafTWq8Es116tqsFk5gohD311643SYafaRpTQ117",
+				"building_block_category_id": "ItOaBZB4cWV6p7oymp123kSAHB4123V6sJ30MLVeKV123GHJ4117",
+				"name": "Slack",
+				"about": "Using Slack to create private channels just for communicating with internal, partner, or public API consumers.",
+				"category_id": "9",
+				"category": "Communications",
+				"category_about": "What are the communication elements available as part of the overall feedback loop for an API platform. There should be at least a minimum viable communications present, otherwise it is unlikely anyone will learn that a platform exists.",
+				"category_image": "https://s3.amazonaws.com/kinlane-productions/api-evangelist/services/api-management.png",
+				"category_hex": "#EE352E",
+				"image": "",
+				"image_width": "100",
+				"sort_order": "0",
+				"organizations": [
+				],
+				"apis": [
+				],
+				"links": [
+				],
+				"tools": [
+				],
+				"questions": [
+				]
+			},
+			{
+				"building_block_id": "ZllvhYB677WHdnfIXiZcGO6TW7AyeCFL116qCjktiOmrw117",
+				"building_block_category_id": "ItOaBZB4cWV6p7oymp123kSAHB4123V6sJ30MLVeKV123GHJ4117",
+				"name": "Blog",
+				"about": "Providing a blog dedicated to API platform operations, with stories about the providers, consumers, and other related stories.",
+				"category_id": "9",
+				"category": "Communications",
+				"category_about": "What are the communication elements available as part of the overall feedback loop for an API platform. There should be at least a minimum viable communications present, otherwise it is unlikely anyone will learn that a platform exists.",
+				"category_image": "https://s3.amazonaws.com/kinlane-productions/api-evangelist/services/api-management.png",
+				"category_hex": "#EE352E",
+				"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-blog-icon.png",
+				"image_width": "150",
+				"sort_order": "1",
+				"organizations": [
+				],
+				"apis": [
+				],
+				"links": [
+				],
+				"tools": [
+				],
+				"questions": [
+				]
+			},
+			{
+				"building_block_id": "aiN1t6ax123GokooC571flzaUT8IlR9u04685zNTXSP8I117",
+				"building_block_category_id": "ItOaBZB4cWV6p7oymp123kSAHB4123V6sJ30MLVeKV123GHJ4117",
+				"name": "Blog RSS Feed",
+				"about": "Make sure there is an RSS feed for any blog that is published as part of API operations.",
+				"category_id": "9",
+				"category": "Communications",
+				"category_about": "What are the communication elements available as part of the overall feedback loop for an API platform. There should be at least a minimum viable communications present, otherwise it is unlikely anyone will learn that a platform exists.",
+				"category_image": "https://s3.amazonaws.com/kinlane-productions/api-evangelist/services/api-management.png",
+				"category_hex": "#EE352E",
+				"image": "https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-rss-icon.png",
+				"image_width": "150",
+				"sort_order": "2",
+				"organizations": [
+				],
+				"apis": [
+				],
+				"links": [
+				],
+				"tools": [
+				],
+				"questions": [
+				]
+			},
+			{
+				"building_block_id": "hDlHbz2udyVY6a3FN025AV123WvgYrO5fPlHEc8123Vskhc117",
+				"building_block_category_id": "ItOaBZB4cWV6p7oymp123kSAHB4123V6sJ30MLVeKV123GHJ4117",
+				"name": "Twitter",
+				"about": "Provide an active Twitter account for support, as well as evangelism efforts around an APIs operations.",
+				"category_id": "9",
+				"category": "Communications",
+				"category_about": "What are the communication elements available as part of the overall feedback loop for an API platform. There should be at least a minimum viable communications present, otherwise it is unlikely anyone will learn that a platform exists.",
+				"category_image": "https://s3.amazonaws.com/kinlane-productions/api-evangelist/services/api-management.png",
+				"category_hex": "#EE352E",
+				"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-twitter-icon.png",
+				"image_width": "150",
+				"sort_order": "3",
+				"organizations": [
+				],
+				"apis": [
+				],
+				"links": [
+				],
+				"tools": [
+				],
+				"questions": [
+				]
+			},
+			{
+				"building_block_id": "62WANHFLwxkbCMjganGhybiAdZYhFSSHEYoPzwaT5lw117",
+				"building_block_category_id": "ItOaBZB4cWV6p7oymp123kSAHB4123V6sJ30MLVeKV123GHJ4117",
+				"name": "Email",
+				"about": "Provide an email for not just support, but also general platform communications.",
+				"category_id": "9",
+				"category": "Communications",
+				"category_about": "What are the communication elements available as part of the overall feedback loop for an API platform. There should be at least a minimum viable communications present, otherwise it is unlikely anyone will learn that a platform exists.",
+				"category_image": "https://s3.amazonaws.com/kinlane-productions/api-evangelist/services/api-management.png",
+				"category_hex": "#EE352E",
+				"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-email.png",
+				"image_width": "150",
+				"sort_order": "4",
+				"organizations": [
+				],
+				"apis": [
+				],
+				"links": [
+				],
+				"tools": [
+				],
+				"questions": [
+				]
+			},
+			{
+				"building_block_id": "dr82YeQ6kz3ycDECM8AduesE0hnm2YimbnDe3PYl0DA117",
+				"building_block_category_id": "ItOaBZB4cWV6p7oymp123kSAHB4123V6sJ30MLVeKV123GHJ4117",
+				"name": "LinkedIn",
+				"about": "Provide an active LinkedIn account for support, as well as evangelism efforts around an APIs operations.",
+				"category_id": "9",
+				"category": "Communications",
+				"category_about": "What are the communication elements available as part of the overall feedback loop for an API platform. There should be at least a minimum viable communications present, otherwise it is unlikely anyone will learn that a platform exists.",
+				"category_image": "https://s3.amazonaws.com/kinlane-productions/api-evangelist/services/api-management.png",
+				"category_hex": "#EE352E",
+				"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-linkedin.png",
+				"image_width": "0",
+				"sort_order": "5",
+				"organizations": [
+				],
+				"apis": [
+				],
+				"links": [
+				],
+				"tools": [
+				],
+				"questions": [
+				]
+			},
+			{
+				"building_block_id": "aqtz2gTBavfwy6eEdlT3QZm2BEkp19FQOvh69oh1jPg117",
+				"building_block_category_id": "ItOaBZB4cWV6p7oymp123kSAHB4123V6sJ30MLVeKV123GHJ4117",
+				"name": "Facebook",
+				"about": "Provide an active Facebook account for support, as well as evangelism efforts around an APIs operations.",
+				"category_id": "9",
+				"category": "Communications",
+				"category_about": "What are the communication elements available as part of the overall feedback loop for an API platform. There should be at least a minimum viable communications present, otherwise it is unlikely anyone will learn that a platform exists.",
+				"category_image": "https://s3.amazonaws.com/kinlane-productions/api-evangelist/services/api-management.png",
+				"category_hex": "#EE352E",
+				"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-facebook.png",
+				"image_width": "0",
+				"sort_order": "6",
+				"organizations": [
+				],
+				"apis": [
+				],
+				"links": [
+				],
+				"tools": [
+				],
+				"questions": [
+				]
+			},
+			{
+				"building_block_id": "D2tVgMZoQjqdgDMW5gYX116G44df2V8EqQfTPfxCVGwyE117",
+				"building_block_category_id": "ItOaBZB4cWV6p7oymp123kSAHB4123V6sJ30MLVeKV123GHJ4117",
+				"name": "Google+",
+				"about": "Provide an active Google+ account for support, as well as evangelism efforts around an APIs operations.",
+				"category_id": "9",
+				"category": "Communications",
+				"category_about": "What are the communication elements available as part of the overall feedback loop for an API platform. There should be at least a minimum viable communications present, otherwise it is unlikely anyone will learn that a platform exists.",
+				"category_image": "https://s3.amazonaws.com/kinlane-productions/api-evangelist/services/api-management.png",
+				"category_hex": "#EE352E",
+				"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-google-plus.png",
+				"image_width": "150",
+				"sort_order": "7",
+				"organizations": [
+				],
+				"apis": [
+				],
+				"links": [
+				],
+				"tools": [
+				],
+				"questions": [
+				]
+			},
+			{
+				"building_block_id": "Kss5oy116X2McwX9IgSsNiGc23116vS1C8HYX7BmESDS6NU117",
+				"building_block_category_id": "ItOaBZB4cWV6p7oymp123kSAHB4123V6sJ30MLVeKV123GHJ4117",
+				"name": "Email Newsletter",
+				"about": "An email newsletter dedicated to cover news across platform operations, providing weekly summary of activity in the inbox.",
+				"category_id": "9",
+				"category": "Communications",
+				"category_about": "What are the communication elements available as part of the overall feedback loop for an API platform. There should be at least a minimum viable communications present, otherwise it is unlikely anyone will learn that a platform exists.",
+				"category_image": "https://s3.amazonaws.com/kinlane-productions/api-evangelist/services/api-management.png",
+				"category_hex": "#EE352E",
+				"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-email-newsletter.png",
+				"image_width": "0",
+				"sort_order": "8",
+				"organizations": [
+				],
+				"apis": [
+				],
+				"links": [
+				],
+				"tools": [
+				],
+				"questions": [
+				]
+			},
+			{
+				"building_block_id": "KynUsdG1230g2lUY0rHxsXQ8Tch116TKSFGS6vSchten5Pc117",
+				"building_block_category_id": "ItOaBZB4cWV6p7oymp123kSAHB4123V6sJ30MLVeKV123GHJ4117",
+				"name": "Instagram",
+				"about": "Using Instagram as a way to communicate with platform users, and let users know there is someone home.",
+				"category_id": "9",
+				"category": "Communications",
+				"category_about": "What are the communication elements available as part of the overall feedback loop for an API platform. There should be at least a minimum viable communications present, otherwise it is unlikely anyone will learn that a platform exists.",
+				"category_image": "https://s3.amazonaws.com/kinlane-productions/api-evangelist/services/api-management.png",
+				"category_hex": "#EE352E",
+				"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-instagram.png",
+				"image_width": "0",
+				"sort_order": "9",
+				"organizations": [
+				],
+				"apis": [
+				],
+				"links": [
+				],
+				"tools": [
+				],
+				"questions": [
+				]
+			},
+			{
+				"building_block_id": "CzbFC116nWFaf6dRd5CkadoQbLaj116tkjPCJC71v1tJIb0117",
+				"building_block_category_id": "ItOaBZB4cWV6p7oymp123kSAHB4123V6sJ30MLVeKV123GHJ4117",
+				"name": "Vimeo",
+				"about": "Using Vimeo as a communication channel for educating users about an API platform.",
+				"category_id": "9",
+				"category": "Communications",
+				"category_about": "What are the communication elements available as part of the overall feedback loop for an API platform. There should be at least a minimum viable communications present, otherwise it is unlikely anyone will learn that a platform exists.",
+				"category_image": "https://s3.amazonaws.com/kinlane-productions/api-evangelist/services/api-management.png",
+				"category_hex": "#EE352E",
+				"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-vimeo.png",
+				"image_width": "100",
+				"sort_order": "10",
+				"organizations": [
+				],
+				"apis": [
+				],
+				"links": [
+				],
+				"tools": [
+				],
+				"questions": [
+				]
+			},
+			{
+				"building_block_id": "rLoeEuiGAMc0tSZh6RGcvluirVjmSjBvkAoe11683XKJ8117",
+				"building_block_category_id": "ItOaBZB4cWV6p7oymp123kSAHB4123V6sJ30MLVeKV123GHJ4117",
+				"name": "Youtube",
+				"about": "Using Youtube as a regular content and communication channel to help users learn about platform operations.",
+				"category_id": "9",
+				"category": "Communications",
+				"category_about": "What are the communication elements available as part of the overall feedback loop for an API platform. There should be at least a minimum viable communications present, otherwise it is unlikely anyone will learn that a platform exists.",
+				"category_image": "https://s3.amazonaws.com/kinlane-productions/api-evangelist/services/api-management.png",
+				"category_hex": "#EE352E",
+				"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-youtube.png",
+				"image_width": "100",
+				"sort_order": "11",
+				"organizations": [
+				],
+				"apis": [
+				],
+				"links": [
+				],
+				"tools": [
+				],
+				"questions": [
+				]
+			},
+			{
+				"building_block_id": "6zchBNz30Un5p116123or61EMbvAZ5K2IQm55286V123adJig117",
+				"building_block_category_id": "ItOaBZB4cWV6p7oymp123kSAHB4123V6sJ30MLVeKV123GHJ4117",
+				"name": "Chat",
+				"about": "Providing a live chant mechanism in the developer portal, allowing developers to connect directly with API support and evangelists.",
+				"category_id": "9",
+				"category": "Communications",
+				"category_about": "What are the communication elements available as part of the overall feedback loop for an API platform. There should be at least a minimum viable communications present, otherwise it is unlikely anyone will learn that a platform exists.",
+				"category_image": "https://s3.amazonaws.com/kinlane-productions/api-evangelist/services/api-management.png",
+				"category_hex": "#EE352E",
+				"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-chat.png",
+				"image_width": "100",
+				"sort_order": "12",
+				"organizations": [
+				],
+				"apis": [
+				],
+				"links": [
+				],
+				"tools": [
+				],
+				"questions": [
+				]
+			}
+		]
+	},
+	{
+		"category_name": "Updates",
+		"building_blocks": [
+			{
+				"building_block_id": "123aruOzeh1237HX4hHV8f5oGPgpiIfLqpoluHZ2X6JfyVc117",
+				"building_block_category_id": "ynaKOEXyMvpdYJed123jQcmeJrHBEuTNfspoY38rOrWK8117",
+				"name": "Status Dashboard",
+				"about": "A single location, at dedicated subdomain, providing status update(s) for all API resources, giving developers a place to go when looking to see if platform is available.",
+				"category_id": "10",
+				"category": "Updates",
+				"category_about": "How are we planning, and communicating updates to the platform? Providing a map of how things have changed across the platform, from versioning of the API itself, to even documentation, and other aspects of platform operations.",
+				"category_image": "https://s3.amazonaws.com/kinlane-productions/api-evangelist/services/api-management.png",
+				"category_hex": "#EE352E",
+				"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-status-dashboard.png",
+				"image_width": "150",
+				"sort_order": "1",
+				"organizations": [
+				],
+				"apis": [
+				],
+				"links": [
+				],
+				"tools": [
+				],
+				"questions": [
+				]
+			},
+			{
+				"building_block_id": "WDwoAbd20GKJ4f39kKJvTlDnJ5pBQ7GDvP116lBSJfbLo117",
+				"building_block_category_id": "ynaKOEXyMvpdYJed123jQcmeJrHBEuTNfspoY38rOrWK8117",
+				"name": "Roadmap",
+				"about": "A detailed list of what additions and changes are being planned as part of API operations, giving consumers a place where they can go learn about what is next in an APIs evolution.",
+				"category_id": "10",
+				"category": "Updates",
+				"category_about": "How are we planning, and communicating updates to the platform? Providing a map of how things have changed across the platform, from versioning of the API itself, to even documentation, and other aspects of platform operations.",
+				"category_image": "https://s3.amazonaws.com/kinlane-productions/api-evangelist/services/api-management.png",
+				"category_hex": "#EE352E",
+				"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-highway.png",
+				"image_width": "150",
+				"sort_order": "2",
+				"organizations": [
+				],
+				"apis": [
+				],
+				"links": [
+				],
+				"tools": [
+				],
+				"questions": [
+				]
+			},
+			{
+				"building_block_id": "JRO0sPQAgBLZ0zwhBa91Urcn4laD5RGBCpg4SHgNlEA117",
+				"building_block_category_id": "ynaKOEXyMvpdYJed123jQcmeJrHBEuTNfspoY38rOrWK8117",
+				"name": "Change Log",
+				"about": "A detailed list of changes have been made to an API platform, giving consumers a single place they can go to learn about what changes have been made.",
+				"category_id": "10",
+				"category": "Updates",
+				"category_about": "How are we planning, and communicating updates to the platform? Providing a map of how things have changed across the platform, from versioning of the API itself, to even documentation, and other aspects of platform operations.",
+				"category_image": "https://s3.amazonaws.com/kinlane-productions/api-evangelist/services/api-management.png",
+				"category_hex": "#EE352E",
+				"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-recycling.jpg",
+				"image_width": "150",
+				"sort_order": "3",
+				"organizations": [
+				],
+				"apis": [
+				],
+				"links": [
+				],
+				"tools": [
+				],
+				"questions": [
+				]
+			},
+			{
+				"building_block_id": "aVjJsT3o4v0A1166StqNQN123exRRshKIEiuFHLmVAKagOM117",
+				"building_block_category_id": "ynaKOEXyMvpdYJed123jQcmeJrHBEuTNfspoY38rOrWK8117",
+				"name": "Status RSS",
+				"about": "Providing an RSS feed for a status dashboard, allowing users to receive updates on any website, and via any RSS client.",
+				"category_id": "10",
+				"category": "Updates",
+				"category_about": "How are we planning, and communicating updates to the platform? Providing a map of how things have changed across the platform, from versioning of the API itself, to even documentation, and other aspects of platform operations.",
+				"category_image": "https://s3.amazonaws.com/kinlane-productions/api-evangelist/services/api-management.png",
+				"category_hex": "#EE352E",
+				"image": "",
+				"image_width": "100",
+				"sort_order": "4",
+				"organizations": [
+				],
+				"apis": [
+				],
+				"links": [
+				],
+				"tools": [
+				],
+				"questions": [
+				]
+			}
+		]
+	},
+	{
+		"category_name": "Resources",
+		"building_blocks": [
+			{
+				"building_block_id": "gd2568foV123cFlWjnSERSpZfbljaJV5116y49zXda9gQ4o117",
+				"building_block_category_id": "6lT2Z5TbVOK1QuVT5116Qan9d8MD4zQajw48JG48QriNs117",
+				"name": "Case Studies",
+				"about": "Offering a wealth of case studies of actual implementations that have occurred with an API , showing potential consumers what is possible.",
+				"category_id": "13",
+				"category": "Resources",
+				"category_about": "What other resources are available for API consumers to take advantage of? Common resources provide a wealth of usually self-service knowledge resources that API consumers can consume on demand, as part of their API integration journey.",
+				"category_image": "https://s3.amazonaws.com/kinlane-productions/api-evangelist/services/api-management.png",
+				"category_hex": "#EE352E",
+				"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-case-study.png",
+				"image_width": "150",
+				"sort_order": "1",
+				"organizations": [
+				],
+				"apis": [
+				],
+				"links": [
+				],
+				"tools": [
+				],
+				"questions": [
+				]
+			},
+			{
+				"building_block_id": "eINISH6OHGSL4dtVQoSCvkIIX4GCOyVmuz7r2wNLvHs117",
+				"building_block_category_id": "6lT2Z5TbVOK1QuVT5116Qan9d8MD4zQajw48JG48QriNs117",
+				"name": "How-to Guides",
+				"about": "Providing how-to guides that walk consumers through common aspects of API integration, giving them self-service resources they can use.",
+				"category_id": "13",
+				"category": "Resources",
+				"category_about": "What other resources are available for API consumers to take advantage of? Common resources provide a wealth of usually self-service knowledge resources that API consumers can consume on demand, as part of their API integration journey.",
+				"category_image": "https://s3.amazonaws.com/kinlane-productions/api-evangelist/services/api-management.png",
+				"category_hex": "#EE352E",
+				"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-how-to-guide.png",
+				"image_width": "150",
+				"sort_order": "2",
+				"organizations": [
+				],
+				"apis": [
+				],
+				"links": [
+				],
+				"tools": [
+				],
+				"questions": [
+				]
+			},
+			{
+				"building_block_id": "Eg0uf20cNiFis9n8fkGc3kJHuMLPGe72Oklh58aQ7ok117",
+				"building_block_category_id": "6lT2Z5TbVOK1QuVT5116Qan9d8MD4zQajw48JG48QriNs117",
+				"name": "White Papers",
+				"about": "Offer white papers that educate consumers around topics that are relevant to the platform, consumers, and the industry that is being operated in.",
+				"category_id": "13",
+				"category": "Resources",
+				"category_about": "What other resources are available for API consumers to take advantage of? Common resources provide a wealth of usually self-service knowledge resources that API consumers can consume on demand, as part of their API integration journey.",
+				"category_image": "https://s3.amazonaws.com/kinlane-productions/api-evangelist/services/api-management.png",
+				"category_hex": "#EE352E",
+				"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-documentation.png",
+				"image_width": "150",
+				"sort_order": "3",
+				"organizations": [
+				],
+				"apis": [
+				],
+				"links": [
+				],
+				"tools": [
+				],
+				"questions": [
+				]
+			},
+			{
+				"building_block_id": "Sm5cUFpnt21zQasd23L123Gxf3M116U7AnyzYXRVzWWXMxg117",
+				"building_block_category_id": "6lT2Z5TbVOK1QuVT5116Qan9d8MD4zQajw48JG48QriNs117",
+				"name": "Webinars",
+				"about": "Provide online webinars on a regular basis that API consumers can attend to learn about various aspects of platform operations.",
+				"category_id": "13",
+				"category": "Resources",
+				"category_about": "What other resources are available for API consumers to take advantage of? Common resources provide a wealth of usually self-service knowledge resources that API consumers can consume on demand, as part of their API integration journey.",
+				"category_image": "https://s3.amazonaws.com/kinlane-productions/api-evangelist/services/api-management.png",
+				"category_hex": "#EE352E",
+				"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-webinar.png",
+				"image_width": "150",
+				"sort_order": "4",
+				"organizations": [
+				],
+				"apis": [
+				],
+				"links": [
+				],
+				"tools": [
+				],
+				"questions": [
+				]
+			},
+			{
+				"building_block_id": "jwDwxjccGP123TXX6AHLcz75gdf0RtDhDBn1164Mhvz5srM117",
+				"building_block_category_id": "6lT2Z5TbVOK1QuVT5116Qan9d8MD4zQajw48JG48QriNs117",
+				"name": "Events",
+				"about": "Publish a page with information about any events the an API program will be attending, or maybe links to video and slide decks from past conferences.",
+				"category_id": "13",
+				"category": "Resources",
+				"category_about": "What other resources are available for API consumers to take advantage of? Common resources provide a wealth of usually self-service knowledge resources that API consumers can consume on demand, as part of their API integration journey.",
+				"category_image": "https://s3.amazonaws.com/kinlane-productions/api-evangelist/services/api-management.png",
+				"category_hex": "#EE352E",
+				"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-calendar.png",
+				"image_width": "0",
+				"sort_order": "5",
+				"organizations": [
+				],
+				"apis": [
+				],
+				"links": [
+				],
+				"tools": [
+				],
+				"questions": [
+				]
+			},
+			{
+				"building_block_id": "iGCcLPAb80OAqMjkONX116yGEFx1Z5sifFU4qKZchrl116s117",
+				"building_block_category_id": "6lT2Z5TbVOK1QuVT5116Qan9d8MD4zQajw48JG48QriNs117",
+				"name": "Slideshare",
+				"about": "Publish a list of slide decks available on a Slideshare account, providing developers with access to past talks the API program has done.",
+				"category_id": "13",
+				"category": "Resources",
+				"category_about": "What other resources are available for API consumers to take advantage of? Common resources provide a wealth of usually self-service knowledge resources that API consumers can consume on demand, as part of their API integration journey.",
+				"category_image": "https://s3.amazonaws.com/kinlane-productions/api-evangelist/services/api-management.png",
+				"category_hex": "#EE352E",
+				"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-slideshare.png",
+				"image_width": "100",
+				"sort_order": "6",
+				"organizations": [
+				],
+				"apis": [
+				],
+				"links": [
+				],
+				"tools": [
+				],
+				"questions": [
+				]
+			},
+			{
+				"building_block_id": "Kx43zOMS6BOBojy6JlXyrk17rvpu5lOO4RpWObXHQ4Y117",
+				"building_block_category_id": "6lT2Z5TbVOK1QuVT5116Qan9d8MD4zQajw48JG48QriNs117",
+				"name": "Codecademy",
+				"about": "Creating courses on Codecademy, then publishing them within an API developer area, providing lessons for developers on how an API operates.",
+				"category_id": "13",
+				"category": "Resources",
+				"category_about": "What other resources are available for API consumers to take advantage of? Common resources provide a wealth of usually self-service knowledge resources that API consumers can consume on demand, as part of their API integration journey.",
+				"category_image": "https://s3.amazonaws.com/kinlane-productions/api-evangelist/services/api-management.png",
+				"category_hex": "#EE352E",
+				"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-codecademy.png",
+				"image_width": "100",
+				"sort_order": "7",
+				"organizations": [
+				],
+				"apis": [
+				],
+				"links": [
+				],
+				"tools": [
+				],
+				"questions": [
+				]
+			},
+			{
+				"building_block_id": "pjwmI1TZu2JAQN3On116HGkezoNcYXRUxPkBZGESsK4vY117",
+				"building_block_category_id": "6lT2Z5TbVOK1QuVT5116Qan9d8MD4zQajw48JG48QriNs117",
+				"name": "Tour",
+				"about": "Providing a guided tour of how a platform and API operates, allowing new developers to walk through all aspects of operations in an interactive or video format.",
+				"category_id": "13",
+				"category": "Resources",
+				"category_about": "What other resources are available for API consumers to take advantage of? Common resources provide a wealth of usually self-service knowledge resources that API consumers can consume on demand, as part of their API integration journey.",
+				"category_image": "https://s3.amazonaws.com/kinlane-productions/api-evangelist/services/api-management.png",
+				"category_hex": "#EE352E",
+				"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-path.png",
+				"image_width": "100",
+				"sort_order": "8",
+				"organizations": [
+				],
+				"apis": [
+				],
+				"links": [
+				],
+				"tools": [
+				],
+				"questions": [
+				]
+			},
+			{
+				"building_block_id": "DLTKzPjiElFC1KMfZNVv3pf1Ir0UEXbJwLs5GgB15T0117",
+				"building_block_category_id": "6lT2Z5TbVOK1QuVT5116Qan9d8MD4zQajw48JG48QriNs117",
+				"name": "Glossary",
+				"about": "A glossary of terms that applies to an industry, platform, and the business or technical aspects of operations, providing API consumers who may not be familiar with sector or platform specific terms, with a dictionary they can use during integration.",
+				"category_id": "13",
+				"category": "Resources",
+				"category_about": "What other resources are available for API consumers to take advantage of? Common resources provide a wealth of usually self-service knowledge resources that API consumers can consume on demand, as part of their API integration journey.",
+				"category_image": "https://s3.amazonaws.com/kinlane-productions/api-evangelist/services/api-management.png",
+				"category_hex": "#EE352E",
+				"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-dictionary.png",
+				"image_width": "100",
+				"sort_order": "9",
+				"organizations": [
+				],
+				"apis": [
+				],
+				"links": [
+				],
+				"tools": [
+				],
+				"questions": [
+				]
+			},
+			{
+				"building_block_id": "vPANp6Gw12Cmm1GvSeRH1B7H5vPPmT3QbDZIjCOpBxk117",
+				"building_block_category_id": "6lT2Z5TbVOK1QuVT5116Qan9d8MD4zQajw48JG48QriNs117",
+				"name": "Videos",
+				"about": "Provides video resources, helping people understand the API platform, how it can be put to use, and any other supporting areas of API operations.",
+				"category_id": "13",
+				"category": "Resources",
+				"category_about": "What other resources are available for API consumers to take advantage of? Common resources provide a wealth of usually self-service knowledge resources that API consumers can consume on demand, as part of their API integration journey.",
+				"category_image": "https://s3.amazonaws.com/kinlane-productions/api-evangelist/services/api-management.png",
+				"category_hex": "#EE352E",
+				"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-video.png",
+				"image_width": "100",
+				"sort_order": "10",
+				"organizations": [
+				],
+				"apis": [
+				],
+				"links": [
+				],
+				"tools": [
+				],
+				"questions": [
+				]
+			}
+		]
+	},
+	{
+		"category_name": "Research & Development",
+		"building_blocks": [
+			{
+				"building_block_id": "Lvu14JZeQ6OUg9bsDshTkCqznntO6aacbwAuT8oRd4E117",
+				"building_block_category_id": "rL9X4uyBLOMhre8VhvGVNVAt123x0QwhGcDHHKKwM3FUs117",
+				"name": "Labs",
+				"about": "Offering a labs environment, that showcases ideas that are being developed internally and by partners, possibly even providing opportunities for public consumers.",
+				"category_id": "14",
+				"category": "Research & Development",
+				"category_about": "APIs are often R&D departments for companies, organizations, institutions, and even within the government. What are some of the ways that these organizations are pushing forward R&D using APIs? There are a number of common elements to consider.",
+				"category_image": "https://s3.amazonaws.com/kinlane-productions/api-evangelist/services/api-management.png",
+				"category_hex": "#EE352E",
+				"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-app-development.png",
+				"image_width": "150",
+				"sort_order": "1",
+				"organizations": [
+				],
+				"apis": [
+				],
+				"links": [
+				],
+				"tools": [
+				],
+				"questions": [
+				]
+			},
+			{
+				"building_block_id": "keBSNZHV123116XCqQ116LtZemj7NvNag558acPNR8aeExG3k117",
+				"building_block_category_id": "rL9X4uyBLOMhre8VhvGVNVAt123x0QwhGcDHHKKwM3FUs117",
+				"name": "Ideas",
+				"about": "Like showcase existing applications, an idea showcase is about providing a place where new and existing ideas can be shared, and potentially built upon by the community.",
+				"category_id": "14",
+				"category": "Research & Development",
+				"category_about": "APIs are often R&D departments for companies, organizations, institutions, and even within the government. What are some of the ways that these organizations are pushing forward R&D using APIs? There are a number of common elements to consider.",
+				"category_image": "https://s3.amazonaws.com/kinlane-productions/api-evangelist/services/api-management.png",
+				"category_hex": "#EE352E",
+				"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-light-bulb-bright.png",
+				"image_width": "150",
+				"sort_order": "2",
+				"organizations": [
+				],
+				"apis": [
+				],
+				"links": [
+				],
+				"tools": [
+				],
+				"questions": [
+				]
+			},
+			{
+				"building_block_id": "7ms2PgVy1SMj3Dx4GUq30rDqyAC440atvQp4T59KUhY117",
+				"building_block_category_id": "rL9X4uyBLOMhre8VhvGVNVAt123x0QwhGcDHHKKwM3FUs117",
+				"name": "Opportunities",
+				"about": "Providing an area where aPI consumers can find opportunities available on the platform from potential projects, to posting job opportunities that are currently available.",
+				"category_id": "14",
+				"category": "Research & Development",
+				"category_about": "APIs are often R&D departments for companies, organizations, institutions, and even within the government. What are some of the ways that these organizations are pushing forward R&D using APIs? There are a number of common elements to consider.",
+				"category_image": "https://s3.amazonaws.com/kinlane-productions/api-evangelist/services/api-management.png",
+				"category_hex": "#EE352E",
+				"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-exlamation-point.gif",
+				"image_width": "150",
+				"sort_order": "3",
+				"organizations": [
+				],
+				"apis": [
+				],
+				"links": [
+				],
+				"tools": [
+				],
+				"questions": [
+				]
+			}
+		]
+	},
+	{
+		"category_name": "Legal",
+		"building_blocks": [
+			{
+				"building_block_id": "yhQ116B10Nr116S3BP989f3fursM5qju9iSF6EFIRmIpsHk117",
+				"building_block_category_id": "Kk7AH52Swx0N27Bmime7yUXD0r8HB3hcpGUNqIS123Lb4117",
+				"name": "Service Level Agreement",
+				"about": "Provide a service level agreements (SLA) describing what service(s) are offered by an API provider, with details about quality of service, warranties,u00a0disaster recovery, and steps foru00a0termination of agreement. ",
+				"category_id": "15",
+				"category": "Legal",
+				"category_about": "The legal side of API operations is critical to platform operations, and the overall health of the ecosystem. There are a number of legal building blocks to consider, with some of these having been broke off into their own research areas.",
+				"category_image": "https://s3.amazonaws.com/kinlane-productions/api-evangelist/services/api-management.png",
+				"category_hex": "#EE352E",
+				"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-handshake.jpg",
+				"image_width": "0",
+				"sort_order": "6",
+				"organizations": [
+				],
+				"apis": [
+				],
+				"links": [
+				],
+				"tools": [
+				],
+				"questions": [
+				]
+			},
+			{
+				"building_block_id": "vx3116YCmydvfFSU0Co26d14R116S4bPZZZqoy123bU8MwX30117",
+				"building_block_category_id": "Kk7AH52Swx0N27Bmime7yUXD0r8HB3hcpGUNqIS123Lb4117",
+				"name": "Deprecation Policy",
+				"about": "Provide a API deprecation policy setting expectations with API consumers about when and how API resources will be deprecated and shut down. ",
+				"category_id": "15",
+				"category": "Legal",
+				"category_about": "The legal side of API operations is critical to platform operations, and the overall health of the ecosystem. There are a number of legal building blocks to consider, with some of these having been broke off into their own research areas.",
+				"category_image": "https://s3.amazonaws.com/kinlane-productions/api-evangelist/services/api-management.png",
+				"category_hex": "#EE352E",
+				"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-deprecation.png",
+				"image_width": "0",
+				"sort_order": "7",
+				"organizations": [
+				],
+				"apis": [
+				],
+				"links": [
+				],
+				"tools": [
+				],
+				"questions": [
+				]
+			},
+			{
+				"building_block_id": "aPsU0D1S94pOFSt123UrnLQkxubVhpgcbsQB23QB3AE5g117",
+				"building_block_category_id": "Kk7AH52Swx0N27Bmime7yUXD0r8HB3hcpGUNqIS123Lb4117",
+				"name": "Monetization Guidelines",
+				"about": "Providing legal guidelines for how developers can monetize around resources that are available via an API.",
+				"category_id": "15",
+				"category": "Legal",
+				"category_about": "The legal side of API operations is critical to platform operations, and the overall health of the ecosystem. There are a number of legal building blocks to consider, with some of these having been broke off into their own research areas.",
+				"category_image": "https://s3.amazonaws.com/kinlane-productions/api-evangelist/services/api-management.png",
+				"category_hex": "#EE352E",
+				"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-dollar-sign.png",
+				"image_width": "100",
+				"sort_order": "8",
+				"organizations": [
+				],
+				"apis": [
+				],
+				"links": [
+				],
+				"tools": [
+				],
+				"questions": [
+				]
+			},
+			{
+				"building_block_id": "ZGYNbEQVfVrfrMD5K1nUGB8k123EesMmXApfNCSYXgecs117",
+				"building_block_category_id": "Kk7AH52Swx0N27Bmime7yUXD0r8HB3hcpGUNqIS123Lb4117",
+				"name": "Compliance",
+				"about": "A page providing compliance related information, covering how a company, platform, and APIs complies with government and industry regulations.",
+				"category_id": "15",
+				"category": "Legal",
+				"category_about": "The legal side of API operations is critical to platform operations, and the overall health of the ecosystem. There are a number of legal building blocks to consider, with some of these having been broke off into their own research areas.",
+				"category_image": "https://s3.amazonaws.com/kinlane-productions/api-evangelist/services/api-management.png",
+				"category_hex": "#EE352E",
+				"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-compliance.png",
+				"image_width": "100",
+				"sort_order": "9",
+				"organizations": [
+				],
+				"apis": [
+				],
+				"links": [
+				],
+				"tools": [
+				],
+				"questions": [
+				]
+			},
+			{
+				"building_block_id": "Ur2rdcmn3arEdTkrkZabGj337BwlLDT7jXK2xRT1168yM117",
+				"building_block_category_id": "Kk7AH52Swx0N27Bmime7yUXD0r8HB3hcpGUNqIS123Lb4117",
+				"name": "Trademarks",
+				"about": "Providing a reference of corporate trademarks that are part of API operations, and developers may have to consider.",
+				"category_id": "15",
+				"category": "Legal",
+				"category_about": "The legal side of API operations is critical to platform operations, and the overall health of the ecosystem. There are a number of legal building blocks to consider, with some of these having been broke off into their own research areas.",
+				"category_image": "https://s3.amazonaws.com/kinlane-productions/api-evangelist/services/api-management.png",
+				"category_hex": "#EE352E",
+				"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-trademark.png",
+				"image_width": "100",
+				"sort_order": "11",
+				"organizations": [
+				],
+				"apis": [
+				],
+				"links": [
+				],
+				"tools": [
+				],
+				"questions": [
+				]
+			}
+		]
+	},
+	{
+		"category_name": "Environment",
+		"building_blocks": [
+			{
+				"building_block_id": "mcYit03IhbK9uYsuNVq26jYkP964MASAE9TQRSN3DmI117",
+				"building_block_category_id": "PH6VFfRC7URR9CtwA41163Ljg7IyPAz123hgsh1yu5Py116xc117",
+				"name": "Sandbox",
+				"about": "Provide developers a sandbox environment to develop and test their code, reducing headaches for consumers when developing their applications.",
+				"category_id": "17",
+				"category": "Environment",
+				"category_about": "What environments are available for working with API resources? This area overlaps with existing containerization, and virtualization research. How are we providing development vs production environments, and how are we applying environments to not just APIs, but also data content.",
+				"category_image": "https://s3.amazonaws.com/kinlane-productions/api-evangelist/services/api-management.png",
+				"category_hex": "#EE352E",
+				"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-sandbox.jpeg",
+				"image_width": "150",
+				"sort_order": "1",
+				"organizations": [
+				],
+				"apis": [
+				],
+				"links": [
+				],
+				"tools": [
+				],
+				"questions": [
+				]
+			},
+			{
+				"building_block_id": "g2FcpyBa89116Cmw9AgSauv2SR2gq4sFEepcgxMqu3zLA117",
+				"building_block_category_id": "PH6VFfRC7URR9CtwA41163Ljg7IyPAz123hgsh1yu5Py116xc117",
+				"name": "Production",
+				"about": "Offer a production environment in addition to a sandbox, allowing developers to push an application into production mode when it is ready.",
+				"category_id": "17",
+				"category": "Environment",
+				"category_about": "What environments are available for working with API resources? This area overlaps with existing containerization, and virtualization research. How are we providing development vs production environments, and how are we applying environments to not just APIs, but also data content.",
+				"category_image": "https://s3.amazonaws.com/kinlane-productions/api-evangelist/services/api-management.png",
+				"category_hex": "#EE352E",
+				"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-production.png",
+				"image_width": "150",
+				"sort_order": "2",
+				"organizations": [
+				],
+				"apis": [
+				],
+				"links": [
+				],
+				"tools": [
+				],
+				"questions": [
+				]
+			},
+			{
+				"building_block_id": "rxJQQIQfClEc2XvvtI123Pu1y0KCuEHN0IlNAlbrjdoXI117",
+				"building_block_category_id": "PH6VFfRC7URR9CtwA41163Ljg7IyPAz123hgsh1yu5Py116xc117",
+				"name": "Simulator",
+				"about": "Providing an environment where developers can find existing profiles, templates or other collections of data, as well as sequence for simulating a particular experience via an API platform.",
+				"category_id": "17",
+				"category": "Environment",
+				"category_about": "What environments are available for working with API resources? This area overlaps with existing containerization, and virtualization research. How are we providing development vs production environments, and how are we applying environments to not just APIs, but also data content.",
+				"category_image": "https://s3.amazonaws.com/kinlane-productions/api-evangelist/services/api-management.png",
+				"category_hex": "#EE352E",
+				"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-data-template.png",
+				"image_width": "150",
+				"sort_order": "3",
+				"organizations": [
+				],
+				"apis": [
+				],
+				"links": [
+				],
+				"tools": [
+				],
+				"questions": [
+				]
+			},
+			{
+				"building_block_id": "i4vBtNHOS2aS7lShWR5p1NrL6b1WP1161wWD116LQxT97vE117",
+				"building_block_category_id": "PH6VFfRC7URR9CtwA41163Ljg7IyPAz123hgsh1yu5Py116xc117",
+				"name": "Templates",
+				"about": "Offering predefined templates ofu00a0operation, when a new environment is setup, either sandbox, production, or simulator, it can be pre-populated with data, and other configuration.",
+				"category_id": "17",
+				"category": "Environment",
+				"category_about": "What environments are available for working with API resources? This area overlaps with existing containerization, and virtualization research. How are we providing development vs production environments, and how are we applying environments to not just APIs, but also data content.",
+				"category_image": "https://s3.amazonaws.com/kinlane-productions/api-evangelist/services/api-management.png",
+				"category_hex": "#EE352E",
+				"image": "",
+				"image_width": "100",
+				"sort_order": "4",
+				"organizations": [
+				],
+				"apis": [
+				],
+				"links": [
+				],
+				"tools": [
+				],
+				"questions": [
+				]
+			}
+		]
+	},
+	{
+		"category_name": "Developer Account",
+		"building_blocks": [
+			{
+				"building_block_id": "BvOqfVyZk2LEecfa4GGIy123lph116DhhnFRPc1JzUnzlaE117",
+				"building_block_category_id": "FrFylxRvvRsfsLIG1vbuoEvrzYqd6vxQr7R0r6123wvV8117",
+				"name": "Developer Dashboard",
+				"about": "Provide developers a single dashboard for getting at all their tools, metrics and information they need to successfully manage their usage.",
+				"category_id": "18",
+				"category": "Developer Account",
+				"category_about": "Consumers of an API platform always need an account where they can get access to API authentication, usage reports, and other common elements of API operations. What does the developer account, or area look like, and what resources are available for developers to take advantage of.",
+				"category_image": "https://s3.amazonaws.com/kinlane-productions/api-evangelist/services/api-management.png",
+				"category_hex": "#EE352E",
+				"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-dashboard.png",
+				"image_width": "150",
+				"sort_order": "1",
+				"organizations": [
+				],
+				"apis": [
+				],
+				"links": [
+				],
+				"tools": [
+				],
+				"questions": [
+				]
+			},
+			{
+				"building_block_id": "fUVGp9FoTWvjpyv7Mzto9bwNxyhqQ9w1SV38wikhkYk117",
+				"building_block_category_id": "FrFylxRvvRsfsLIG1vbuoEvrzYqd6vxQr7R0r6123wvV8117",
+				"name": "Account Settings",
+				"about": "Provide developers access to their basic account detail and settings, giving them quick access to their account configuration and allow for easy updates.",
+				"category_id": "18",
+				"category": "Developer Account",
+				"category_about": "Consumers of an API platform always need an account where they can get access to API authentication, usage reports, and other common elements of API operations. What does the developer account, or area look like, and what resources are available for developers to take advantage of.",
+				"category_image": "https://s3.amazonaws.com/kinlane-productions/api-evangelist/services/api-management.png",
+				"category_hex": "#EE352E",
+				"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-account-settings.png",
+				"image_width": "150",
+				"sort_order": "2",
+				"organizations": [
+				],
+				"apis": [
+				],
+				"links": [
+				],
+				"tools": [
+				],
+				"questions": [
+				]
+			},
+			{
+				"building_block_id": "rQHV8aMY9eLS18FCJYnoK964CNl5ATOA3ty6U3ekTXI117",
+				"building_block_category_id": "FrFylxRvvRsfsLIG1vbuoEvrzYqd6vxQr7R0r6123wvV8117",
+				"name": "Reset Password",
+				"about": "Provide the necessary tools for developers to gain access to their account if they lose their password.",
+				"category_id": "18",
+				"category": "Developer Account",
+				"category_about": "Consumers of an API platform always need an account where they can get access to API authentication, usage reports, and other common elements of API operations. What does the developer account, or area look like, and what resources are available for developers to take advantage of.",
+				"category_image": "https://s3.amazonaws.com/kinlane-productions/api-evangelist/services/api-management.png",
+				"category_hex": "#EE352E",
+				"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-reset.jpeg",
+				"image_width": "150",
+				"sort_order": "3",
+				"organizations": [
+				],
+				"apis": [
+				],
+				"links": [
+				],
+				"tools": [
+				],
+				"questions": [
+				]
+			},
+			{
+				"building_block_id": "zOLfDP3Xo9Rd6fW0ZhczhPiI1tj123wBgkXTyYdQAwfyc117",
+				"building_block_category_id": "FrFylxRvvRsfsLIG1vbuoEvrzYqd6vxQr7R0r6123wvV8117",
+				"name": "Application Manager",
+				"about": "Providing an interface that allows developers to manage one or many applications that will be integrating with an API.",
+				"category_id": "18",
+				"category": "Developer Account",
+				"category_about": "Consumers of an API platform always need an account where they can get access to API authentication, usage reports, and other common elements of API operations. What does the developer account, or area look like, and what resources are available for developers to take advantage of.",
+				"category_image": "https://s3.amazonaws.com/kinlane-productions/api-evangelist/services/api-management.png",
+				"category_hex": "#EE352E",
+				"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-app-icon.jpg",
+				"image_width": "150",
+				"sort_order": "4",
+				"organizations": [
+				],
+				"apis": [
+				],
+				"links": [
+				],
+				"tools": [
+				],
+				"questions": [
+				]
+			},
+			{
+				"building_block_id": "7FmfTZRzfIfyu123drgKKriB116Et9LoNJvFfVWQTMGGlno117",
+				"building_block_category_id": "FrFylxRvvRsfsLIG1vbuoEvrzYqd6vxQr7R0r6123wvV8117",
+				"name": "Usage Logs & Analytics",
+				"about": "Allowing developers to be able to see where they stand with usage, logging and other aspects of operations, by providing them reports and analytics of their history.",
+				"category_id": "18",
+				"category": "Developer Account",
+				"category_about": "Consumers of an API platform always need an account where they can get access to API authentication, usage reports, and other common elements of API operations. What does the developer account, or area look like, and what resources are available for developers to take advantage of.",
+				"category_image": "https://s3.amazonaws.com/kinlane-productions/api-evangelist/services/api-management.png",
+				"category_hex": "#EE352E",
+				"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-analytics-2.png",
+				"image_width": "150",
+				"sort_order": "5",
+				"organizations": [
+				],
+				"apis": [
+				],
+				"links": [
+				],
+				"tools": [
+				],
+				"questions": [
+				]
+			},
+			{
+				"building_block_id": "1236bWKZ2iWRdNSJqWE9Y4zGyblG0925oGGsAbbXbwfAA117",
+				"building_block_category_id": "FrFylxRvvRsfsLIG1vbuoEvrzYqd6vxQr7R0r6123wvV8117",
+				"name": "Billing History",
+				"about": "Provide clear and easy access to what a developer has been billed, allowing them to access and download their billing history around API usage.",
+				"category_id": "18",
+				"category": "Developer Account",
+				"category_about": "Consumers of an API platform always need an account where they can get access to API authentication, usage reports, and other common elements of API operations. What does the developer account, or area look like, and what resources are available for developers to take advantage of.",
+				"category_image": "https://s3.amazonaws.com/kinlane-productions/api-evangelist/services/api-management.png",
+				"category_hex": "#EE352E",
+				"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-history.jpeg",
+				"image_width": "150",
+				"sort_order": "6",
+				"organizations": [
+				],
+				"apis": [
+				],
+				"links": [
+				],
+				"tools": [
+				],
+				"questions": [
+				]
+			},
+			{
+				"building_block_id": "MVEExCiwQNbMLtFjvIhR3HlBU52123yYUGDp2ItG9GOqQ117",
+				"building_block_category_id": "FrFylxRvvRsfsLIG1vbuoEvrzYqd6vxQr7R0r6123wvV8117",
+				"name": "Message Center",
+				"about": "Providing developers with a messaging system within their developer accounts, and communicate with API providers, and receive system updates.",
+				"category_id": "18",
+				"category": "Developer Account",
+				"category_about": "Consumers of an API platform always need an account where they can get access to API authentication, usage reports, and other common elements of API operations. What does the developer account, or area look like, and what resources are available for developers to take advantage of.",
+				"category_image": "https://s3.amazonaws.com/kinlane-productions/api-evangelist/services/api-management.png",
+				"category_hex": "#EE352E",
+				"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-message-send.png",
+				"image_width": "100",
+				"sort_order": "7",
+				"organizations": [
+				],
+				"apis": [
+				],
+				"links": [
+				],
+				"tools": [
+				],
+				"questions": [
+				]
+			},
+			{
+				"building_block_id": "olcwLao5XjsXCjklE3bE1HEzmAHEjHKhCpg612320VBaI117",
+				"building_block_category_id": "FrFylxRvvRsfsLIG1vbuoEvrzYqd6vxQr7R0r6123wvV8117",
+				"name": "Github Authentication",
+				"about": "Allow developers to create and login to their API developer account using their own Github account credentials.",
+				"category_id": "18",
+				"category": "Developer Account",
+				"category_about": "Consumers of an API platform always need an account where they can get access to API authentication, usage reports, and other common elements of API operations. What does the developer account, or area look like, and what resources are available for developers to take advantage of.",
+				"category_image": "https://s3.amazonaws.com/kinlane-productions/api-evangelist/services/api-management.png",
+				"category_hex": "#EE352E",
+				"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-github.jpg",
+				"image_width": "0",
+				"sort_order": "8",
+				"organizations": [
+				],
+				"apis": [
+				],
+				"links": [
+				],
+				"tools": [
+				],
+				"questions": [
+				]
+			},
+			{
+				"building_block_id": "Jp4vIhrAAnym6d6JyR2BdsfgaQrq1nJTeHT116f3NapWo117",
+				"building_block_category_id": "FrFylxRvvRsfsLIG1vbuoEvrzYqd6vxQr7R0r6123wvV8117",
+				"name": "Delete Account",
+				"about": "Giving developers the ability to delete their account from within their account portal.",
+				"category_id": "18",
+				"category": "Developer Account",
+				"category_about": "Consumers of an API platform always need an account where they can get access to API authentication, usage reports, and other common elements of API operations. What does the developer account, or area look like, and what resources are available for developers to take advantage of.",
+				"category_image": "https://s3.amazonaws.com/kinlane-productions/api-evangelist/services/api-management.png",
+				"category_hex": "#EE352E",
+				"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/3-factor-x.jpeg",
+				"image_width": "100",
+				"sort_order": "9",
+				"organizations": [
+				],
+				"apis": [
+				],
+				"links": [
+				],
+				"tools": [
+				],
+				"questions": [
+				]
+			},
+			{
+				"building_block_id": "11692gOiL5gE6OSpTdrI2U5Qhep7V7OMll3AueXh0KLBg117",
+				"building_block_category_id": "FrFylxRvvRsfsLIG1vbuoEvrzYqd6vxQr7R0r6123wvV8117",
+				"name": "Service Tier Management",
+				"about": "Allow developers to change the service tier they operate with in via their developer dashboard, without having to request changes from platform support.",
+				"category_id": "18",
+				"category": "Developer Account",
+				"category_about": "Consumers of an API platform always need an account where they can get access to API authentication, usage reports, and other common elements of API operations. What does the developer account, or area look like, and what resources are available for developers to take advantage of.",
+				"category_image": "https://s3.amazonaws.com/kinlane-productions/api-evangelist/services/api-management.png",
+				"category_hex": "#EE352E",
+				"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-tiers.jpg",
+				"image_width": "100",
+				"sort_order": "10",
+				"organizations": [
+				],
+				"apis": [
+				],
+				"links": [
+				],
+				"tools": [
+				],
+				"questions": [
+				]
+			}
+		]
+	},
+	{
+		"category_name": "Reciprocity",
+		"building_blocks": [
+			{
+				"building_block_id": "ENznPXHBHJ0kd5pXieRvB9UpTu123SNf116123iVEYoJEQvt4117",
+				"building_block_category_id": "aEjBYUsOY9ECrPcV47hKtxaG8tyUXj2PiQCODxvIAoI117",
+				"name": "Terms of Service",
+				"about": "Provide loose enough terms of service, that users can migrate their data from one platform to another, without violating the terms of service.",
+				"category_id": "91",
+				"category": "Reciprocity",
+				"category_about": "What interoperability, automation, and reciprocity opportunities are available via the API platform? There are a number of technical, business, and political elements that make interoperability and automation possible in a way that enable reciprocity to exist between platform operators, developers, and end-users.",
+				"category_image": "https://s3.amazonaws.com/kinlane-productions/api-evangelist/services/api-management.png",
+				"category_hex": "#EE352E",
+				"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-terms-conditions.png",
+				"image_width": "0",
+				"sort_order": "1",
+				"organizations": [
+				],
+				"apis": [
+				],
+				"links": [
+				],
+				"tools": [
+				],
+				"questions": [
+				]
+			},
+			{
+				"building_block_id": "123gRuzF8aiw8RGCTC7oyGATtqf8croVz9hmp1bBlD116mA117",
+				"building_block_category_id": "aEjBYUsOY9ECrPcV47hKtxaG8tyUXj2PiQCODxvIAoI117",
+				"name": "Data Portability",
+				"about": "Providing users with the ability to get data out of a system through a bulk download and via an API in a usable format that employs open standards.",
+				"category_id": "91",
+				"category": "Reciprocity",
+				"category_about": "What interoperability, automation, and reciprocity opportunities are available via the API platform? There are a number of technical, business, and political elements that make interoperability and automation possible in a way that enable reciprocity to exist between platform operators, developers, and end-users.",
+				"category_image": "https://s3.amazonaws.com/kinlane-productions/api-evangelist/services/api-management.png",
+				"category_hex": "#EE352E",
+				"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-suitcase.png",
+				"image_width": "0",
+				"sort_order": "2",
+				"organizations": [
+				],
+				"apis": [
+				],
+				"links": [
+				],
+				"tools": [
+				],
+				"questions": [
+				]
+			},
+			{
+				"building_block_id": "116t7V9qeSjdLDalcC116Psb85ygzEXQVMqrKrU5LrSwrEs117",
+				"building_block_category_id": "aEjBYUsOY9ECrPcV47hKtxaG8tyUXj2PiQCODxvIAoI117",
+				"name": "Automation",
+				"about": "Offer ready to go integrations with popular API automation platforms like Zapier and IFTTT, allowing any user to migrate data between platforms.",
+				"category_id": "91",
+				"category": "Reciprocity",
+				"category_about": "What interoperability, automation, and reciprocity opportunities are available via the API platform? There are a number of technical, business, and political elements that make interoperability and automation possible in a way that enable reciprocity to exist between platform operators, developers, and end-users.",
+				"category_image": "https://s3.amazonaws.com/kinlane-productions/api-evangelist/services/api-management.png",
+				"category_hex": "#EE352E",
+				"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-clock-gear.png",
+				"image_width": "0",
+				"sort_order": "3",
+				"organizations": [
+				],
+				"apis": [
+				],
+				"links": [
+				],
+				"tools": [
+				],
+				"questions": [
+				]
+			},
+			{
+				"building_block_id": "5wLkh7fUni2a6kE1161kXIzpAX9g53VrH9sFXZQ8jtn123U117",
+				"building_block_category_id": "aEjBYUsOY9ECrPcV47hKtxaG8tyUXj2PiQCODxvIAoI117",
+				"name": "oAuth",
+				"about": "Provides an identify and access layer for API driven resource, one that allows for reciprocity to occur within a single API ecosystem, and between multiple ecosystems.",
+				"category_id": "91",
+				"category": "Reciprocity",
+				"category_about": "What interoperability, automation, and reciprocity opportunities are available via the API platform? There are a number of technical, business, and political elements that make interoperability and automation possible in a way that enable reciprocity to exist between platform operators, developers, and end-users.",
+				"category_image": "https://s3.amazonaws.com/kinlane-productions/api-evangelist/services/api-management.png",
+				"category_hex": "#EE352E",
+				"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/oauth-logo.png",
+				"image_width": "0",
+				"sort_order": "4",
+				"organizations": [
+				],
+				"apis": [
+				],
+				"links": [
+				],
+				"tools": [
+				],
+				"questions": [
+				]
+			},
+			{
+				"building_block_id": "Vzzh4IF123eWqC2Vfxf1232tGbH4P8A11685VL0JIjW960NqI117",
+				"building_block_category_id": "aEjBYUsOY9ECrPcV47hKtxaG8tyUXj2PiQCODxvIAoI117",
+				"name": "Integrations",
+				"about": "Integrations showcase other 3rd party platforms that an API provider is already connected to, providing ready to go platform integration solutions that any developer can take advantage of. ",
+				"category_id": "91",
+				"category": "Reciprocity",
+				"category_about": "What interoperability, automation, and reciprocity opportunities are available via the API platform? There are a number of technical, business, and political elements that make interoperability and automation possible in a way that enable reciprocity to exist between platform operators, developers, and end-users.",
+				"category_image": "https://s3.amazonaws.com/kinlane-productions/api-evangelist/services/api-management.png",
+				"category_hex": "#EE352E",
+				"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-gears.png",
+				"image_width": "150",
+				"sort_order": "5",
+				"organizations": [
+				],
+				"apis": [
+				],
+				"links": [
+				],
+				"tools": [
+				],
+				"questions": [
+				]
+			}
+		]
+	},
+	{
+		"category_name": "Corporate",
+		"building_blocks": [
+			{
+				"building_block_id": "3IvjxWibeQ51RbR6QiMpqWXGjNeNkDxyKjPt116EDGEhs117",
+				"building_block_category_id": "wO1167ZJVui7ccoN1HgYplVYX5SixUKHwHiMG7okc20ug117",
+				"name": "Mission",
+				"about": "What is the mission of your company, organization, or government agency behind the platform.",
+				"category_id": "163",
+				"category": "Corporate",
+				"category_about": "What are the corporate considerations for platform operations? Showcasing the team, and individual faces behind API operations at an organization. There are a handful of common approaches to providing the corporate face of API operations.",
+				"category_image": "https://s3.amazonaws.com/kinlane-productions/api-evangelist/services/api-management.png",
+				"category_hex": "#EE352E",
+				"image": "",
+				"image_width": "100",
+				"sort_order": "0",
+				"organizations": [
+				],
+				"apis": [
+				],
+				"links": [
+				],
+				"tools": [
+				],
+				"questions": [
+				]
+			},
+			{
+				"building_block_id": "pDIdcePjdr86HRI0yUOEZcVzLO17uwI116i9cifbOPAXA117",
+				"building_block_category_id": "wO1167ZJVui7ccoN1HgYplVYX5SixUKHwHiMG7okc20ug117",
+				"name": "Team Showcase",
+				"about": "Provide a simple team page, showcasing the team behind the API, including photos, personal stories or bios, and any relevant social media accounts like Twitter and Github. ",
+				"category_id": "163",
+				"category": "Corporate",
+				"category_about": "What are the corporate considerations for platform operations? Showcasing the team, and individual faces behind API operations at an organization. There are a handful of common approaches to providing the corporate face of API operations.",
+				"category_image": "https://s3.amazonaws.com/kinlane-productions/api-evangelist/services/api-management.png",
+				"category_hex": "#EE352E",
+				"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-teams.jpeg",
+				"image_width": "100",
+				"sort_order": "0",
+				"organizations": [
+				],
+				"apis": [
+				],
+				"links": [
+				],
+				"tools": [
+				],
+				"questions": [
+				]
+			}
+		]
+	},
+	{
+		"category_name": "Internationalization",
+		"building_blocks": [
+			{
+				"building_block_id": "rYcORnFQTpgkzhaNK3QrkP1wo123T0V6EfDszPLBTi9ng117",
+				"building_block_category_id": "uu1nieUjFIMnjKMhFPln8k9b4jYPuSQVr3nYcXoowRA117",
+				"name": "Documentation Language",
+				"about": "Use a&nbsp;query string lang= parameter to set the language the API documentation should be speaking.",
+				"category_id": "239",
+				"category": "Internationalization",
+				"category_about": "When it comes to API operations, what is needed to reach an international audience? There are  number of building blocks emerge that are being used by leading platforms to make sure their properly internationalized for a global audience.",
+				"category_image": "https://s3.amazonaws.com/kinlane-productions/api-evangelist/services/api-management.png",
+				"category_hex": "#EE352E",
+				"image": "",
+				"image_width": "100",
+				"sort_order": "0",
+				"organizations": [
+				],
+				"apis": [
+				],
+				"links": [
+				],
+				"tools": [
+				],
+				"questions": [
+				]
+			},
+			{
+				"building_block_id": "A2Z5NjXYpJTb3rESD3vipJMstT88h6vm3QRvAUhMzOs117",
+				"building_block_category_id": "uu1nieUjFIMnjKMhFPln8k9b4jYPuSQVr3nYcXoowRA117",
+				"name": "Internationalization",
+				"about": "Provide resources that help developers localize, and internationalize their applications to meet the needs of specific global markets.",
+				"category_id": "239",
+				"category": "Internationalization",
+				"category_about": "When it comes to API operations, what is needed to reach an international audience? There are  number of building blocks emerge that are being used by leading platforms to make sure their properly internationalized for a global audience.",
+				"category_image": "https://s3.amazonaws.com/kinlane-productions/api-evangelist/services/api-management.png",
+				"category_hex": "#EE352E",
+				"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-global.png",
+				"image_width": "100",
+				"sort_order": "11",
+				"organizations": [
+				],
+				"apis": [
+				],
+				"links": [
+				],
+				"tools": [
+				],
+				"questions": [
+				]
+			}
+		]
+	},
+	{
+		"category_name": "Management API",
+		"building_blocks": [
+			{
+				"building_block_id": "bmwqptCCOxtLVaMmNiJXTlll0wlQ5KyEkqryTUE6Sl8117",
+				"building_block_category_id": "Lvu14JZeQ6OUg9bsDshTkCqznntO6aacbwAuT8oRd4E117",
+				"name": "User Management",
+				"about": "A user management API, enabling the ability to create, read, update, and delete information associated with a specific user.",
+				"category_id": "164",
+				"category": "Management API",
+				"category_about": "It may seem silly, but what APIs are available for managing API management related elements? API consumers are increasingly needing programmatic control over all aspects of their API accounts, as the number of API used increases. There are a number of API platforms that provide API management APIs, something that is easy to do with modern API management infrastructure.",
+				"category_image": "https://s3.amazonaws.com/kinlane-productions/api-evangelist/services/api-management.png",
+				"category_hex": "#EE352E",
+				"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-users-male-female.png",
+				"image_width": "100",
+				"sort_order": "1",
+				"organizations": [
+				],
+				"apis": [
+				],
+				"links": [
+				],
+				"tools": [
+				],
+				"questions": [
+				]
+			},
+			{
+				"building_block_id": "aiGkvKHWVXGJ9ourO9TC1gEkYgMpns1235Dj109dqli123k117",
+				"building_block_category_id": "Lvu14JZeQ6OUg9bsDshTkCqznntO6aacbwAuT8oRd4E117",
+				"name": "Account Management",
+				"about": "An account management API, enabling users to create, read, update, and delete information associated with their account.",
+				"category_id": "164",
+				"category": "Management API",
+				"category_about": "It may seem silly, but what APIs are available for managing API management related elements? API consumers are increasingly needing programmatic control over all aspects of their API accounts, as the number of API used increases. There are a number of API platforms that provide API management APIs, something that is easy to do with modern API management infrastructure.",
+				"category_image": "https://s3.amazonaws.com/kinlane-productions/api-evangelist/services/api-management.png",
+				"category_hex": "#EE352E",
+				"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-account-settings.png",
+				"image_width": "100",
+				"sort_order": "2",
+				"organizations": [
+				],
+				"apis": [
+				],
+				"links": [
+				],
+				"tools": [
+				],
+				"questions": [
+				]
+			},
+			{
+				"building_block_id": "yqeDBirQnLw6oRBfeA6RxT6tBSV123AKx1erArmOoauP0117",
+				"building_block_category_id": "Lvu14JZeQ6OUg9bsDshTkCqznntO6aacbwAuT8oRd4E117",
+				"name": "Application Management",
+				"about": "An application management API, allowing users to manage their registered applications, and get information about their consumption.",
+				"category_id": "164",
+				"category": "Management API",
+				"category_about": "It may seem silly, but what APIs are available for managing API management related elements? API consumers are increasingly needing programmatic control over all aspects of their API accounts, as the number of API used increases. There are a number of API platforms that provide API management APIs, something that is easy to do with modern API management infrastructure.",
+				"category_image": "https://s3.amazonaws.com/kinlane-productions/api-evangelist/services/api-management.png",
+				"category_hex": "#EE352E",
+				"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-app.png",
+				"image_width": "0",
+				"sort_order": "3",
+				"organizations": [
+				],
+				"apis": [
+				],
+				"links": [
+				],
+				"tools": [
+				],
+				"questions": [
+				]
+			},
+			{
+				"building_block_id": "vSEyaW7XRVjDzh1pAIYxVg6n5pEQGW2fYI4R1c34cGU117",
+				"building_block_category_id": "Lvu14JZeQ6OUg9bsDshTkCqznntO6aacbwAuT8oRd4E117",
+				"name": "Service Management",
+				"about": "A service management API, providing users to see what services are available, and their access and usage levels for any given service.",
+				"category_id": "164",
+				"category": "Management API",
+				"category_about": "It may seem silly, but what APIs are available for managing API management related elements? API consumers are increasingly needing programmatic control over all aspects of their API accounts, as the number of API used increases. There are a number of API platforms that provide API management APIs, something that is easy to do with modern API management infrastructure.",
+				"category_image": "https://s3.amazonaws.com/kinlane-productions/api-evangelist/services/api-management.png",
+				"category_hex": "#EE352E",
+				"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-service-request.png",
+				"image_width": "100",
+				"sort_order": "4",
+				"organizations": [
+				],
+				"apis": [
+				],
+				"links": [
+				],
+				"tools": [
+				],
+				"questions": [
+				]
+			}
+		]
+	}
 ]
