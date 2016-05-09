@@ -3,12 +3,13 @@ layout: page
 title: API Management
 ---
 <p style="font-size: 12px; padding:5px;">
-  <img src="{{ site.project_image }}" align="right" width="75" style="padding:10px;" />
+  <img src="{{ site.project_image }}" align="right" width="90" style="padding: 10px;" />
   {{ site.project_summary }}
 </p>
 
-<center><hr style="padding: 5px 5px 5px 5px; margin: 5px; width: 85%;" /></center>
-<div class="row" style="vertical-align: top;" align="center">
+<center><hr style="padding: 5px 5px 5px 5px; margin: 5px; width: 100%;" /></center>
+
+<div class="row" style="vertical-align: top; padding: 0px; margin: 0px;" align="center">
 
   <div class="span3">
 
@@ -18,19 +19,34 @@ title: API Management
     </center>
 
   </div>
-
-  <div class="span3" align="left" style="float: none; margin: 0 auto; display: inline-block; height: 100%; vertical-align: top;">
+  <div class="span3" style="text-align: left;">
     <p><strong><span style="font-size: 20px;">&#8620;</span>&nbsp;&nbsp;Latest News</strong><a href="/blog.xml"><img src="https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-rss-icon.png" width="15" style="padding-left: 5px;" /></a></p>
     <ul class="newslist">
-      {% for post in site.posts limit:4 %}
-      {% if post.title != null %}
-        <li><a href="{{ post.source }}">{{ post.title }}</a></li>
-      {% endif %}
+      {% assign totalpost = 8 %}
+      {% assign amount = 0 %}
+      {% for post in site.posts limit:150 %}
+        {% if post.title | truncatewords: 10 != null %}
+
+            <!--Guess this is only way to do??-->
+            {% if amount == '1' %}
+              <li><a href="{{ post.source }}">{{ post.title | truncatewords: 10 }}</a></li>
+            {% elsif amount == '2' %}
+              <li><a href="{{ post.source }}">{{ post.title | truncatewords: 10 }}</a></li>
+            {% elsif amount == '3' %}
+              <li><a href="{{ post.source }}">{{ post.title | truncatewords: 10 }}</a></li>
+            {% elsif amount == '4' %}
+              <li><a href="{{ post.source }}">{{ post.title | truncatewords: 10 }}</a></li>
+              {% elsif amount == '5' %}
+                <li><a href="{{ post.source }}">{{ post.title | truncatewords: 10 }}</a></li>
+            {% endif %}
+
+            {% capture amount %}{{ amount | plus: '1' }}{% endcapture %}
+
+        {% endif %}
       {% endfor %}
     </ul>
-
   </div>
-  <div class="span3" align="left" style="float: none; margin: 0 auto; display: inline-block; height: 100%; vertical-align: top;">
+  <div class="span4" style="text-align: left;">
 
     <script type="text/javascript">
       $url = 'http://apievangelist.com/blog.xml';
@@ -40,7 +56,7 @@ title: API Management
               var el = $(this);
               $title = el.find("title").text();
               $link = el.find("link").text();
-              if($listcount<2){
+              if($listcount<4){
                 $listitem = '<li><a href="' + $link + '">' + $title + '</a></li>';
                 $('#rssNews').append($listitem);
                 }
@@ -53,14 +69,13 @@ title: API Management
 
   </div>
 </div>
-<center><hr style="padding: 5px; margin: 5px; width: 85%;" /></center>
-
-<div class="row" align="center" style="">
+<center><hr style="padding: 5px; margin: 5px; width: 100%;" /></center>
+<div class="row" align="center" style="padding-bottom: 20px;">
 
   <div class="span5" style="float: none; margin: 0 auto; display: inline-block;" align="left">
 
     <ul class="newslist" style="list-style: none; font-size: 14px; padding: 0px; margin: 0px;">
-      <li><a href="#"><img src="https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-101.jpg" width="45" style="padding-right: 5px;" /><strong>&nbsp;&nbsp;Learn The Basics From This Research</strong></a></li>
+      <li><a href="http://serverless.apievangelist.com"><strong><span style="font-size: 20px;">&#8666;</span>&nbsp;&nbsp;Visit My Research On Serverless</strong></a></li>
     </ul>
 
   </div>
@@ -68,45 +83,7 @@ title: API Management
   <div class="span5" style="float: none; margin: 0 auto; display: inline-block;" align="right">
 
     <ul class="newslist" style="list-style: none; font-size: 14px; padding: 0px; margin: 0px;">
-      <li><a href="http://deployment.apievangelist.com"><strong>Visit My Research On API Deployment&nbsp;&nbsp;<span style="font-size: 20px;">&#8667;</span></strong></a></li>
-    </ul>
-
-  </div>
-
-</div>
-<div class="row" align="center" style="">
-
-  <div class="span5" style="float: none; margin: 0 auto; display: inline-block;" align="left">
-
-    <ul class="newslist" style="list-style: none; font-size: 14px; padding: 0px; margin: 0px;">
-      <li><a href="http://bit.ly/1JZBO9f">&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-pdf.png" width="22" style="padding-right: 5px;" /><strong>&nbsp;&nbsp;&nbsp;&nbsp;View the PDF of This Research</strong></a></li>
-    </ul>
-
-  </div>
-
-  <div class="span5" style="float: none; margin: 0 auto; display: inline-block;" align="right">
-
-    <ul class="newslist" style="list-style: none; font-size: 14px; padding: 0px; margin: 0px;">
-      <li><a href="http://monitoring.apievangelist.com"><strong>Visit My Research Around API Monitoring&nbsp;&nbsp;<span style="font-size: 20px;">&#8667;</span></strong></a></li>
-    </ul>
-
-  </div>
-
-</div>
-<div class="row" align="center" style="">
-
-  <div class="span5" style="float: none; margin: 0 auto; display: inline-block;" align="left">
-
-    <ul class="newslist" style="list-style: none; font-size: 14px; padding: 0px; margin: 0px;">
-      <li><a href="/journey/">&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-journey.png" width="25" style="padding-right: 5px;" /><strong>&nbsp;&nbsp;&nbsp;Take a Journey Through Research</strong></a></li>
-    </ul>
-
-  </div>
-
-  <div class="span5" style="float: none; margin: 0 auto; display: inline-block;" align="right">
-
-    <ul class="newslist" style="list-style: none; font-size: 14px; padding: 0px; margin: 0px;">
-      <li><a href="http://containers.apievangelist.com"><strong>Visit My Research On Containers & APIs&nbsp;&nbsp;<span style="font-size: 20px;">&#8667;</span></strong></a></li>
+      <li><a href="http://portal.apievangelist.com"><strong>Visit My Research On API Portals&nbsp;&nbsp;<span style="font-size: 20px;">&#8667;</span></strong></a></li>
     </ul>
 
   </div>
