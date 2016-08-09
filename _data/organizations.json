@@ -442,9 +442,9 @@
 		"base_url": "",
 		"blog": "http://www.fusio-project.org/blog",
 		"blogrss": "",
-		"logo": "",
-		"logo_width": "100",
-		"screenshot": "",
+		"logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Fusio_-_Open_source_API_management_platform.png",
+		"logo_width": "150",
+		"screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Fusio_-_Open_source_API_management_platform.png",
 		"tags": [
 			"Open Source",
 			"Management"
