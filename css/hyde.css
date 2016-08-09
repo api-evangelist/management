@@ -216,7 +216,7 @@ a:focus {
 /* Responsive masthead */
 @media (min-width: 768px) {
   .masthead-inner {
-    padding: 20px;
+    padding: 40px;
   }
 }
 @media (min-width: 990px) {

@@ -1,0 +1,191 @@
+[
+	{
+		"tool_id": "wen1165x42q03MRuOjgKwZxNzzxltquyPNOHj3Th2cQe9pvKzW123Qz8wCpI6Nr9JwbtPBMTiswAB487ePMHksoOkA117117",
+		"name": "Django Zappa",
+		"user": "Miserlou",
+		"details": "Serverless Django on AWS Lambda and API Gateway",
+		"post_date": "2016-07-15 11:38:13",
+		"url": "https://github.com/Miserlou/django-zappa",
+		"blog_url": "",
+		"blog_rss_url": "",
+		"twitter_url": "",
+		"github_url": "",
+		"logo": "https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png",
+		"forks": "25",
+		"followers": "395",
+		"watchers": "395",
+		"tags": [
+			"Serverless",
+			"Microservices",
+			"GitHub"
+		]
+	},
+	{
+		"tool_id": "5Rt6ZoUTwGbUban1iiX1tKu2pV41232quWiq116123fGkcWq88hHmLWR1Jn5V3j1h9SnOnzERDxCYUtIaf123egRJ123qVGg117117",
+		"name": "lambadaframework",
+		"user": "lambadaframework",
+		"details": "Build serverless REST APIs with JAVA. It implements the JAX-RS API and deploys your application easily to AWS Lambda and API Gateway",
+		"post_date": "2016-08-04 18:07:55",
+		"url": "https://github.com/lambadaframework/lambadaframework",
+		"blog_url": "",
+		"blog_rss_url": "",
+		"twitter_url": "",
+		"github_url": "",
+		"logo": "https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png",
+		"forks": "13",
+		"followers": "98",
+		"watchers": "98",
+		"tags": [
+			"Serverless",
+			"GitHub",
+			"Deployment"
+		]
+	},
+	{
+		"tool_id": "116A6OTbIt7mshVN68or4zcBme9RYB3cXFpeFPe4isRCDmj123Q7qsCJOIxAzV116oTqaPEcvnywq8wm2pgpvYUE5VnQ117117",
+		"name": "lambdafai",
+		"user": "Clarifai",
+		"details": "Lambdafai is a simple framework for building and deploying REST APIs using AWS Lambda, API Gateway, DynamoDB, and S3.",
+		"post_date": "2016-08-04 18:09:06",
+		"url": "https://github.com/Clarifai/lambdafai",
+		"blog_url": "",
+		"blog_rss_url": "",
+		"twitter_url": "",
+		"github_url": "",
+		"logo": "https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png",
+		"forks": "0",
+		"followers": "23",
+		"watchers": "23",
+		"tags": [
+			"Serverless",
+			"GitHub",
+			"Deployment"
+		]
+	},
+	{
+		"tool_id": "j5Qbd5I1LLE1VFQY3OPgcClUmGMYAO5wVU4myr68JBX39BK1puBDcg9qG1wz9M0m20ST604opCmZ3A433116dMeA117117",
+		"name": "leveros",
+		"user": "leveros",
+		"details": "Serverless + Microservices = u2665",
+		"post_date": "2016-07-15 11:37:51",
+		"url": "https://github.com/leveros/leveros",
+		"blog_url": "",
+		"blog_rss_url": "",
+		"twitter_url": "",
+		"github_url": "",
+		"logo": "https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png",
+		"forks": "29",
+		"followers": "840",
+		"watchers": "840",
+		"tags": [
+			"Serverless",
+			"Microservices",
+			"GitHub",
+			"Deployment"
+		]
+	},
+	{
+		"tool_id": "4eDEuKVRFn3qBZ123G116W116rqrO7Erqu1XUPqjau812311615pZ9Mf123E21z05hkWf5N1163fSpXYd7WGuLhBknh6oO56CA3A117117",
+		"name": "Serverless",
+		"user": "serverless",
+		"details": "Serverless Framework - Build web, mobile and IoT applications with serverless architectures using AWS Lambda, Azure Functions, Google CloudFunctions.",
+		"post_date": "2016-03-22 19:54:18",
+		"url": "https://github.com/serverless/serverless",
+		"blog_url": "",
+		"blog_rss_url": "",
+		"twitter_url": "",
+		"github_url": "",
+		"logo": "https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png",
+		"forks": "603",
+		"followers": "9368",
+		"watchers": "9368",
+		"tags": [
+			"Serverless",
+			"GitHub"
+		]
+	},
+	{
+		"tool_id": "xWpNr5zGtzkmsq3gJOw116116XsyUgeFOy5qNLpxzGR7esvYqx863BC3dE123d1GAtljmdDui1uAU6pyv27UMetbWAMw117117",
+		"name": "Serverless GraphQL Blog",
+		"user": "serverless",
+		"details": "A Serverless Blog leveraging GraphQL to offer a REST API with only 1 endpoint",
+		"post_date": "2016-07-15 11:48:26",
+		"url": "https://github.com/serverless/serverless-graphql-blog",
+		"blog_url": "",
+		"blog_rss_url": "",
+		"twitter_url": "",
+		"github_url": "",
+		"logo": "https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png",
+		"forks": "15",
+		"followers": "355",
+		"watchers": "355",
+		"tags": [
+			"Serverless",
+			"GraphQL",
+			"GitHub",
+			"Database"
+		]
+	},
+	{
+		"tool_id": "e116hRgQnv123v4Ed7F930EOcQExO2JklMZ8VkonAoOhhQ5DxozWi116QybB3cakv5ehg1IlQBOdkdpZXkjP8693wITg117117",
+		"name": "serverless-client-s3",
+		"user": "serverless",
+		"details": "A plugin to deploy front-end assets to S3 via the Serverless Framework",
+		"post_date": "2016-07-17 22:11:21",
+		"url": "https://api.github.com/repos/serverless/serverless-client-s3",
+		"blog_url": "",
+		"blog_rss_url": "",
+		"twitter_url": "",
+		"github_url": "",
+		"logo": "https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png",
+		"forks": "18",
+		"followers": "70",
+		"watchers": "70",
+		"tags": [
+			"Storage",
+			"Serverless",
+			"GitHub"
+		]
+	},
+	{
+		"tool_id": "REa0123dsLK9CenaiDRCag57huoytsbg123PzNwzeYeVvo0oSuDNhcUOFy7kgUKw0uVJ06uh2zLmXTIo2NsfYQH123UQ117117",
+		"name": "serverless-slackbot",
+		"user": "serverless",
+		"details": "A Serverless Module to create your own SlackBot without servers/websockets via Slash Commands",
+		"post_date": "2016-04-20 11:56:18",
+		"url": "https://github.com/serverless/serverless-slackbot",
+		"blog_url": "",
+		"blog_rss_url": "",
+		"twitter_url": "",
+		"github_url": "",
+		"logo": "https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png",
+		"forks": "3",
+		"followers": "88",
+		"watchers": "88",
+		"tags": [
+			"Serverless",
+			"GitHub",
+			"Bots"
+		]
+	},
+	{
+		"tool_id": "qoeAufDugioyh3123Lceq116AOQMHwUXRT7g116e300xQoD0RfRhfz4DUtw123LRWwLuDGdSkg6wAVnuoaSedrril16FeA117117",
+		"name": "Zappa",
+		"user": "Miserlou",
+		"details": "Serverless Python Web Services",
+		"post_date": "2016-07-15 11:37:29",
+		"url": "https://github.com/Miserlou/Zappa",
+		"blog_url": "",
+		"blog_rss_url": "",
+		"twitter_url": "",
+		"github_url": "",
+		"logo": "https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png",
+		"forks": "81",
+		"followers": "1050",
+		"watchers": "1050",
+		"tags": [
+			"Serverless",
+			"GitHub"
+		]
+	}
+]
