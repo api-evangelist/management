@@ -1,5 +1,37 @@
 [
 	{
+		"curated_id": "5RL18u2AienebWPNHtTUTxSXLmzc2OEQxTRqIvsGOFMOV8MYsNIMJ7Ezpp0wZ0wl5116LCHX4KlZba2nOlgOCa7Q117117",
+		"item_date": "2016-10-07 00:00:00",
+		"title": "See How to Deploy Kong on the Google Cloud Platform",
+		"url": "http://blog.mashape.com/see-how-to-deploy-kong-on-the-google-cloud-platform/",
+		"domain": "blog.mashape.com",
+		"image": ""
+	},
+	{
+		"curated_id": "7gjnhrciFdNKTbEoS7zY116xSFCKVM4DJ123wdMsVDwjZq5khbsig5EMg116YXY0JEFFoH1236L0snUclm8xrQ1fvk2lAg117117",
+		"item_date": "2016-10-05 00:00:00",
+		"title": "Key Improvements for Your API Experience",
+		"url": "https://developers.googleblog.com/2016/10/key-improvements-for-your-api-experience.html",
+		"domain": "developers.googleblog.com",
+		"image": ""
+	},
+	{
+		"curated_id": "I2CYXaNaniTYo6FirVrIwzuKOx3oX8116xhv5fW9WUlTScL0YT2ngggsZCiNtsOJtVeI6P1231e0E2B4BTYOWK88Dg117117",
+		"item_date": "2016-10-04 09:22:29",
+		"title": "API Best Practices",
+		"url": "https://medium.com/m/global-identity",
+		"domain": "medium.com",
+		"image": ""
+	},
+	{
+		"curated_id": "4KPZMR2lcZLwXBk9NsFY8nuSTGuh3MJC4bUSYijHNpOcRWdOzdWh3N123AP4LzmI0U7116ijHrRb123mKDJaiHFa116dJQ117117",
+		"item_date": "2016-10-03 09:01:09",
+		"title": "Tookan API v2 Release",
+		"url": "https://release.tookanapp.com/tookan-api-v2-release-fd995048353a#.bybmptgc1",
+		"domain": "release.tookanapp.com",
+		"image": ""
+	},
+	{
 		"curated_id": "GzuizakkSn8LrQHsFmwxhAzh4sk2KClmN5z44SWskXhSWIyn1ABWfcjzy1MNoiVhdksTKqBzzT7jqHAAbHmzhA117117",
 		"item_date": "2016-10-03 13:12:38",
 		"title": "Google Developers Blog Key Improvements for Your API Experience",
