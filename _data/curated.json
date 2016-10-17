@@ -1,5 +1,21 @@
 [
 	{
+		"curated_id": "Nrg7DfGJxifHvnbJVEfpSpr33I6qiyylRmRDgyst2fA9LFf9j6ZszMjZwzmoqqfXojD0nvL1IhHo5m6JXL54116g117117",
+		"item_date": "2016-10-10 00:00:00",
+		"title": "7 Critical Factors For Selecting Your API Management Layer",
+		"url": "https://tyk.io/2016/10/10/7-critical-factors-selecting-api-management-layer/",
+		"domain": "tyk.io",
+		"image": ""
+	},
+	{
+		"curated_id": "5HekQXjkvJECgoKE5sIc4PzSVTL0onnTBM116NmB2eA8I116Bs9RpENtUH5VjTNifUpMgcB123IaWSCjlXjRND07VEkw117117",
+		"item_date": "2016-10-10 00:00:00",
+		"title": "Securing the Digital Enterprise with API Management",
+		"url": "http://www.tibco.com/blog/2016/10/10/securing-the-digital-enterprise-with-api-management/",
+		"domain": "www.tibco.com",
+		"image": ""
+	},
+	{
 		"curated_id": "5RL18u2AienebWPNHtTUTxSXLmzc2OEQxTRqIvsGOFMOV8MYsNIMJ7Ezpp0wZ0wl5116LCHX4KlZba2nOlgOCa7Q117117",
 		"item_date": "2016-10-07 00:00:00",
 		"title": "See How to Deploy Kong on the Google Cloud Platform",
