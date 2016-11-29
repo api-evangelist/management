@@ -6,8 +6,8 @@ description: Kong was created to secure, manage and extend Microservices & APIs.
 image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/kong-logo.png
 tags:
 - Management
-created: "2016-11-28"
-modified: "2016-11-28"
+created: "2016-11-29"
+modified: "2016-11-29"
 url: https://raw.githubusercontent.com/api-evangelist/management/gh-pages/_data/api-commons/kong/apis.yaml
 specificationVersion: "0.14"
 apis: []
