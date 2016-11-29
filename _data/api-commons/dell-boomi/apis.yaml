@@ -9,8 +9,8 @@ description: "Dell Boomi, a business unit of Dell, is the first and only integra
 image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/dell-boomi-logo.png
 tags:
 - Management
-created: "2016-11-28"
-modified: "2016-11-28"
+created: "2016-11-29"
+modified: "2016-11-29"
 url: https://raw.githubusercontent.com/api-evangelist/management/gh-pages/_data/api-commons/dell-boomi/apis.yaml
 specificationVersion: "0.14"
 apis: []
