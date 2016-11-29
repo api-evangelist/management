@@ -119,11 +119,33 @@ footer_link: http://apievangelist.com
 footer_image_source: https://s3.amazonaws.com/kinlane-productions/footer/empowered-by-you-banner.png
 footer_image_width: 60
 
-# curated
-curated_desc: As I keep track on the world of APIs I curate news, blog posts, articles, and other research that I feel is relevant specifically to API management--these are the links I am including in my research.
+ curated
+curated_desc:
+curated_title: News I Have Curated
+curated_desc: AAs I keep track on the world of APIs I curate news, blog posts, articles, and other research that I feel is relevant specifically to API management--these are the links I am including in my research.
+curated_footer: If there is something you think should be listed here, <a href="https://github.com/{{ site.org }}/{{ site.repo }}/issues" target="_blank">you can submit as Github issue for this research project</a> and I will consider adding.
+
+# Blog
+blog_title: Blog Posts on API Management
+blog_desc: These are posts from the API Evangelist blog that are focused on API management, allowing for a filtered look at my analysis on the topic. I rely on these posts, along with the curated, organizations, APIs, and tools to help paint me a picture of what is going on.
+blog_footer: If there is an API management related story you'd like me to know about, <a href="https://github.com/{{ site.org }}/{{ site.repo }}/issues" target="_blank">you can submit as Github issue for this research project</a> and I will consider adding as part of my research.
 
 # organizations
+org_title: Some Organizations To Watch
 org_desc: As I keep track on the world of APIs and read through the information I am curating I keep an eye out for any company, institution, or other agency that is doing anything interesting with API management. These are the organizations I'm currently including in my API management research.
+org_footer: If there is an organization you think should be listed here, <a href="https://github.com/{{ site.org }}/{{ site.repo }}/issues" target="_blank">you can submit as Github issue for this research project</a> and I will consider adding.
 
 # tools
-tools_desc: These are the open source management related tooling that I am tracking on as part of my research, and can be used as part of the API management process.
+tools_title: API Management Tooling
+tools_desc: These are the open source API management tooling that I am tracking on as part of my research, and can be used to help in the API management process.
+tools_footer: If there is an open source tool that should be listed here, <a href="https://github.com/{{ site.org }}/{{ site.repo }}/issues">submit as a Github Issue, and I will consider adding</a>, if it is open source, and fits into this API design research.
+
+# building blocks
+building_block_title: API Management Building Blocks
+building_block_desc: As I monitor the API space I am always on the hunt for the common building blocks that make up any area of my work--these are some of the common elements I have aggregated from across the world of API management.
+building_block_footer: I am always adding to, and shifting my lists of the common building blocks as I evolve my understand of the space, and who is doing interesting things with API depoyment.
+
+# patents
+patent_title: API Management Patents
+patent_desc: I have been tracking on API related patents for some years, trying to understand how APIs are being referenced in patents, and in some cases the focus of the patent. Here are the patents I've tagged as being DNS related from the companies who are doing interesting things with DNS APIs.
+patent_footer: I tend to process the new patent filings and publications every couple of weeks. When ready I try to publish them along with my research.
