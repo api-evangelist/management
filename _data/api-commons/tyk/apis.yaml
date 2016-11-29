@@ -10,8 +10,8 @@ description: An open source, lightweight, fast and scalable API Gateway. Set rat
 image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/tyk-dark.png
 tags:
 - Management
-created: "2016-11-28"
-modified: "2016-11-28"
+created: "2016-11-29"
+modified: "2016-11-29"
 url: https://raw.githubusercontent.com/api-evangelist/management/gh-pages/_data/api-commons/tyk/apis.yaml
 specificationVersion: "0.14"
 apis: []
