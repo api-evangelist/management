@@ -1,0 +1,21 @@
+- patent_id: F6FO20iWy8GCW6kq3FyFFEMhIAvyODSLbO116cjD4MVP4117
+  name: End-to end, lifecycle aware, API management
+  summary: ""
+  abstract: An application programming interface (API) consumption development environment
+    (CDE) is integrated with an API administration component and a determination is
+    made whether an existing API conforms to application development requirements.
+    A desired API is defined including test data, and the desired API and test data
+    is forwarded to an API developer as a development request. The API CDE is integrated
+    with the API administration component. A developed API is deployed to an API provider
+    creating an integration testing deployment, and the API administration component
+    is notified of the integration testing deployment. The developed API is deployed
+    to an API provider productive for productive use.
+  url: http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&r=1&f=G&l=50&co1=AND&d=PTXT&s1=09396091&OS=09396091&RS=09396091
+  owner: SAP SE
+  publication_number: 09396091
+  publication_date: "2016-07-19"
+  application_number: "14500147"
+  application_date: "2014-09-29"
+  number: 09396091
+  tags:
+  - Management
