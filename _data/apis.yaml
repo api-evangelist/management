@@ -2,8 +2,8 @@ name: Management
 description: A toolkit where I gather all the news, analysis, companies and technology
   when it comes to managing APIs.
 image: https://s3.amazonaws.com/kinlane-productions/api-evangelist/services/api-management.png
-created: "2016-11-28"
-modified: "2016-11-28"
+created: "2016-11-29"
+modified: "2016-11-29"
 url: http://management.apievangelist.com//apis.json
 specificationVersion: "0.14"
 apis: []
