@@ -1,29 +1,27 @@
 ---
 layout: page
-title: 'APIs & Containers'
+title: API Deployment
 ---
 <p style="font-size: 12px; padding:5px;">
-  <img src="{{ site.project_image }}" align="right" width="75" style="padding:15px;" />
+  <img src="{{ site.project_image }}" align="right" width="125" style="padding: 10px;" />
   {{ site.project_summary }}
 </p>
 
 <center><hr style="padding: 5px 5px 5px 5px; margin: 5px; width: 85%;" /></center>
 <div class="row" style="vertical-align: top;" align="center">
 
-  <div class="span3" align="left" style="float: none; margin: 0 auto; display: inline-block; height: 100%; vertical-align: top;">
+  <div class="span3" align="left">
 
-    <p><strong><span style="font-size: 20px;">&#8620;</span>&nbsp;&nbsp;Top Links</strong></p>
-    <ul class="featurelist">
-      {% for org in site.data.organizations  limit:10 %}
-        <li><a href="{{ org.website }}">{{ org.name }}</a></li>
-      {% endfor %}
-    </ul>
+    <center>
+      <p><a href="/guide/" style="font-size: 12px;"><strong>My API Deployment Guide</strong></a></p>
+      <p><a href="/guide/"><img src="https://s3.amazonaws.com/kinlane-productions/whitepapers/deployment/api-evangelist-api-deployment-guide-may-2016-cover.png" width="160" aligin="center" /></a></p>
+    </center>
 
   </div>
-  <div class="span3" align="left" style="float: none; margin: 0 auto; display: inline-block; height: 100%; vertical-align: top;">
+  <div class="span3" align="left">
     <p><strong><span style="font-size: 20px;">&#8620;</span>&nbsp;&nbsp;Latest News</strong><a href="/news.xml"><img src="https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-rss-icon.png" width="15" style="padding-left: 5px;" /></a></p>
     <ul class="newslist">
-      {% for curated in site.data.curated  limit:4 %}
+      {% for curated in site.data.curated  limit:5 %}
         <li><a href="{{ curated.url }}">{{ curated.title }}</a></li>
       {% endfor %}
     </ul>
@@ -39,7 +37,7 @@ title: 'APIs & Containers'
               var el = $(this);
               $title = el.find("title").text();
               $link = el.find("link").text();
-              if($listcount<4){
+              if($listcount<2){
                 $listitem = '<li><a href="' + $link + '">' + $title + '</a></li>';
                 $('#rssNews').append($listitem);
                 }
@@ -59,7 +57,7 @@ title: 'APIs & Containers'
   <div class="span5" style="float: none; margin: 0 auto; display: inline-block;" align="left">
 
     <ul class="newslist" style="list-style: none; font-size: 14px; padding: 0px; margin: 0px;">
-      <li><a href="http://baas.apievangelist.com"><strong><span style="font-size: 20px;">&#8666;</span>&nbsp;&nbsp;Visit My Research On BaaS</strong></a></li>
+      <li><a href="http://database.apievangelist.com/"><strong><span style="font-size: 20px;">&#8666;</span>&nbsp;&nbsp;Visit My Research On Database APIs</strong></a></li>
     </ul>
 
   </div>
@@ -67,7 +65,7 @@ title: 'APIs & Containers'
   <div class="span5" style="float: none; margin: 0 auto; display: inline-block;" align="right">
 
     <ul class="newslist" style="list-style: none; font-size: 14px; padding: 0px; margin: 0px;">
-      <li><a href="http://portal.apievangelist.com/"><strong>Visit My Research On API Portals&nbsp;&nbsp;<span style="font-size: 20px;">&#8667;</span></strong></a></li>
+      <li><a href="http://algorithms.apievangelist.com/"><strong>Visit My Research On Algorithms & APIs&nbsp;&nbsp;<span style="font-size: 20px;">&#8667;</span></strong></a></li>
     </ul>
 
   </div>

@@ -1,67 +1,59 @@
 ---
 layout: page
-title: API Definition Orgs
+title: The API Stack
 ---
 
-{% assign apisjson_url = 'https://raw.githubusercontent.com/' | append: site.org | append: '/' | append: site.repo | append: '/gh-pages/_data/apis.yaml' %}
-<p><a href="{{ apisjson_url }}" target="_blank" title="The APIs.json for {{ site.title }}">
-    <img src="https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png" width="50" align="right" />
-</a></p>
-<h1>Some Organizations To Watch</h1>
-<p>These are the companies, and organizations who are doing interesting things with design of APIs. If they have an API, I'm working to profile, and provide machine readable indexes of each one below.</p>
-
 <table cellpadding="3" cellspacing="2" width="90%" border="0" style="margin-top: 10px;">
-{% assign api = site.data.apis %}
-{% for include in api.include %}
+{% for folder in site.data %}
+  {% for item in folder %}
+    {% assign file = item %}
+    {% if file.apis != null %}
+      {% assign masterapisjson = file.apis %}
 
-  {% assign removeurl = 'https://raw.githubusercontent.com/' | append: site.org | append: '/' | append: site.repo | append: '/gh-pages/_data/api-commons/' %}
-  {% assign thisurl = include.url | replace: removeurl %}
-  {% assign thisurl = thisurl | replace: '/apis.yaml' %}
-
-  {% for org in site.data.api-commons %}
-
-    {% assign index = org %}
-
-    {% if thisurl == index[0] %}
-
-      {% assign apisjson = index[1].apis %}
       {% assign common_api_action_url = '' %}
 
-      {% assign blog_url = '' %}
-      {% assign blogrss_url = '' %}
-      {% assign portal_url = '' %}
-      {% assign gitub_url = '' %}
-      {% assign twitter_url = '' %}
-      {% assign website_url = '' %}
+      {% for apisjson in masterapisjson %}
 
-      {% for common in apisjson.x-common %}
-        {% if common.type == 'x-website' %}
-          {% assign website_url = common.url %}
-        {% endif %}
-        {% if common.type == 'x-blog' %}
-          {% assign blog_url = common.url %}
-        {% endif %}
-        {% if common.type == 'x-blog-rss-feed' %}
-          {% assign blogrss_url = common.url %}
-        {% endif %}
-        {% if common.type == 'x-portal' %}
-          {% assign portal_url = common.url %}
-        {% endif %}
-        {% if common.type == 'x-github' %}
-          {% assign gitub_url = common.url %}
-        {% endif %}
-        {% if common.type == 'x-twitter' %}
-          {% assign twitter_url = common.url %}
-        {% endif %}
-        {% if common.type == 'x-api-actions' %}
-          {% assign common_api_action_url = common.url %}
-        {% endif %}
-      {% endfor %}
+        {% if apisjson.specificationVersion != null %}
 
-      <tr>
-        <td>
+          {% assign blog_url = '' %}
+          {% assign blogrss_url = '' %}
+          {% assign portal_url = '' %}
+          {% assign gitub_url = '' %}
+          {% assign twitter_url = '' %}
+          {% assign website_url = '' %}
 
-          <table cellpading="10" cellspacing="10" width="100%" class="card" border="0">
+          {% for common in apisjson.x-common %}
+            {% if common.type == 'x-blog' %}
+              {% assign blog_url = common.url %}
+            {% endif %}
+            {% if common.type == 'x-blog-rss-feed' %}
+              {% assign blogrss_url = common.url %}
+            {% endif %}
+            {% if common.type == 'x-portal' %}
+              {% assign portal_url = common.url %}
+            {% endif %}
+            {% if common.type == 'x-github' %}
+              {% assign gitub_url = common.url %}
+            {% endif %}
+            {% if common.type == 'x-twitter' %}
+              {% assign twitter_url = common.url %}
+            {% endif %}
+            {% if common.type == 'x-api-actions' %}
+              {% assign common_api_action_url = common.url %}
+            {% endif %}
+          {% endfor %}
+
+          {% if apisjson.humanURL == null %}
+            {% assign website_url = portal_url %}
+          {% else %}
+            {% assign website_url = apisjson.humanURL %}
+          {% endif %}
+            <tr>
+              <td>
+
+
+                <table cellpading="10" cellspacing="10" width="100%" class="card" border="0">
             <tr>
               <td colspan="2" style="padding: 15px;">
                 {% if apisjson.image != null %}
@@ -74,19 +66,12 @@ title: API Definition Orgs
               </td>
             </tr>
             <tr>
-              <td align="center" colspan="3" style="margin-left: 25px; margin-right: 25px; padding-bottom; 10px;">
-                <ul style="list-style: none; display: inline; margin-bottom: 15px;">
-                  {% if website_url != '' %}
-                    <li style="display: inline; padding-left: 15px; padding-right: 15px;">
-                      <a href="{{ website_url }}" target="_blank" title="Website">
-                        <img src="https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-home-icon.jpeg" width="30" align="center" />
-                      </a>
-                    </li>
-                  {% endif %}
+              <td align="center" colspan="3" style="margin-left: 25px; margin-right: 25px;">
+                <ul style="list-style: none; display: inline;">
                   {% if portal_url != '' %}
                     <li style="display: inline; padding-left: 15px; padding-right: 15px;">
                       <a href="{{ portal_url }}" target="_blank" title="Portal">
-                        <img src="https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-portal-developers.jpg" width="30" align="center" />
+                        <img src="https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-portal-developers.jpg" width="26" align="center" />
                       </a>
                     </li>
                   {% endif %}
@@ -109,7 +94,7 @@ title: API Definition Orgs
                   {% if twitter_url != '' %}
                     <li style="display: inline; padding-left: 15px; padding-right: 15px;">
                       <a href="{{ twitter_url }}" target="_blank" title="Twitter">
-                        <img src="https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-twitter-icon.png" width="36" align="center" />
+                        <img src="https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-twitter-icon.png" width="45" align="center" />
                       </a>
                     </li>
                   {% endif %}
@@ -117,17 +102,18 @@ title: API Definition Orgs
                   {% if gitub_url != '' %}
                     <li style="display: inline; padding-left: 15px; padding-right: 15px;">
                       <a href="{{ gitub_url }}" target="_blank" title="Github">
-                        <img src="https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github-icon.png" width="45" align="center" />
+                        <img src="https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github-icon.png" width="52" align="center" />
                       </a>
                     </li>
                   {% endif %}
 
-                  {% assign apisjson_url = 'https://raw.githubusercontent.com/' | append: site.org | append: '/' | append: site.repo | append: '/gh-pages/_data/api-commons/' | append: thisurl | append: '/apis.yaml' %}
+                  {% if apisjson.url != null %}
                     <li style="display: inline; padding-left: 15px; padding-right: 15px;">
-                      <a href="{{ apisjson_url }}" target="_blank" title="The APIs.json for {{ apisjson.name }}">
-                        <img src="https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png" width="45" align="center" />
+                      <a href="{{ apisjson.url }}" target="_blank" title="APIs.json">
+                        <img src="https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png" width="51" align="center" />
                       </a>
                     </li>
+                  {% endif %}
                 </ul>
               </td>
             </tr>
@@ -139,7 +125,7 @@ title: API Definition Orgs
 
                   {% else %}
 
-                    <!--<p style="font-size: 18px; text-align: left; margin-left: 117px;"><strong>APIs:</strong></p>-->
+                    <p style="font-size: 18px; text-align: left; margin-left: 117px;"><strong>APIs:</strong></p>
                       {% assign api_action_url = '' %}
                       {% for api in apisjson.apis %}
 
@@ -149,8 +135,8 @@ title: API Definition Orgs
                           {% assign api_action_url = '' %}
                           {% assign openapi_json_spec_url = '' %}
                           {% assign openapi_yaml_spec_url = '' %}
-
                           {% for property in api.properties %}
+
 
                             {% assign thisname = apisjson.name | downcase %}
                             {% assign thisname = thisname | append:'/' %}
@@ -168,8 +154,20 @@ title: API Definition Orgs
 
                             {% endif %}
 
-                            {% if property.type == 'x-openapi-spec' %}
+                            {% if property.type == 'x-openapi-spec-yaml' %}
                               {% assign openapi_yaml_spec_url = property.url %}
+                            {% endif %}
+
+                            {% if property.type == 'x-postman' %}
+                              {% assign postman_url = property.url %}
+                            {% endif %}
+
+                            {% if property.type == 'x-api-blueprint' %}
+                              {% assign api_blueprint_url = property.url %}
+                            {% endif %}
+
+                            {% if property.type == 'x-api-actions' %}
+                              {% assign api_action_url = property.url %}
                             {% endif %}
 
                           {% endfor %}
@@ -179,9 +177,9 @@ title: API Definition Orgs
                               {{ api.name }}
                             </td>
                             <td align="right">
-                                <!--<a href="{{ openapi_json_spec_url }}" target="_blank" title="OpenAPI Spec JSON">
+                                <a href="{{ openapi_json_spec_url }}" target="_blank" title="OpenAPI Spec JSON">
                                   <img src="https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-swagger-round.png" width="25" align="right" />
-                                </a>-->
+                                </a>
                                 <a href="{{ openapi_yaml_spec_url }}" target="_blank" title="OpenAPI Spec Yaml">
                                   <img src="https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-yaml.png" width="25" align="right" />
                                 </a>
@@ -277,9 +275,9 @@ title: API Definition Orgs
           </table>
         </td>
       </tr>
-
+        {% endif %}
+      {% endfor %}
     {% endif %}
   {% endfor %}
 {% endfor %}
 </table>
-<p>If there is an organization you think should be listed here, <a href="https://github.com/{{ site.org }}/{{ site.repo }}/issues" target="_blank">you can submit as Github issue for this research project</a> and I will consider adding.</p>
