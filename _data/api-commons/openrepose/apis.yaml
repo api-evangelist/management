@@ -10,8 +10,8 @@ description: Repose is an open-source platform that you can use to build stacks 
 image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/repose-logo.png
 tags:
 - Management
-created: "2016-11-28"
-modified: "2016-11-28"
+created: "2016-11-29"
+modified: "2016-11-29"
 url: https://raw.githubusercontent.com/api-evangelist/management/gh-pages/_data/api-commons/openrepose/apis.yaml
 specificationVersion: "0.14"
 apis: []
