@@ -7,8 +7,8 @@ description: API Umbrella is an open source API management platform for exposing
 image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/api-umbrella-logo.png
 tags:
 - Management
-created: "2016-11-28"
-modified: "2016-11-28"
+created: "2016-11-29"
+modified: "2016-11-29"
 url: https://raw.githubusercontent.com/api-evangelist/management/gh-pages/_data/api-commons/api-umbrella/apis.yaml
 specificationVersion: "0.14"
 apis: []
