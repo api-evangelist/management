@@ -6,8 +6,8 @@ description: Fusio is an open source API management platform which helps to buil
 image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Fusio_-_Open_source_API_management_platform.png
 tags:
 - Management
-created: "2016-11-28"
-modified: "2016-11-28"
+created: "2016-11-29"
+modified: "2016-11-29"
 url: https://raw.githubusercontent.com/api-evangelist/management/gh-pages/_data/api-commons/fusio/apis.yaml
 specificationVersion: "0.14"
 apis: []
