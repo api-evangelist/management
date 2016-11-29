@@ -8,8 +8,8 @@ description: "WaveMaker, Inc. provides WaveMaker Enterprise \u2013 An aPaaS soft
 image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/wavemaker-logo.png
 tags:
 - Management
-created: "2016-11-28"
-modified: "2016-11-28"
+created: "2016-11-29"
+modified: "2016-11-29"
 url: https://raw.githubusercontent.com/api-evangelist/management/gh-pages/_data/api-commons/wavemaker-inc/apis.yaml
 specificationVersion: "0.14"
 apis: []
