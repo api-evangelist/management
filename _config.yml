@@ -28,7 +28,7 @@ masthead_title: '{"API Management"}'
 feature_title: API Guide
 feature_link: http://apievangelist.com
 feature_image_source: https://s3.amazonaws.com/kinlane-productions/whitepapers/api-guides-loading.jpg
-feature_image_width: 45
+feature_image_width: 40
 
 # Project
 project_image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-tools.png
@@ -109,7 +109,7 @@ footernavigation:
     link: http://kinlane.com/contacts/
 
 # sponsors
-sponsors_margin_top: 15
+sponsors_margin_top: 10
 sponsors_padding_top: 3
 sponsors_json_url: https://s3.amazonaws.com/kinlane-productions/json/sponsors.json
 
