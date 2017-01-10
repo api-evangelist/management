@@ -100,7 +100,7 @@
   screenshot: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/aws-logo.jpg
   tags: Advertising,API LIfeycle,BaaS,Cloud,Command Line Interface,Commerce,Compute,Database,Deployment,DNS,DNS
     Cloud,Getting Started,Hypermedia,Management,My API Stack,Orchestration,Partners,Payments,Plans,Real
-    Time,Serverless,Storage,Virtualization,Voice
+    Time,Serverless,Storage,Voice
   apis: []
 - id: 1dWL9r3zYsupV9TQjuMKoDLmooQu20pZc1eb5gk9q9M117
   name: API Plug
@@ -236,6 +236,112 @@
   logo_width: "150"
   screenshot: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/apiman-logo.png
   tags: API Management Open Source,Management,Open Source
+  apis: []
+- id: yP4PcaTxwUtYrbySzFn168himPhHorK123rcS1QAmb123QI117
+  name: AWS CloudFormation
+  summary: |-
+    AWS CloudFormation gives developers and systems administrators an easy way to create and manage a collection of related AWS resources, provisioning and updating them in an orderly and predictable fashion.
+    You can use AWS CloudFormation&rsquo;ssample templatesor create your own templates to describe the AWS resources, and any associated dependencies or runtime parameters, required to run your appli
+  details: |-
+    AWS CloudFormation gives developers and systems administrators an easy way to create and manage a collection of related AWS resources, provisioning and updating them in an orderly and predictable fashion.
+    You can use AWS CloudFormation&rsquo;ssample templatesor create your own templates to describe the AWS resources, and any associated dependencies or runtime parameters, required to run your application. You don&rsquo;t need to figure out the order for provisioning AWS services or the subtleties of making those dependencies work. CloudFormation takes care of this for you. After the AWS resources are deployed, you can modify and update them in a controlled and predictable way, in effect applying version control to your AWS infrastructure the same way you do with your software. You can also visualize your templates as diagrams and edit them using a drag-and-drop interface with theAWS CloudFormation Designer.
+    You can deploy and update a template and its associated collection of resources (called a stack) by using the AWS Management Console, AWS Command Line Interface, or APIs. CloudFormation is available at no additional charge, and you pay only for the AWS resources needed to run your applications.
+  website: ~
+  twitter: ""
+  github: ""
+  blog: ""
+  blogrss: ""
+  logo: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Management-Tools_AWSCloudFormation.png
+  logo_width: "150"
+  screenshot: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Management-Tools_AWSCloudFormation.png
+  tags: Amazon Web Services,Deployment,Management
+  apis: []
+- id: VmUVlb9FrtDWPMkN62sE87hi123wfKUKo0Vbx2YTdc1Gs117
+  name: AWS CloudHSM
+  summary: "The AWS CloudHSM service helps you meet corporate, contractual and regulatory
+    compliance requirements for data security by using dedicated Hardware Security
+    Module (HSM) appliances within the AWS cloud. With CloudHSM, you control the encryption
+    keys and cryptographic operations performed by the HSM.\nAWS and AWS Marketplace
+    partners offer a variety of solutions for protecting sensitive data within "
+  details: |-
+    The AWS CloudHSM service helps you meet corporate, contractual and regulatory compliance requirements for data security by using dedicated Hardware Security Module (HSM) appliances within the AWS cloud. With CloudHSM, you control the encryption keys and cryptographic operations performed by the HSM.
+    AWS and AWS Marketplace partners offer a variety of solutions for protecting sensitive data within the AWS platform, but for applications and data subject to rigorous contractual or regulatory requirements for managing cryptographic keys, additional protection is sometimes necessary. Until now, your only option was to store the sensitive data (or the encryption keys protecting the sensitive data) in your on-premises datacenters. Unfortunately, this either prevented you from migrating these applications to the cloud or significantly slowed their performance. The AWS CloudHSM service allows you to protect your encryption keys within HSMs designed and validated to government standards for secure key management. You can securely generate, store, and manage the cryptographic keys used for data encryption such that they are accessible only by you. AWS CloudHSM helps you comply with strict key management requirements without sacrificing application performance.
+    The AWS CloudHSM service works with Amazon Virtual Private Cloud (VPC). CloudHSM instances are provisioned inside your VPC with an IP address that you specify, providing simple and private network connectivity to your Amazon Elastic Compute Cloud (EC2) instances. Placing CloudHSM instances near your EC2 instances decreases network latency, which can improve application performance. AWS provides dedicated and exclusive (single tenant) access to CloudHSM instances, isolated from other AWS customers. Available in multiple Regions and Availability Zones (AZs), AWS CloudHSM allows you to add secure and durable key storage to your applications.
+  website: ~
+  twitter: ""
+  github: ""
+  blog: ""
+  blogrss: ""
+  logo: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Security-Identity_AWSCloudHSM.png
+  logo_width: "150"
+  screenshot: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Security-Identity_AWSCloudHSM.png
+  tags: Amazon Web Services,Contracts,Encryption,Management,Regulations
+  apis: []
+- id: mvGr5URa5MKbTHXt9zqo8Yoq3Uhs3V80BZE0BGd3aYo117
+  name: AWS CloudTrail
+  summary: |-
+    AWS CloudTrail is a web service that records AWS API calls for your account and delivers log files to you. The recorded information includes the identity of the API caller, the time of the API call, the source IP address of the API caller, the request parameters, and the response elements returned by the AWS service.
+    With CloudTrail, you can get a history of AWS API calls for your account, includi
+  details: |-
+    AWS CloudTrail is a web service that records AWS API calls for your account and delivers log files to you. The recorded information includes the identity of the API caller, the time of the API call, the source IP address of the API caller, the request parameters, and the response elements returned by the AWS service.
+    With CloudTrail, you can get a history of AWS API calls for your account, including API calls made via the AWS Management Console, AWS SDKs, command line tools, and higher-level AWS services (such as AWS CloudFormation). The AWS API call history produced by CloudTrail enables security analysis, resource change tracking, and compliance auditing.
+  website: ~
+  twitter: ""
+  github: ""
+  blog: ""
+  blogrss: ""
+  logo: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Management-Tools_AWSCloudTrail.png
+  logo_width: "150"
+  screenshot: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Management-Tools_AWSCloudTrail.png
+  tags: Amazon Web Services,Analysis,Logging,Management
+  apis: []
+- id: zhAJ123123jQoaLPG116EwmLhu4xj2JJd15NQanWwM1D4IUDo117
+  name: AWS CloudWatch
+  summary: Amazon CloudWatch is a monitoring service for AWS cloud resources and the
+    applications you run on AWS. You can use Amazon CloudWatch to collect and track
+    metrics, collect and monitor log files, set alarms, and automatically react to
+    changes in your AWS resources. Amazon CloudWatch can monitor AWS resources such
+    as Amazon EC2 instances, Amazon DynamoDB tables, and Amazon RDS DB instances,
+    as well a
+  details: Amazon CloudWatch is a monitoring service for AWS cloud resources and the
+    applications you run on AWS. You can use Amazon CloudWatch to collect and track
+    metrics, collect and monitor log files, set alarms, and automatically react to
+    changes in your AWS resources. Amazon CloudWatch can monitor AWS resources such
+    as Amazon EC2 instances, Amazon DynamoDB tables, and Amazon RDS DB instances,
+    as well as custom metrics generated by your applications and services, and any
+    log files your applications generate. You can use Amazon CloudWatch to gain system-wide
+    visibility into resource utilization, application performance, and operational
+    health. You can use these insights to react and keep your application running
+    smoothly.
+  website: ~
+  twitter: ""
+  github: ""
+  blog: ~
+  blogrss: ""
+  logo: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Management-Tools_AmazonCloudWatch.png
+  logo_width: "150"
+  screenshot: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Management-Tools_AmazonCloudWatch.png
+  tags: Amazon Web Services,Analysis,Logging,Management,Monitoring
+  apis: []
+- id: bk7ClsuriLSG2EsrDA7nLlESAKVck1her0IKwYaYdtY117
+  name: AWS EC2 Systems Manager
+  summary: Amazon EC2 Systems Manager is a management service that helps you automatically
+    collect software inventory, apply OS patches, create system images, and configure
+    Windows and Linux operating systems. These capabilities help you define and track
+    system configurations, prevent drift, and maintain software compliance of your
+    EC2 and on-premises configurations. By providing a management approach that i
+  details: |-
+    Amazon EC2 Systems Manager is a management service that helps you automatically collect software inventory, apply OS patches, create system images, and configure Windows and Linux operating systems. These capabilities help you define and track system configurations, prevent drift, and maintain software compliance of your EC2 and on-premises configurations. By providing a management approach that is designed for the scale and agility of the cloud but extends into your on-premises data center, EC2 Systems Manager makes it easier for you to seamlessly bridge your existing infrastructure with AWS.
+    EC2 Systems Manager is easy to use. Simply access EC2 Systems Manager from the EC2 Management Console, select the instances you want to manage, and define the management tasks you want to perform. EC2 Systems Manager is available now at no cost to manage both your EC2 and on-premises resources.
+  website: ~
+  twitter: ""
+  github: ""
+  blog: ""
+  blogrss: ""
+  logo: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  logo_width: "150"
+  screenshot: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  tags: Amazon Web Services,Deployment,Management
   apis: []
 - id: 9CRIciJOtIw0EBvRVEEuuF8qGPjUZVgWHwBU7ZZlRh4117
   name: Axway
@@ -528,6 +634,31 @@
   logo_width: "140"
   screenshot: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/gluu-logo.png
   tags: API Management Other,Authentication,Identity,Management
+  apis: []
+- id: D6P7moRBU3116lSyCJ8116x7qLDErgzwfcbQr76Xi3rJ93E117
+  name: Hitch
+  summary: Hitch is a single platform to help API owners engage with and grow their
+    API community. Our clients show striking similarities in the challenges they face
+    in building integrated and sustainable developer platforms. API providers still
+    struggle to make sure their platform is visible to the right audience. Once found,
+    access is inconsistent and cumbersome and even after onboarding, key engagement
+    to
+  details: Hitch is a single platform to help API owners engage with and grow their
+    API community. Our clients show striking similarities in the challenges they face
+    in building integrated and sustainable developer platforms. API providers still
+    struggle to make sure their platform is visible to the right audience. Once found,
+    access is inconsistent and cumbersome and even after onboarding, key engagement
+    tools are seldom available. We have put together a single solution that covers
+    these three key areas.
+  website: ~
+  twitter: ~
+  github: ~
+  blog: ~
+  blogrss: ~
+  logo: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/hitch-logo.jpg
+  logo_width: "150"
+  screenshot: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/hitch-logo.jpg
+  tags: Discovery,Management,Portal
   apis: []
 - id: IFo1230WDA116EVBQtP06iCtWY1FHQkCzU2WtDJwv6G94Mw117
   name: IBM API Management
