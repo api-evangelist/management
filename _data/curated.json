@@ -1,5 +1,45 @@
 [
 	{
+		"curated_id": "oT4yLt90GqFOjsEHisihMs6TITE9T950NTWPiZjyxaCEA9y9ReJ4302fAaauOSGaBL1gomtMc7YVhmkIYBseWA117117",
+		"item_date": "2017-01-13 00:00:00",
+		"title": "TruffleHog Sniffs Github for Secret Keys",
+		"url": "http://hackaday.com/2017/01/13/trufflehog-sniffs-github-for-secret-keys/",
+		"domain": "hackaday.com",
+		"image": ""
+	},
+	{
+		"curated_id": "mlWycOCuqqFcHu7FzoMbAGuiIeKF7Fq9XGKkhL8FE4OSwvFse6ZKt3mtUJstE83X0NcEj7uz2zbTQoyPVdZPIQ117117",
+		"item_date": "2017-01-11 00:00:00",
+		"title": "Cloud Key Management Service",
+		"url": "https://cloud.google.com/kms/",
+		"domain": "cloud.google.com",
+		"image": ""
+	},
+	{
+		"curated_id": "C2X412303pTb6zKVXg0wnE123P1tB116HDZ7jyncrya7CzDR6W6YmNZ0ZmPXCw1232116S8116cR5v8osgWpaSHQDBu1hPIv4A117117",
+		"item_date": "2017-01-11 00:00:00",
+		"title": "Managing encryption keys in the cloud introducing Google Cloud Key Management Service",
+		"url": "http://cloudplatform.googleblog.com/2017/01/managing-encryption-keys-in-the-cloud-introducing-Google-Cloud-Key-Management-Service.html",
+		"domain": "cloudplatform.googleblog.com",
+		"image": ""
+	},
+	{
+		"curated_id": "u8zy0Oq9qC8nYdeUf3IjAWdUxErta5rcyxJW116sNt5zwCT9A0EuIFPKnIyLgPms7123eJRbPftR123x4uRdV7EA1160AA117117",
+		"item_date": "2017-01-11 00:00:00",
+		"title": "Googles Cloud Platform gets a new key management service",
+		"url": "https://techcrunch.com/2017/01/11/googles-cloud-platform-gets-a-new-encryption-key-management-service/",
+		"domain": "techcrunch.com",
+		"image": ""
+	},
+	{
+		"curated_id": "BQMDVSNK3NB82aZOewe2FmvQPiJ5jKSyDNjo0MJrDC1Y123VG3ZATSznlv116XGLSkuWIOMHgftwzqi4D116P9L116BHKQ117117",
+		"item_date": "2017-01-11 00:00:00",
+		"title": "Google Cloud Platform launches Key Management Service in beta",
+		"url": "https://marketingnewsweb.wordpress.com/2017/01/11/google-cloud-platform-launches-key-management-service-in-beta/",
+		"domain": "marketingnewsweb.wordpress.com",
+		"image": ""
+	},
+	{
 		"curated_id": "qP2uW9C2AmQyLnrbR1fuePIofvQzlFoDGITw9INMk99hFTcM116C7B5txuI8Qr5Y53CF7lKkm0pzbsWDW9zvxJoA117117",
 		"item_date": "2017-01-03 17:59:09",
 		"title": "Tweet RT mogui247 A Kong plugin that let you use an external Oauth 20 provider to protect your API httpstcorJLED5Zeh5 opensource mashahellip",
