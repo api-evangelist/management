@@ -1,10 +1,18 @@
 [
 	{
+		"curated_id": "lS116yyoaJFtK8bZ5EZbJ9VAYd35Ea3cLQykH4yAyZkKRfn96Wi5JxJ9DJfq8i4tEdQTeJpwfOJ6D1t3omC0Wzcw117117",
+		"item_date": "2017-02-07 00:00:00",
+		"title": "Why Invest in API Management",
+		"url": "https://dzone.com/articles/why-invest-in-api-management",
+		"domain": "dzone.com",
+		"image": ""
+	},
+	{
 		"curated_id": "bL116C1qEWAFltGm3kFxnZjUnVmGL1237VJeFAGc2LPDcX09oMmjIt0dIqNtbFBMcSl9n9H9pMf77fwoNxtiyeKgHg117117",
 		"item_date": "2017-02-08 00:00:00",
 		"title": "Box Overhauls its Developer Experience",
-		"url": "http://feedproxy.google.com/~r/ProgrammableWeb/~3/FU-YLpJcn-8/08",
-		"domain": "feedproxy.google.com",
+		"url": "https://www.programmableweb.com/news/box-overhauls-its-developer-experience/brief/2017/02/08",
+		"domain": "www.programmableweb.com",
 		"image": ""
 	},
 	{
@@ -27,8 +35,8 @@
 		"curated_id": "VklCTR8yqQuN5IYsjL3SqCR83w4lbpLzlxvb1n0qtlxbWzzkYT8mnAU116Y0jwGPLtf73aQXh123ZIdYQj7NKMrMQQ117117",
 		"item_date": "2017-02-09 00:00:00",
 		"title": "Docker makes secrets management a builtin feature of its enterprise product",
-		"url": "http://feedproxy.google.com/~r/Techcrunch/~3/JUTPzlhFDkY/",
-		"domain": "feedproxy.google.com",
+		"url": "https://techcrunch.com/2017/02/09/docker-makes-secrets-management-a-built-in-feature-of-its-enterprise-product/",
+		"domain": "techcrunch.com",
 		"image": ""
 	},
 	{
@@ -45,6 +53,14 @@
 		"title": "Best of Breed API Management Platforms",
 		"url": "https://dzone.com/articles/best-breed-of-api-management-platforms",
 		"domain": "dzone.com",
+		"image": ""
+	},
+	{
+		"curated_id": "PrRS6BogAEV123b123XGttk8CiBU9T9rsSFADW627Fgrz52RzVqQPbQJ9dq3QNBLddocCbIj0YahOBMxd88RZy9lDQ117117",
+		"item_date": "2017-02-06 14:51:01",
+		"title": "Developer Program Metrics How Intuit Measures Developer Success",
+		"url": "https://www.visionmobile.com/blog/2017/01/intuit-measures-developer-success",
+		"domain": "www.visionmobile.com",
 		"image": ""
 	},
 	{
