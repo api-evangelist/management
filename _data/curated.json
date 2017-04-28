@@ -1,5 +1,21 @@
 [
 	{
+		"curated_id": "J3ptC9iHrDDGKa6yTZ77odlfXxV4NAfWOhUblMFnLBUMcspdYMq1Ytd24IOdI9IDzxMh1ZYbIY6K5yMooqvddA117117",
+		"item_date": "2017-04-17 00:00:00",
+		"title": "GitHub makes its Developer Program free adds new benefits",
+		"url": "http://www.zdnet.com/article/github-makes-its-developer-program-free-adds-new-benefits/",
+		"domain": "www.zdnet.com",
+		"image": ""
+	},
+	{
+		"curated_id": "TMiH5xeuHazfWGFZmks7XbDnFnzMsCOpY1blEVg8k4vI8FhyBe818ApWzPmwa5jJMUbDv04PvvBwsaH7m91e1A117117",
+		"item_date": "2017-04-17 00:00:00",
+		"title": "GitHub Updates its Developer Program",
+		"url": "https://www.programmableweb.com/news/github-updates-its-developer-program/brief/2017/04/17",
+		"domain": "www.programmableweb.com",
+		"image": ""
+	},
+	{
 		"curated_id": "7Tmq123cK16JQC59U116kFreAW02ZJ116HvxC8akaQG5HF4cgJ0aOIDoZQubpJ6GKu2ABrqFI1IU12XUbD44fm7AERzA117117",
 		"item_date": "2017-04-23 00:00:00",
 		"title": "What Hootsuite Learned from Building Their API",
@@ -13,6 +29,14 @@
 		"title": "Hitch API Assistant",
 		"url": "https://medium.com/m/global-identity",
 		"domain": "medium.com",
+		"image": ""
+	},
+	{
+		"curated_id": "YtKpIE0t476iJk50nlLJWxbhtzcX78GUk6RBc1235AM9pAxz91161MtvtlwHTD1zh123vgim2hMWeeSvST72x291116yRg117117",
+		"item_date": "2017-04-19 00:00:00",
+		"title": "Token Migration Plan Pt1",
+		"url": "http://blog.storj.io/post/159746056098/token-migration-plan-pt1#_=_",
+		"domain": "blog.storj.io",
 		"image": ""
 	},
 	{
