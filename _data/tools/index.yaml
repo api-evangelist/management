@@ -1,0 +1,219 @@
+- slug: kong
+  name: kong
+  description: >-
+    :monkey: The Open-Source API Gateway and Microservice Management Layer,
+    built on NGINX
+  url: 'https://github.com/Mashape/kong'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png'
+  tags: 'GitHub,Management,Deployment,General'
+- slug: dockergateway
+  name: docker-gateway
+  description: 3scale gateway in docker
+  url: 'https://api.github.com/repos/3scale/docker-gateway'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png'
+  tags: 'GitHub,Containers,Management'
+- slug: 3scale_ws_api_for_java
+  name: 3scale_ws_api_for_java
+  description: >-
+    3scale integration plugin for Java applications. 3scale is an API
+    Infrastructure service which handl
+  url: 'https://api.github.com/repos/3scale/3scale_ws_api_for_java'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png'
+  tags: 'GitHub,Management'
+- slug: 3scale_ws_api_for_perl
+  name: 3scale_ws_api_for_perl
+  description: 3scale integration plugin for Perl applications
+  url: 'https://api.github.com/repos/3scale/3scale_ws_api_for_perl'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png'
+  tags: 'GitHub,Management'
+- slug: 3scale_ws_api_for_php
+  name: 3scale_ws_api_for_php
+  description: >-
+    3scale integration plugin for PHP applications. 3scale is an API
+    Infrastructure service which handle
+  url: 'https://api.github.com/repos/3scale/3scale_ws_api_for_php'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png'
+  tags: 'GitHub,Management'
+- slug: 3scale_ws_api_for_python
+  name: 3scale_ws_api_for_python
+  description: >-
+    3scale integration plugin for Python applications. 3scale is an API
+    Infrastructure service which han
+  url: 'https://api.github.com/repos/3scale/3scale_ws_api_for_python'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png'
+  tags: 'GitHub,Management'
+- slug: 3scale_ws_api_for_ruby
+  name: 3scale_ws_api_for_ruby
+  description: >-
+    3scale integration plugin for Ruby/Ruby on Rails applications. 3scale is an
+    API Infrastructure servi
+  url: 'https://api.github.com/repos/3scale/3scale_ws_api_for_ruby'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png'
+  tags: 'GitHub,Management'
+- slug: 3scale_ws_api_for_nodejs
+  name: 3scale_ws_api_for_nodejs
+  description: >-
+    3scale is an API Infrastructure service which handles API Keys, Rate
+    Limiting, Analytics, Billing Pa
+  url: 'https://api.github.com/repos/3scale/3scale_ws_api_for_nodejs'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png'
+  tags: 'GitHub,Management'
+- slug: apiman
+  name: APIMan
+  description: API Management
+  url: 'https://github.com/apiman/apiman'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png'
+  tags: 'GitHub,Management'
+- slug: ckan
+  name: ckan
+  description: >-
+    CKAN is an open-source DMS (data management system) for powering data hubs
+    and data portals. CKAN makes it easy to publish, share and use data. It
+    powers datahub.io, catalog.data.gov and data.gov.uk among many other sites.
+  url: 'https://github.com/ckan/ckan'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png'
+  tags: 'GitHub,Data,Management'
+- slug: microgateway
+  name: microgateway
+  description: 'IBM API Connect Microgateway framework, built on Node.js & Nginx'
+  url: 'https://api.github.com/repos/strongloop/microgateway'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png'
+  tags: 'GitHub,Deployment,Management'
+- slug: loopback
+  name: loopback
+  description: >-
+    LoopBack is an open source Node.js framework built on top of Express
+    optimized for building APIs for mobile, web, and other devices. Connect to
+    multiple data sources, write business logic in Node.js, glue on top of your
+    existing services and data, connect using JS, iOS & Android SDKs.
+  url: 'https://github.com/strongloop/loopback'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png'
+  tags: 'GitHub,Management'
+- slug: movable-type
+  name: Movable Type
+  description: >-
+    Movable Type is a weblog publishing system developed by the company Six
+    Apart, launched on October 8, 2001, and was relicensed as free software
+    under the GNU General Public License in 2007. Movable Type has several
+    notable features, such as the ability to host multiple weblogs and
+    standalone content pages, manage files, user roles, templates, tags,
+    categories, and trackback links. Movable Type is written in Perl, and
+    supports storage of the weblog's content and associated data within MySQL
+    natively. PostgreSQL and SQLite support was available prior to version 5,
+    and can still be used via plug-ins. Movable Type is free software under the
+    GPLv2 license. In addition to the free version, users can purchase support
+    or buy commercial, education, or nonprofit licenses, which come with support
+    contracts, author limits, and unlimited blogs.
+  url: 'http://movabletype.org/'
+  short_url: ''
+  twitter: 'http://movabletype.org/'
+  blog: 'http://feeds.feedburner.com/MovableTypeBeta'
+  blog_rss: ''
+  github: ''
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/tools/movable-type-logo.png
+  tags: 'Blog,Blogging,CMS,Content Management System,Movable Type'
+- slug: api-umbrella
+  name: API Umbrella
+  description: Open source API management platform
+  url: 'https://github.com/NREL/api-umbrella'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png'
+  tags: 'GitHub,Management'
+- slug: apiumbrella
+  name: api-umbrella
+  description: Open source API management platform
+  url: 'https://github.com/NREL/api-umbrella'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png'
+  tags: 'GitHub,Management'
+- slug: repose
+  name: repose
+  description: 'The powerful, programmable, API Middleware Platform'
+  url: 'https://github.com/rackerlabs/repose'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png'
+  tags: 'GitHub,Management'
+- slug: apiplatform
+  name: api-platform
+  description: The ultimate PHP framework to build modern web APIs
+  url: 'https://github.com/api-platform/api-platform'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png'
+  tags: 'GitHub,Deployment,Management'
