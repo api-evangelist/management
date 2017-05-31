@@ -67,7 +67,7 @@ title: API Evangelist - Management
 
 <!-- Blog Feature -->
 <a name="BlogFeature"></a>
-{% for post in paginator.posts limit:1 %}
+{% for post in site.posts limit:1 | sort: post.date %}
 	<section id="banner">
 		<div class="content">
 			<header>
