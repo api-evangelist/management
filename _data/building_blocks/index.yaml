@@ -1,0 +1,147 @@
+- building_block_id: database
+  type: Deployment
+  category: Data
+  name: Database
+  description: >-
+    Connecting to a database and generating a CRUD, or create, read, update and
+    delete API on an existing data source.
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-database.png
+  tags: Deployment
+- building_block_id: comma-separate-file-csv
+  type: Deployment
+  category: Data
+  name: Comma Separate File (CSV)
+  description: >-
+    Deploying an API from comma separated files, providing a simple, delimited,
+    structured data store as a file rather than database.
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-csv.png
+  tags: Deployment
+- building_block_id: spreadsheet
+  type: Deployment
+  category: Data
+  name: Spreadsheet
+  description: >-
+    The deployment of an API from a web-based, or uploaded spreadsheet,
+    transforming the column, and data into a web API.
+  image: ''
+  tags: Deployment
+- building_block_id: javascript-object-notation-json
+  type: Deployment
+  category: Data
+  name: JavaScript Object Notation (JSON)
+  description: >-
+    Deploying an API from JSON file, providing a simple, delimited, structured
+    data store as a file rather than database.
+  image: ''
+  tags: Deployment
+- building_block_id: framework
+  type: Deployment
+  category: Code
+  name: Framework
+  description: >-
+    Crafting and API using an existing API framework in a particular programming
+    language, providing the HTTP scaffolding needed.
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-ladder.png
+  tags: Deployment
+- building_block_id: github
+  type: Deployment
+  category: Code
+  name: Github
+  description: >-
+    Provides a simple way to publish documentation, code libraries, TOS, and
+    other common building blocks in support of API operations.
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-github.jpg
+  tags: Deployment
+- building_block_id: serverless
+  type: Deployment
+  category: Code
+  name: Serverless
+  description: >-
+    Deployment of individual code, in a variety of languages, using cloud
+    serverless technology like AWS Lambda or Iron.io.
+  image: ''
+  tags: Deployment
+- building_block_id: onpremise
+  type: Deployment
+  category: Backend
+  name: On-Premise
+  description: >-
+    The deployment of APIs is done on-premise within an organizational
+    controlled datacenter.
+  image: ''
+  tags: Deployment
+- building_block_id: cloud
+  type: Deployment
+  category: Backend
+  name: Cloud
+  description: >-
+    Deployment of APis are done using cloud providers, where hosting is included
+    with other services.
+  image: ''
+  tags: Deployment
+- building_block_id: hosting
+  type: Deployment
+  category: Backend
+  name: Hosting
+  description: >-
+    Hosting is all about where you are going to park your API. Usual deployments
+    are on-premise within your company or data center, in a public cloud like
+    Amazon Web Services or a hybrid of the two.
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-hosting
+  tags: Deployment
+- building_block_id: gateway
+  type: Deployment
+  category: Connection
+  name: Gateway
+  description: >-
+    API gateways provide a solution for tapping into internal systems and
+    connecting with external platforms, to expose APIs.
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-proxy-left.png
+  tags: Deployment
+- building_block_id: proxy
+  type: Deployment
+  category: Connection
+  name: Proxy
+  description: >-
+    API proxy are common place for taking an existing API interface, running it
+    through an intermediary which allows for translations, transformations and
+    other added services on top of API.
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-proxy.png
+  tags: Deployment
+- building_block_id: connector
+  type: Deployment
+  category: Connection
+  name: Connector
+  description: >-
+    Contrary to an API proxy, there are API solutions that are proxyless, while
+    just allowing an API to connect or plugin to the advanced API resources
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-connector
+  tags: Deployment
+- building_block_id: real-time
+  type: Deployment
+  category: Other
+  name: Real Time
+  description: >-
+    Providing a way to deploy APIs that are real time, either directly from
+    sources, or on top of existing APIs.
+  image: ''
+  tags: Deployment
+- building_block_id: scraping
+  type: Deployment
+  category: Other
+  name: Scraping
+  description: >-
+    Harvesting or scraping of data from an existing website, content or data
+    source, when an existing data source is unavailable, and then publishing as
+    an API.
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-scraper.jpg
+  tags: Deployment

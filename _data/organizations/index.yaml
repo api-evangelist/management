@@ -1,0 +1,1528 @@
+- slug: akana
+  name: Akana
+  description: >-
+    Akana helps businesses accelerate digital transformation by securely
+    extending their reach across multiple channels &ndash; mobile, cloud and
+    Internet of Things. Akana enables enterprises to share data as APIs, connect
+    and integrate applications, drive partner adoption, monetize their assets,
+    and provide intelligent insights into their business and operations.
+  url: 'http://www.akana.com/'
+  short_url: ''
+  twitter: 'https://twitter.com/AkanaInc'
+  blog: 'https://blog.akana.com/'
+  blog_rss: 'https://blog.akana.com/feed/'
+  github: 'https://github.com/akanainc'
+  image: ''
+  tags: 'Enterprise,Management,Security,Portal,Deployment,Gateway'
+- slug: algorithmia
+  name: Algorithmia
+  description: "We are building a community around state-of-the-art algorithm development. Users can\_create, share, and build on other algorithms\_and then instantly make them available as a\_web service."
+  url: 'https://algorithmia.com'
+  short_url: ''
+  twitter: 'https://twitter.com/algorithmia'
+  blog: 'http://blog.algorithmia.com/'
+  blog_rss: 'http://blog.algorithmia.com/rss'
+  github: 'https://github.com/algorithmiaio'
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/algorithmia-logo.png
+  tags: 'Deployment,Serverless,Algorithms'
+- slug: apache-karaf
+  name: Apache Karaf
+  description: >-
+    Karaf provides dual polymorphic container and application bootstrapping
+    paradigms to the Enterprise. Focus on your business code and application,
+    Karaf deals with the rest.
+  url: 'http://karaf.apache.org/'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/apache-karaf-logo.png
+  tags: 'Containers,Deployment,Open Source'
+- slug: apache-knox
+  name: Apache Knox
+  description: >-
+    The Apache Knox Gateway is a REST API Gateway for interacting with Hadoop
+    clusters. The Knox Gateway provides a single access point for all REST
+    interactions with Hadoop clusters. In this capacity, the Knox Gateway is
+    able to provide valuable functionality to aid in the control, integration,
+    monitoring and automation of critical administrative and analytical needs of
+    the enterprise.
+  url: 'https://knox.apache.org/'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/apache-knox-logo.gif
+  tags: 'Deployment,Gateway,Open Source'
+- slug: apache-solr
+  name: Apache Solr
+  description: >-
+    Solr is highly reliable, scalable and fault tolerant, providing distributed
+    indexing, replication and load-balanced querying, automated failover and
+    recovery, centralized configuration and more. Solr powers the search and
+    navigation features of many of the worlds largest internet sites.
+  url: 'http://lucene.apache.org/solr/'
+  short_url: ''
+  twitter: 'https://twitter.com/apachesolr'
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/apache-solr-logo.png
+  tags: 'Deployment,Search,Open Source'
+- slug: apache-wink
+  name: Apache Wink
+  description: >-
+    Apache Wink is a simple yet solid framework for building RESTful Web
+    services. It is comprised of a Server module and a Client module for
+    developing and consuming RESTful Web services. The Wink Client module is a
+    Java based framework that provides functionality for communicating with
+    RESTful Web services. The framework is built on top of the JDK
+    HttpURLConnection and adds essential features that facilitate the
+    development of such client applications.
+  url: 'https://wink.apache.org/'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: 'https://github.com/apache/wink'
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Apache_Wink_Logo.png
+  tags: 'Java,Framework,Deployment,Open Source'
+- slug: api-platform
+  name: API Platform
+  description: >-
+    An incredible PHP web framework to build modern, API-first web projects! Out
+    of the box hypermedia and Linked Data support with JSON-LD, Schema.org and
+    Hydra.
+  url: 'https://api-platform.com'
+  short_url: ''
+  twitter: 'https://twitter.com/ApiPlatform'
+  blog: ''
+  blog_rss: ''
+  github: 'https://github.com/api-platform'
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/api-platform-logo.png
+  tags: >-
+    Deployment,Framework,PHP,Hypermedia,JSON LD,Schema.org,Hydra,Linked
+    Data,Open Source
+- slug: api-plug
+  name: API Plug
+  description: >-
+    MySQL, MongoDB, MsSQL. Use API PLUG with different data sources easily. Your
+    Data, Your Cloud. You do not have to hand over your API ownership. Have
+    total control over final product. Deployment Ready. Either get source files,
+    or get a fully optimised Docker container.
+  url: 'https://apiplug.com/'
+  short_url: ''
+  twitter: 'https://twitter.com/apiplug'
+  blog: 'https://apiplug.com/blog/'
+  blog_rss: 'https://apiplug.com/blog/feed/'
+  github: 'https://github.com/apiplug'
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/api-plug-logo.png
+  tags: 'Deployment,Bots,Management'
+- slug: apiaxle
+  name: ApiAxle
+  description: "ApiAxle is a proxy that sits on your network, in front of your API(s) and manages things that you shouldn't have to, like rate limiting, authentication and caching. It is fast, open and easy to configure. \_ApiAxle is different to the cloud based services such as Mashery in that it is intended to be installed within your LAN and be managed by you. This means you own your users, you own your data and you can more easily manage costs. ApiAxle is open-source. This means you can modify it as much as you like and contribute changes back. Others will do the same and gradually the system will become all the better for it."
+  url: 'http://apiaxle.com/'
+  short_url: ''
+  twitter: 'https://twitter.com/apiaxle'
+  blog: 'http://blog.apiaxle.com/'
+  blog_rss: 'http://blog.apiaxle.com/feed.xml'
+  github: 'https://github.com/apiaxle'
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/api-axle-logo-3.png
+  tags: 'Deployment,Management,Gateway'
+- slug: apigee
+  name: Apigee
+  description: >-
+    Apigee delivers an intelligent API platform to accelerate the pace of
+    digital business. &nbsp;We help companies - from disruptive start-ups to the
+    Fortune 100 &ndash; use their enterprise data and services to create
+    connected digital experiences for customers, partners and employees. This is
+    digital business.
+  url: 'https://apigee.com'
+  short_url: ''
+  twitter: 'https://twitter.com/Apigee'
+  blog: 'https://blog.apigee.com/front'
+  blog_rss: 'http://apigee.com/about/blog/blog.xml'
+  github: 'https://github.com/apigee'
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/apigee-logo.png
+  tags: 'BaaS,Management,Deployment,Portal,Gateway'
+- slug: apigility
+  name: Apigility
+  description: >-
+    Separating presentation logic from data provides the flexibility to support
+    multiple client form factors, and future-proofs apps to allow
+    behind-the-scenes change without breaking user interfaces. With Apigility,
+    you can take the code that powers your business, and then API-enable it.
+  url: 'https://apigility.org/'
+  short_url: ''
+  twitter: 'https://twitter.com/Apigility'
+  blog: ''
+  blog_rss: ''
+  github: 'https://github.com/zfcampus'
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/apigility-logo.png
+  tags: 'Deployment,HAL,Hypermedia,Cloud'
+- slug: apimint
+  name: Apimint
+  description: >-
+    APIMINT is an API lifecycle management tool. With our design first approach,
+    all stake holders get a platform to collaborate and give feedback on API
+    design and structure. We make sure your all your teams can easily agree and
+    understand your APIs.
+  url: 'https://www.apimint.com'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Apimint_-_Rapidly_Prototype_APIs.png
+  tags: 'Design,Deployment,Virtualization,Studio,Cloud'
+- slug: aws-api-gateway
+  name: AWS API Gateway
+  description: >-
+    Amazon API Gateway is a fully managed service that makes it easy for
+    developers to create, publish, maintain, monitor, and secure APIs at any
+    scale. With a few clicks in the AWS Management Console, you can create an
+    API that acts as a front door for applications to access data, business
+    logic, or functionality from your back-end services, such as workloads
+    running on Amazon Elastic Compute Cloud, code running on AWS Lambda, or any
+    Web application. Amazon API Gateway handles all the tasks involved in
+    accepting and processing up to hundreds of thousands of concurrent API
+    calls, including traffic management, authorization and access control,
+    monitoring, and API version management. Amazon API Gateway has no minimum
+    fees or startup costs. You pay only for the API calls you receive and the
+    amount of data transferred out.
+  url: 'https://aws.amazon.com/api-gateway/'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/aws-api-gateway-icon.png
+  tags: 'Amazon Web Services,Deployment,Gateway'
+- slug: aws-auto-scaling
+  name: AWS Auto Scaling
+  description: >-
+    Auto Scaling helps you maintain application availability and allows you to
+    scale your&nbsp;Amazon EC2&nbsp;capacity up or down automatically according
+    to conditions you define. You can use Auto Scaling to help ensure that you
+    are running your desired number of Amazon EC2 instances. Auto Scaling can
+    also automatically increase the number of Amazon EC2 instances during demand
+    spikes to maintain performance and decrease capacity during lulls to reduce
+    costs. Auto Scaling is well suited both to applications that have stable
+    demand patterns or that experience hourly, daily, or weekly variability in
+    usage.&nbsp;
+  url: 'https://aws.amazon.com/autoscaling/'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2_AutoScaling.png
+  tags: 'Amazon Web Services,Compute,Deployment,Performance'
+- slug: aws-cloudformation
+  name: AWS CloudFormation
+  description: "AWS CloudFormation gives developers and systems administrators an easy way to create and manage a collection of related AWS resources, provisioning and updating them in an orderly and predictable fashion. You can use AWS CloudFormations\_sample templates\_or create your own templates to describe the AWS resources, and any associated dependencies or runtime parameters, required to run your application. You do not need to figure out the order for provisioning AWS services or the subtleties of making those dependencies work. CloudFormation takes care of this for you. After the AWS resources are deployed, you can modify and update them in a controlled and predictable way, in effect applying version control to your AWS infrastructure the same way you do with your software. You can also visualize your templates as diagrams and edit them using a drag-and-drop interface with the\_AWS CloudFormation Designer. You can deploy and update a template and its associated collection of resources (called a stack) by using the AWS Management Console, AWS Command Line Interface, or APIs. CloudFormation is available at no additional charge, and you pay only for the AWS resources needed to run your applications."
+  url: 'https://aws.amazon.com/cloudformation/'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Management-Tools_AWSCloudFormation.png
+  tags: 'Amazon Web Services,Management,Deployment,Cloud'
+- slug: aws-ec2-container-service
+  name: AWS EC2 Container Service
+  description: >-
+    Amazon EC2 Container Service (ECS) is a highly scalable, high performance
+    container management service that supports Docker containers and allows you
+    to easily run applications on a managed cluster of Amazon EC2 instances.
+    Amazon ECS eliminates the need for you to install, operate, and scale your
+    own cluster management infrastructure. With simple API calls, you can launch
+    and stop Docker-enabled applications, query the complete state of your
+    cluster, and access many familiar features like security groups, Elastic
+    Load Balancing, EBS volumes, and IAM roles. You can use Amazon ECS to
+    schedule the placement of containers across your cluster based on your
+    resource needs and availability requirements. You can also integrate your
+    own scheduler or third-party schedulers to meet business or application
+    specific requirements.
+  url: 'https://aws.amazon.com/ecs/'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonECS.png
+  tags: 'Amazon Web Services,Containers,Deployment'
+- slug: aws-ec2-systems-manager
+  name: AWS EC2 Systems Manager
+  description: >-
+    Amazon EC2 Systems Manager is a management service that helps you
+    automatically collect software inventory, apply OS patches, create system
+    images, and configure Windows and Linux operating systems. These
+    capabilities help you define and track system configurations, prevent drift,
+    and maintain software compliance of your EC2 and on-premises configurations.
+    By providing a management approach that is designed for the scale and
+    agility of the cloud but extends into your on-premises data center, EC2
+    Systems Manager makes it easier for you to seamlessly bridge your existing
+    infrastructure with AWS. EC2 Systems Manager is easy to use. Simply access
+    EC2 Systems Manager from the EC2 Management Console, select the instances
+    you want to manage, and define the management tasks you want to perform. EC2
+    Systems Manager is available now at no cost to manage both your EC2 and
+    on-premises resources.
+  url: 'https://aws.amazon.com/ec2/systems-manager/'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  tags: 'Amazon Web Services,Management,Deployment,Cloud'
+- slug: aws-elastic-beanstalk
+  name: AWS Elastic Beanstalk
+  description: >-
+    AWS Elastic Beanstalk is an easy-to-use service for deploying and scaling
+    web applications and services developed with Java,&nbsp;.NET, PHP, Node.js,
+    Python, Ruby, Go, and&nbsp;Docker&nbsp;on familiar servers such as Apache,
+    Nginx, Passenger, and&nbsp;IIS. You can simply upload your code and Elastic
+    Beanstalk automatically handles the deployment, from capacity provisioning,
+    load balancing, auto-scaling to application health monitoring. At the same
+    time, you retain full control over the AWS resources powering your
+    application and can access the underlying resources at any time. There is no
+    additional charge for Elastic Beanstalk - you pay only for the AWS resources
+    needed to store and run your applications.
+  url: 'https://aws.amazon.com/elasticbeanstalk/'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AWSElasticBeanstalk.png
+  tags: 'Amazon Web Services,Deployment,Containers'
+- slug: aws-lambda
+  name: AWS Lambda
+  description: >-
+    AWS Lambda is a zero-administration compute platform for back-end web
+    developers that runs your code for you in the AWS&nbsp;cloud&nbsp;and
+    provides you with a fine-grained pricing structure. AWS Lambda runs your
+    back-end code on its own AWS compute fleet of Amazon Elastic Compute Cloud
+    (Amazon EC2) instances across multiple Availability Zones in a region, which
+    provides the high availability, security, performance, and scalability of
+    the AWS infrastructure.
+  url: 'http://docs.aws.amazon.com/lambda/'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AWSLambda.png
+  tags: 'Amazon Web Services,Serverless,Deployment'
+- slug: aws-storage-gateway-service
+  name: AWS Storage Gateway Service
+  description: >-
+    The AWS Storage Gateway service seamlessly enables hybrid storage between
+    on-premises storage environments and&nbsp;the AWS Cloud. It combines a
+    multi-protocol storage appliance with highly efficient network connectivity
+    to&nbsp;Amazon cloud storage&nbsp;services, delivering&nbsp; local
+    performance with virtually unlimited scale. Customers use it in remote
+    offices and datacenters for hybrid cloud workloads, backup and restore,
+    archive, disaster recovery, and tiered storage. The Storage Gateway virtual
+    appliance connects seamlessly to your local infrastructure as a file server,
+    as a volume, or as a virtual tape library (VTL). This seamless connection
+    makes it simple for organizations to augment existing on-premises storage
+    investments with the high scalability, extreme durability and low cost of
+    cloud storage. &nbsp;
+  url: 'https://aws.amazon.com/storagegateway/'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Storage-Content-Delivery_AWSStorageGateway.png
+  tags: 'Amazon Web Services,Database,Gateway,Data,Deployment'
+- slug: axway
+  name: Axway
+  description: >-
+    Axway (Euronext: AXW.PA), acquired API Gateway vendor, Vordel, to
+    complement its existing MFT and B2B Gateway products. Axways suite of
+    products enables enterprise to  govern the flow of data within and across
+    the edge of the enterprise,  unlocking the tremendous value this can bring
+    to business interactions. Axway API Management offers the enterprise-grade
+    API management  architecture with the security to protect sensitive data,
+    control access  and support integration to a wide range of on-premise and
+    cloud-based  applications.
+  url: 'https://www.axway.com'
+  short_url: ''
+  twitter: 'https://twitter.com/axway'
+  blog: 'https://www.axway.com/en/blog'
+  blog_rss: 'https://www.axway.com/en//blog/feed'
+  github: 'https://github.com/Axway'
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/axway_logo_smaller.gif
+  tags: 'Management,Deployment,Gateway'
+- slug: azure-container-service
+  name: Azure Container Service
+  description: >-
+    Azure Container Service optimizes the configuration of popular open-source
+    tools and technologies specifically for Azure. You get an open solution that
+    offers portability for both your containers and your application
+    configuration. You select the size, number of hosts, and choice of
+    orchestrator tools&mdash;Container Service handles everything else.
+  url: 'https://azure.microsoft.com/en-us/services/container-service/'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/azure-container-service.png
+  tags: 'Microsoft,Containers,Deployment'
+- slug: azure-resource-manager
+  name: Azure Resource Manager
+  description: >-
+    Azure Resource Manager enables you to deploy and manage the infrastructure
+    for your Azure solutions. You organize related resources in resource groups,
+    and deploy your resources with JSON templates. For an introduction to
+    deploying and managing resources with Resource Manager, see Azure Resource
+    Manager overview.
+  url: 'https://docs.microsoft.com/en-us/rest/api/resources/'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/azure-resource-manager.png
+  tags: 'Microsoft,Resources,Links,Deployment'
+- slug: binaryops.io
+  name: BinaryOps.io
+  description: >-
+    We want to help you get to market faster by providing the services you need
+    to support your projects. With BinaryOps, you can leverage our API engine to
+    kick-start development on your own application. Sign-up today to get your
+    project started and see for yourself how easy it can be to build a rich,
+    consistent and well documented API.
+  url: 'http://www.binaryops.io/'
+  short_url: ''
+  twitter: 'https://twitter.com/BinaryOps'
+  blog: 'http://www.binaryops.io/blog/'
+  blog_rss: ''
+  github: 'https://github.com/binaryopsio'
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/binaryops-logo.png
+  tags: 'Deployment,Cloud'
+- slug: brightwork
+  name: BrightWork
+  description: >-
+    Leverage your front end development skills to build full stack applications
+    without having to learn the complexities of server side architecture. Focus
+    on writing your apps, not learning server side languages, frameworks and
+    infrastructure. With BrightWork you write all of your code in Javascript and
+    we deploy it to our highly available and reliable cloud infrastructure.
+  url: 'http://www.brightwork.io/'
+  short_url: ''
+  twitter: 'https://twitter.com/brightwork_io'
+  blog: ''
+  blog_rss: ''
+  github: 'https://github.com/TeamBrightWork'
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/brightwork-logo.png
+  tags: 'Serverless,Deployment'
+- slug: ca-technologies
+  name: CA Technologies
+  description: >-
+    CA Technologies (NASDAQ: CA) creates software that fuels transformation for
+    companies and enables them to seize the opportunities of the application
+    economy. Software is at the heart of every business, in every industry. From
+    planning to development to management and security, CA is working with
+    companies worldwide to change the way we live, transact and communicate.
+  url: 'http://www.ca.com'
+  short_url: ''
+  twitter: 'https://twitter.com/CAInc'
+  blog: 'http://blogs.ca.com/?intcmp=footernav'
+  blog_rss: 'http://blogs.ca.com/feed/'
+  github: ''
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/ca_logo.jpg
+  tags: 'Deployment,Gateway'
+- slug: ckan
+  name: CKAN
+  description: >-
+    CKAN is a powerful data management system that makes data accessible &ndash;
+    by providing tools to streamline publishing, sharing, finding and using
+    data. CKAN is aimed at data publishers (national and regional governments,
+    companies and organizations) wanting to make their data open and available.
+  url: 'http://ckan.org/'
+  short_url: ''
+  twitter: 'https://twitter.com/ckanproject'
+  blog: 'http://ckan.org/blog/'
+  blog_rss: 'http://ckan.org/feed/'
+  github: 'https://github.com/ckan'
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/ckan-logo.png
+  tags: 'Deployment,Data'
+- slug: cosmic
+  name: Cosmic
+  description: >-
+    A high level framework for crafting web APIs. Create, consume, manage and
+    distribute web APIs with less code. How do you structure URLs? Which status
+    code do you return? How do you parse complex query parameters? Cosmic takes
+    full responsibility for the HTTP layer, letting you focus on what is
+    important.
+  url: 'http://www.cosmic-api.com/'
+  short_url: ''
+  twitter: 'https://twitter.com/cosmic_api'
+  blog: ''
+  blog_rss: 'http://blog.cosmic-api.com/feed/'
+  github: 'https://github.com/cosmic-api'
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/cosmic-logo.png
+  tags: 'Deployment,Python,Framework'
+- slug: deployd
+  name: deployd
+  description: >-
+    An open source platform. Design, build, and scale APIs for web and mobile
+    apps in minutes instead of days. 1) No boilerplate. With one command, your
+    API is up and running. It is an empty canvas waiting for you to add
+    Resources. No boilerplate code necessary. 2) Resources - Deployd APIs are
+    built of plug-and-play resources, such as Collection, which can easily be
+    added and defined through the deployd dashboard. 3) Dashboard - Add and
+    manage your APIs resources through an intuitive web-based dashboard. 4)
+    1-step deploy - When it is time to deploy, easily deploy it yourself
+    anywhere that can host a Node.js app and MongoDB.
+  url: 'http://deployd.com/'
+  short_url: ''
+  twitter: 'https://twitter.com/deploydapp'
+  blog: ''
+  blog_rss: ''
+  github: 'https://github.com/deployd'
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/deployd-logo.jpeg
+  tags: 'Deployment,Management,Open Source'
+- slug: diffbot
+  name: Diffbot
+  description: >-
+    &lt;p&gt;Diffbot provides a set of APIs that enable developers to easily use
+    web data in their own applications. Diffbot analyzes documents much like a
+    human would, using the visual properties to determine how the parts of the
+    page fit together. The algorithm uses statistical techniques to
+    automatically and reliably determine the structural organization of a page,
+    independent of layout and the language of the text.
+  url: 'http://www.diffbot.com/our-apis/follow/'
+  short_url: ''
+  twitter: 'https://twitter.com/diffbot'
+  blog: 'http://blog.diffbot.com/'
+  blog_rss: 'http://blog.diffbot.com/feed/'
+  github: 'https://github.com/diffbot'
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/diffbot-logo.jpg
+  tags: >-
+    Content,Extraction,Machine Learning,Crawler,Scraping,Machine Learning
+    Scraping,Deployment
+- slug: django-rest
+  name: Django REST
+  description: >-
+    Django REST framework is a powerful and flexible toolkit that makes it easy
+    to build Web APIs.&nbsp;It offers an attractive, web browseable version of
+    your API, and the option of returning raw JSON. The Django Rest Framework
+    provides powerful model serialization, display data using standard function
+    based views, or get granular with powerful class based views for more
+    complex functionality. All in a fully REST compliant wrapper.
+  url: 'http://www.django-rest-framework.org'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/django-rest-framework.png
+  tags: 'Deployment,Framework,Hypermedia'
+- slug: dockpit
+  name: Dockpit
+  description: >-
+    Painlesss isolation for your (micro)service development process. Dockpit
+    makes it trivial to develop your (micro)service in isolation. It mocks the
+    APIs you depend on and puts data stores, message queus and service
+    registries in predictable states.
+  url: 'https://dockpit.io/'
+  short_url: ''
+  twitter: 'https://twitter.com/dockpit'
+  blog: ''
+  blog_rss: ''
+  github: 'https://github.com/dockpit'
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/dockpit-icon.png
+  tags: 'Microservices,Deployment,Open Source'
+- slug: dreamfactory
+  name: DreamFactory
+  description: >-
+    DreamFactory Software is a private, venture-backed company based in
+    Campbell, California, with an additional development center in Atlanta,
+    Georgia. We were founded in 2005 and funded in 2006 by New Enterprise
+    Associates. Today, DreamFactory publishes the DreamFactory Services
+    Platform, an open source REST API platform for mobile application
+    developers.
+  url: 'http://www.dreamfactory.com/'
+  short_url: ''
+  twitter: 'https://twitter.com/dfsoftwareinc'
+  blog: 'http://blog.dreamfactory.com/'
+  blog_rss: 'http://blog.dreamfactory.com/rss.xml'
+  github: 'https://github.com/dreamfactorysoftware'
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/dreamfactory.png
+  tags: 'Deployment,Hosting,Platform,Management,Database'
+- slug: elasticsearch
+  name: Elastic
+  description: >-
+    Elasticsearch is on a mission to organize data and make it easily
+    accessible. The company delivers the worlds the most advanced open source
+    search and analytics engine available and make real-time data exploration
+    available to anyone. By having a laser focus on achieving the best user
+    experience imaginable, Elasticsearch has become one of the most popular and
+    rapidly growing open source solutions in the market. Today, Elasticsearch is
+    used by thousands of enterprises in virtually every industry. We take good
+    care of our customers and users, providing production support, development
+    support and training worldwide.
+  url: 'http://www.elasticsearch.org/'
+  short_url: ''
+  twitter: 'https://twitter.com/elasticsearch'
+  blog: 'http://www.elasticsearch.org/blog/'
+  blog_rss: 'http://www.elasticsearch.org/feed/'
+  github: 'https://github.com/elasticsearch'
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/1910_logo.jpg
+  tags: 'Search,Netherlands,Deployment'
+- slug: fieldbook
+  name: Fieldbook
+  description: >-
+    A database with an API &ndash; as simple as a spreadsheet. Create a
+    lightweight database you can view and edit as easily as a spreadsheet and
+    access via a REST API&mdash;in minutes, with nothing to code or deploy.
+  url: 'https://fieldbook.com'
+  short_url: ''
+  twitter: 'https://twitter.com/fieldbookapp'
+  blog: 'http://docs.fieldbook.com/blog'
+  blog_rss: 'http://docs.fieldbook.com/blog.rss'
+  github: 'https://github.com/fieldbook'
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/fieldbook-logo-preview-1.jpg
+  tags: 'Spreadsheets,Deployment'
+- slug: goa
+  name: Goa
+  description: >-
+    goa provides a novel approach for developing microservices that saves time
+    when working on independent services and helps with keeping the overall
+    system consistent.&nbsp;
+  url: 'https://goa.design/'
+  short_url: ''
+  twitter: 'https://twitter.com/goadesign'
+  blog: 'https://goa.design/blog/004-xray/'
+  blog_rss: ''
+  github: 'https://github.com/goadesign'
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/goa-logo.png
+  tags: 'Deployment,Microservices'
+- slug: google-app-engine
+  name: Google App Engine
+  description: >-
+    Build modern web and mobile applications on an open cloud platform: bring
+    your own language runtimes, frameworks, and third party libraries. Google
+    App Engine is a fully managed platform that completely abstracts away
+    infrastructure so you focus only on code. Go from zero to planet-scale and
+    see why some of today&rsquo;s most successful companies power their
+    applications on App Engine.
+  url: 'https://cloud.google.com/appengine/'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/google-app-engine-icon.png
+  tags: 'Google APIs,Deployment,Compute,Cloud'
+- slug: google-cloud-container-builder
+  name: Google Cloud Container Builder
+  description: >-
+    Google Cloud Container Builder lets you create Docker container images from
+    application source code located in Google Cloud Storage. Container images
+    created by Container Builder are automatically stored in Google Container
+    Registry. You can deploy the container images you create on Google Container
+    Engine, Google Compute Engine, Google App Engine flexible environment or
+    other services where you can run applications from Docker containers.
+  url: 'https://cloud.google.com/container-builder/'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/container-builder-lead.png
+  tags: 'Containers,Deployment,Google APIs'
+- slug: google-cloud-dataproc
+  name: Google Cloud Dataproc
+  description: >-
+    Use Google Cloud Dataproc, an Apache Hadoop, Apache Spark, Apache Pig, and
+    Apache Hive service, to easily process big datasets at low cost. Control
+    your costs by quickly creating managed clusters of any size and turning them
+    off when you're done. Cloud Dataproc integrates across Google Cloud Platform
+    products, giving you a powerful and complete data processing platform.
+  url: 'https://cloud.google.com/dataproc/'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/dataproc.png
+  tags: 'Google APIs,Data,Database,Deployment'
+- slug: google-cloud-datastore
+  name: Google Cloud Datastore
+  description: >-
+    Cloud Datastore is a highly-scalable NoSQL database for your applications.
+    Cloud Datastore automatically handles sharding and replication, providing
+    you with a highly available and durable database that scales automatically
+    to handle your applications' load. Cloud Datastore provides a myriad of
+    capabilities such as ACID transactions, SQL-like queries, indexes and much
+    more.
+  url: 'https://cloud.google.com/datastore/'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/nosql-tree.png
+  tags: 'Data,Database,Deployment,Google APIs'
+- slug: google-cloud-deployment-manager
+  name: Google Cloud Deployment Manager
+  description: >-
+    Google Cloud Deployment Manager allows you to specify all the resources
+    needed for your application in a declarative format using yaml. You can also
+    use Python or Jinja2 templates to parameterize the configuration and allow
+    reuse of common deployment paradigms such as a load balanced, auto-scaled
+    instance group. Treat your configuration as code and perform repeatable
+    deployments.
+  url: 'https://cloud.google.com/deployment-manager/'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/repeatable-deployment-process.png
+  tags: 'Deployment,Cloud,Orchestration,Google APIs'
+- slug: google-cloud-functions
+  name: Google Cloud Functions
+  description: >-
+    Cloud computing has made possible fully serverless models of computing where
+    logic can be spun up on-demand in response to events originating from
+    anywhere. Construct applications from bite-sized business logic billed to
+    the nearest 100 milliseconds, only while your code is running. Serve users
+    from zero to planet-scale, all without managing any infrastructure.
+  url: 'https://cloud.google.com/functions/'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Cloud-Functions.png
+  tags: 'Serverless,Deployment,Google APIs'
+- slug: google-compute-engine
+  name: Google Compute Engine
+  description: >-
+    Google Compute Engine delivers virtual machines running in Google's
+    innovative data centers and worldwide fiber network. Compute Engine's
+    tooling and workflow support enable scaling from single instances to global,
+    load-balanced cloud computing.
+  url: 'https://cloud.google.com/compute/'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Google_Compute_Engine_logo.png
+  tags: 'Compute,Cloud,Google APIs,Deployment'
+- slug: google-container-engine
+  name: Google Container Engine
+  description: >-
+    Google Container Engine is a powerful cluster manager and orchestration
+    system for running your Docker containers. Container Engine schedules your
+    containers into the cluster and manages them automatically based on
+    requirements you define (such as CPU and memory). It's built on the open
+    source Kubernetes system, giving you the flexibility to take advantage of
+    on-premises, hybrid, or public cloud infrastructure.
+  url: 'https://cloud.google.com/container-engine/'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/docker-container.png
+  tags: 'Containers,Deployment,Google APIs'
+- slug: google-service-management
+  name: Google Service Management
+  description: >-
+    Google Service Management is an infrastructure service of Google Cloud
+    Platform that manages other APIs and services, including Google's own Cloud
+    Platform services and their APIs, and services created using Google Cloud
+    Endpoints.
+  url: 'https://cloud.google.com/service-management/overview'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/google-cloud-icon.png
+  tags: 'Management,Deployment,Google APIs,Integration'
+- slug: hook.io
+  name: Hook.io
+  description: >-
+    hook.io is the leading open-source provider of microservice and webhook
+    hosting. Our service is built with &nbsp;by Developers for Developers.
+    hook.io provides free hosting for Microservices and Webhooks. These hosted
+    services have full integrated access to the hook.io Developer API.
+  url: 'http://hook.io/'
+  short_url: ''
+  twitter: 'https://twitter.com/hookdotio'
+  blog: 'https://hook.io/blog'
+  blog_rss: 'https://hook.io/blog/feed'
+  github: 'https://github.com/bigcompany'
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/hook-io-logo.png
+  tags: 'Microservices,Deployment,Database,Webhooks'
+- slug: hyper
+  name: Hyper
+  description: >-
+    Hyper is Hypercard for the modern age, and allows you to make your own
+    mini-apps for mobile and desktop, capture and organize information, and
+    publish on the web.
+  url: 'https://hyperrr.co/'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Hyper_Hypercard_for_the_modern_age.png
+  tags: 'Serverless,Bots,Deployment'
+- slug: import.io
+  name: import.io
+  description: >-
+    Importio turns the web into a database, releasing the vast potential of data
+    trapped in websites. Allowing you to identify a website, select the data and
+    treat it as a table in your database. In effect transform the data into a
+    row and column format. You can then add more websites to your data set, the
+    same as adding more rows and query in real-time to access the data.
+  url: 'https://www.import.io/'
+  short_url: ''
+  twitter: 'https://twitter.com/importio'
+  blog: 'http://blog.import.io/'
+  blog_rss: ''
+  github: 'https://github.com/import-io'
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/1728_logo.png
+  tags: 'Data,Scraping,API United Kingdom,Deployment'
+- slug: instant-api
+  name: Instant API
+  description: >-
+    Instant API is Platform as a Service that makes it easy for Developers to
+    Create, Host, Publish &amp; Document APIs from Existing Data and Services.
+    What used to take weeks or months now takes minutes and is a fraction of the
+    cost.&nbsp;
+  url: 'http://instantapi.co/'
+  short_url: ''
+  twitter: 'https://twitter.com/instantapi'
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/instant-api-logo.png
+  tags: API Deployment Cloud
+- slug: irestful
+  name: iRESTful
+  description: >-
+    iRESTful is a scalable API framework. Code should be easy to re-use and web
+    applications should be easy to create.
+  url: 'http://irestful.com/'
+  short_url: ''
+  twitter: 'https://twitter.com/irestful'
+  blog: ''
+  blog_rss: ''
+  github: 'https://github.com/irestful'
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/iRESTful-logo.png
+  tags: 'Deployment,Framework'
+- slug: jexia
+  name: Jexia
+  description: >-
+    Jexia is a platform for developers, by developers: a better way to build
+    software. No shortcuts. No workarounds. What we offer is a wide range of
+    services, developed in-house and integrated into a single platform. That
+    means you'll need less code for the same professional result. And because
+    it's horizontally scalable by design, the sky really is the limit
+  url: 'http://www.jexia.com/'
+  short_url: ''
+  twitter: 'https://twitter.com/jexiacom'
+  blog: 'http://jexia.com/blog/'
+  blog_rss: 'http://jexia.com/feed/'
+  github: 'https://github.com/jexia-inc'
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/jexia-logo.png
+  tags: 'Deployment,Management,Cloud'
+- slug: justapis
+  name: JustAPIs
+  description: "JustAPIs is designed to help developers overcome existing limitations when it comes to building APIs.\_The JustAPIs solution is a high-performance, compiled executable that can run on any Linux, Windows, or Mac OSX based hardware, from a single developers laptop to large-scale, clustered production environments. With zero dependencies, JustAPIs can be installed instantly and includes sample APIs with familiar JavaScript-based business logic, so developers can be up and running with their own API server in minutes."
+  url: 'http://justapis.com/'
+  short_url: ''
+  twitter: 'https://twitter.com/JustAPIs'
+  blog: 'http://blog.jexia.com/blog/'
+  blog_rss: 'http://blog.jexia.com/feed/'
+  github: ''
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/justapis-logo.png
+  tags: 'Management,Deployment,Internet of Things'
+- slug: magicstack.io
+  name: Magicstack.io
+  description: >-
+    A serverless REST API platform that gives you more features with less code.
+    Building Blocks for Next Generation Applications.
+  url: 'http://magicstack.io/'
+  short_url: ''
+  twitter: 'https://twitter.com/MagicStack'
+  blog: ''
+  blog_rss: ''
+  github: 'https://github.com/MagicStack'
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/magicstack-io.png
+  tags: 'Deployment,Serverless'
+- slug: magnetic
+  name: Magnetic
+  description: >-
+    We started Magnetic.io because we were fed up with the way online systems
+    are built in the typical enterprise. Enterprises are held hostage by long
+    and slow development projects that result in high risk, big-bang releases.
+    This kills innovation and stifles change. It is our mission to change this:
+    Magnetic.io is dedicated to developing solutions that enable and stimulate
+    innovation and change, while reducing risk and cost.
+  url: 'http://magnetic.io/'
+  short_url: ''
+  twitter: 'https://twitter.com/magneticio'
+  blog: ''
+  blog_rss: ''
+  github: 'https://github.com/magneticio'
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/magnetic-io.jpg
+  tags: 'Microservices,Deployment'
+- slug: materia
+  name: Materia
+  description: >-
+    A modern development environment to build advanced mobile and web
+    applications. Materia is an easy-to-use backend to build all kinds of
+    applications (mobile, web, gaming and more). Materia tooling aims to manage
+    the entire development cycle for building enterprise class backends.
+  url: 'https://getmateria.com/'
+  short_url: ''
+  twitter: 'https://twitter.com/MateriaHQ'
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Materia_-_Develop_web_and_mobile_application_at_the_speed_of_light_.png
+  tags: 'Design,Deployment,Desktop'
+- slug: micro
+  name: Micro
+  description: >-
+    Micro is an ecosystem which provides the fundamental building blocks for
+    developing and managing distributed systems. Technology is rapidly evolving.
+    Cloud computing now gives us almost unlimited scale, however leveraging that
+    scale with existing tools is still difficult. Micro attempts to solve this
+    problem with a developer first focus.
+  url: 'https://micro.mu/'
+  short_url: ''
+  twitter: 'https://twitter.com/microhq'
+  blog: 'https://blog.micro.mu/'
+  blog_rss: ''
+  github: 'https://github.com/micro'
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Micro_-_A_microservice_ecosystem__Simplifying_building_and_managing_distributed_systems_.png
+  tags: 'Microservices,Deployment'
+- slug: microsoft-azure
+  name: Microsoft Azure
+  description: >-
+    Microsoft Azure is a cloud computing platform and infrastructure created by
+    Microsoft for building, deploying, and managing applications and services
+    through a global network of Microsoft-managed datacenters. It provides both
+    PaaS and IaaS services and supports many different programming languages,
+    tools and frameworks, including both Microsoft-specific and third-party
+    software and systems
+  url: 'https://azure.microsoft.com/en-us/'
+  short_url: ''
+  twitter: 'https://twitter.com/azure'
+  blog: 'http://azure.microsoft.com/blog/'
+  blog_rss: 'http://azure.microsoft.com/blog/feed/'
+  github: 'https://github.com/Azure'
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/microsoft-azure-logo.png
+  tags: >-
+    Management,API Management
+    Other,Deployment,Compute,Database,Serverless,Portal,Command Line
+    Interface,DNS,DNS Cloud,Reliability,Service Level Agreement,Cloud,Bigcos
+- slug: nginx-web-server
+  name: nginx web server
+  description: >-
+    NGINX is the secret heart of the modern web, powering 1 in 3 of the
+    world&rsquo;s busiest sites and applications. The NGINX open source project
+    started in 2002 and has grown exponentially during the past 10 years thanks
+    to the vision of Igor Sysoev and the enthusiasm and support of our loyal
+    community of users. Today, millions of innovators choose NGINX for
+    delivering their sites and applications with performance, reliability,
+    security, and scale.
+  url: 'http://nginx.org/en/'
+  short_url: ''
+  twitter: 'https://twitter.com/nginxorg'
+  blog: 'https://www.nginx.com/blog/'
+  blog_rss: 'https://www.nginx.com/feed/'
+  github: 'https://github.com/nginx'
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/2674_logo.jpg
+  tags: 'Web Server,Deployment,API LIfeycle,Gateway'
+- slug: nodal
+  name: Nodal
+  description: >-
+    Nodal is a web server for Node.js, optimized for building API services
+    quickly and efficiently. Boasting its own opinionated, explicit, idiomatic
+    and highly-extensible framework, Nodal takes care of all of the hard
+    decisions for you and your team. This allows you to focus on creating an
+    effective product in a short timespan while minimizing technical debt. Nodal
+    projects are ready to deploy to Heroku right out of the box, so you can have
+    your website live in no time.
+  url: 'http://www.nodaljs.com/'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: 'https://github.com/keithwhor/nodal'
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/nodal-logo.png
+  tags: 'Deployment,Node.js,Framework'
+- slug: openlegacy
+  name: OpenLegacy
+  description: >-
+    OpenLegacy has pioneered a disruptive approach to legacy modernization and
+    application integration by focusing on business needs instead of on
+    replacing existing solutions. The company believes in building on the value
+    of legacy systems rather than rushing to replace them. OpenLegacy&rsquo;s
+    comprehensive, end-to-end integration platform unlocks the application
+    services and information in mainframes, AS/400 and databases, automatically
+    transforming them into mobile, web and cloud applications.
+  url: 'http://openlegacy.com/'
+  short_url: ''
+  twitter: 'https://twitter.com/openlegacy'
+  blog: 'http://www.openlegacy.com/blog'
+  blog_rss: 'http://www.openlegacy.com/blog/rss.xml'
+  github: 'https://github.com/openlegacy'
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/openlegacy-logo.png
+  tags: 'Deployment,Gateway'
+- slug: openrasta
+  name: OpenRasta
+  description: >-
+    OpenRasta is an open-source .NET framework for building everything web, from
+    web sites to RESTful APIs. Written from the ground-up with testing in mind,
+    OpenRasta removes the faff from your code and lets you concentrate on
+    writing clean, beautiful code. Proven in the real world, OpenRasta is the
+    perfect choice for building scalable, high-performance, reliable web
+    services.
+  url: 'http://openrasta.org/'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: 'https://github.com/openrasta'
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/OpenRasta-Logo.png
+  tags: 'Framework,.NET,Deployment'
+- slug: opsgen
+  name: OpsGen
+  description: >-
+    There's a better way to build connectivity for high-value enterprise,
+    mobile, IoT, and startup applications. OpsGen can help you easily and
+    rapidly create, manage, and scale your API. Visit our website and find your
+    way today!
+  url: 'http://opsgen.com'
+  short_url: ''
+  twitter: 'https://twitter.com/OpsGenAPI'
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/opsgen-logo.png
+  tags: 'Spreadsheets,Deployment,Database'
+- slug: parsehub
+  name: ParseHub
+  description: >-
+    Turn dynamic websites into APIs. You can extract data from anywhere.
+    ParseHub works with single-page apps, multi-page apps and just about any
+    other modern web technology. ParseHub can handle Javascript, AJAX, cookies,
+    sessions and redirects. You can easily fill in forms, loop through
+    dropdowns, login to websites, click on interactive maps and even deal with
+    infinite scrolling.
+  url: 'https://www.parsehub.com/'
+  short_url: ''
+  twitter: 'https://twitter.com/parsehub'
+  blog: 'https://blog.parsehub.com/'
+  blog_rss: 'https://blog.parsehub.com/rss/'
+  github: 'https://github.com/parsehub'
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/parsehub-logo.png
+  tags: 'Scraping,Deployment,Scraping Tools'
+- slug: restbase
+  name: RESTBase
+  description: >-
+    RESTBase is a caching / storing API proxy. Its configuration is based on
+    Swagger specs, and its primary storage backend is using Cassandra. It powers
+    rest.wikimedia.org, the Wikimedia REST content API currently in beta
+    production. As a proxy, RESTBase does not perform any significant content
+    processing itself. Instead, it requests content transformations from backend
+    services when needed, and typically (depending on configuration) stores it
+    back for later retrieval.
+  url: 'http://www.mediawiki.org/wiki/RESTBase'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: 'https://github.com/wikimedia/restbase'
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/RESTBase-Logo.png
+  tags: 'Deployment,Framework'
+- slug: restlet
+  name: Restlet
+  description: >-
+    APISpark is an &nbsp;cloud API platform that lets you create, host, manage
+    and use web APIs. Using the Restlet Framework at its core, APISpark
+    simplifies the web API experience, the time to market, and the overall cost
+    to get started and to scale you APIs. &nbsp;Restlet is a web API platform
+    vendor, pioneer of RESTful web APIs. APISpark serves our customers around
+    the world, providing software to build web APIs, which includes APISpark,
+    the PaaS version of Restlet. &nbsp;APISpark lets you build and deploy your
+    web APIs, which includes the creation, hosting and management--all in one
+    solution.
+  url: 'https://restlet.com/'
+  short_url: ''
+  twitter: 'https://twitter.com/restlet'
+  blog: 'http://restlet.com/blog'
+  blog_rss: 'http://restlet.com/blog/feed/'
+  github: 'https://github.com/restlet'
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Logo-Restlet-Horizontal-800x225.png
+  tags: 'Management,Spreadsheets,Design,Deployment,Studio,Cloud'
+- slug: restx
+  name: RESTX
+  description: >-
+    the lightweight, modular, feature rich, blazing fast, open source Java REST
+    framework
+  url: 'http://restx.io/'
+  short_url: ''
+  twitter: 'https://twitter.com/restx_'
+  blog: ''
+  blog_rss: ''
+  github: 'https://github.com/restx'
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/restx-logo.png
+  tags: 'Deployment,Framework'
+- slug: scraperwiki
+  name: ScraperWiki
+  description: >-
+    ScraperWiki is a web-based platform for collaboratively building programs to
+    extract and analyze public (online) data, in a wiki-like fashion. Scraper
+    refers to screen scrapers, programs that extract data from websites. Wiki
+    means that any user with programming experience can create or edit such
+    programs for extracting new data, or for analyzing existing datasets. The
+    main use of the website is providing a place for programmers and journalists
+    to collaborate on analyzing public data
+  url: 'https://scraperwiki.com/'
+  short_url: ''
+  twitter: 'https://twitter.com/scraperwiki'
+  blog: 'https://blog.scraperwiki.com/blog/'
+  blog_rss: 'https://blog.scraperwiki.com/feed/'
+  github: 'https://github.com/scraperwiki'
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/798px-ScraperWiki_logo.png
+  tags: 'Scraping,Spreadsheets,Deployment'
+- slug: seneca-js
+  name: Seneca JS
+  description: >-
+    A Micro-Services toolkit for Node.js. This toolkit lets you write clean code
+    that you can scale without needing to refactor. Start with everything in one
+    process, and split it all out onto multiple systems when you need to.
+  url: 'http://senecajs.org/'
+  short_url: ''
+  twitter: 'https://twitter.com/senecajs'
+  blog: ''
+  blog_rss: ''
+  github: 'https://github.com/senecajs'
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/seneca-logo.png
+  tags: 'Microservices,Deployment,Road Map'
+- slug: service-stack
+  name: Service Stack
+  description: >-
+    ServiceStack started development in 2008 with the mission of creating a
+    best-practices services framework with an emphasis on simplicity and speed,
+    reducing the effort in creating and maintaining resilient message-based SOA
+    Services and rich web apps.
+  url: 'https://servicestack.net'
+  short_url: ''
+  twitter: 'https://twitter.com/ServiceStack'
+  blog: ''
+  blog_rss: ''
+  github: 'https://github.com/ServiceStack'
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/service-stack.png
+  tags: 'Deployment,Cloud'
+- slug: sheetlabs
+  name: Sheetlabs
+  description: >-
+    Sheetlabs turn spreadsheets into well-documented APIs, quickly and easily.
+    Many businesses still share product lists, service coverage areas, or other
+    tabular information with one another using spreadsheets attached to email.
+    There are so many things that can go wrong with this. Sheetlabs was built
+    with the goal of making it really easy for businesses to build APIs on top
+    of their spreadsheets.
+  url: 'https://sheetlabs.com'
+  short_url: ''
+  twitter: 'https://twitter.com/sheetlabs'
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/sheetlabs-logo.png
+  tags: 'Spreadsheets,Deployment'
+- slug: slashdb
+  name: SlashDB
+  description: >-
+    SlashDB connects your internal databases and constructs a REST/HTTP web
+    service, easily making database content accessible by URLs for getting,
+    updating, inserting and deleting in a secure way. &nbsp;SlashDB provides
+    connectors for Microsoft SQL Server, Oracle, MySQL, PostGreSQL, IBM DB2 and
+    Sybase--covering the top 5 databases you will find in the enterprise or
+    small to medium businesses. SlashDB automatically turns databases into
+    online resource so their content becomes accessible to authorized web,
+    mobile and enterprise applications for reading and writing under standard
+    data formats. Technically speaking, it makes REST APIs out of relational
+    databases.
+  url: 'http://www.slashdb.com/'
+  short_url: ''
+  twitter: 'http://twitter.com/slash_db'
+  blog: ''
+  blog_rss: 'http://www.slashdb.com/feed/'
+  github: 'https://github.com/SlashDB'
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/slashdb-new-logo-sideways-medium.png
+  tags: 'Management,Deployment,Database'
+- slug: socrata
+  name: Socrata
+  description: >-
+    Socrata is the leading developer and provider of Open Data Services, a
+    category of cloud-based Web 2.0 solutions that enable federal, state, and
+    local governments to dramatically improve the reach, usability and social
+    utility of their public information assets. &nbsp;The Socrata Social Data
+    Platform&trade; is a turnkey information delivery platform that reduces
+    lifecycle management costs for government customers while boosting their
+    ability to disseminate relevant information and data-driven services to a
+    wide range of audiences including citizens, civic application developers,
+    researchers, journalists and internal stakeholders.
+  url: 'http://socrata.com'
+  short_url: ''
+  twitter: 'https://twitter.com/socrata'
+  blog: 'http://www.socrata.com/tech-blog/'
+  blog_rss: 'http://www.socrata.com/feed/'
+  github: 'https://github.com/socrata'
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/serviceproviders/socrata_logo.jpg
+  tags: >-
+    Management,Socrata,Data,Management,Deployment,Portal,State
+    Government,Federal Government
+- slug: stackery
+  name: Stackery
+  description: >-
+    Design, deploy, and monitor your cloud-native applications, easily.
+    Applications running on serverless architectures scale up and down on demand
+    with high availability. There is no need to provision or manage servers.
+    Your code runs only when it's needed, and you only pay for the compute time
+    you use. Stackery provides operational tools for developers building
+    serverless applications. Easily detect and surface application errors,
+    version control your serverless infrastructure, and securely manage
+    configurations and deployments. Stackery helps developers build
+    production-grade serverless applications by providing an abstraction layer
+    on top of base serverless technologies like AWS Lambda. Stackery allows you
+    to focus on your business logic rather than configuring infrastructure
+    services.
+  url: 'https://www.stackery.io/'
+  short_url: ''
+  twitter: 'https://twitter.com/stackeryio'
+  blog: 'https://www.stackery.io/blog'
+  blog_rss: 'https://www.stackery.io/blog/rss.xml'
+  github: 'https://github.com/stackery'
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/stacker-logo-index.png
+  tags: 'Serverless,Deployment'
+- slug: stackhut
+  name: nStack
+  description: >-
+    Deploy data-science models to the cloud and build workflows with databases,
+    APIs, and more.
+  url: 'http://nstack.com/'
+  short_url: ''
+  twitter: 'https://twitter.com/nstackcom'
+  blog: ''
+  blog_rss: ''
+  github: 'https://github.com/nstack/nstack'
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/stackhut-logo.png
+  tags: 'Deployment,Serverless,Containers,Microservices'
+- slug: strapi
+  name: Strapi
+  description: >-
+    Strapi is an open-source Node.js framework built on top of Koa for building
+    applications. We give you some built-in but not mandatory features aiming to
+    not repeat yourself. The Studio is dedicated to build applications without
+    writing any single line of code.
+  url: 'http://strapi.io/'
+  short_url: ''
+  twitter: 'https://twitter.com/strapijs'
+  blog: 'http://blog.strapi.io/'
+  blog_rss: 'http://strapi.io/rss.xml'
+  github: 'https://github.com/strapi'
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Screen
+    Shot 2017-03-19 at 11.02.40 PM.png
+  tags: 'Deployment,Management'
+- slug: streamdataio
+  name: StreamdataIO
+  description: >-
+    streamdata.io is a real-time cache proxy allowing you to poll standard
+    public REST APIs and push updates to clients. But wait, there is more :
+    streamdata.io keeps a history of modifications that occur on the data
+    between two pollings! This way, streamdata.io is able to give you the list
+    of modifications which happened since last time you fetched the data.
+  url: 'http://streamdata.io/'
+  short_url: ''
+  twitter: 'https://twitter.com/StreamdataIO'
+  blog: 'http://streamdata.io/blog/'
+  blog_rss: 'http://streamdata.io/feed/'
+  github: 'https://github.com/streamdataio'
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/streamdata-io-logo.png
+  tags: 'Real Time,Deployment'
+- slug: strongloop
+  name: StrongLoop
+  description: >-
+    StrongLoop is based in San Mateo, CA and employs over 30 developers working
+    with Node.js. StrongLoop develops StrongLoop Suite, a leading Mobile API
+    Tier along with being the primary code contributor to Node.js. StrongLoop
+    Suite includes an open source private mBaaS, an operations console and a
+    supported package of Node.js, containing advanced debugging, clustering and
+    support for private npm registries. StrongLoop was founded by Node
+    core-contributors, Enterprise mobile architects and veterans of open source
+    and Could companies.&nbsp;
+  url: 'http://strongloop.com/'
+  short_url: ''
+  twitter: 'https://twitter.com/StrongLoop'
+  blog: 'http://strongloop.com/strongblog/'
+  blog_rss: 'http://strongloop.com/feed/'
+  github: 'https://github.com/strongloop'
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/strongloop-logo.png
+  tags: 'Management,Deployment,Cloud,Bigcos'
+- slug: swiftiq
+  name: SwiftIQ
+  description: >-
+    SwiftIQ provides web-service application programming interface (API)
+    infrastructure to facilitate data accessibility and predictive analytics
+    through the Swift Access and Swift Predictions products. Swift Access is an
+    award-winning backend platform to unify and secure disconnected data then
+    deliver and analyze it on-demand to power real-time digital actions. Swift
+    Predictions allows users to apply adaptive, machine learning algorithms to
+    discover insights fast and make applications smarter.
+  url: 'http://www.swiftiq.com/'
+  short_url: ''
+  twitter: 'https://twitter.com/swiftiq'
+  blog: 'http://www.swiftiq.com/blog'
+  blog_rss: 'http://www.swiftiq.com/blog/rss.xml'
+  github: 'https://github.com/SwiftIQ'
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/swift-iq-logo.jpg
+  tags: 'Commerce,Management,Deployment,Retail'
+- slug: tibco-software
+  name: TIBCO Software
+  description: >-
+    TIBCO Software Inc. (NASDAQ: TIBX) is a provider of infrastructure software
+    for companies to use on-premise or as part of cloud computing environments.
+    Whether it's optimizing claims, processing trades, cross-selling products
+    based on real-time customer behavior, or averting a crisis before it
+    happens, TIBCO provides companies the two-second advantage&trade; &mdash;
+    the ability to capture the right information at the right time and act on it
+    preemptively for a competitive advantage. More than 4,000 customers
+    worldwide rely on TIBCO to manage information, decisions, processes and
+    applications in real time. Learn more at www.tibco.com.
+  url: 'http://www.tibco.com/'
+  short_url: ''
+  twitter: 'https://twitter.com/tibco'
+  blog: 'http://www.tibco.com/blog/'
+  blog_rss: 'http://feeds.feedburner.com/TheTibcoBlog'
+  github: 'https://github.com/TIBCOSoftware'
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/tibco-logo.png
+  tags: 'Management,Deployment,API Management Other,Gateway'
+- slug: tyk
+  name: Tyk
+  description: >-
+    An open source, lightweight, fast and scalable API Gateway. Set rate
+    limiting, request throttling, and auto-renewing request quotas to manage how
+    your users access your API. Tyk supports access tokens, HMAC request
+    signing, basic authentication and OAuth 2.0 to integrate old and new
+    services easily. Tyk can record and store detailed analytics which can be
+    segmented by user, error, endpoint and client ID across multiple APIs and
+    versions. Integrate your existing or new applications with Tyk using a
+    simple REST API, Tyk even support hot-reloads so you can introduce new
+    services without downtime.
+  url: 'http://tyk.io/'
+  short_url: ''
+  twitter: 'https://twitter.com/tyk_io'
+  blog: 'https://tyk.io/news-2/'
+  blog_rss: 'https://tyk.io/feed/'
+  github: 'https://github.com/TykTechnologies'
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/tyk_io_logo.png
+  tags: 'Management,Deployment,API Deployment Gateways,Tyk API Management'
+- slug: 'wavemaker,-inc.'
+  name: 'WaveMaker, Inc.'
+  description: >-
+    WaveMaker, Inc. provides WaveMaker Enterprise &ndash; An aPaaS software for
+    rapid application delivery of enterprise custom apps. WaveMaker Enterprise
+    provides benefits such as visual rapid application development, out of the
+    box support for security, web services integration and data modelling, high
+    performance cloud platform based on Docker containers, a self service
+    management console that provides simplified administration and many more
+    such features.
+  url: 'http://www.wavemaker.com/'
+  short_url: ''
+  twitter: 'https://twitter.com/WaveMaker'
+  blog: 'http://www.wavemaker.com/blog/'
+  blog_rss: ''
+  github: 'https://github.com/wavemaker'
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/wavemaker-logo.png
+  tags: 'Deployment,Management,Cloud'
+- slug: weblab
+  name: weblab
+  description: >-
+    Microservices at your fingertips. no provisioning or deployments required.
+    give your IoT device compute super powers. Run code in response to events.
+    Your microservice up in less than 7 seconds. Use our awesome CLI to spin a
+    service in seconds. You can also integrate with your favourite CI/CD
+    solution for automated deployments. Run your code with just an HTTPS call.
+    As simple as that. Your mobile or IoT device gets compute superpowers.
+  url: 'https://weblab.io/'
+  short_url: ''
+  twitter: 'https://twitter.com/weblabhq'
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/weblab-io-logo.png
+  tags: 'Microservices,Deployment,Internet of Things,Serverless'
+- slug: webtask
+  name: Webtask
+  description: >-
+    Run code with an HTTP call. No provisioning. No deployment. Run server-side
+    code for your JavaScript and native applications. Just worry about your
+    code. Run code on each Stripe Payment, a GitHub Push, or any webhook,
+    without setting up servers. Allow your customers to extend your product
+    using Node.js code instead of creating your own DSL.
+  url: 'https://webtask.io/'
+  short_url: ''
+  twitter: 'https://twitter.com/webtaskio'
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/webtask-io-logo.png
+  tags: 'Serverless,Deployment,Webhooks'
+- slug: wrapapi
+  name: WrapAPI
+  description: >-
+    Build an API on top of any website. Turn any website...into a parameterized
+    APIBuild, share, and use APIs made from webpages. Use WrapAPI to scrape
+    sites, build better UIs, and automate online tasks.
+  url: 'https://wrapapi.com'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/wrapapi-logo.png
+  tags: 'Scraping,Deployment,Scraping Tools'
+- slug: zatar--zebra
+  name: Zatar @ Zebra
+  description: >-
+    Zatar is a product of Zebra Technologies, a global leader respected for
+    innovation and reliability. Zebra provides products and services that enable
+    real-time visibility into organization's assets. Zebra solutions support
+    Enterprise Asset Intelligence and the Zatar enterprise IoT platform is a
+    perfect example! Zatar provides a standards-based approach to connectivity
+    and control of devices along with open APIs to create apps, onboard devices
+    and enable collaboration.&nbsp;
+  url: 'http://www.zatar.com/'
+  short_url: ''
+  twitter: 'https://twitter.com/Zatar_IoT'
+  blog: 'http://www.zatar.com/about'
+  blog_rss: ''
+  github: 'https://github.com/zatar-iot'
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/zatar.png
+  tags: 'Deployment,API Deployment Cloud'
+- slug: zeit
+  name: Zeit
+  description: >-
+    Make cloud computing as easy and accessible as mobile computing. To be truly
+    easy, cloud computing should be as easy as a tap or command. To connect
+    everyone, applications have to be fast from every geographical point. To be
+    accessible, great care has to go into the user experience and design. We
+    build products for developers and designers. And those who aspire to become
+    one.
+  url: 'https://zeit.co/'
+  short_url: ''
+  twitter: 'https://twitter.com/zeithq'
+  blog: 'https://zeit.co/blog'
+  blog_rss: ''
+  github: 'https://github.com/zeit/'
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Screen
+    Shot 2017-01-11 at 10.19.30 PM.png
+  tags: 'Deployment,Real Time'
