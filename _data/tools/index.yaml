@@ -11,578 +11,118 @@
   github: ''
   image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png'
   tags: 'GitHub,Management,Deployment,General'
-- slug: dropwizard
-  name: Dropwizard
-  description: A damn simple library for building production-ready RESTful web services.
-  url: 'https://github.com/dropwizard/dropwizard'
+- slug: dockergateway
+  name: docker-gateway
+  description: 3scale gateway in docker
+  url: 'https://api.github.com/repos/3scale/docker-gateway'
   short_url: ''
   twitter: ''
   blog: ''
   blog_rss: ''
   github: ''
   image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png'
-  tags: 'GitHub,Database,Framework,Java,Deployment'
-- slug: dockpit-api-blueprint-template
-  name: Dockpit API Blueprint Template
-  description: A Dockpit template for mocking Rest HTTP APIs using API Blueprint
-  url: 'https://github.com/dockpit/pit-api-blueprint/'
-  short_url: ''
-  twitter: ''
-  blog: ''
-  blog_rss: ''
-  github: ''
-  image: >-
-    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/tool/bw-api-blueprint-icon.png
-  tags: 'Mock,API Blueprint,Microservices,Deployment'
-- slug: fabio
-  name: fabio
+  tags: 'GitHub,Containers,Management'
+- slug: 3scale_ws_api_for_java
+  name: 3scale_ws_api_for_java
   description: >-
-    A fast, modern, zero-conf load balancing HTTP(S) router for deploying
-    microservices managed by consul.
-  url: 'https://github.com/eBay/fabio'
+    3scale integration plugin for Java applications. 3scale is an API
+    Infrastructure service which handl
+  url: 'https://api.github.com/repos/3scale/3scale_ws_api_for_java'
   short_url: ''
   twitter: ''
   blog: ''
   blog_rss: ''
   github: ''
   image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png'
-  tags: 'GitHub,Deployment,Microservices'
-- slug: microrest.php
-  name: microrest.php
+  tags: 'GitHub,Management'
+- slug: 3scale_ws_api_for_perl
+  name: 3scale_ws_api_for_perl
+  description: 3scale integration plugin for Perl applications
+  url: 'https://api.github.com/repos/3scale/3scale_ws_api_for_perl'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png'
+  tags: 'GitHub,Management'
+- slug: 3scale_ws_api_for_php
+  name: 3scale_ws_api_for_php
   description: >-
-    A micro web application providing a REST API on top of any relational
-    database, using Silex and Doctrine DBAL
-  url: 'https://github.com/marmelab/microrest.php'
+    3scale integration plugin for PHP applications. 3scale is an API
+    Infrastructure service which handle
+  url: 'https://api.github.com/repos/3scale/3scale_ws_api_for_php'
   short_url: ''
   twitter: ''
   blog: ''
   blog_rss: ''
   github: ''
   image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png'
-  tags: 'GitHub,Database,Deployment'
-- slug: micro
-  name: micro
-  description: A microservice toolkit
-  url: 'https://github.com/micro/micro'
-  short_url: ''
-  twitter: ''
-  blog: ''
-  blog_rss: ''
-  github: ''
-  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png'
-  tags: 'GitHub,Microservices,Deployment'
-- slug: restrack
-  name: RESTRack
+  tags: 'GitHub,Management'
+- slug: 3scale_ws_api_for_python
+  name: 3scale_ws_api_for_python
   description: >-
-    A Model-View-Controller Framework. RESTRack follows the MVC design pattern
-    that you are already familiar with. &nbsp;It is inspired by Rails and
-    follows a few of its conventions. But, while Rails is a powerful tool for
-    full web applications, RESTRack is targeted at super lightweight data
-    services. Rack aims to provide a minimal API for connecting web servers and
-    web frameworks. RESTRack leverages Rack to provide a minimal framework to
-    create REST services. &nbsp;From the get go, RESTRack was designed to make
-    it extremely easy to develop performant REST data services. RESTRack is
-    perfect for data generation. Rich JavaScript frameworks such as ExtJS,
-    jQuery UI, dojo, and native mobile applications would be well suited to for
-    RESTRack serving as the data layer. The framework has a very small memory
-    footprint, making it a great choice for cloud type architectures.
-  url: 'http://restrack.me/'
-  short_url: ''
-  twitter: ''
-  blog: ''
-  blog_rss: ''
-  github: ''
-  image: >-
-    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/tools/REST-Rack-Logo.png
-  tags: 'Ruby,Framework,Deployment'
-- slug: arrestmysql
-  name: Arrest-MySQL
-  description: A plug-n-play RESTful API for your MySQL database.
-  url: 'https://github.com/gilbitron/Arrest-MySQL'
+    3scale integration plugin for Python applications. 3scale is an API
+    Infrastructure service which han
+  url: 'https://api.github.com/repos/3scale/3scale_ws_api_for_python'
   short_url: ''
   twitter: ''
   blog: ''
   blog_rss: ''
   github: ''
   image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png'
-  tags: 'GitHub,Database,Deployment'
-- slug: gomicro
-  name: go-micro
-  description: A pluggable RPC microservice framework
-  url: 'https://api.github.com/repos/micro/go-micro'
-  short_url: ''
-  twitter: ''
-  blog: ''
-  blog_rss: ''
-  github: ''
-  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png'
-  tags: 'GitHub,Deployment,Microservices'
-- slug: go-json-rest
-  name: Go JSON REST
-  description: A quick and easy way to setup a RESTful JSON API
-  url: 'https://github.com/ant0ine/go-json-rest'
-  short_url: ''
-  twitter: ''
-  blog: ''
-  blog_rss: ''
-  github: ''
-  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png'
-  tags: 'GitHub,Deployment,Framework,Go'
-- slug: bulletphp
-  name: bulletphp
-  description: A resource-oriented micro PHP framework
-  url: 'https://github.com/vlucas/bulletphp'
-  short_url: ''
-  twitter: ''
-  blog: ''
-  blog_rss: ''
-  github: ''
-  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png'
-  tags: 'GitHub,Deployment,Framework'
-- slug: obpapi
-  name: OBP-API
+  tags: 'GitHub,Management'
+- slug: 3scale_ws_api_for_ruby
+  name: 3scale_ws_api_for_ruby
   description: >-
-    A RESTful API for banks that supports: accounts, transactions,
-    counterparties, transfers (payments),
-  url: 'https://api.github.com/repos/OpenBankProject/OBP-API'
+    3scale integration plugin for Ruby/Ruby on Rails applications. 3scale is an
+    API Infrastructure servi
+  url: 'https://api.github.com/repos/3scale/3scale_ws_api_for_ruby'
   short_url: ''
   twitter: ''
   blog: ''
   blog_rss: ''
   github: ''
   image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png'
-  tags: 'GitHub,Deployment,Banking'
-- slug: restler
-  name: Restler
+  tags: 'GitHub,Management'
+- slug: 3scale_ws_api_for_nodejs
+  name: 3scale_ws_api_for_nodejs
   description: >-
-    A RESTful API server framework that is written in PHP that aids your mobile
-    / web / desktop applications. A framework, but with a difference &ndash;
-    Restler is all here to bend and mend to your needs. Writing Server made easy
-    and light. With the light weight, Restler makes writing a server as easy as
-    writing it with just 3 PHP files. Restler&rsquo;s advantage is the
-    simplicity. You can create a PHP class with some functions to expose.&nbsp;
-    If you know how to write object oriented PHP, then you already know how to
-    use Restler. It&rsquo;s action speaks for its effectiveness. Restler is all
-    about being light and easy. All public methods are automatically mapped to a
-    URL Tailor-made Restler is known for the customization options. You just
-    need to write class and add methods in PHP. It is just there!
-  url: 'http://luracast.com/products/restler/'
-  short_url: ''
-  twitter: ''
-  blog: ''
-  blog_rss: 'https://github.com/Luracast/Restler'
-  github: ''
-  image: >-
-    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/bw-github.jpg
-  tags: 'PHP,Framework,Deployment'
-- slug: restier
-  name: RESTier
-  description: A turn-key library for building RESTful services
-  url: 'https://api.github.com/repos/OData/RESTier'
+    3scale is an API Infrastructure service which handles API Keys, Rate
+    Limiting, Analytics, Billing Pa
+  url: 'https://api.github.com/repos/3scale/3scale_ws_api_for_nodejs'
   short_url: ''
   twitter: ''
   blog: ''
   blog_rss: ''
   github: ''
   image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png'
-  tags: 'GitHub,Deployment,General'
-- slug: glotrun
-  name: glot-run
-  description: API for running code inside docker containers
-  url: 'https://github.com/prasmussen/glot-run'
+  tags: 'GitHub,Management'
+- slug: apiman
+  name: APIMan
+  description: API Management
+  url: 'https://github.com/apiman/apiman'
   short_url: ''
   twitter: ''
   blog: ''
   blog_rss: ''
   github: ''
   image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png'
-  tags: 'GitHub,Containers,Deployment'
-- slug: playframework
-  name: PlayFramework
+  tags: 'GitHub,Management'
+- slug: ckan
+  name: ckan
   description: >-
-    ay is based on a lightweight, stateless, web-friendly architecture. Built on
-    Akka, Play provides predictable and minimal resource consumption (CPU,
-    memory, threads) for highly-scalable applications.
-  url: 'https://github.com/playframework/playframework'
+    CKAN is an open-source DMS (data management system) for powering data hubs
+    and data portals. CKAN makes it easy to publish, share and use data. It
+    powers datahub.io, catalog.data.gov and data.gov.uk among many other sites.
+  url: 'https://github.com/ckan/ckan'
   short_url: ''
   twitter: ''
   blog: ''
   blog_rss: ''
   github: ''
   image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png'
-  tags: 'GitHub,Framework,Deployment,Java'
-- slug: bottle
-  name: Bottle
-  description: >-
-    Bottle is a fast, simple and lightweight WSGI micro web-framework for
-    Python. It is distributed as a single file module and has no dependencies
-    other than the Python Standard Library.
-  url: 'http://bottlepy.org/docs/dev/'
-  short_url: ''
-  twitter: ''
-  blog: ''
-  blog_rss: ''
-  github: ''
-  image: >-
-    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/tools/bottle-logo.png
-  tags: 'Python,Framework,Deployment,Deployment'
-- slug: laravelrestfulapistarter
-  name: laravel-restful-api-starter
-  description: Build a RESTful API with Laravel and MongoDB
-  url: 'https://github.com/merlosy/laravel-restful-api-starter'
-  short_url: ''
-  twitter: ''
-  blog: ''
-  blog_rss: ''
-  github: ''
-  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png'
-  tags: 'GitHub,Database,Deployment,MongoDB'
-- slug: lambadaframework
-  name: lambadaframework
-  description: >-
-    Build serverless REST APIs with JAVA. It implements the JAX-RS API and
-    deploys your application easily to AWS Lambda and API Gateway
-  url: 'https://github.com/lambadaframework/lambadaframework'
-  short_url: ''
-  twitter: ''
-  blog: ''
-  blog_rss: ''
-  github: ''
-  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png'
-  tags: 'GitHub,Deployment,Serverless'
-- slug: cherrypy
-  name: CherryPy
-  description: >-
-    CherryPy is a pythonic, object-oriented HTTP framework, that&nbsp;allows
-    developers to build web applications in much the same way they would build
-    any other object-oriented Python program. This results in smaller source
-    code developed in less time. CherryPy is now more than six years old and it
-    is has proven very fast and stable. It is being used in production by many
-    sites, from the simplest ones to the most demanding ones.
-  url: 'http://cherrypy.org/'
-  short_url: ''
-  twitter: ''
-  blog: ''
-  blog_rss: ''
-  github: ''
-  image: >-
-    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/tools/cherrypy_logo_big.png
-  tags: 'Python,Framework,Deployment'
-- slug: corona
-  name: Corona
-  description: Community REST API for MarkLogic
-  url: 'https://api.github.com/repos/marklogic/Corona'
-  short_url: ''
-  twitter: ''
-  blog: ''
-  blog_rss: ''
-  github: ''
-  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png'
-  tags: 'GitHub,Database,Deployment'
-- slug: apimandeployer
-  name: apiman-deployer
-  description: >-
-    Contains scripts useful for deploying apiman into various environments (e.g.
-    for production).
-  url: 'https://api.github.com/repos/apiman/apiman-deployer'
-  short_url: ''
-  twitter: ''
-  blog: ''
-  blog_rss: ''
-  github: ''
-  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png'
-  tags: 'GitHub,Deployment'
-- slug: dockercontinuousdeployment
-  name: docker-continuous-deployment
-  description: continuous deployment of a microservices application with Docker
-  url: 'https://github.com/francescou/docker-continuous-deployment'
-  short_url: ''
-  twitter: ''
-  blog: ''
-  blog_rss: ''
-  github: ''
-  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png'
-  tags: 'GitHub,Containers,Deployment,Microservices'
-- slug: dave
-  name: Dave
-  description: >-
-    DAVE is a minimalist, multi-node, transactional API framework written in
-    PHP, which contains an end-to-end API test suite for TDD, a Task model, an
-    Active Database Model, and a stand-alone development server ( PHP) to get
-    you started.DAVE is an acronym that stands for Delete, Add, Edit, and View.
-    These 4 methods make up the core functionality of many transactional web
-    applications.The DAVE API aims to simplify and abstract may of the common
-    tasks that these types of APIs require. DAVE does the work for you, and he's
-    not CRUD. Dave was built to be both easy to use, but to be as simple as
-    possible.Dave contains an end-to-end API test suite for TDD, a Task model,
-    an Active Database Model, and a stand-alone development server (written in
-    just PHP) to get you started.
-  url: 'https://github.com/evantahler/PHP-DAVE-API'
-  short_url: ''
-  twitter: ''
-  blog: ''
-  blog_rss: ''
-  github: ''
-  image: >-
-    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/bw-github.jpg
-  tags: 'PHP,Framework,Deployment'
-- slug: claudia
-  name: claudia
-  description: Deploy Node.js microservices to AWS easily
-  url: 'https://github.com/claudiajs/claudia'
-  short_url: ''
-  twitter: ''
-  blog: ''
-  blog_rss: ''
-  github: ''
-  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png'
-  tags: 'GitHub,Deployment,Microservices'
-- slug: goa
-  name: goa
-  description: Design-based microservices in Go
-  url: 'https://api.github.com/repos/goadesign/goa'
-  short_url: ''
-  twitter: ''
-  blog: ''
-  blog_rss: ''
-  github: ''
-  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png'
-  tags: 'GitHub,Microservices,Deployment'
-- slug: django-rest
-  name: Django Rest
-  description: >-
-    Django REST framework is a lightweight REST framework for Django, that aims
-    to make it easy to build well-connected, self-describing RESTful Web
-    APIs.    Automatically provides an awesome Django admin style browse-able
-    self-documenting API. Clean, simple, views for Resources, using
-    Django&rsquo;s new class based views. Support for ModelResources with
-    out-of-the-box default implementations and input validation. Pluggable
-    parsers, renderers, authentication and permissions - Easy to customise.
-    Content type negotiation using HTTP Accept headers. Optional support for
-    forms as input validation. Modular architecture - MixIn classes can be used
-    without requiring the Resource or ModelResource classes.
-  url: 'http://django-rest-framework.org/'
-  short_url: ''
-  twitter: ''
-  blog: ''
-  blog_rss: ''
-  github: ''
-  image: >-
-    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/tools/Django-REST-Framework-Logo.png
-  tags: 'Django,Framework,Python,Deployment'
-- slug: dockeropenresty
-  name: docker-openresty
-  description: 'Docker Image with Openresty, redis and luarocks'
-  url: 'https://api.github.com/repos/3scale/docker-openresty'
-  short_url: ''
-  twitter: ''
-  blog: ''
-  blog_rss: ''
-  github: ''
-  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png'
-  tags: 'GitHub,Deployment'
-- slug: dockermysqltmpfs
-  name: docker-mysql-tmpfs
-  description: Docker mysql on tmpfs
-  url: 'https://api.github.com/repos/3scale/docker-mysql-tmpfs'
-  short_url: ''
-  twitter: ''
-  blog: ''
-  blog_rss: ''
-  github: ''
-  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png'
-  tags: 'GitHub,Deployment,Database,Containers,MySQL'
-- slug: dockerelasticsearch
-  name: docker-elasticsearch
-  description: ElasticSearch Dockerfile for trusted automated Docker builds.
-  url: 'https://api.github.com/repos/3scale/docker-elasticsearch'
-  short_url: ''
-  twitter: ''
-  blog: ''
-  blog_rss: ''
-  github: ''
-  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png'
-  tags: 'GitHub,Search,Deployment'
-- slug: hug
-  name: Hug
-  description: >-
-    Embrace the APIs of the future. Hug aims to make developing APIs as simple
-    as possible, but no simpler.
-  url: 'https://github.com/timothycrosley/hug'
-  short_url: ''
-  twitter: ''
-  blog: ''
-  blog_rss: ''
-  github: ''
-  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png'
-  tags: 'GitHub,Deployment,Framework'
-- slug: eve
-  name: Eve
-  description: >-
-    Eve is an open source Python REST API framework designed for human beings.
-    It allows to effortlessly build and deploy highly customizable, fully
-    featured RESTful Web Services.
-  url: 'https://github.com/nicolaiarocci/eve'
-  short_url: ''
-  twitter: ''
-  blog: ''
-  blog_rss: ''
-  github: ''
-  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png'
-  tags: 'GitHub,Deployment,Framework,Python'
-- slug: falcon
-  name: Falcon
-  description: >-
-    Falcon is a low-level, high-performance Python framework for building HTTP
-    APIs, app backends, and higher-level frameworks.
-  url: 'https://github.com/falconry/falcon'
-  short_url: ''
-  twitter: ''
-  blog: ''
-  blog_rss: ''
-  github: ''
-  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png'
-  tags: 'GitHub,Deployment,Framework,Python'
-- slug: falcon
-  name: Falcon
-  description: >-
-    Falcon is a ridiculously fast, minimalist Python web framework for building
-    cloud APIs and app backends. The Falcon web framework encourages the REST
-    architectural style, meaning (among other things) that you think in terms of
-    resources and state transitions, which map to HTTP verbs.
-  url: 'http://falconframework.org/'
-  short_url: ''
-  twitter: ''
-  blog: ''
-  blog_rss: ''
-  github: ''
-  image: >-
-    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/tool/falcon-framework.png
-  tags: 'Deployment,Python,Framework'
-- slug: echo
-  name: Echo
-  description: >-
-    Fast and unfancy HTTP server framework for Go (Golang). Up to 10x faster
-    than the rest.
-  url: 'https://github.com/labstack/echo'
-  short_url: ''
-  twitter: ''
-  blog: ''
-  blog_rss: ''
-  github: ''
-  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png'
-  tags: 'GitHub,Deployment,Framework,Go'
-- slug: flight
-  name: Flight
-  description: >-
-    Flight is a fast, simple, extensible framework for PHP. Flight enables you
-    to quickly and easily build RESTful web applications.
-  url: 'http://flightphp.com/'
-  short_url: ''
-  twitter: ''
-  blog: ''
-  blog_rss: ''
-  github: ''
-  image: >-
-    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/tool/flight-logo.png
-  tags: 'Deployment,PHP,Framework'
-- slug: frapi
-  name: FRAPI
-  description: >-
-    FRAPI is a new type of framework that embraces the standards and mindset of
-    how the web is modeled. Instead of being a general purpose framework like
-    the Zend Framework, Symfony, Cake, Lithium, etc. which are great for
-    building web applications, FRAPI aims at removing the whole frontend layer
-    complexity that handling REST calls can bring. FRAPI is a RESTful API
-    Framework that allows developers to rapidly develop RESTful APIs that are
-    easily scalable and highly performant. FRAPI consists of two specific parts:
-    The administration interface and the public API.
-  url: 'http://getfrapi.com/'
-  short_url: ''
-  twitter: ''
-  blog: ''
-  blog_rss: ''
-  github: ''
-  image: >-
-    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/tools/FRAPI-Framwork.png
-  tags: 'PHP,Framework,Deployment'
-- slug: databeam
-  name: DataBeam
-  description: Generic RESTful Interface for databases
-  url: 'https://github.com/GSA/DataBeam'
-  short_url: ''
-  twitter: ''
-  blog: ''
-  blog_rss: ''
-  github: ''
-  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png'
-  tags: 'GitHub,Database,Deployment'
-- slug: jsonserver
-  name: JSON-Server
-  description: >-
-    Get a full fake REST API with zero coding in less than 30 seconds
-    (seriously)
-  url: 'https://github.com/typicode/json-server'
-  short_url: ''
-  twitter: ''
-  blog: ''
-  blog_rss: ''
-  github: ''
-  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png'
-  tags: 'GitHub,Deployment,Framework'
-- slug: gluuengine
-  name: gluu-engine
-  description: Gluu Server Docker Edition REST API
-  url: 'https://api.github.com/repos/GluuFederation/gluu-engine'
-  short_url: ''
-  twitter: ''
-  blog: ''
-  blog_rss: ''
-  github: ''
-  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png'
-  tags: 'GitHub,Containers,Deployment'
-- slug: grape
-  name: Grape
-  description: >-
-    Grape is a REST-like API micro-framework for Ruby. It's designed to run on
-    Rack or complement existing web application frameworks such as Rails and
-    Sinatra by providing a simple DSL to easily develop RESTful APIs. It has
-    built-in support for common conventions, including multiple formats,
-    subdomain/prefix restriction, content negotiation, versioning and much more.
-  url: 'http://rdoc.info/github/intridea/grape'
-  short_url: ''
-  twitter: ''
-  blog: ''
-  blog_rss: ''
-  github: ''
-  image: >-
-    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/bw-github.jpg
-  tags: 'Ruby,Framework,Deployment'
-- slug: deployd
-  name: deployd
-  description: a toolkit for building realtime APIs
-  url: 'https://github.com/deployd/deployd'
-  short_url: ''
-  twitter: ''
-  blog: ''
-  blog_rss: ''
-  github: ''
-  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png'
-  tags: 'Design,Design,GitHub,Deployment,Real Time'
-- slug: her
-  name: her
-  description: >-
-    Her is an ORM (Object Relational Mapper) that maps REST resources to Ruby
-    objects. It is designed to build applications that are powered by a RESTful
-    API instead of a database.
-  url: 'https://github.com/remiprev/her'
-  short_url: ''
-  twitter: ''
-  blog: ''
-  blog_rss: ''
-  github: ''
-  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png'
-  tags: 'GitHub,Database,Deployment'
+  tags: 'GitHub,Data,Management'
 - slug: microgateway
   name: microgateway
   description: 'IBM API Connect Microgateway framework, built on Node.js & Nginx'
@@ -594,538 +134,78 @@
   github: ''
   image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png'
   tags: 'GitHub,Deployment,Management'
-- slug: iotrestapiserver
-  name: iot-rest-api-server
-  description: iot-rest-api-server
-  url: 'https://api.github.com/repos/01org/iot-rest-api-server'
-  short_url: ''
-  twitter: ''
-  blog: ''
-  blog_rss: ''
-  github: ''
-  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png'
-  tags: 'GitHub,Deployment'
-- slug: lambdafai
-  name: lambdafai
+- slug: loopback
+  name: loopback
   description: >-
-    Lambdafai is a simple framework for building and deploying REST APIs using
-    AWS Lambda, API Gateway, DynamoDB, and S3.
-  url: 'https://github.com/Clarifai/lambdafai'
+    LoopBack is an open source Node.js framework built on top of Express
+    optimized for building APIs for mobile, web, and other devices. Connect to
+    multiple data sources, write business logic in Node.js, glue on top of your
+    existing services and data, connect using JS, iOS & Android SDKs.
+  url: 'https://github.com/strongloop/loopback'
   short_url: ''
   twitter: ''
   blog: ''
   blog_rss: ''
   github: ''
   image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png'
-  tags: 'GitHub,Deployment,Serverless'
-- slug: restletframeworkjava
-  name: restlet-framework-java
-  description: Leading RESTful web API framework for Java
-  url: 'https://api.github.com/repos/restlet/restlet-framework-java'
-  short_url: ''
-  twitter: ''
-  blog: ''
-  blog_rss: ''
-  github: ''
-  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png'
-  tags: 'GitHub,Deployment,Java,Framework'
-- slug: httprpc
-  name: HTTP-RPC
-  description: Lightweight cross-platform REST services
-  url: 'https://github.com/gk-brown/HTTP-RPC'
-  short_url: ''
-  twitter: ''
-  blog: ''
-  blog_rss: ''
-  github: ''
-  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png'
-  tags: 'GitHub,Deployment,Framework'
-- slug: limonade
-  name: Limonade
+  tags: 'GitHub,Management'
+- slug: movable-type
+  name: Movable Type
   description: >-
-    Limonade is a PHP micro framework for rapid web development and prototyping.
-    &nbsp;It&rsquo;s inspired by frameworks like Sinatra or Camping in Ruby, or
-    Orbit in Lua. It aims to be simple, lightweight and extremly flexible.
-  url: 'http://www.limonade-php.net/'
+    Movable Type is a weblog publishing system developed by the company Six
+    Apart, launched on October 8, 2001, and was relicensed as free software
+    under the GNU General Public License in 2007. Movable Type has several
+    notable features, such as the ability to host multiple weblogs and
+    standalone content pages, manage files, user roles, templates, tags,
+    categories, and trackback links. Movable Type is written in Perl, and
+    supports storage of the weblog's content and associated data within MySQL
+    natively. PostgreSQL and SQLite support was available prior to version 5,
+    and can still be used via plug-ins. Movable Type is free software under the
+    GPLv2 license. In addition to the free version, users can purchase support
+    or buy commercial, education, or nonprofit licenses, which come with support
+    contracts, author limits, and unlimited blogs.
+  url: 'http://movabletype.org/'
   short_url: ''
-  twitter: ''
-  blog: ''
+  twitter: 'http://movabletype.org/'
+  blog: 'http://feeds.feedburner.com/MovableTypeBeta'
   blog_rss: ''
   github: ''
   image: >-
-    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/tools/limonade.png
-  tags: 'Framework,PHP,Limonade,Deployment'
-- slug: kubernetes
-  name: kubernetes
-  description: Micro on Kubernetes
-  url: 'https://api.github.com/repos/micro/kubernetes'
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/tools/movable-type-logo.png
+  tags: 'Blog,Blogging,CMS,Content Management System,Movable Type'
+- slug: api-umbrella
+  name: API Umbrella
+  description: Open source API management platform
+  url: 'https://github.com/NREL/api-umbrella'
   short_url: ''
   twitter: ''
   blog: ''
   blog_rss: ''
   github: ''
   image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png'
-  tags: 'GitHub,Containers,Deployment,Microservices'
-- slug: ninja
-  name: Ninja
-  description: >-
-    Ninja is a full stack web framework for Java. Rock solid, fast and super
-    productive.
-  url: 'https://github.com/ninjaframework/ninja'
+  tags: 'GitHub,Management'
+- slug: apiumbrella
+  name: api-umbrella
+  description: Open source API management platform
+  url: 'https://github.com/NREL/api-umbrella'
   short_url: ''
   twitter: ''
   blog: ''
   blog_rss: ''
   github: ''
   image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png'
-  tags: 'GitHub,Deployment,Framework,Java'
-- slug: noderestify
-  name: node-restify
-  description: node.js REST framework specifically meant for web service APIs
-  url: 'https://github.com/restify/node-restify'
+  tags: 'GitHub,Management'
+- slug: repose
+  name: repose
+  description: 'The powerful, programmable, API Middleware Platform'
+  url: 'https://github.com/rackerlabs/repose'
   short_url: ''
   twitter: ''
   blog: ''
   blog_rss: ''
   github: ''
   image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png'
-  tags: 'GitHub,Deployment,Framework'
-- slug: lelylan
-  name: lelylan
-  description: >-
-    Open Source Lightweight Microservices Architecture for the Internet of
-    Things. For developers.
-  url: 'https://github.com/lelylan/lelylan'
-  short_url: ''
-  twitter: ''
-  blog: ''
-  blog_rss: ''
-  github: ''
-  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png'
-  tags: 'GitHub,Microservices,Deployment,Internet of Things'
-- slug: hook.io
-  name: hook.io
-  description: Open-Source Microservice Hosting Platform
-  url: 'https://api.github.com/repos/bigcompany/hook.io'
-  short_url: ''
-  twitter: ''
-  blog: ''
-  blog_rss: ''
-  github: ''
-  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png'
-  tags: 'GitHub,Deployment,Microservices'
-- slug: psx
-  name: PSX
-  description: >-
-    PSX is a framework written in PHP dedicated to build RESTful APIs. It is
-    based on multiple components which cover many aspects of the API lifecycle.
-  url: 'https://github.com/apioo/psx'
-  short_url: ''
-  twitter: ''
-  blog: ''
-  blog_rss: ''
-  github: ''
-  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png'
-  tags: 'GitHub,Framework,Deployment,PHP'
-- slug: ramses
-  name: ramses
-  description: >-
-    RAML + Elasticsearch / Postgres / Mongodb / Your Data Store™ + Pyramid =
-    RESTful API
-  url: 'https://github.com/ramses-tech/ramses'
-  short_url: ''
-  twitter: ''
-  blog: ''
-  blog_rss: ''
-  github: ''
-  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png'
-  tags: 'GitHub,Database,Deployment,MongoDB,Search'
-- slug: recess
-  name: Recess
-  description: >-
-    Recess is a RESTful PHP framework that can be used by both beginner and
-    seasoned developers. Recess is fast, light-weight, and has a very small
-    footprint&mdash;ideal for LAMP development and drag-and-drop deployment to
-    shared hosts. Recess is a modern framework that uses a loosely-coupled
-    Model-View-Controller architecture designed and optimized specifically for
-    PHP 5.
-  url: 'http://www.recessframework.org/'
-  short_url: ''
-  twitter: 'http://www.recessframework.org/blog'
-  blog: 'http://feeds2.feedburner.com/RecessFramework'
-  blog_rss: ''
-  github: ''
-  image: >-
-    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/tools/Recess-PHP-Framework-150x50.png
-  tags: 'PHP,Framework,Deployment'
-- slug: postgrest
-  name: postgrest
-  description: REST API for any Postgres database
-  url: 'https://github.com/begriffs/postgrest/'
-  short_url: ''
-  twitter: ''
-  blog: ''
-  blog_rss: ''
-  github: ''
-  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png'
-  tags: 'GitHub,Database,Connector,Deployment'
-- slug: restgomysql
-  name: restgomysql
-  description: REST APIs with Go and MySql
-  url: 'https://github.com/motyar/restgomysql'
-  short_url: ''
-  twitter: ''
-  blog: ''
-  blog_rss: ''
-  github: ''
-  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png'
-  tags: 'GitHub,Database,Go,Deployment'
-- slug: rest.li
-  name: rest.li
-  description: >-
-    Rest.li is a REST+JSON framework for building robust, scalable service
-    architectures using dynamic discovery and simple asynchronous APIs.
-  url: 'https://github.com/linkedin/rest.li'
-  short_url: ''
-  twitter: ''
-  blog: ''
-  blog_rss: ''
-  github: ''
-  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png'
-  tags: 'GitHub,Deployment,Framework,Java'
-- slug: rest.li
-  name: Rest.li
-  description: >-
-    Rest.li is an open source REST framework for building robust, scalable
-    RESTful architectures using type-safe bindings and asynchronous,
-    non-blocking IO. Rest.li fills a niche for applying RESTful principals at
-    scale with an end-to-end developer workflow for buildings REST APIs that
-    promotes clean REST practices, uniform interface design and consistent data
-    modeling.
-  url: 'http://rest.li/'
-  short_url: 'https://twitter.com/rest_li'
-  twitter: ''
-  blog: ''
-  blog_rss: ''
-  github: ''
-  image: >-
-    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/restli-logo.png
-  tags: 'Deployment,Framework'
-- slug: rest!
-  name: rest!
-  description: >-
-    rest&nbsp;is a set of packages used to write, document, and use RESTful
-    applications. You write your API in Haskell using&nbsp;rest's DSL. This API
-    can then be run in different web frameworks like happstack, snap, or wai.
-    Additionally, you can automatically generate documentation from it, as well
-    as client libraries for Haskell and Javascript.&nbsp;
-  url: >-
-    http://engineering.silk.co/post/90354057868/announcing-rest-a-haskell-rest-framework
-  short_url: ''
-  twitter: ''
-  blog: ''
-  blog_rss: ''
-  github: ''
-  image: >-
-    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/silk-logo.png
-  tags: 'Haskell,Deployment,Framework'
-- slug: resteasy
-  name: Resteasy
-  description: >-
-    Resteasy is a JBoss.org project aimed at providing productivity frameworks
-    for developing client and server RESTful applications and services in Java.
-    &nbsp;It is mainly a JAX-RS implementation but you'll find some other
-    experimental code in the repository.
-  url: 'http://www.jboss.org/resteasy'
-  short_url: ''
-  twitter: ''
-  blog: ''
-  blog_rss: ''
-  github: ''
-  image: >-
-    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/tools/REST-Easy.png
-  tags: 'Java,Framework,Deployment'
-- slug: restheart
-  name: restheart
-  description: 'RESTHeart, the automatic REST API Server for MongoDB'
-  url: 'https://github.com/SoftInstigate/restheart'
-  short_url: ''
-  twitter: ''
-  blog: ''
-  blog_rss: ''
-  github: ''
-  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png'
-  tags: 'GitHub,Database,Deployment,MongoDB'
-- slug: restify
-  name: Restify
-  description: >-
-    restify is a node.js module built specifically to enable you to build
-    correct REST web services. It intentionally borrows heavily from express as
-    that is more or less the de facto API for writing web applications on top of
-    node.js.
-  url: 'http://mcavage.github.com/node-restify/'
-  short_url: ''
-  twitter: ''
-  blog: ''
-  blog_rss: ''
-  github: ''
-  image: >-
-    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/tools/Restify-Logo.png
-  tags: 'Framework,Node.js,Deployment'
-- slug: falcorrestify
-  name: falcor-restify
-  description: Restify Middleware for Hosting Falcor Data Sources.
-  url: 'https://api.github.com/repos/Netflix/falcor-restify'
-  short_url: ''
-  twitter: ''
-  blog: ''
-  blog_rss: ''
-  github: ''
-  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png'
-  tags: 'GitHub,Deployment'
-- slug: restkit
-  name: RESTkit
-  description: >-
-    RestKit is an Objective-C framework for iOS that aims to make interacting
-    with RESTful web services simple, fast and fun. It combines a clean, simple
-    HTTP request/response API with a powerful object mapping system that reduces
-    the amount of code you need to write to get stuff done.
-  url: 'http://restkit.org/'
-  short_url: ''
-  twitter: ''
-  blog: ''
-  blog_rss: ''
-  github: ''
-  image: >-
-    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/tools/RestKit-Logo.png
-  tags: 'Objective C,Framework,Deployment'
-- slug: restletframeworkjs
-  name: restlet-framework-js
-  description: Restlet Framework for JavaScript
-  url: 'https://api.github.com/repos/restlet/restlet-framework-js'
-  short_url: ''
-  twitter: ''
-  blog: ''
-  blog_rss: ''
-  github: ''
-  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png'
-  tags: 'GitHub,JavaScript,Deployment,Framework'
-- slug: restlet
-  name: Restlet
-  description: >-
-    Restlet Framework is the most widely used open source solution for Java
-    developers who want to create and use APIs.
-  url: 'http://www.restlet.org/'
-  short_url: ''
-  twitter: ''
-  blog: ''
-  blog_rss: ''
-  github: ''
-  image: >-
-    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/tools/Restlet.png
-  tags: 'Java,Framework,Deployment'
-- slug: restx
-  name: RESTx
-  description: >-
-    RESTx is a light-weight open-source platform for the creation of RESTful
-    data access and integration resources and web services. It emphasizes
-    simplicity, sane defaults and out-of-the-box usability. No complex
-    configuration, no steep learning curve: You will be up and running in just 5
-    minutes. RESTx is not your usual application framework and can simplify the
-    creation of RESTful web services and resources.
-  url: 'http://restx.mulesoft.org/'
-  short_url: ''
-  twitter: ''
-  blog: ''
-  blog_rss: ''
-  github: ''
-  image: >-
-    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/tools/RESTx.png
-  tags: 'Framework,Java,Python,Deployment'
-- slug: prest
-  name: prest
-  description: Serve a RESTful API from any PostgreSQL database
-  url: 'https://github.com/nuveo/prest'
-  short_url: ''
-  twitter: ''
-  blog: ''
-  blog_rss: ''
-  github: ''
-  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png'
-  tags: 'GitHub,Database,Deployment'
-- slug: leveros
-  name: leveros
-  description: Serverless + Microservices = ♥
-  url: 'https://github.com/leveros/leveros'
-  short_url: ''
-  twitter: ''
-  blog: ''
-  blog_rss: ''
-  github: ''
-  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png'
-  tags: 'GitHub,Serverless,Microservices,Deployment'
-- slug: flaskrestful
-  name: flask-restful
-  description: Simple framework for creating REST APIs
-  url: 'https://github.com/flask-restful/flask-restful'
-  short_url: ''
-  twitter: ''
-  blog: ''
-  blog_rss: ''
-  github: ''
-  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png'
-  tags: 'GitHub,Deployment,Framework,Python'
-- slug: nodeapi
-  name: NodeAPI
-  description: Simple RESTful API implementation on Node.js + MongoDB.
-  url: 'https://github.com/ealeksandrov/NodeAPI'
-  short_url: ''
-  twitter: ''
-  blog: ''
-  blog_rss: ''
-  github: ''
-  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png'
-  tags: 'GitHub,Database,MongoDB,Deployment,Node.js'
-- slug: dockerredis
-  name: docker-redis
-  description: Simplest Redis in docker (with persistence)
-  url: 'https://api.github.com/repos/3scale/docker-redis'
-  short_url: ''
-  twitter: ''
-  blog: ''
-  blog_rss: ''
-  github: ''
-  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png'
-  tags: 'GitHub,Deployment,Database,Containers'
-- slug: phpcrudapi
-  name: php-crud-api
-  description: Single file PHP script that adds a REST API to a SQL database
-  url: 'https://github.com/mevdschee/php-crud-api'
-  short_url: ''
-  twitter: ''
-  blog: ''
-  blog_rss: ''
-  github: ''
-  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png'
-  tags: 'GitHub,Database,Deployment,PHP'
-- slug: connexion
-  name: connexion
-  description: >-
-    Swagger/OpenAPI First framework for Python on top of Flask with automatic
-    endpoint validation & OAuth2 support
-  url: 'https://github.com/zalando/connexion'
-  short_url: ''
-  twitter: ''
-  blog: ''
-  blog_rss: ''
-  github: ''
-  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png'
-  tags: 'GitHub,OpenAPI Spec,Deployment,Flask,Python'
-- slug: lumber
-  name: lumber
-  description: >-
-    The Admin Interface
-    Framework&nbsp;http://www.forestadmin.com/lumber.&nbsp;Lumber is an
-    opensource tool to generate an admin microservice. It serves a REST API
-    hooked directly into your database (MySQL and Postgres for now).
-  url: 'https://github.com/ForestAdmin/lumber'
-  short_url: ''
-  twitter: ''
-  blog: ''
-  blog_rss: ''
-  github: ''
-  image: >-
-    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/tool/lumber-logo.png
-  tags: 'GitHub,Deployment,Microservices'
-- slug: easymongo
-  name: easymongo
-  description: The easiest MongoDB API
-  url: 'https://github.com/meritt/easymongo'
-  short_url: ''
-  twitter: ''
-  blog: ''
-  blog_rss: ''
-  github: ''
-  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png'
-  tags: 'GitHub,Database,Deployment,MongoDB'
-- slug: epiphany
-  name: Epiphany
-  description: >-
-    The Epiphany framework is fast, easy, clean and RESTful. The framework does
-    not do a lot of magic under the hood. It is, by design, very simple and very
-    powerful.The documentation provides a few conventions that we believe lead
-    to well written code but you're free to use any style you'd like. The
-    framework never dictates how you should write or structure your application.
-  url: 'https://github.com/jmathai/epiphany#readme'
-  short_url: ''
-  twitter: ''
-  blog: ''
-  blog_rss: ''
-  github: ''
-  image: >-
-    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/bw-github.jpg
-  tags: 'PHP,Framework,Deployment'
-- slug: lightjava
-  name: light-java
-  description: The fastest and most productive microservices framework available
-  url: 'https://github.com/networknt/light-java'
-  short_url: ''
-  twitter: ''
-  blog: ''
-  blog_rss: ''
-  github: ''
-  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png'
-  tags: 'GitHub,Deployment'
-- slug: core
-  name: core
-  description: >-
-    The Hypermedia REST API component of API Platform: JSON-LD and Hydra
-    support, works with Symfony too
-  url: 'https://github.com/api-platform/core'
-  short_url: ''
-  twitter: ''
-  blog: ''
-  blog_rss: ''
-  github: ''
-  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png'
-  tags: 'GitHub,Deployment,OpenAPI Spec'
-- slug: pylons
-  name: Pylons
-  description: >-
-    The Pylons Project was founded by the people behind the Pylons web framework
-    to develop web application framework technology in Python. Rather than
-    focusing on a single web framework, the Pylons Project will develop a
-    collection of related technologies. The first package is the Pyramid web
-    framework.
-  url: 'http://www.pylonsproject.org/'
-  short_url: ''
-  twitter: ''
-  blog: ''
-  blog_rss: ''
-  github: ''
-  image: >-
-    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/tools/Pylons-Logo.png
-  tags: 'Framework,Python,Deployment'
-- slug: restfixture
-  name: RestFixture
-  description: >-
-    The RestFixture is a FitNesse fixture that allows developers, testers,
-    and/or product owners to write test fixtures
-    for&nbsp;REST&nbsp;API&nbsp;with simplicity in mind. The idea is to write
-    tests that are self-documenting and easy to write and read, without the need
-    to write Java code. The fixture allows test writers to express tests as
-    actions (using any of the allowed&nbsp;HTTP&nbsp;methods) to operate on
-    resource URIs and to express expectations about the content of the return
-    code, headers and body. All without writing one single line of Java code!
-  url: 'https://github.com/smartrics/RestFixture/wiki'
-  short_url: ''
-  twitter: ''
-  blog: ''
-  blog_rss: ''
-  github: ''
-  image: >-
-    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/bw-github.jpg
-  tags: 'Framework,Java,Deployment'
+  tags: 'GitHub,Management'
 - slug: apiplatform
   name: api-platform
   description: The ultimate PHP framework to build modern web APIs
@@ -1137,36 +217,3 @@
   github: ''
   image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png'
   tags: 'GitHub,Deployment,Management'
-- slug: dbtoapi
-  name: db-to-api
-  description: 'Turns a Database into a Secure, RESTful API'
-  url: 'https://github.com/project-open-data/db-to-api'
-  short_url: ''
-  twitter: ''
-  blog: ''
-  blog_rss: ''
-  github: ''
-  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png'
-  tags: 'GitHub,Database,Deployment'
-- slug: djangorestframework
-  name: django-rest-framework
-  description: Web APIs for Django.
-  url: 'https://github.com/tomchristie/django-rest-framework'
-  short_url: ''
-  twitter: ''
-  blog: ''
-  blog_rss: ''
-  github: ''
-  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png'
-  tags: 'GitHub,Deployment,Framework'
-- slug: lumen
-  name: Lumen
-  description: ''
-  url: 'https://lumen.laravel.com/'
-  short_url: ''
-  twitter: ''
-  blog: ''
-  blog_rss: ''
-  github: ''
-  image: ''
-  tags: 'Deployment,Framework,PHP,Laravel'
