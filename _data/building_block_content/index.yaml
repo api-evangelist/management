@@ -1,4 +1,4 @@
-- title: API Deployment Building Blocks
+- title: API Management Building Blocks
   image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-building-blocks.png'
   header: >-
     As I study the API space, and profile the companies, services, and tooling I
@@ -11,4 +11,4 @@
     Remember that this represents my living research, and will evolve, expand
     and actually seed new research areas as I find the time to pay attention to
     API definitions.
-  tags: Deployment
+  tags: Management
