@@ -8,18 +8,18 @@
     increasingly digital lives, providing access to the bits and bytes that make
     our personal and professional worlds go round.</p>
 
-    <p>This is my research specificially into the world of API deployment, and
-    what services, frameworks, and other solutions folks are using to deploy
-    their APIs. This is a fast moving space when you consider expanding rapidly
-    with new trends like serverless, and microservices, making it something that
-    changes often.</p>
+    <p>This is my research specificially into the world of API mangement, and
+    how API providers are managing the details of their operations from
+    authentication, to service composition, rate limiting, reporting, and more.
+    This is the oldest area of my research, and has been the seed for every
+    other dimension of my API industry research.</p>
 
     <p>API Evangelist is a network of data driven projects and APIs which I
     curate and manage as part of this ongoing research, hoping to provide easy
     access to the moving parts of my work. Everything you see here runs on
     Github, making everything forkable, and resuable for both humans and
     machines.</p>
-  tags: Deployment
+  tags: Management
 - content_id: home-about
   title: About This Research
   image: 'http://design.apievangelist.com/images/api-evangelist-in-api-we-trust.png'
@@ -34,10 +34,10 @@
     papers for customers. This is one way thtat I generate revenue to keep it
     all going.</p>
 
-    <p>If you'd like to see me focus more on API definitions I could use more
+    <p>If you'd like to see me focus more on API management I could use more
     partners investing in this area, helping me find the time to study more
     about what is going on. Feel free to contact me directly if you want to talk
-    more about API deployment.</p>
+    more about API management.</p>
 
     <p>Thanks for your support!</p>
-  tags: Deployment
+  tags: Management
