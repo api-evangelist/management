@@ -144,7 +144,7 @@
   blog_rss: ''
   github: 'https://github.com/Mashape/kong'
   image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png'
-  tags: 'Management,Deployment,General'
+  tags: 'Management,Deployment,Open Source'
 - slug: loopback
   name: Loopback
   description: >-
@@ -207,4 +207,52 @@
   blog_rss: ''
   github: 'https://github.com/dreamfactorysoftware/'
   image: 'https://s3.amazonaws.com/kinlane-productions/partners/dreamfactory-logo.png'
+  tags: 'Management,Open Source'
+- slug: wso2-api-anagement
+  name: WSO2 API Management
+  description: >-
+    WSO2 API Management is an Open Source API Management tool that allows
+    APIs/Services to be Secured, Monitored and Rate Controlled. This tool allows
+    API Developers to design, publish, version and manage API lifecycles. It
+    allows application developers to discover and start consuming APIs. The
+    lightweight API Gateway intercepts all API requests applying Security, Rate
+    Limiting and Monitoring aspects on your APIs.
+  url: 'https://github.com/wso2/product-apim'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: 'https://github.com/wso2/'
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/wso2-logo-white-800X360.jpg
+  tags: 'Management,Open Source'
+- slug: fusio
+  name: Fusio
+  description: >-
+    Fusio is an open source API management platform which helps to build and
+    manage RESTful APIs. We think that there is a huge potential in the API
+    economy. Whether you need an API to expose your business functionality,
+    build micro services, develop SPAs or Mobile-Apps. Because of this we think
+    that Fusio is a great tool to simplify building such APIs.
+  url: 'https://github.com/apioo/fusio'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: 'https://github.com/apioo/'
+  image: 'https://s3.amazonaws.com/kinlane-productions/fusio/fusio-logo.png'
+  tags: 'Management,Open Source'
+- slug: gravitee
+  name: Gravitee.io
+  description: >-
+    Gravitee.io is a flexible, lightweight and blazing-fast open source API
+    Management solution that helps your organization control finely who, when
+    and how users access your APIs.
+  url: 'https://gravitee.io/'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: 'https://github.com/gravitee-io'
+  image: 'https://s3.amazonaws.com/kinlane-productions/gravitee-io/gravitee-io.png'
   tags: 'Management,Open Source'
