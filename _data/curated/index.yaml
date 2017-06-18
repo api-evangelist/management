@@ -11,12 +11,6 @@
   url: https://developer.ibm.com/api/2015/01/05/manage-your-apis-like-content/
   domain: developer.ibm.com
   image: ""
-- curated_id: d44759f9bc60595b65b492b41fa34077
-  item_date: "2015-01-05 00:00:00"
-  title: 'Monthly IDG (Intuit Developer Group) Developer Call: January 2015'
-  url: https://developer.intuit.com/hub/blog/2015/01/05/monthly-ipp-developer-call-january-2015
-  domain: developer.intuit.com
-  image: ""
 - curated_id: 5a20548433ba9e4e1f1e2c63bf22d084
   item_date: "2015-01-05 00:00:00"
   title: IBM Bluemix Toolbox Expands with PHP Solutions
@@ -35,15 +29,9 @@
   url: http://thenextweb.com/apps/2015/01/08/google-maps-api-integration-gets-simpler-java-python-libraries/
   domain: thenextweb.com
   image: ""
-- curated_id: 0fd05f34c7ad1a6fc79e1573ee4e6c34
-  item_date: "2015-01-22 11:13:18"
-  title: Q4 Product Roundup | AlchemyAPI
-  url: http://blog.alchemyapi.com
-  domain: blog.alchemyapi.com
-  image: ""
 - curated_id: c793bfbf854c055631db28db2bcfc9f9
   item_date: "2015-01-23 00:00:00"
-  title: 'Introducing @TwilioHelp: A Twitter Handle For Twilio Support'
+  title: 'Introducing @TwilioHelp A Twitter Handle For Twilio Support'
   url: https://www.twilio.com/blog/2015/01/twilio-support-twitter.html
   domain: www.twilio.com
   image: ""
