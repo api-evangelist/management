@@ -86,6 +86,7 @@ title: API Evangelist - Management
 <a name="News"></a>
 {% assign news_content = site.data.news_content.index[0] %}
 {% assign news = site.data.curated.index %}
+{% assign news = news | sort: 'item_date' | reverse %}
 <section>
 	<header>
 		<h2>{{ news_content.title }}</h2>
