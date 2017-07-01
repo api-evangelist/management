@@ -5,59 +5,2721 @@
   url: https://tune.com/blog/startups-need-api/
   domain: tune.com
   image: ""
-- curated_id: FlM2ORollv7buAbLPIk7bq38WKo7ntpuEC3DQ4J61i8=_15cc81af2e8:20ccddb:c8935e7d
-  item_date: "2017-06-20 05:00:03"
-  title: The Changing Face of API Management
-  url: https://www.tibco.com/blog/?p=37525
+- curated_id: 5a20548433ba9e4e1f1e2c63bf22d084
+  item_date: "2015-01-05 00:00:00"
+  title: IBM Bluemix Toolbox Expands with PHP Solutions
+  url: http://www.haaretz.com/haaretz-labels/1.633526
+  domain: www.haaretz.com
+  image: ""
+- curated_id: 02348bdcf8ca1e6c9b0d69d6045ceb6c
+  item_date: "2015-01-05 00:00:00"
+  title: Introducing the API Innovation Corner
+  url: http://www.apiacademy.co/
+  domain: www.apiacademy.co
+  image: ""
+- curated_id: f1bbd057860cca9e4205ff8c0a40ceaa
+  item_date: "2015-01-05 00:00:00"
+  title: Manage your APIs like content, not like software
+  url: https://developer.ibm.com/api/2015/01/05/manage-your-apis-like-content/
+  domain: developer.ibm.com
+  image: ""
+- curated_id: d44759f9bc60595b65b492b41fa34077
+  item_date: "2015-01-05 00:00:00"
+  title: 'Monthly IDG (Intuit Developer Group) Developer Call: January 2015'
+  url: https://developer.intuit.com/hub/blog/2015/01/05/monthly-ipp-developer-call-january-2015
+  domain: developer.intuit.com
+  image: ""
+- curated_id: 9943e8dbfca62e559104d87eac276dcc
+  item_date: "2015-01-06 11:50:56"
+  title: ""
+  url: https://github.com/blog/1939-how-github-uses-github-to-document-github
+  domain: github.com
+  image: ""
+- curated_id: 2e1048bfaaef7876a752a671f5962eb8
+  item_date: "2015-01-08 00:00:00"
+  title: Google Maps API integration gets simpler with Java and Python libraries
+  url: http://thenextweb.com/apps/2015/01/08/google-maps-api-integration-gets-simpler-java-python-libraries/
+  domain: thenextweb.com
+  image: ""
+- curated_id: 0fd05f34c7ad1a6fc79e1573ee4e6c34
+  item_date: "2015-01-22 11:13:18"
+  title: Q4 Product Roundup | AlchemyAPI
+  url: http://blog.alchemyapi.com
+  domain: blog.alchemyapi.com
+  image: ""
+- curated_id: c793bfbf854c055631db28db2bcfc9f9
+  item_date: "2015-01-23 00:00:00"
+  title: 'Introducing @TwilioHelp: A Twitter Handle For Twilio Support'
+  url: https://www.twilio.com/blog/2015/01/twilio-support-twitter.html
+  domain: www.twilio.com
+  image: ""
+- curated_id: 90cce87b6dbf4ee2db36efe7f6fea514
+  item_date: "2015-01-27 12:24:30"
+  title: What programming languages are popular with Intuit devs? | Blog | Intuit
+    Developer
+  url: https://developer.intuit.com/hub/blog/2015/01/27/what-programming-languages-are-popular-with-intuit-devs
+  domain: developer.intuit.com
+  image: ""
+- curated_id: 43d039cc4a8bdc6eef33585f7d19fd0f
+  item_date: "2015-01-28 00:00:00"
+  title: The power of developer communities
+  url: https://blog.docker.com/2015/01/the-power-of-developer-communities/
+  domain: blog.docker.com
+  image: ""
+- curated_id: 41a76de28b40734f342c834550266ca3
+  item_date: "2015-02-18 00:00:00"
+  title: An Update on the LoopBack Roadmap and Backlog
+  url: https://strongloop.com/strongblog/an-update-on-the-loopback-roadmap-and-backlog/
+  domain: strongloop.com
+  image: ""
+- curated_id: c5978150a83ba9a08b430f02867b4d46
+  item_date: "2015-02-22 00:00:00"
+  title: 'Feature 45: Updating user account using User Service API'
+  url: https://backendless.com/feature-45-updating-user-account-using-user-service-api/
+  domain: backendless.com
+  image: ""
+- curated_id: 616f29846b8d0d08abd0b036b56e2591
+  item_date: "2015-02-23 00:00:00"
+  title: New Developer Panel
+  url: https://developer.intuit.com/hub/blog/2015/02/17/new-developer-panel-join-now/link=rss
+  domain: developer.intuit.com
+  image: ""
+- curated_id: 6c25e08883170b1f2f6b929b497662be
+  item_date: "2015-02-23 00:00:00"
+  title: New Developer Panel ? Join Now!
+  url: https://developer.intuit.com/hub/blog/2015/02/23/new-developer-panel-join-now/link=rss
+  domain: developer.intuit.com
+  image: ""
+- curated_id: f8938d06b7014f74fc757c1b6dde77db
+  item_date: "2015-02-23 00:00:00"
+  title: 'Respoke: A Virtual Startup'
+  url: http://blog.respoke.io/post/111856782882/respoke-a-virtual-startup#_=_
+  domain: blog.respoke.io
+  image: ""
+- curated_id: 059f29ad08fa402ae62c63bde473e6fd
+  item_date: "2015-02-24 00:00:00"
+  title: 'API Management: Tomorrows superhero today'
+  url: http://blogs.ca.com/2015/02/25/api-management-tomorrows-superhero-today/
+  domain: blogs.ca.com
+  image: ""
+- curated_id: 25dd63432955b11aaadad336870570ff
+  item_date: "2015-02-24 00:00:00"
+  title: IBM Applies Watson Artificial Intelligence to API Management
+  url: http://www.programmableweb.com/news/ibm-applies-watson-artificial-intelligence-to-api-management/2015/02/24
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: 5f7779f52ca1bef69ecc90e7c70326f1
+  item_date: "2015-02-24 00:00:00"
+  title: Xero API Developer of the Year 2014
+  url: https://www.xero.com/blog/2015/02/api-developer-year-2014/
+  domain: www.xero.com
+  image: ""
+- curated_id: 3b7c48b51922e2553385318838ef1bf7
+  item_date: "2015-02-26 00:00:00"
+  title: Meet the Platform Team ? Part II!
+  url: https://blog.mendeley.com/2015/02/26/meet-the-platform-team-part-ii/
+  domain: blog.mendeley.com
+  image: ""
+- curated_id: ecd0e2241ab9b4b8e4cb21df2d95be67
+  item_date: "2015-02-27 00:00:00"
+  title: 'Libraries and SDKs: Respoke Today and the Near Future'
+  url: http://blog.respoke.io/post/112219769110/libraries-and-sdks-respoke-today-and-the-near#_=_
+  domain: blog.respoke.io
+  image: ""
+- curated_id: ad95d8acd0695d523a1cb011d2b15aa2
+  item_date: "2015-02-27 00:00:00"
+  title: Updating the Skype Privacy Statement
+  url: http://blogs.skype.com/2015/02/27/updating-the-skype-privacy-statement/
+  domain: blogs.skype.com
+  image: ""
+- curated_id: 7191908117ae99d1a0daf47e4cbeab3f
+  item_date: "2015-02-27 00:00:00"
+  title: What?s new in the Zendesk Apps Marketplace
+  url: https://www.zendesk.com/blog/whats-new-zendesk-apps-marketplace
+  domain: www.zendesk.com
+  image: ""
+- curated_id: 03dec30db39f02a91e3989f91f96e107
+  item_date: "2015-02-27 09:22:09"
+  title: FieldVal Tackles Lackluster API Error Handling | ProgrammableWeb
+  url: http://www.programmableweb.com/news/fieldval-tackles-lackluster-api-error-handling/analysis/2015/02/23
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: 8d969b3c3d2412fe7221f8c575f7ea06
+  item_date: "2015-03-01 00:00:00"
+  title: We?ve Revamped Our Blog!
+  url: https://community.uservoice.com/blog/weve-revamped-our-blog/
+  domain: community.uservoice.com
+  image: ""
+- curated_id: 556ceb7040882c1bd32a56f51eb6aacb
+  item_date: "2015-03-03 00:00:00"
+  title: Top 20 Intuit Developer Questions
+  url: https://developer.intuit.com/hub/blog/2015/03/03/top-20-intuit-developer-questions
+  domain: developer.intuit.com
+  image: ""
+- curated_id: ed9eb4932c941892c3ba08f2f211f59d
+  item_date: "2015-03-03 00:00:00"
+  title: A note about rate limits
+  url: http://keenio.tumblr.com/post/112649338271/a-note-about-rate-limits#_=_
+  domain: keenio.tumblr.com
+  image: ""
+- curated_id: 2057d05c4d7a032c9a7c70c320736ee6
+  item_date: "2015-03-06 00:00:00"
+  title: A Little Care Package for PHP Developers
+  url: https://postmarkapp.com/blog/a-little-care-package-for-php-developers
+  domain: postmarkapp.com
+  image: ""
+- curated_id: b46feded1caa4025d27213d2eaa8267c
+  item_date: "2015-03-06 00:00:00"
+  title: How Promoting a Developer Ecosystem Strengthens an API
+  url: http://www.programmableweb.com/news/how-promoting-developer-ecosystem-strengthens-api/analysis/2015/03/06
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: 0df424070f2be087db9eab21223a26a5
+  item_date: "2015-03-10 00:00:00"
+  title: Securing Web.API Requests With JSON Web Tokens
+  url: http://www.codeproject.com/Articles/884979/Securing-Web-API-Requests-With-JSON-Web-Tokens
+  domain: www.codeproject.com
+  image: ""
+- curated_id: a779b8fd3d35c9a8b55737960edd82c7
+  item_date: "2015-03-10 00:00:00"
+  title: Blacklisting JSON Web Token API Keys
+  url: https://auth0.com/blog/2015/03/10/blacklist-json-web-token-api-keys/
+  domain: auth0.com
+  image: ""
+- curated_id: a3ba4572a239ec0eed78bdd34fab2289
+  item_date: "2015-03-10 00:00:00"
+  title: Facebook Applies Versioning Strategy to Marketing API
+  url: http://www.programmableweb.com/news/facebook-applies-versioning-strategy-to-marketing-api/2015/03/10
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: 8bc0c4cd6da2afb4369b0426e8a40a38
+  item_date: "2015-03-10 10:30:42"
+  title: SOA Software Broadens Platform, Changes Name to Akana
+  url: http://api.report/2015/03/10/soa-software-broadens-platform-changes-name-to-akana/
+  domain: api.report
+  image: ""
+- curated_id: 37a33c3608079e27a6f82ce7b740cf12
+  item_date: "2015-03-10 18:31:43"
+  title: API Management | SOA Governance | API Security | Akana Inc.
+  url: https://www.akana.com/
+  domain: www.akana.com
+  image: ""
+- curated_id: 1238f7e6ebd2142fca128db256b20de0
+  item_date: "2015-03-12 00:00:00"
+  title: AdroitLogic Releases APIDirector for API Management
+  url: http://www.programmableweb.com/news/adroitlogic-releases-apidirector-api-management/press-release/2015/03/12
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: 774d78a5042c313576f63aeb4e11c9ee
+  item_date: "2015-03-12 00:00:00"
+  title: Manage your APIs with the new IBM Bluemix Service
+  url: http://heidloff.net/nh/home.nsf/article.xsp/id=12.03.2015142254NHEHPV.htm
+  domain: heidloff.net
+  image: ""
+- curated_id: cb8c388d40d3083df0cec4123495b1b3
+  item_date: "2015-03-17 00:00:00"
+  title: Register now for the AdWords API Workshops around the globe!
+  url: http://googleadsdeveloper.blogspot.com/2015/03/register-now-for-adwords-api-workshops.html
+  domain: googleadsdeveloper.blogspot.com
+  image: ""
+- curated_id: ed96d04225c4732aae44c1a296fe0d3e
+  item_date: "2015-03-18 00:00:00"
+  title: Dell Adds API LifeCycle Management to Boomi
+  url: http://www.programmableweb.com/news/dell-adds-api-lifecycle-management-to-boomi/2015/03/18
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: bd1ada1ca58dbc0dd9d27c412c49e8d7
+  item_date: "2015-03-18 00:00:00"
+  title: Dell Boomi Launches API Management Cloud Service
+  url: http://www.eweek.com/cloud/dell-boomi-launches-api-management-cloud-service.html
+  domain: www.eweek.com
+  image: ""
+- curated_id: cb44bddbc07453dc0e3043ed0ab4a810
+  item_date: "2015-03-20 00:00:00"
+  title: Dev site + Sandbox down Saturday, March 21
+  url: https://developer.intuit.com/hub/blog/2015/03/20/dev-site-sandbox-down-saturday-march-21/link=rss
+  domain: developer.intuit.com
+  image: ""
+- curated_id: b9ca4bf135b2a27a13f71b78c0256563
+  item_date: "2015-03-20 00:00:00"
+  title: 'Self-service is anything but boring. Introducing our #BestHelpCenters'
+  url: https://www.zendesk.com/blog/self-service-is-anything-but-boring-with-our-help-centers/
+  domain: www.zendesk.com
+  image: ""
+- curated_id: 079fe00e852a19d32b0a724e99514dd0
+  item_date: "2015-03-20 14:06:28"
+  title: 'Ned Batchelder: REST API gotcha, and webhookdb'
+  url: http://nedbatchelder.com/blog/201412/rest_api_gotcha_and_webhookdb.html
+  domain: nedbatchelder.com
+  image: ""
+- curated_id: 306c99eb552ddcbae62dbb5246f7997e
+  item_date: "2015-03-23 00:00:00"
+  title: 'Webinar: Using Zapier to streamline your email marketing'
+  url: https://www.campaignmonitor.com/blog/email-marketing/2015/03/webinar-using-zapier-to-streamline-your-email-marketing/
+  domain: www.campaignmonitor.com
+  image: ""
+- curated_id: 9c346d17c56cdfe16f3b7258d18f5c2b
+  item_date: "2015-03-23 00:00:00"
+  title: Default API Version Now v3
+  url: http://blog.mailgun.com/default-api-version-now-v3/
+  domain: blog.mailgun.com
+  image: ""
+- curated_id: 2038c0799161fad07937a87e78a27660
+  item_date: "2015-03-23 00:00:00"
+  title: Manage, monitor, and control all your IoT devices with Overlord
+  url: http://www.codeproject.com/Articles/888959/Manage-monitor-and-control-all-your-IoT-devices-wi
+  domain: www.codeproject.com
+  image: ""
+- curated_id: b30568c2a7766aef9000fabf11abf228
+  item_date: "2015-03-24 00:00:00"
+  title: One Year of OneNote API, One Updated Roadmap
+  url: http://blogs.msdn.com/b/onenotedev/archive/2015/03/24/one-year-of-onenote-api-one-updated-roadmap.aspx
+  domain: blogs.msdn.com
+  image: ""
+- curated_id: 220028ee3fe465280091c2b005c858e8
+  item_date: "2015-03-24 00:00:00"
+  title: 'Tickets to Issues: Zendesk and JIRA API Integrations'
+  url: http://blog.cloud-elements.com/tickets-to-issues-zendesk-and-jira-api-integrations-2
+  domain: blog.cloud-elements.com
+  image: ""
+- curated_id: e2982acc0951581b5f5b4e21686fb0f3
+  item_date: "2015-03-24 00:12:22"
+  title: Bizcoder - Are You Or Your Customers Leaking Your API Keys?
+  url: http://www.bizcoder.com/are-you-or-your-customers-leaking-your-api-keys
+  domain: www.bizcoder.com
+  image: ""
+- curated_id: de0187669b15de18661296c0b795fa0e
+  item_date: "2015-03-25 00:00:00"
+  title: Sign up Now for the Amazon Echo Beta SDK
+  url: https://developer.amazon.com/appsandservices/community/post/Tx1HI1N5ZFX0PEK/Sign-up-Now-for-the-Amazon-Echo-Beta-SDK
+  domain: developer.amazon.com
+  image: ""
+- curated_id: 84c3021aae7a55276b99abaacc321996
+  item_date: "2015-03-26 00:00:00"
+  title: GA of API Management Premium Tier
+  url: https://azure.microsoft.com/en-us/blog/2015/03/26/ga-of-api-management-premium-tier/
+  domain: azure.microsoft.com
+  image: ""
+- curated_id: 829ea4918ac2e605e58766213474105d
+  item_date: "2015-03-26 00:00:00"
+  title: Getting Started with Azure API Management
+  url: http://www.codeproject.com/Articles/890435/Getting-Started-with-Azure-API-Management
+  domain: www.codeproject.com
+  image: ""
+- curated_id: 629a3052723bfc81d6e82daedc5ac1eb
+  item_date: "2015-03-27 10:01:55"
+  title: 10 Questions to Consider When Using an API
+  url: http://developerboards.att.lithium.com/t5/AT-T-Developer-Program-Blogs/10-Questions-to-Consider-When-Using-an-API/ba-p/39905/nobounce=
+  domain: developerboards.att.lithium.com
+  image: ""
+- curated_id: 3c5d3596c418ed62fe7e241e8b46733f
+  item_date: "2015-03-30 00:00:00"
+  title: Reactions to Using The Twilio API
+  url: http://nordicapis.com/reactions-to-using-the-twilio-api/
+  domain: nordicapis.com
+  image: ""
+- curated_id: 3217d470901386b5f39d54d717876b62
+  item_date: "2015-03-30 00:00:00"
+  title: DataSift Developer Community Site Launched
+  url: http://blog.datasift.com/2015/03/30/datasift-developer-community-site-launched/
+  domain: blog.datasift.com
+  image: ""
+- curated_id: 44cfe87c152def30248ae113383d8c03
+  item_date: "2015-03-31 00:00:00"
+  title: The Tooling Landscape for Developer Programs
+  url: https://dzone.com/articles/tooling-landscape-developer
+  domain: dzone.com
+  image: ""
+- curated_id: eb8ede2df7091cd705dea3c63d63ed51
+  item_date: "2015-03-31 00:00:00"
+  title: 'Watson Developer Cloud: What?s up, docs?'
+  url: https://developer.ibm.com/watson/blog/2015/03/31/watson-developer-cloud-whats-up-docs-2/
+  domain: developer.ibm.com
+  image: ""
+- curated_id: 1a86f25a949b4c9d28c1ef90d9cd1938
+  item_date: "2015-03-31 10:51:08"
+  title: API management comes of age
+  url: http://sdtimes.com/api-management-comes-of-age/
+  domain: sdtimes.com
+  image: ""
+- curated_id: c4332b549e669ef69956c9cc18a4a202
+  item_date: "2015-04-02 00:00:00"
+  title: Band Aids Don?t Solve REST API Complexity (Part 2 of 4)
+  url: http://blog.dreamfactory.com/band-aids-dont-solve-rest-api-complexity-part-2-of-4
+  domain: blog.dreamfactory.com
+  image: ""
+- curated_id: de057401fd61ff22ef6e6dd682ca5daa
+  item_date: "2015-04-02 00:00:00"
+  title: General Availability ? IBM API Management for Bluemix
+  url: https://developer.ibm.com/bluemix/2015/04/02/general-availability-ibm-api-management-bluemix/
+  domain: developer.ibm.com
+  image: ""
+- curated_id: 9deea374395f9fbd3b260deb605a4346
+  item_date: "2015-04-02 00:00:00"
+  title: How to Write ?Good? API Documentation
+  url: http://blog.cloud-elements.com/how-to-write-good-api-documentation
+  domain: blog.cloud-elements.com
+  image: ""
+- curated_id: 2a7ad5c7ea327432a26079cd43a1675d
+  item_date: "2015-04-06 00:00:00"
+  title: Help us Shape the Azure Storage iOS Library
+  url: http://azure.microsoft.com/blog/2015/04/06/help-us-shape-the-azure-storage-ios-library/
+  domain: azure.microsoft.com
+  image: ""
+- curated_id: 967cb11ae75d7fd205dd5cb954ddd7b4
+  item_date: "2015-04-07 00:00:00"
+  title: Coinbase Launches New Developer Portal, Six-Week Hackathon
+  url: http://www.programmableweb.com/news/coinbase-launches-new-developer-portal-six-week-hackathon/2015/04/07
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: e17039c806d9a177b6e28a92e316483e
+  item_date: "2015-04-07 00:00:00"
+  title: Developers Console ? Now in HD
+  url: http://googlecloudplatform.blogspot.com/2015/04/Developers-Console-now-in-HD.html
+  domain: googlecloudplatform.blogspot.com
+  image: ""
+- curated_id: e4e38b10e4660c483534679b79826ea7
+  item_date: "2015-04-07 00:00:00"
+  title: Try your API right away, with APISpark?s built-in Swagger UI
+  url: http://restlet.com/blog/2015/04/07/try-your-api-right-away-with-apisparks-built-in-swagger-ui/
+  domain: restlet.com
+  image: ""
+- curated_id: c939ecf7c34b44d6b8342adb972796ed
+  item_date: "2015-04-08 00:00:00"
+  title: 'Dell Boomi API Management: Create, Publish and Manage APIs More Easily and
+    Cost Effectively than Ever'
+  url: http://blogs.boomi.com/bod/2015/03/dell-boomi-api-management-create-publish-and-manage-apis-more-easily-and-cost-effectively-than-ever.html
+  domain: blogs.boomi.com
+  image: ""
+- curated_id: 1974436e19dde8374a4947c53ebeee3e
+  item_date: "2015-04-08 00:00:00"
+  title: 'EMA on Dell Boomi: Multi-purpose PaaS Offers API Management'
+  url: http://blogs.boomi.com/bod/2015/04/ema-on-dell-boomi-multi-purpose-paas-now-offers-api-management.html
+  domain: blogs.boomi.com
+  image: ""
+- curated_id: 575758f4c1e05df280c050679a757e64
+  item_date: "2015-04-09 12:56:58"
+  title: Introducing the Varnish API Engine | Varnish Software
+  url: https://info.varnish-software.com/blog/introducing-varnish-api-engine
+  domain: info.varnish-software.com
+  image: ""
+- curated_id: a275c16a3b206475306f154fad413330
+  item_date: "2015-04-10 00:00:00"
+  title: Analytics API Quick Start
+  url: http://docs.brightcove.com/en/video-cloud/analytics-api/getting-started/quick-start.html
+  domain: docs.brightcove.com
+  image: ""
+- curated_id: fa96d8294d34f54104eb71aed6f52761
+  item_date: "2015-04-12 00:00:00"
+  title: How documentation is done in OpenStack
+  url: http://opensource.com/business/15/4/git-and-github-open-source-documentation-reviews
+  domain: opensource.com
+  image: ""
+- curated_id: 022c4e42750847815585de06643a0bd4
+  item_date: "2015-04-13 17:53:26"
+  title: Utility API or Ecosystem API? A guest post from Eventbrit
+  url: http://catchyagency.com/utility-api-or-ecosystem-api-a-guest-post-from-eventbrite/
+  domain: catchyagency.com
+  image: ""
+- curated_id: 2828877229451c6c0e88f7f9ec8216d6
+  item_date: "2015-04-14 00:00:00"
+  title: Varnish Software Launches API Management Platform
+  url: http://www.programmableweb.com/news/varnish-software-launches-api-management-platform/2015/04/14
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: 3c14e0352565bd74acf25381f9f43b4e
+  item_date: "2015-04-14 00:00:00"
+  title: 'Autotask API Integration: Simplified through a RESTful API'
+  url: http://cloud-elements.com/autotask-api-integration-simplified-through-a-restful-api/
+  domain: cloud-elements.com
+  image: ""
+- curated_id: dba51bcc527ba93f7fe03868747280d5
+  item_date: "2015-04-15 06:51:50"
+  title: 'Telstra IN:Sight:  Introducing the Customer Insight Center - YouTube'
+  url: https://www.youtube.com/
+  domain: www.youtube.com
+  image: ""
+- curated_id: 9aadf58a083f74849dd53c90e5f8159c
+  item_date: "2015-04-20 00:00:00"
+  title: 'The Convergence of API Management and iPaaS: A New Perspective'
+  url: http://cloud-elements.com/the-convergence-of-api-management-ipaas/
+  domain: cloud-elements.com
+  image: ""
+- curated_id: 808e772916c8bf2890663a13f333f365
+  item_date: "2015-04-21 00:00:00"
+  title: API Management for Everyone
+  url: https://fioranoblog.wordpress.com/2015/04/21/api-management-for-everyone/
+  domain: fioranoblog.wordpress.com
+  image: ""
+- curated_id: 0e1383f79c40453e79bf8e30262e7dd2
+  item_date: "2015-04-21 08:46:45"
+  title: Announcing the Data.gov Help Desk
+  url: https://www.data.gov/meta/announcing-data-gov-help-desk/
+  domain: www.data.gov
+  image: ""
+- curated_id: 32cd12c1a3585af4ba31ff8a22df0f2a
+  item_date: "2015-04-22 00:00:00"
+  title: '451 Research: Dell Boomi Extends Its iPaaS with an API Lifecycle Management
+    Release'
+  url: http://blogs.boomi.com/bod/2015/04/451-research-dell-boomi-extends-its-ipaas-with-an-api-lifecycle-management-release.html
+  domain: blogs.boomi.com
+  image: ""
+- curated_id: a39713ab56ecab94a19dfb1b1770238d
+  item_date: "2015-04-22 00:00:00"
+  title: 'Introducing Box Developer Edition: A fundamentally new way to build on the
+    Box platform'
+  url: https://www.box.com/blog/box-developer-edition/
+  domain: www.box.com
+  image: ""
+- curated_id: c8226e904819141ed5bb9f4b65726415
+  item_date: "2015-04-22 00:00:00"
+  title: Analyse your API calls
+  url: http://restlet.com/blog/2015/04/22/analyse-your-api-calls/
+  domain: restlet.com
+  image: ""
+- curated_id: 88924abfe14e6705f32f67c75030876b
+  item_date: "2015-04-23 00:00:00"
+  title: Ecosystem Manager
+  url: http://expressoemprego.pt/404.aspx/aspxerrorpath=/emprego/ecosystem-manager/ireland/1146388
+  domain: expressoemprego.pt
+  image: ""
+- curated_id: c49c1185d7446561b0f20558de9922d3
+  item_date: "2015-04-27 00:00:00"
+  title: Policy Expressions in Azure API Management
+  url: http://azure.microsoft.com/blog/2015/04/27/policy-expressions-in-azure-api-management/
+  domain: azure.microsoft.com
+  image: ""
+- curated_id: 091ba4c1d45b0cff0808543fa2c22f5b
+  item_date: "2015-04-27 00:00:00"
+  title: We have a changelog!
+  url: http://keenio.tumblr.com/post/117554455526/we-have-a-changelog
+  domain: keenio.tumblr.com
+  image: ""
+- curated_id: 0c1189bc8f395865724a2d6aa50cb827
+  item_date: "2015-04-28 00:00:00"
+  title: Akana Extends API Management to Microsoft Azure
+  url: http://www.programmableweb.com/news/akana-extends-api-management-to-microsoft-azure/press-release/2015/04/28
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: 3831647f930e5c4cfad0d452d0f6199d
+  item_date: "2015-04-28 00:00:00"
+  title: Mashape Unleashes Kong as Open Source API Management Platform
+  url: http://www.programmableweb.com/news/mashape-unleashes-kong-open-source-api-management-platform/2015/04/28
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: 7d2948394cfe32e3c67442df38209a6b
+  item_date: "2015-04-28 00:00:00"
+  title: How API management helps CDOs bridge the digital transformation gap
+  url: http://blogs.ca.com/2015/04/28/api-management-helping-cdos-build-the-bridge-to-digital-transformation/
+  domain: blogs.ca.com
+  image: ""
+- curated_id: 3ef522b7a721de37394228d8abba8072
+  item_date: "2015-04-28 07:07:17"
+  title: Mashape Open-Sources Its Kong API Management Platform  |  TechCrunch
+  url: http://techcrunch.com/2015/04/28/mashape-open-sources-its-kong-api-management-platform/
+  domain: techcrunch.com
+  image: ""
+- curated_id: 85587aeff1cb86f678a8090c34ec43d1
+  item_date: "2015-04-28 08:15:31"
+  title: Kong - Open-Source API Management Layer
+  url: http://getkong.org/
+  domain: getkong.org
+  image: ""
+- curated_id: fe6786a8d2b180a7f2bf4b67efc52f78
+  item_date: "2015-04-29 00:00:00"
+  title: 'Documentation Update:  New How-Tos  Java Library'
+  url: http://blog.genability.com/2015/04/documentation-update-new-how-tos-java-library/
+  domain: blog.genability.com
+  image: ""
+- curated_id: 968a36f8d6b7779b3dee3e8634cd0a89
+  item_date: "2015-05-04 00:00:00"
+  title: 'USA.gov in Beta: Tell Us What You Think'
+  url: http://www.digitalgov.gov/2015/05/04/usa-gov-in-beta-tell-us-what-you-think/
+  domain: www.digitalgov.gov
+  image: ""
+- curated_id: 9f03f686bcc498562dc591ce68ff96e3
+  item_date: "2015-05-05 00:00:00"
+  title: Introducing the Qbox Help Center
+  url: http://blog.qbox.io/introducing-the-qbox-help-center
+  domain: blog.qbox.io
+  image: ""
+- curated_id: 793fd3c644bf5d82b8feeaa65da353e1
+  item_date: "2015-05-05 06:59:24"
+  title: Imagining a Pied Piper API
+  url: http://www.3scale.net/2015/04/imagining-a-pied-piper-api/
+  domain: www.3scale.net
+  image: ""
+- curated_id: 32947e6bad715f845f0c9dcfd9ec2c49
+  item_date: "2015-05-10 00:00:00"
+  title: 'Feature 120: Using REST Console to delete objects'
+  url: https://backendless.com/feature-120-using-rest-console-to-delete-objects/
+  domain: backendless.com
+  image: ""
+- curated_id: 0c05a0d4328edfe6835f3cb4e5f552ef
+  item_date: "2015-05-10 00:00:00"
+  title: 'Feature 121: Adding objects with relations using REST Console'
+  url: https://backendless.com/feature-121-adding-objects-with-relations-using-rest-console/
+  domain: backendless.com
+  image: ""
+- curated_id: c8697989d9f8853f27e4b9f754ed7362
+  item_date: "2015-05-11 00:00:00"
+  title: A Redesigned Knowledge Base, Plus Billing and Messaging Updates
+  url: http://blog.mailchimp.com/a-redesigned-knowledge-base-plus-billing-and-messaging-updates/
+  domain: blog.mailchimp.com
+  image: ""
+- curated_id: 52bbf3bd26d520ced26e444c332e931f
+  item_date: "2015-05-11 00:00:00"
+  title: 'IBMs next big Bluemix move: API management'
+  url: http://www.infoworld.com/article/2920792/apis/ibms-next-big-bluemix-move-api-management.html
+  domain: www.infoworld.com
+  image: ""
+- curated_id: bd929f35746b9f69250318ec82edea55
+  item_date: "2015-05-12 00:00:00"
+  title: Platform Updates! Content Sunrise, Cloud-hosted Libraries and More
+  url: http://www.jwplayer.com/blog/platform-updates-content-sunrise-cloud-hosted-libraries-and-more/
+  domain: www.jwplayer.com
+  image: ""
+- curated_id: 00e82c76990aed15f47e706b9b352d02
+  item_date: "2015-05-14 00:00:00"
+  title: 'Now Available ? AWS Directory Service API  CLI (Bonus: CloudTrail Integration)'
+  url: https://aws.amazon.com/blogs/aws/now-available-aws-directory-service-api-cli-bonus-cloudtrail-integration/
+  domain: aws.amazon.com
+  image: ""
+- curated_id: abfff222a8b580d210bd7dc90acefb41
+  item_date: "2015-05-15 00:00:00"
+  title: A New Okta Blog for Developers
+  url: https://www.okta.com/blog/2015/05/a-new-okta-blog-for-developers/
+  domain: www.okta.com
+  image: ""
+- curated_id: b5cd88d6f5285a6d78ca1423c793bea0
+  item_date: "2015-05-19 00:00:00"
+  title: The JBoss apiman API Manager REST services API
+  url: http://www.apiman.io/blog/rest/api/automation/2015/05/19/rest-api.html
+  domain: www.apiman.io
+  image: ""
+- curated_id: 886342ddd35fdad3dd93223a6d96ce93
+  item_date: "2015-05-20 00:00:00"
+  title: 3scale API Management Platform Now Supports Updated Swagger 2.0
+  url: http://www.programmableweb.com/news/3scale-api-management-platform-now-supports-updated-swagger-2.0/press-release/2015/05/20
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: 1a4c8f9ba9b154b892cc415f0954a1d5
+  item_date: "2015-05-20 00:00:00"
+  title: Your API needs a plan (a.k.a. API Management)
+  url: http://www.wissel.net/blog/d6plinks/SHWL-9WP2A4
+  domain: www.wissel.net
+  image: ""
+- curated_id: 3f777b09f5a70fe7ec8046afda448cdb
+  item_date: "2015-05-21 00:00:00"
+  title: The JBoss apiman API Manager REST Services API
+  url: http://java.dzone.com/articles/jboss-apiman-api-manager-rest
+  domain: java.dzone.com
+  image: ""
+- curated_id: 4e610e13bdfc1cc6d8cd236aa2ffdcd5
+  item_date: "2015-05-21 00:00:00"
+  title: Updates and UserVoice forum for Azure Media Player!
+  url: http://azure.microsoft.com/blog/2015/05/21/updates-and-uservoice-forum-for-azure-media-player/
+  domain: azure.microsoft.com
+  image: ""
+- curated_id: 380e6baf0541e260399c52759c6cdb3b
+  item_date: "2015-05-22 10:48:31"
+  title: Reality matters ? User stories on steroids ? how Estimote uses ?blog...
+  url: http://blog.estimote.com/post/119525082855/user-stories-on-steroids-how-estimote-uses-blog
+  domain: blog.estimote.com
+  image: ""
+- curated_id: 03afe12045e8a6fe5225a3e0a9b320c2
+  item_date: "2015-05-24 00:00:00"
+  title: WEB API Management -1st Part
+  url: http://www.codeproject.com/Articles/994482/WEB-API-Management-st-Part
+  domain: www.codeproject.com
+  image: ""
+- curated_id: 7b89632ace4bb3cc31291c0463eb0328
+  item_date: "2015-05-27 00:00:00"
+  title: Developer Practices Checklist
+  url: https://developer.salesforce.com/blogs/engineering/2015/05/developer-practices-checklist.html
+  domain: developer.salesforce.com
+  image: ""
+- curated_id: f01a6674b01580484e34272b982afc0d
+  item_date: "2015-05-28 00:00:00"
+  title: 'Metering Microservices on OpenShift with 6Fusion?s Delano Seymour: Commons
+    Briefing #13'
+  url: https://blog.openshift.com/metering-microservices-on-openshift-with-6fusions-delano-seymour-commons-briefing-13/
+  domain: blog.openshift.com
+  image: ""
+- curated_id: 8ac7e350b4db78abadb0a4d215c64605
+  item_date: "2015-06-01 00:00:00"
+  title: API Updates
+  url: http://blog.clearbit.com/api-updates
+  domain: blog.clearbit.com
+  image: ""
+- curated_id: af203410f4b570bf3e57c4c651b10123
+  item_date: "2015-06-03 00:00:00"
+  title: Learn to build scalable apps in Python with Google App Engine
+  url: http://googlecloudplatform.blogspot.com/2015/06/Learn-to-build-scalable-apps-in-Python-with-Google-App-Engine.html
+  domain: googlecloudplatform.blogspot.com
+  image: ""
+- curated_id: 202ebc08505b91c2ee968d2b8f5655e6
+  item_date: "2015-06-03 00:00:00"
+  title: 'Small Business Spotlight: How awesome customer service helps iZettle grow
+    a global business'
+  url: http://www.desk.com/blog/small-business-spotlight-how-awesome-customer-service-helps-izettle-grow-a-global-business/
+  domain: www.desk.com
+  image: ""
+- curated_id: ba8ddbda00008e74d98f5bd4cc15aa81
+  item_date: "2015-06-03 00:00:00"
+  title: Join Keen Community Discussions Every Friday
+  url: http://keenio.tumblr.com/post/120624511266/join-keen-community-discussions-every-friday#_=_
+  domain: keenio.tumblr.com
+  image: ""
+- curated_id: c81f06a398af18c813fd08f007fd28f2
+  item_date: "2015-06-03 00:00:00"
+  title: The New Developer Docs Portal Experience
+  url: https://developer.salesforce.com/blogs/tech-pubs/2015/06/the-new-developer-docs-portal-experience.html
+  domain: developer.salesforce.com
+  image: ""
+- curated_id: 1bffbb41a0d188511b8100c3c9f0ba71
+  item_date: "2015-06-03 00:00:00"
+  title: WSO2 Announces API Cloud and App Cloud
+  url: http://www.infoq.com/news/2015/06/wso2-api-app-cloud
+  domain: www.infoq.com
+  image: ""
+- curated_id: 698696f93cc1f0510649a47849af1c7e
+  item_date: "2015-06-04 00:00:00"
+  title: 'Docker and the Three Ways of DevOps Part 2: The Second Way ? Amplify Feedback
+    Loops'
+  url: http://blog.docker.com/2015/06/docker-three-ways-ops-2/
+  domain: blog.docker.com
+  image: ""
+- curated_id: 113fa73dbdb25e1dc31f6374d5cd5b09
+  item_date: "2015-06-04 00:00:00"
+  title: One Million Reasons to Integrate with QuickBooks Online and Apps.com
+  url: https://developer.intuit.com/blog/2015/06/04/one-million-reasons-to-integrate-with-quickbooks-online-and-apps-com
+  domain: developer.intuit.com
+  image: ""
+- curated_id: 05286876e920e9c81e03c4da836acddb
+  item_date: "2015-06-05 00:00:00"
+  title: 19 of the Worst Developer Frustrations
+  url: http://www.programmableweb.com/news/19-worst-developer-frustrations/elsewhere-web/2015/06/05
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: 3186ae40bdb02aeca09ec36eef2a9af0
+  item_date: "2015-06-05 00:00:00"
+  title: WSO2 API Cloud Release Brings Open Source API Management to the Public
+  url: http://www.programmableweb.com/news/wso2-api-cloud-release-brings-open-source-api-management-to-public/press-release/2015/06/05
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: e0b9e2165ad90a81a810235f9c66ff62
+  item_date: "2015-06-08 00:00:00"
+  title: At WWDC Apple Unifies iOS, Mac, Watch OS Dev Programs
+  url: http://www.programmableweb.com/news/wwdc-apple-unifies-ios-mac-watch-os-dev-programs/2015/06/08
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: 52386c306e19a0a9f3f51ec6f8650fb0
+  item_date: "2015-06-10 00:00:00"
+  title: Improved Search Functionality in our QuickBooks App Store
+  url: https://developer.intuit.com/blog/2015/06/10/improved-search-in-quickbooks-app-store
+  domain: developer.intuit.com
+  image: ""
+- curated_id: 22c1c46a17b1f4fe983fdae390bf12cd
+  item_date: "2015-06-10 00:00:00"
+  title: Share Your Projects And Perspective On The Konekt Blog
+  url: http://konekt.io/blog/become-a-guest-writer/
+  domain: konekt.io
+  image: ""
+- curated_id: 6c2a449b2b72cb6bea4f50e1ad33742d
+  item_date: "2015-06-10 13:12:04"
+  title: API management solutions market will quadruple by 2020
+  url: http://www.zdnet.com/article/the-api-management-solutions-market-will-quadruple-by-2020/
+  domain: www.zdnet.com
+  image: ""
+- curated_id: f1b92e0d1291b1acd83e3eef30210d86
+  item_date: "2015-06-10 13:26:52"
+  title: Backendless 2.0 is released with Geofencing, Logging API, Node.JS support
+    and API Management
+  url: https://backendless.com/backendless-2-0-is-released-with-geofencing-logging-api-node-js-support-and-api-management/
+  domain: backendless.com
+  image: ""
+- curated_id: 9d1e3e5b435c374c5a9961a3ec4572ad
+  item_date: "2015-06-10 13:26:52"
+  title: Backendless 2.0 is released with Geofencing, Logging API, Node.JS support
+    and API Management
+  url: https://backendless.com/
+  domain: backendless.com
+  image: ""
+- curated_id: 1d84cf3fb75ab12512b99e5faa8caad6
+  item_date: "2015-06-11 00:00:00"
+  title: API KPI?s ? 4 Keys to Tracking a Successful Developer Program
+  url: http://www.mashery.com/blog/api-kpi-s-4-keys-tracking-successful-developer-program
+  domain: www.mashery.com
+  image: ""
+- curated_id: e6ba34aba2122bf315bf107abed91148
+  item_date: "2015-06-11 00:00:00"
+  title: Help us help you with your DFP API questions
+  url: http://googleadsdeveloper.blogspot.com/2015/06/help-us-help-you-with-your-dfp-api.html
+  domain: googleadsdeveloper.blogspot.com
+  image: ""
+- curated_id: 209a2788da0cfe2e226d247f9ce561a3
+  item_date: "2015-06-14 00:00:00"
+  title: 5 Reasons Your API May be Ready for Retirement
+  url: http://www.programmableweb.com/news/5-reasons-your-api-may-be-ready-retirement/elsewhere-web/2015/06/14
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: b5135acf84d82ee23ba091f4e4621921
+  item_date: "2015-06-15 00:00:00"
+  title: Intuit Developer Has a New Services Dashboard
+  url: https://developer.intuit.com/blog/2015/06/15/intuit-developer-has-a-new-status-dashboard
+  domain: developer.intuit.com
+  image: ""
+- curated_id: 5ec3c4f60453f5ba7ea61435dc6ace5a
+  item_date: "2015-06-16 00:00:00"
+  title: A new Filepicker plugin?.created by a Filepicker client
+  url: https://www.filepicker.com/blog/fun/a-new-filepicker-plugin-created-by-a-filepicker-client/
+  domain: www.filepicker.com
+  image: ""
+- curated_id: 5178e7ed71f84db0bf503ca23cc30385
+  item_date: "2015-06-16 00:00:00"
+  title: Two ways to create your APISpark account
+  url: http://restlet.com/blog/2015/06/16/two-ways-to-create-your-apispark-account/
+  domain: restlet.com
+  image: ""
+- curated_id: f2081e47bc1ed2b628485894562d749f
+  item_date: "2015-06-16 00:00:00"
+  title: Bitreserve opens API to developer community
+  url: http://www.finextra.com/news/announcement.aspx
+  domain: www.finextra.com
+  image: ""
+- curated_id: 8f18b77b006674dbe41a5bcd282b4e00
+  item_date: "2015-06-17 00:00:00"
+  title: API Management Solutions Market Predicted to Quadruple by 2020
+  url: http://www.programmableweb.com/news/api-management-solutions-market-predicted-to-quadruple-2020/elsewhere-web/2015/06/17
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: ce3bbdd7e7d6753354d749292b501936
+  item_date: "2015-06-17 00:00:00"
+  title: On Air with the Google Apps Developer Team
+  url: http://googleappsdeveloper.blogspot.com/2015/06/on-air-with-google-apps-developer-team.html
+  domain: googleappsdeveloper.blogspot.com
+  image: ""
+- curated_id: 19863b7bd058d559c642e1c265ec5b28
+  item_date: "2015-06-19 00:00:00"
+  title: ""
+  url: https://blog.lateral.io/2015/06/youll-never-guess-which-api-documentation-tools-we-use/
+  domain: blog.lateral.io
+  image: ""
+- curated_id: 4df0d5ca1a0e4cbb0a9161a39f6305a4
+  item_date: "2015-06-19 00:00:00"
+  title: Google Offers Bounty for Android Bugs
+  url: http://www.programmableweb.com/news/google-offers-bounty-android-bugs/2015/06/19
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: 8789ec253be2f7adf88191a62d58514c
+  item_date: "2015-06-19 00:00:00"
+  title: Manage your API, without installing anything on your systems
+  url: http://restlet.com/blog/2015/06/19/manage-your-api-without-installing-anything-on-your-systems/
+  domain: restlet.com
+  image: ""
+- curated_id: 8f61ba5901d0b90d09938c2cf8706e4c
+  item_date: "2015-06-22 00:00:00"
+  title: API Management and Microservices
+  url: http://www.windley.com//archives/2015/06/api_management_and_microservices.shtml
+  domain: www.windley.com
+  image: ""
+- curated_id: bfe3d136e0f305fba0c62b7c5b6d78d9
+  item_date: "2015-06-23 12:33:14"
+  title: How to Receive Notifications When Your AWS Accounts Root Access Keys Are
+    Used
+  url: https://blogs.aws.amazon.com/security/post/Tx3PSPQSN8374D/How-to-Receive-Notifications-When-Your-AWS-Account-s-Root-Access-Keys-Are-Used
+  domain: blogs.aws.amazon.com
+  image: ""
+- curated_id: bfa9b5214de3e06ebf92a7730ece817e
+  item_date: "2015-06-24 00:00:00"
+  title: Announcing New Docs for Keen IO
+  url: http://keenio.tumblr.com/post/122347324946/announcing-new-docs-for-keen-io#_=_
+  domain: keenio.tumblr.com
+  image: ""
+- curated_id: e09eae665a21633aae8e6fadd7c94c89
+  item_date: "2015-06-24 00:00:00"
+  title: Focusing on Spot Instances ? Let?s Talk About Best Practices
+  url: https://aws.amazon.com/blogs/aws/focusing-on-spot-instances-lets-talk-about-best-practices/
+  domain: aws.amazon.com
+  image: ""
+- curated_id: e8c92b350ac053bd9a15c5bdd5edc9d5
+  item_date: "2015-06-25 00:00:00"
+  title: Introducing the Alexa Skills Kit, Enabling Developers to Create Entirely
+    New Voice Driven Capabilities
+  url: https://developer.amazon.com/appsandservices/community/post/Tx205N9U1UD338H/Introducing-the-Alexa-Skills-Kit-Enabling-Developers-to-Create-Entirely-New-Voic
+  domain: developer.amazon.com
+  image: ""
+- curated_id: 97f39fa0234a6fbc465f575813bea254
+  item_date: "2015-06-25 10:23:32"
+  title: API Management and Microservices
+  url: http://www.windley.com//archives/2015/06/api_management_and_microservices.shtml#st_refDomain=&amp;st_refQuery=
+  domain: www.windley.com
+  image: ""
+- curated_id: 80ba2ab9fee4788f6078cb7413fab2fc
+  item_date: "2015-06-25 14:34:12"
+  title: API v2 developer site (preview!)
+  url: https://blogs.dropbox.com/developers/2015/06/api-v2-developer-site-preview/
+  domain: blogs.dropbox.com
+  image: ""
+- curated_id: ab41164a9748bfe246853f670f1eb203
+  item_date: "2015-06-26 00:00:00"
+  title: Its all about managing those APIs better says WaveMaker
+  url: https://cmsreport.com/articles/it-s-all-about-managing-those-apis-better-says-wavemaker-13631
+  domain: cmsreport.com
+  image: ""
+- curated_id: f6dbab523e8337acd8764d0cfca7a985
+  item_date: "2015-06-27 10:05:52"
+  title: Data Request - Data.gov
+  url: https://www.data.gov/data-request/request-id/6912/
+  domain: www.data.gov
+  image: ""
+- curated_id: 7d4e4c232dddacc31791124578dd9761
+  item_date: "2015-06-30 00:00:00"
+  title: Sign-up For the Amazon Developer Weekly
+  url: https://developer.amazon.com/appsandservices/community/post/Tx1LFUAWNPK9J6O/Sign-up-For-the-Amazon-Developer-Weekly
+  domain: developer.amazon.com
+  image: ""
+- curated_id: 63924aae2be3dcb7290eca1d856284f2
+  item_date: "2015-06-30 00:00:00"
+  title: THBS Bolsters Its Flagship API Management Solution API-o-Blocks with Advanced
+    Capabilities
+  url: http://www.prlog.org/12471152-thbs-bolsters-its-flagship-api-management-solution-api-blocks-with-advanced-capabilities.html
+  domain: www.prlog.org
+  image: ""
+- curated_id: 0d69b17c7e68e8a328be5f77fa782646
+  item_date: "2015-07-01 00:00:00"
+  title: What?s New for Developers with QuickBooks Online v87?
+  url: https://developer.intuit.com/blog/2015/07/01/whats-new-for-developers-with-quickbooks-online-v87
+  domain: developer.intuit.com
+  image: ""
+- curated_id: 204a042e58d70db732c4ca64fc5d7488
+  item_date: "2015-07-01 00:00:00"
+  title: How To Manage APIs with Restlet#039;s APISpark
+  url: http://www.programmableweb.com/news/how-to-manage-apis-restlets-apispark/sponsored-content/2015/07/01
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: 312b3174affc118463d0f44d3f6e4cfd
+  item_date: "2015-07-01 00:00:00"
+  title: SLAs are just a comfort blanket. In the OnApp Federation, metadata rules!
+  url: http://onapp.com/blog/article/slas-comfort-blanket-metadata-rules-in-the-onapp-federation
+  domain: onapp.com
+  image: ""
+- curated_id: 25ef3a7da78d312ef50a1ee218b737b8
+  item_date: "2015-07-02 00:00:00"
+  title: 'Use AlchemyData News Like a Pro: Tip #3'
+  url: http://blog.alchemyapi.com/use-alchemydata-news-like-a-pro-tip-3
+  domain: blog.alchemyapi.com
+  image: ""
+- curated_id: f397bf164b07d10c59b74f0f53af1911
+  item_date: "2015-07-02 00:00:00"
+  title: Yelp Announces API Console and Will Soon End V1 Endpoints
+  url: http://www.programmableweb.com/news/yelp-announces-api-console-and-will-soon-end-v1-endpoints/2015/07/02
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: e63f91da2c14a90bf6e5d2aca6ac26aa
+  item_date: "2015-07-03 00:00:00"
+  title: 'On ProgrammableWeb: Manage APIs with APISpark'
+  url: http://restlet.com/blog/2015/07/03/on-programmableweb-manage-apis-with-apispark/
+  domain: restlet.com
+  image: ""
+- curated_id: e6786b8615d35f72f91a3faa7492bb45
+  item_date: "2015-07-07 00:00:00"
+  title: Manage Fuse APIs with apiman
+  url: http://www.apiman.io/blog/api/management/jboss/fuse/2015/07/07/fuse-apis.html
+  domain: www.apiman.io
+  image: ""
+- curated_id: d7046c498fff1dd0f9e0a69c7c89fca7
+  item_date: "2015-07-08 00:00:00"
+  title: New And Improved Developer Documentation
+  url: https://blog.pokitdok.com/new-and-improved-developer-documentation/
+  domain: blog.pokitdok.com
+  image: ""
+- curated_id: 90eeacffe05f00f00bc9659d87932d34
+  item_date: "2015-07-08 00:00:00"
+  title: Adding a user with Context.IO!
+  url: http://blog.context.io/2015/07/adding-a-user-with-context-io/
+  domain: blog.context.io
+  image: ""
+- curated_id: a0a0d5ab86579508ea82cc2db5d65283
+  item_date: "2015-07-08 00:00:00"
+  title: 'BrandPost: About MaaS and PaaS of the future'
+  url: http://www.computerworld.com/article/2945396/enterprise-applications/about-maas-and-paas-of-the-future.html
+  domain: www.computerworld.com
+  image: ""
+- curated_id: 88a1215a69c3dd9099f6dc66522be168
+  item_date: "2015-07-09 00:00:00"
+  title: AWS Launches API Gateway as a Cloud Service
+  url: http://www.programmableweb.com/news/aws-launches-api-gateway-cloud-service/2015/07/09
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: dda1caace3313c0ec1716797267f8f47
+  item_date: "2015-07-09 00:00:00"
+  title: More Improvements to the Developer Docs Portal
+  url: https://developer.salesforce.com/blogs/tech-pubs/2015/07/more-improvements-to-the-developer-docs-portal.html
+  domain: developer.salesforce.com
+  image: ""
+- curated_id: bb97d1ec8f9e87a550a1ee441a9f0dda
+  item_date: "2015-07-09 00:00:00"
+  title: 'Managing apps and users with fine-grained access controls '
+  url: https://blog.heroku.com/archives/2015/7/9/managing_apps_and_users_with_fine_grained_access_controls
+  domain: blog.heroku.com
+  image: ""
+- curated_id: c11f5c8c5904105dca254e9511b3e109
+  item_date: "2015-07-09 09:30:55"
+  title: WSO2 to Present Webinar Series on API Design and Management  Best Practices
+    for Achieving a Connected Business
+  url: http://wso2.com/about/news/wso2-to-present-webinar-series-on-api-design-and-management-best-practices-for-achieving-a-connected-business/
+  domain: wso2.com
+  image: ""
+- curated_id: 31b2b62207eab44110f33ce4deb08582
+  item_date: "2015-07-09 09:35:01"
+  title: Amazon API Gateway ? Build and Run Scalable Application Backends
+  url: https://aws.amazon.com/blogs/aws/amazon-api-gateway-build-and-run-scalable-application-backends/
+  domain: aws.amazon.com
+  image: ""
+- curated_id: da7d06e12f9b669b7ea56ec8d0cb9b4c
+  item_date: "2015-07-10 00:00:00"
+  title: 'Amazon Web Services API Gateway: Why it could be a big deal'
+  url: http://www.zdnet.com/article/amazon-web-services-api-gateway-why-it-could-be-a-big-deal/
+  domain: www.zdnet.com
+  image: ""
+- curated_id: 0218814db5b1f0bb88c8d6d2bdf73677
+  item_date: "2015-07-11 00:00:00"
+  title: A first glimpse of the new Amazon API Gateway
+  url: http://api-university.com/blog/api-architecture/a-first-glimpse-of-the-new-amazon-api-gateway/
+  domain: api-university.com
+  image: ""
+- curated_id: c610d94c34f45183bd8b4f5f6c7f7cc6
+  item_date: "2015-07-12 00:00:00"
+  title: Amazon Release API Gateway, a Managed Service to Build and Run APIs
+  url: http://www.infoq.com/news/2015/07/aws-api-gateway
+  domain: www.infoq.com
+  image: ""
+- curated_id: 2418d6bd46e24b65cb12e8d0e4597971
+  item_date: "2015-08-10 00:00:00"
+  title: How API management can solve the enterprise architect?s dilemma
+  url: http://blogs.ca.com/2015/08/10/how-api-management-can-solve-the-enterprise-architects-dilemma/
+  domain: blogs.ca.com
+  image: ""
+- curated_id: 8e76b95fe8ddbeea4ccac25d86c7bcbc
+  item_date: "2015-08-11 00:00:00"
+  title: Our Brand New Docs
+  url: https://www.pushwoosh.com/our-brand-new-docs/
+  domain: www.pushwoosh.com
+  image: ""
+- curated_id: 94d4d0566a997af07e864b8df41d2374
+  item_date: "2015-08-12 00:00:00"
+  title: Make sure your Ads API client library runtime environment is up-to-date!
+  url: http://googleadsdeveloper.blogspot.com/2015/08/make-sure-your-ads-api-client-library.html
+  domain: googleadsdeveloper.blogspot.com
+  image: ""
+- curated_id: f5668d25ea33b8333d190d568d9ee042
+  item_date: "2015-08-14 08:03:50"
+  title: Many Leading API Management Vendors are Not So Secure After All
+  url: https://www.axway.com/en/blog/2015/08/many-leading-api-management-vendors-are-not-so-secure-after-all-0
+  domain: www.axway.com
+  image: ""
+- curated_id: f6f2e343048f5968c9bda3cd791eb4b9
+  item_date: "2015-08-15 00:00:00"
+  title: Two new CKAN extensions ? Webhooks and Geopusher
+  url: http://ckan.org/2015/08/16/two-new-ckan-extensions-webhooks-and-geopusher/
+  domain: ckan.org
+  image: ""
+- curated_id: 6969e1cf01dcc5ff6a2143af43bb9b87
+  item_date: "2015-08-15 10:06:13"
+  title: 'API Management: A Tale of Two Keys - Clarify'
+  url: http://clarify.io/blog/api-management-a-tale-of-two-keys/
+  domain: clarify.io
+  image: ""
+- curated_id: 0881a8464ce926f012d06927c66ea656
+  item_date: "2015-08-18 09:11:47"
+  title: AnyPresence moves beyond MBaaS and embraces API management
+  url: http://www.diversity.net.nz/idg-contributor-network-anypresence-moves-beyond-mbaas-and-embraces-api-management/2015/08/18/
+  domain: www.diversity.net.nz
+  image: ""
+- curated_id: 37d20c8282d526614b424cd384f483cd
+  item_date: "2015-08-24 14:52:42"
+  title: ""
+  url: http://snip.ly/pTrZ
+  domain: snip.ly
+  image: ""
+- curated_id: ec3187799af16a57085ea794d9e6af02
+  item_date: "2015-08-25 00:00:00"
+  title: Making the Postman logo
+  url: http://blog.getpostman.com/2015/08/26/making-the-postman-logo/
+  domain: blog.getpostman.com
+  image: ""
+- curated_id: dbc214db57bbb67386236ea1eab3d2f5
+  item_date: "2015-08-25 14:59:57"
+  title: TIBCO Software to Acquire API Management Leader Mashery | The TIBCO Blog
+  url: http://www.tibco.com/blog/2015/08/25/tibco-software-to-acquire-api-management-leader-mashery
   domain: www.tibco.com
   image: ""
-- curated_id: QAaDgMpT7DqGuD1Yj9LF2HDECuy1+1dE9pGubJkFSCw=_15cd2740f61:18b6b1d:517b1451
-  item_date: "2017-06-22 08:00:25"
-  title: Securing Application Secrets with EC2 Parameter Store
-  url: http://blog.rackspace.com/?p=43072
-  domain: blog.rackspace.com
+- curated_id: 65397f8dfde2eed365e715a3c4c0abea
+  item_date: "2015-08-27 00:00:00"
+  title: Dynamic Ingest API FAQ
+  url: http://docs.brightcove.com/en/video-cloud/di-api/guides/faqs-di.html
+  domain: docs.brightcove.com
   image: ""
-- curated_id: ctQxj818xbBhHEFyLu7YdnnqpJkfUeYDSZhAjGqqRko=_15cd074d9fd:12f9528:fe3a8465
-  item_date: "2017-06-22 08:36:47"
-  title: 'Your API Management System: Using The Wrong Tool Can Be Dangerous, Cost
-    More, And Take Longer'
-  url: http://apimetrics.io/?p=3467
-  domain: apimetrics.io
+- curated_id: 6ba4aa9d68c5c6c6a8370e0dffbea7a1
+  item_date: "2015-08-27 00:00:00"
+  title: Interview with Readme.io Founder on the Future of API Documentation
+  url: http://www.infoq.com/news/2015/08/readme-io
+  domain: www.infoq.com
   image: ""
-- curated_id: FZ/2GLZp/a8FriFm6BqxYgMelBuYPP5oD17BctyF8kM=_15cd343a845:1c22bd:661f1d99
-  item_date: "2017-06-22 09:01:01"
-  title: Introducing the Recent Items API
-  url: https://medium.com/p/ca34840f81ef
+- curated_id: 3da0c072b9209b3b07f535aff531073a
+  item_date: "2015-08-28 00:00:00"
+  title: Help us build a better Google Cloud Platform
+  url: http://googlecloudplatform.blogspot.com/2015/08/Help-us-build-a-better-Google-Cloud-Platform.html
+  domain: googlecloudplatform.blogspot.com
+  image: ""
+- curated_id: 3fc1270d76b6c7c34aba12fbe69ffd02
+  item_date: "2015-09-09 09:17:58"
+  title: Improving Developer Experience With 3scale Partner API Changelog
+  url: http://www.3scale.net/2015/09/improving-developer-experience-with-3scale-partner-api-changelog/
+  domain: www.3scale.net
+  image: ""
+- curated_id: ef03d968c504cc8436261ca505f85f6d
+  item_date: "2015-09-10 00:00:00"
+  title: Introducing New APIs to Help Test Your Access Control Policies
+  url: https://blogs.aws.amazon.com/security/post/Tx3VTV439X0C9R2/Introducing-New-APIs-to-Help-Test-Your-Access-Control-Policies
+  domain: blogs.aws.amazon.com
+  image: ""
+- curated_id: a41e835b3fc0f9c1d32a4fe2f0fdb774
+  item_date: "2015-09-11 00:00:00"
+  title: 'Building A Developer Community Around An API: 2015 Developer Survey'
+  url: https://blog.paymill.com/developer-community-survey/
+  domain: blog.paymill.com
+  image: ""
+- curated_id: 81659693082983689da02633cb49e0d5
+  item_date: "2015-09-13 00:00:00"
+  title: Why API Providers Must Offer Solid API Documentation
+  url: http://www.programmableweb.com/news/why-api-providers-must-offer-solid-api-documentation/elsewhere-web/2015/09/13
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: 1fe583895826dbc8aa4a4b6044bbfe40
+  item_date: "2015-09-14 00:00:00"
+  title: The first year of our API!
+  url: http://blog.mendeley.com/api/the-first-year-of-our-api/
+  domain: blog.mendeley.com
+  image: ""
+- curated_id: 859ab40e325ab0b7db9c3737f8200338
+  item_date: "2015-09-23 00:00:00"
+  title: Announcing Support for Google Cloud Platform
+  url: https://www.nginx.com/blog/support-for-google-cloud/
+  domain: www.nginx.com
+  image: ""
+- curated_id: 8a6f1428f960db0160e6a300a3ed2f48
+  item_date: "2015-10-20 00:00:00"
+  title: ?Microsoft Office 365 Unified API Preview Shows Advantages of API Betas
+  url: http://www.programmableweb.com/news/%E2%80%8Bmicrosoft-office-365-unified-api-preview-shows-advantages-api-betas/analysis/2015/10/20
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: b5b877c9299cbac296ce482bccef2f71
+  item_date: "2015-10-21 00:00:00"
+  title: HTML documentation for your API
+  url: http://restlet.com/blog/2015/10/21/html-documentation-for-your-api/
+  domain: restlet.com
+  image: ""
+- curated_id: 14baef81de9ec53d337014fd1c097e43
+  item_date: "2015-10-26 08:34:43"
+  title: Mozilla Launches Open Source Support Program | The Mozilla Blog
+  url: https://blog.mozilla.org/blog/2015/10/23/mozilla-launches-open-source-support-program/
+  domain: blog.mozilla.org
+  image: ""
+- curated_id: 2f24c34c5d5dd2cc3e746a97a9bb663d
+  item_date: "2015-11-06 00:00:00"
+  title: 'Twitter experimentation: technical overview'
+  url: https://blog.twitter.com/2015/twitter-experimentation-technical-overview
+  domain: blog.twitter.com
+  image: ""
+- curated_id: 0eacc9a0468f60fffc46db022a5ad9f8
+  item_date: "2015-12-07 00:00:00"
+  title: AWS Podcasts ? Convox, FundersClub, Pachyderm, and Runscope
+  url: https://aws.amazon.com/blogs/aws/aws-podcasts-convox-funders-club-pachyderm-and-runscope/
+  domain: aws.amazon.com
+  image: ""
+- curated_id: 5aabcbf0584d68230f8b16a01fa9fc23
+  item_date: "2015-12-07 00:00:00"
+  title: The Utopia of API Documentation
+  url: http://blog.smartbear.com/documentation/the-utopia-of-api-documentation/
+  domain: blog.smartbear.com
+  image: ""
+- curated_id: 65a27400371eff49ed39606614a369ad
+  item_date: "2015-12-10 00:00:00"
+  title: 'DPLA Workshop: Introduction to DPLA?s Application Programming Interface,
+    February 11, 2016, 3:30 PM Eastern'
+  url: http://dp.la/info/2015/12/10/dpla-workshop-introduction-to-dplas-application-programming-interface-february-11-2016-330-pm-eastern/
+  domain: dp.la
+  image: ""
+- curated_id: fa49c6b80581149020a4e82a5ae551f3
+  item_date: "2015-12-10 14:58:43"
+  title: Moving Beyond API Reference Documentation
+  url: http://launchany.com/moving-beyond-api-reference-documentation/
+  domain: launchany.com
+  image: ""
+- curated_id: 08ecd718ddd580b64231b201fac90857
+  item_date: "2015-12-12 00:00:00"
+  title: 'Microsoft Extends Azure API Management Services to Third Party Integration '
+  url: http://www.programmableweb.com/news/microsoft-extends-azure-api-management-services-to-third-party-integration/brief/2015/12/12
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: 27d76f9d573b943e8c62481f0d403b2c
+  item_date: "2015-12-15 00:00:00"
+  title: Overview of Apps.com Review process
+  url: https://developer.intuit.com/hub/blog/2015/12/15/overview-of-apps-com-review-process
+  domain: developer.intuit.com
+  image: ""
+- curated_id: b1092fd55f2094faa457010a35ba6c97
+  item_date: "2015-12-15 00:00:00"
+  title: AWS Podcasts ? Compgun, Primadesk, SkinnyPrice, and Cameron Peron
+  url: https://aws.amazon.com/blogs/aws/aws-podcasts-compgun-primadesk-skinnyprice-and-cameron-peron/
+  domain: aws.amazon.com
+  image: ""
+- curated_id: 7d4a7e995fdb4a17b5bfc59a402ce7da
+  item_date: "2015-12-15 00:00:00"
+  title: Our New Developer Portal is Now Live
+  url: https://www.fullcontact.com/blog/new-developer-portal/
+  domain: www.fullcontact.com
+  image: ""
+- curated_id: 4f19bcdb406f4f5114738a51eb85a5bd
+  item_date: "2015-12-15 00:00:00"
+  title: Slack hits 2M daily active users, launches third-party App Directory, $80M
+    developer fund
+  url: http://venturebeat.com/2015/12/15/slack-hits-2m-daily-active-users-launches-third-party-app-directory-80m-developer-fund/
+  domain: venturebeat.com
+  image: ""
+- curated_id: 8017643a73801a3f896e9aa38e961485
+  item_date: "2015-12-15 00:00:00"
+  title: The Slack Platform Launch
+  url: http://slackhq.com/post/134878632730/launch-platform#_=_
+  domain: slackhq.com
+  image: ""
+- curated_id: 50eab39b38287e1b6cf5eb7aa19f3d18
+  item_date: "2015-12-15 00:00:00"
+  title: Slack introduces $80M developer fund and extensive app directory
+  url: http://thenextweb.com/apps/2015/12/16/slack-introduces-80m-developer-fund-and-extensive-app-directory/
+  domain: thenextweb.com
+  image: ""
+- curated_id: 011b1d1e4ed4ce0da15f7f14485133fd
+  item_date: "2015-12-15 17:21:26"
+  title: Enable GitHub Authentication For Your Developer Portal
+  url: http://www.3scale.net/2015/12/give-faster-access-to-your-developer-portal-with-github-authentication/
+  domain: www.3scale.net
+  image: ""
+- curated_id: e4b89a21a676d4ed6e6ecfd17557a1ff
+  item_date: "2015-12-16 00:00:00"
+  title: Document-API-topia (API Days Paris 2015)
+  url: http://apihandyman.io/document-api-topia-api-days-paris-2015/
+  domain: apihandyman.io
+  image: ""
+- curated_id: b9652f7af46f34835267f23426b4da62
+  item_date: "2015-12-16 00:00:00"
+  title: AWS Trusted Advisor Update ? New and Updated Checks
+  url: https://aws.amazon.com/blogs/aws/aws-trusted-advisor-update-new-and-updated-checks/
+  domain: aws.amazon.com
+  image: ""
+- curated_id: d9ee2e174cc8a502354297ce9cb5c12d
+  item_date: "2015-12-16 00:00:00"
+  title: GitHub and Udacity team up to offer three Ruby nanodegrees
+  url: http://venturebeat.com/2015/12/16/github-and-udacity-team-up-to-offer-three-ruby-nanodegrees/
+  domain: venturebeat.com
+  image: ""
+- curated_id: 33fccb1d28f605b718de25c61ffd3952
+  item_date: "2015-12-16 00:00:00"
+  title: Pitfalls of public roadmaps
+  url: https://www.magnolia-cms.com/blogs/antti-hietala/detail~@pitfalls-of-public-roadmaps~.html
+  domain: www.magnolia-cms.com
+  image: ""
+- curated_id: 0799ec2acdb1b6575c81b406bc7cebed
+  item_date: "2015-12-16 00:00:00"
+  title: Register now for the March 2016 Display Ads API Workshops
+  url: http://googleadsdeveloper.blogspot.com/2015/12/register-now-for-march-2016-display-ads.html
+  domain: googleadsdeveloper.blogspot.com
+  image: ""
+- curated_id: 70999970b2bb39ca508044f2dada6210
+  item_date: "2015-12-16 03:48:23"
+  title: Sharesight API Changelog
+  url: https://www.apichangelog.com/api/sharesight
+  domain: www.apichangelog.com
+  image: ""
+- curated_id: e82c4127ad4dfeae39632395b8c53892
+  item_date: "2015-12-17 13:52:08"
+  title: 'Google Developers Blog: Our new global program for Developer Agencies'
+  url: http://googledevelopers.blogspot.com/2015/12/our-new-global-program-for-developer.html
+  domain: googledevelopers.blogspot.com
+  image: ""
+- curated_id: 380068038b64df66bbf82e75c4eaea35
+  item_date: "2015-12-19 00:00:00"
+  title: Measuring Management and Orchestration
+  url: http://lorimacvittie.sys-con.com/node/3607021
+  domain: lorimacvittie.sys-con.com
+  image: ""
+- curated_id: aabf4ad60931b70dba5a31e8120e58da
+  item_date: "2015-12-20 00:00:00"
+  title: Google Updates Include My Business API and Calendar Resource API
+  url: http://www.programmableweb.com/news/google-updates-include-my-business-api-and-calendar-resource-api/2015/12/21
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: c530eb30824622bff35ee44d1c0192d4
+  item_date: "2015-12-21 00:00:00"
+  title: 7 Steps to Successful Developer Onboarding
+  url: http://www.programmableweb.com/news/7-steps-to-successful-developer-onboarding/analysis/2015/12/21
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: 156a36694e4e288b41e29e5b80657e05
+  item_date: "2015-12-21 09:18:48"
+  title: Error 451 is the new Ray Bradbury-inspired HTTP code for online censorship
+  url: http://www.pcworld.com/article/3017553/internet/error-451-is-the-new-ray-bradbury-inspired-http-code-for-online-censorship.html
+  domain: www.pcworld.com
+  image: ""
+- curated_id: 161c0f451819462805c005fbb4a6ee1f
+  item_date: "2016-01-04 00:00:00"
+  title: Announcing the API Composition Three-Part Webinar Series
+  url: https://strongloop.com/strongblog/announcing-the-api-composition-three-part-webinar-series/
+  domain: strongloop.com
+  image: ""
+- curated_id: e1fb41fb97b4667d919699b4075bfba1
+  item_date: "2016-01-04 00:00:00"
+  title: 'Presentation: ASBs API journey'
+  url: http://www.infoq.com/presentations/asb-api
+  domain: www.infoq.com
+  image: ""
+- curated_id: 078fd77eae1721cdf59aaf257f178748
+  item_date: "2016-01-05 00:00:00"
+  title: Visually explore funnels of user activities
+  url: https://blog.twitter.com/2016/visually-explore-funnels-of-user-activities
+  domain: blog.twitter.com
+  image: ""
+- curated_id: 81a2f68174d2c0986fc8cd4fcecf5b5e
+  item_date: "2016-01-06 00:00:00"
+  title: Getting Started with the API
+  url: https://developer.wordpress.com/docs/api/getting-started/
+  domain: developer.wordpress.com
+  image: ""
+- curated_id: dd9d716b65035967bbea9d896bc5a9da
+  item_date: "2016-01-07 00:00:00"
+  title: Getting Started With the IBM Watson Ecosystem
+  url: https://developer.ibm.com/watson/blog/2016/01/07/getting-started-with-the-ibm-watson-ecosystem-2/
+  domain: developer.ibm.com
+  image: ""
+- curated_id: 390bc2c5999e3a60aa9a4dd300293225
+  item_date: "2016-01-07 00:00:00"
+  title: 'API Spotlight: Copper'
+  url: https://blog.octopart.com/archives/2016/01/api-spotlight-copper
+  domain: blog.octopart.com
+  image: ""
+- curated_id: c427e9cfb79a28391991ea1e8317e634
+  item_date: "2016-01-07 00:00:00"
+  title: 'ICYMI: New Watson APIs in 2015'
+  url: http://blog.alchemyapi.com/icymi-new-watson-apis-in-2015
+  domain: blog.alchemyapi.com
+  image: ""
+- curated_id: c4c91bd32cc7fac2579952f603b1b6cb
+  item_date: "2016-01-07 00:00:00"
+  title: Indix Product API Documentation Enhancements
+  url: http://www.indix.com/blog/news/indix-product-api-documentation/
+  domain: www.indix.com
+  image: ""
+- curated_id: 9c6cddd0566323771d7a3cfe3201868f
+  item_date: "2016-01-08 00:00:00"
+  title: 'New Alexa Skills Kit Template: Build a Trivia Skill in under an Hour'
+  url: https://developer.amazon.com/appsandservices/community/post/TxDJWS16KUPVKO/New-Alexa-Skills-Kit-Template-Build-a-Trivia-Skill-in-under-an-Hour
+  domain: developer.amazon.com
+  image: ""
+- curated_id: ed22f8586c0a0cd10bd2af1ee4a375df
+  item_date: "2016-01-08 00:00:00"
+  title: 'Bad API documentation: Why, and what you can do about it'
+  url: http://cloudrail.com/bad-api-documentation-why-and-what-you-can-do-about-it/
+  domain: cloudrail.com
+  image: ""
+- curated_id: 188a3091a7e80399bc9f78ad301c12aa
+  item_date: "2016-01-08 00:00:00"
+  title: Quickstart Guide to the Runscope API
+  url: http://blog.runscope.com/posts/getting-started-with-the-runscope-api
+  domain: blog.runscope.com
+  image: ""
+- curated_id: 9b5a94eaf43502e4d55f996f910c16cf
+  item_date: "2016-01-12 00:00:00"
+  title: 'Presentation: API Management ? A Governmental Perspective'
+  url: http://www.infoq.com/presentations/api-government-nz
+  domain: www.infoq.com
+  image: ""
+- curated_id: e37998eae5b4839651f7f4e62a9237ae
+  item_date: "2016-01-12 00:00:00"
+  title: What can APISpark bring to your existing Web APIs implemented with Node
+  url: http://restlet.com/blog/2016/01/12/what-can-apispark-bring-to-your-existing-web-apis-implemented-with-node/
+  domain: restlet.com
+  image: ""
+- curated_id: 21b8b403dbd4f1704fa3237ed3df73f2
+  item_date: "2016-01-12 00:00:00"
+  title: OneNote API throttling and how to avoid it
+  url: https://blogs.msdn.microsoft.com/onenotedev/2016/01/12/onenote-api-throttling-and-how-to-avoid-it/
+  domain: blogs.msdn.microsoft.com
+  image: ""
+- curated_id: 3bb26556343d68ce0ff93b07355df7d2
+  item_date: "2016-01-13 00:00:00"
+  title: Azure API Management Resources
+  url: http://www.bizcoder.com:80/azure-api-management-resources
+  domain: www.bizcoder.com
+  image: ""
+- curated_id: 284eda2fd7d57e96cd5aa62f17c960bd
+  item_date: "2016-01-18 00:00:00"
+  title: 'API Best Practices: API Management'
+  url: https://dzone.com/articles/api-best-practices-api-management
+  domain: dzone.com
+  image: ""
+- curated_id: fe18f9ccd5c69208520fc7c7cc8e77a9
+  item_date: "2016-01-20 00:00:00"
+  title: How do I Provide a List of Certified Applications to My API Ecosystem Partners
+  url: https://dzone.com/articles/how-do-i-provide-a-list-of-certified-applications
+  domain: dzone.com
+  image: ""
+- curated_id: e8949cafd06a3f4161aa383d89b36253
+  item_date: "2016-01-20 00:00:00"
+  title: The Slack App Directory Checklist
+  url: https://medium.com/slack-developer-blog/the-slack-app-directory-checklist-e3f3ba0ca7c5
   domain: medium.com
   image: ""
-- curated_id: FZ/2GLZp/a8FriFm6BqxYgMelBuYPP5oD17BctyF8kM=_15cd3e138f8:1a219bd:5b78a817
-  item_date: "2017-06-23 00:31:39"
-  title: What happened to the Yahoo Finance API?
-  url: https://medium.com/p/857c2a6abb6d
+- curated_id: 19f8544f353cbd05b8f981c37b5b1e9e
+  item_date: "2016-01-22 00:00:00"
+  title: Let?s Talk About Developer Experience (DX) Design
+  url: https://dzone.com/articles/lets-talk-about-developer-experience-dx-design
+  domain: dzone.com
+  image: ""
+- curated_id: a3e2f3a981d7888159ef6f87054f7e30
+  item_date: "2016-01-22 18:34:05"
+  title: API Industry Standards and Regulatory Requirements
+  url: https://developer.ibm.com/apiconnect/2016/01/21/api-industry-standards-and-regulatory-requirements/
+  domain: developer.ibm.com
+  image: ""
+- curated_id: 4f1d261b141ead88a3edc1400e0cd972
+  item_date: "2016-01-26 00:00:00"
+  title: Lockr Key Management Service for Drupal and WordPress Now Available
+  url: http://www.programmableweb.com/news/lockr-key-management-service-drupal-and-wordpress-now-available/2016/01/26
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: 919361886337a5735a650a93ad3f9a0c
+  item_date: "2016-01-27 00:00:00"
+  title: How MYOB Has Implemented Their API Strategy
+  url: http://www.programmableweb.com/news/how-myob-has-implemented-their-api-strategy/elsewhere-web/2016/01/27
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: b67197e192eeffd0a2f1965c82771afc
+  item_date: "2016-01-27 00:00:00"
+  title: New DreamFactory 2.0 Tutorial Videos
+  url: http://blog.dreamfactory.com/dreamfactory-2-tutorial-videos
+  domain: blog.dreamfactory.com
+  image: ""
+- curated_id: 1cdea574caea45b0eb9ec3614695f19b
+  item_date: "2016-01-27 00:00:00"
+  title: Manage and Monitor Apache Web Servers From Cloud
+  url: https://dzone.com/articles/manage-and-monitor-apache-web-servers-from-cloud
+  domain: dzone.com
+  image: ""
+- curated_id: 410d4a53f6d4f2f9f9e23e730cb5c348
+  item_date: "2016-01-28 20:23:56"
+  title: Download Lockr for your CMS | Lockr.io
+  url: https://lockr.io/downloads
+  domain: lockr.io
+  image: ""
+- curated_id: cbb68d7730c9fe4b128a7d394aa1a503
+  item_date: "2016-01-31 00:00:00"
+  title: How to Separate Your AWS Production and Dev Accounts
+  url: https://dzone.com/articles/how-to-separate-your-aws-production-and-dev-accoun
+  domain: dzone.com
+  image: ""
+- curated_id: c82259bb101af17ba1e29ee8b5bbeec3
+  item_date: "2016-02-10 00:00:00"
+  title: 'API management: 5 reasons it can boost your business'
+  url: http://tfmainsights.com/api-management-5-reasons-it-can-boost-your-business/
+  domain: tfmainsights.com
+  image: ""
+- curated_id: 462fd2bed684e66dc66da16cf5a17d40
+  item_date: "2016-02-11 14:28:55"
+  title: Importance Of Thinking Externally When Writing The Description For Your API
+  url: http://blog.apiware.io/importance-of-thinking-externally-when-writing-the-description-for-your-api/
+  domain: blog.apiware.io
+  image: ""
+- curated_id: fabfd6f84a816a504de2d2fcf6986f89
+  item_date: "2016-02-12 00:00:00"
+  title: Announcing Weekly Alexa Developer Office Hours
+  url: https://developer.amazon.com/appsandservices/community/post/Tx3NJ44CRNDHE00/Announcing-Weekly-Alexa-Developer-Office-Hours
+  domain: developer.amazon.com
+  image: ""
+- curated_id: 20ad6d327b73764f05ebe8a919cefa12
+  item_date: "2016-02-16 00:00:00"
+  title: Getting Started with QuickBooks? Five Insights From Your Fellow App Developers
+  url: https://developer.intuit.com/hub/blog/2016/02/16/getting-started-with-quickbooks-five-insights-from-your-fellow-app-developers
+  domain: developer.intuit.com
+  image: ""
+- curated_id: 2e7b45a57f694424bf4c541eb846204c
+  item_date: "2016-02-16 00:00:00"
+  title: AWS Webinars for February  Early March 2016
+  url: https://aws.amazon.com/blogs/aws/aws-webinars-for-february-early-march-2016/
+  domain: aws.amazon.com
+  image: ""
+- curated_id: f5811200fb11f4fef9562ee0cbf20883
+  item_date: "2016-02-16 18:19:43"
+  title: Amazon API Gateway Available in Asia Pacific (Singapore) Region
+  url: https://aws.amazon.com/about-aws/whats-new/2016/02/amazon-api-gateway-available-in-asia-pacific-singapore-region/
+  domain: aws.amazon.com
+  image: ""
+- curated_id: 3df5c8ed13c8c361407c7583f0d75cfe
+  item_date: "2016-02-17 00:00:00"
+  title: Why Github#039;s Scientist 1.0 Could Be Great for API Versioning
+  url: http://www.programmableweb.com/news/why-githubs-scientist-1.0-could-be-great-api-versioning/analysis/2016/02/17
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: e3d9f658d8bc62c702dd70bfd2cf897d
+  item_date: "2016-02-17 13:44:44"
+  title: Introducing IBM API Connect
+  url: https://strongloop.com/strongblog/introducing-ibm-api-connect/
+  domain: strongloop.com
+  image: ""
+- curated_id: bedc58a7b573895c64115f05f9146712
+  item_date: "2016-02-22 00:00:00"
+  title: Fujitsu RunMyProcess to Expand Usability of Platform with APIs powered by  Restlet
+  url: http://restlet.com/blog/2016/02/22/fujitsu-runmyprocess-to-expand-usability-of-platform-with-apis-powered-by-restlet/
+  domain: restlet.com
+  image: ""
+- curated_id: d596783baaa623a486d90d2f08910eba
+  item_date: "2016-02-23 00:00:00"
+  title: 3 Things Nobody Told You About API Development
+  url: http://blog.runscope.com/posts/3-things-nobody-told-you-about-api-development
+  domain: blog.runscope.com
+  image: ""
+- curated_id: 67d3079730c66b66de51c305bbedc6ab
+  item_date: "2016-02-23 00:00:00"
+  title: How Spotify#039;s Poor API Hygiene Broke a Bunch of Hardware and Software
+  url: http://www.programmableweb.com/news/how-spotifys-poor-api-hygiene-broke-bunch-hardware-and-software/analysis/2016/02/23
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: f22061e40eec1ada50b5d5e3991134e4
+  item_date: "2016-02-24 00:00:00"
+  title: Get a Headstart on Your Apps with Application Starter Kits
+  url: http://blog.alchemyapi.com/get-a-headstart-on-your-apps-with-application-starter-kits
+  domain: blog.alchemyapi.com
+  image: ""
+- curated_id: b46df382b8f25917c53053ef414df310
+  item_date: "2016-02-24 00:00:00"
+  title: Re-Publishing Your API(s)
+  url: http://www.apiman.io/blog/apiman/1.2.x/gateway/2016/02/24/republishing.html
+  domain: www.apiman.io
+  image: ""
+- curated_id: 92a1b1ceafa727b031f7d3c36b51112f
+  item_date: "2016-02-25 00:00:00"
+  title: Apiman 1.2 ? Improvements to Plugin Management
+  url: https://dzone.com/articles/apiman-12-improvements-to-plugin-management
+  domain: dzone.com
+  image: ""
+- curated_id: aa0cf081d62235b5220c319585d3bc59
+  item_date: "2016-03-02 00:00:00"
+  title: Commerce Department launches new suite of open data tutorials
+  url: http://sunlightfoundation.com/blog/2016/03/02/commerce-department-launches-new-suite-of-open-data-tutorials/
+  domain: sunlightfoundation.com
+  image: ""
+- curated_id: 5b7a135fe0f9ccaf9a1f77002f50067a
+  item_date: "2016-03-03 00:00:00"
+  title: Every cloud has an API lining
+  url: http://blogs.ca.com/2016/03/03/every-cloud-has-an-api-lining/
+  domain: blogs.ca.com
+  image: ""
+- curated_id: 83122e79b3a50f566309ac8677dad9da
+  item_date: "2016-03-03 11:49:15"
+  title: Your strategy?s last message to developers ? Medium
+  url: https://medium.com/@jeffiel/your-strategy-s-last-message-to-developers-ff901cdf4a55#.pka0mxhbq
   domain: medium.com
   image: ""
-- curated_id: FZ/2GLZp/a8FriFm6BqxYgMelBuYPP5oD17BctyF8kM=_15cdd909051:123fd7:35f03cd7
-  item_date: "2017-06-24 06:06:59"
-  title: Building an API Support System
-  url: https://medium.com/p/824d8241a957
+- curated_id: cf7ceb93c597cbfec7722cb917fb1bfc
+  item_date: "2016-03-09 00:00:00"
+  title: Run OpenShift console on port 443
+  url: https://blog.openshift.com/run-openshift-console-port-443/
+  domain: blog.openshift.com
+  image: ""
+- curated_id: 7b50e4482e8ecf00b802caa08b761697
+  item_date: "2016-03-09 00:00:00"
+  title: Extending the Prototyping Capabilities of WSO2 API Manager
+  url: https://dzone.com/articles/how-to-extend-prototyping-capabilities-of-wso2-api
+  domain: dzone.com
+  image: ""
+- curated_id: dbc19f5536a7c131cf411185682b1e38
+  item_date: "2016-03-10 00:00:00"
+  title: Launching a Pingdom community
+  url: http://royal.pingdom.com/2016/03/10/launching-a-pingdom-community/
+  domain: royal.pingdom.com
+  image: ""
+- curated_id: e18db4beccf3960cc28f894aed03d668
+  item_date: "2016-03-10 00:00:00"
+  title: Simply having APIs is not enough
+  url: http://blogs.ca.com/2016/03/10/simply-having-apis-is-not-enough/
+  domain: blogs.ca.com
+  image: ""
+- curated_id: 204b99ffe26ed97fc808cdd23e861874
+  item_date: "2016-03-10 00:00:00"
+  title: Managing teams and API sharing in APISpark
+  url: http://restlet.com/blog/2016/03/10/managing-teams-and-api-sharing-in-apispark/
+  domain: restlet.com
+  image: ""
+- curated_id: 09428404098ea90cbcf440682b65660c
+  item_date: "2016-03-17 15:23:59"
+  title: The Definitive Guide to API Management
+  url: https://pages.apigee.com/ebook-the-definitive-guide-to-api-management-reg.html
+  domain: pages.apigee.com
+  image: ""
+- curated_id: 390302440ee69e44b535a6c3722d6d83
+  item_date: "2016-03-18 00:00:00"
+  title: How to Secure Kong Admin
+  url: https://apiplug.com/blog/how-to-secure-kong-admin/
+  domain: apiplug.com
+  image: ""
+- curated_id: a7b205be9ae456ee25fd4fe32f3c68ce
+  item_date: "2016-03-21 00:00:00"
+  title: Tutorials from Twilio ? The new documentation experience from Twilio.
+  url: https://www.twilio.com/docs/tutorials
+  domain: www.twilio.com
+  image: ""
+- curated_id: 5b9fc26574a988f21585b869952bf691
+  item_date: "2016-03-22 00:00:00"
+  title: API Connect Has Arrived!
+  url: https://strongloop.com/strongblog/api-connect-has-arrived/
+  domain: strongloop.com
+  image: ""
+- curated_id: 37f0ce2e4c922cf0b88acb4efe3eb2b4
+  item_date: "2016-03-24 00:00:00"
+  title: Version 1.2.3.Final of apiman is released!
+  url: http://www.apiman.io/blog/apiman/release/2016/03/24/release-1.2.3.html
+  domain: www.apiman.io
+  image: ""
+- curated_id: af5841128d45b073cd6214a7f11fbc08
+  item_date: "2016-03-24 00:00:00"
+  title: Creating an IP-based rate-limiter with Tyk and JavaScript middleware
+  url: https://tyk.io/2016/03/24/ip-rate-limiter-middleware/
+  domain: tyk.io
+  image: ""
+- curated_id: 0ce020ecacafa4154e7fed6d69c6b184
+  item_date: "2016-03-28 00:00:00"
+  title: Apiman 1.2 - Introduction to User Roles in apiman
+  url: http://www.apiman.io/blog/apiman/introduction/overview/users/roles/2016/03/28/users_roles.html
+  domain: www.apiman.io
+  image: ""
+- curated_id: 94a4c601c7166868091e7fe2c8f659ed
+  item_date: "2016-03-28 08:59:47"
+  title: Four Key API Management Use Cases for the Enterprise
+  url: http://www.slideshare.net/CAinc/four-key-api-management-use-cases-for-the-enterprise
+  domain: www.slideshare.net
+  image: ""
+- curated_id: c39eec661ed49ee67d99b709cdae4082
+  item_date: "2016-03-30 08:49:06"
+  title: Announcing a Change to Best Buy?s API Access
+  url: https://medium.com/best-buy-developers/announcing-a-change-to-best-buy-s-api-access-b09afc4bc27a#.tthkpbea3
   domain: medium.com
   image: ""
-- curated_id: Ihfxwji+t22ShjrcAU9C1jjgW/GnKU96aASgOecQBk0=_15cee93bf28:e00072:661f1d99
-  item_date: "2017-06-28 05:00:15"
-  title: Introducing the Salesforce DX Open Beta
-  url: http://26.184581
-  domain: "26.184581"
+- curated_id: e24a40ff477da2692ff8f0d444094c29
+  item_date: "2016-03-31 00:00:00"
+  title: 'Best Buy API Access Policy Change Requires Company-Based Email '
+  url: http://www.programmableweb.com/news/best-buy-api-access-policy-change-requires-company-based-email/brief/2016/03/31
+  domain: www.programmableweb.com
   image: ""
-- curated_id: ubygSApExKVhYp09kv/UuTH0HdSS+ApaCwd0cQ3aLuo=_15cef129217:efb138:5577d05
-  item_date: "2017-06-28 07:19:13"
-  title: 'New on Hitch: Your API profile, customized!'
-  url: https://medium.com/p/e7b7e77118b1
+- curated_id: d8e3bc381ab6356837c59bde628b0667
+  item_date: "2016-03-31 17:13:54"
+  title: Build APIs With JustAPIs And Manage Them With 3scale
+  url: https://www.3scale.net/2016/03/build-apis-with-justapis-and-manage-them-with-3scale/
+  domain: www.3scale.net
+  image: ""
+- curated_id: 988e418c525e993e51db0b5a637b22e1
+  item_date: "2016-04-13 00:00:00"
+  title: 'Covering Your Assets: Data Encryption in API Management'
+  url: http://www.apiman.io/blog/security/gateway/2016/04/13/data-encryption.html
+  domain: www.apiman.io
+  image: ""
+- curated_id: d4b38f9f78de1d1661dcf7dec95dedfe
+  item_date: "2016-04-14 10:29:53"
+  title: Hitch wants to help you grow and manage your API community
+  url: http://techcrunch.com/2016/04/14/hitchhq/
+  domain: techcrunch.com
+  image: ""
+- curated_id: b6b77d493b7e2247cd47665d42a48cbe
+  item_date: "2016-04-15 00:00:00"
+  title: App Directory Spotlight ? Tomatobot, Intro and RSS Fox
+  url: https://medium.com/slack-developer-blog/app-directory-spotlight-tomatobot-intro-and-rss-fox-4db92143561
   domain: medium.com
   image: ""
-- curated_id: 7TEBlXSMajGkv/YSW3g1Klkey5yNzPysA89gpF/QOCo=_15cf9de347b:8819f:ab1298eb
-  item_date: "2017-06-30 04:15:00"
-  title: 'IT Benchmarking: How to Assess Your IT Transformation Efforts'
-  url: http://www.bmc.com/blogs/?p=10733
-  domain: www.bmc.com
+- curated_id: e594171fbbb64d5be8e22889ef5bc4d0
+  item_date: "2016-04-15 00:00:00"
+  title: 'Featured Video: The Complete API Lifecycle with Arrow and API Management'
+  url: http://www.appcelerator.com/blog/2016/04/featured-video-the-complete-api-lifecycle-with-arrow-and-api-management/
+  domain: www.appcelerator.com
+  image: ""
+- curated_id: 715420a41dce87945ca4772ca9ea2928
+  item_date: "2016-04-18 00:00:00"
+  title: QuickBooks Certification and Training programs
+  url: https://developer.intuit.com/hub/blog/2016/04/18/quickbooks-certification-and-training-programs
+  domain: developer.intuit.com
+  image: ""
+- curated_id: cf8fa1aabb945d899040b94f4729ea79
+  item_date: "2016-04-20 00:00:00"
+  title: Deploy to WildFly and Docker From IntelliJ Using Management API
+  url: https://dzone.com/articles/deploy-to-wildfly-and-docker-from-intellij-using-m
+  domain: dzone.com
+  image: ""
+- curated_id: 73b02ec422c48998f8fc43ce7ae848df
+  item_date: "2016-04-20 00:00:00"
+  title: Have You Seen Bronto?s New and Improved Developer Site?
+  url: http://blog.bronto.com/product/seen-brontos-new-improved-developer-site/
+  domain: blog.bronto.com
+  image: ""
+- curated_id: 46a5c79ac1bc56a0b94d9d51e8e0ba45
+  item_date: "2016-04-21 10:18:49"
+  title: 'Understanding APIs: misery to mastery'
+  url: https://techblog.workiva.com/tech-blog/understanding-apis-misery-mastery
+  domain: techblog.workiva.com
+  image: ""
+- curated_id: 54d7a4b38bdcae56a06cd3d45ec8dc3c
+  item_date: "2016-04-22 00:00:00"
+  title: 'Building a Better Developer Community: DevRelCon Takeaways'
+  url: https://www.jwplayer.com/blog/devrelcon-takeaways/
+  domain: www.jwplayer.com
+  image: ""
+- curated_id: 4db3531b5f8e1d8f30104eac0d809f28
+  item_date: "2016-04-25 00:00:00"
+  title: Slack Review ? Worlds largest collection of Slack apps
+  url: http://www.slackreview.com/
+  domain: www.slackreview.com
+  image: ""
+- curated_id: e1383ad896202f5d6ce377e63a161fe4
+  item_date: "2016-05-03 00:00:00"
+  title: How We Use Neo4j to Manage Microservices at Veneto Banca
+  url: https://dzone.com/articles/how-we-use-neo4j-to-manage-microservices-at-veneto
+  domain: dzone.com
+  image: ""
+- curated_id: 72483c94b2ec2cd256a243ad9d39923c
+  item_date: "2016-05-03 00:00:00"
+  title: 3scale Adds Stormpath Integration to Its Industry Leading API Platform
+  url: https://www.3scale.net/2016/05/3scale-adds-stormpath-integration-to-its-industry-leading-api-platform/
+  domain: www.3scale.net
+  image: ""
+- curated_id: 952554ddc9fae711a732830a260a6811
+  item_date: "2016-05-03 00:00:00"
+  title: Inaugural developer relations survey
+  url: http://blog.devrel.net/industry/inaugural-developer-relations-survey/
+  domain: blog.devrel.net
+  image: ""
+- curated_id: 686fe8da3de58bfe4ad8fb55f36d96db
+  item_date: "2016-05-10 00:00:00"
+  title: What Does a Good API Look Like? A Review Of Slack
+  url: https://dzone.com/articles/what-does-a-good-api-look-like-a-review-of-slack
+  domain: dzone.com
+  image: ""
+- curated_id: e3c15cee7e5c873b34543aafa45ebbb6
+  item_date: "2016-05-11 00:00:00"
+  title: Better Marketing With Channel Integration and API Management
+  url: https://dzone.com/articles/better-marketing-with-channel-integration-amp-api
+  domain: dzone.com
+  image: ""
+- curated_id: 1b96c6eacd265e2c130140264941db87
+  item_date: "2016-05-12 00:00:00"
+  title: Do You Want API Billing Data Via API?
+  url: http://everydeveloper.com/do-you-want-api-billing-data-via-api/
+  domain: everydeveloper.com
+  image: ""
+- curated_id: cb9ea8ef206b10bbd816af6ed98654d5
+  item_date: "2016-05-12 00:00:00"
+  title: API Providers and Consumers Keeping in Touch Is How You Can Set the Right
+    Tone for an API Community
+  url: https://dzone.com/articles/api-providers-amp-consumers-keeping-in-touch-is-ho
+  domain: dzone.com
+  image: ""
+- curated_id: ef62a38c59657f6b36c037047e1ae18b
+  item_date: "2016-05-17 00:00:00"
+  title: Developer Tutorial - Building a Secure Onboarding App with Box Platform
+  url: https://www.box.com/blog/developer-tutorial-building-user-onboarding-app-box-platform/
+  domain: www.box.com
+  image: ""
+- curated_id: ce8658a31f2302ca73ab55bffe6a6b81
+  item_date: "2016-05-17 00:00:00"
+  title: TIBCO Now Day 1?Focusing on the Cloud, APIs, and API Management
+  url: http://www.tibco.com/blog/2016/05/17/tibco-now-day-1-focusing-on-the-cloud-apis-and-api-management/
+  domain: www.tibco.com
+  image: ""
+- curated_id: 042dd3f23091c65a988f46c1f1925e34
+  item_date: "2016-05-17 00:00:00"
+  title: Integrate Tyk with Auth0
+  url: https://tyk.io/2016/05/17/integrate-tyk-auth0/
+  domain: tyk.io
+  image: ""
+- curated_id: 4325cf898842addd840f6ee31a82b28b
+  item_date: "2016-05-19 00:00:00"
+  title: Getting creative with Postmark?s status API
+  url: https://postmarkapp.com/blog/getting-creative-with-postmarks-status-api
+  domain: postmarkapp.com
+  image: ""
+- curated_id: 1170ed10d9fe7f5327f0ccb0f5369588
+  item_date: "2016-05-19 00:00:00"
+  title: TIBCO Now Day 3?The Nitty Gritty of Implementing an API Program
+  url: http://www.tibco.com/blog/2016/05/19/tibco-now-day-3-the-nitty-gritty-of-implementing-an-api-program/
+  domain: www.tibco.com
+  image: ""
+- curated_id: c6ce8954d9d8e1c64f446fb568b7fbe3
+  item_date: "2016-05-20 00:00:00"
+  title: 5 Items to Consider When Refactoring an API
+  url: https://dzone.com/articles/dzone-best-practices-5-items-to-consider-when-refa
+  domain: dzone.com
+  image: ""
+- curated_id: f9aa7c58f3ae9c1a513ab8fc1b77e86c
+  item_date: "2016-05-20 00:00:00"
+  title: Developer Experience (DX) ? Devs Are People Too
+  url: https://dzone.com/articles/developer-experience-dx-devs-are-people-too
+  domain: dzone.com
+  image: ""
+- curated_id: bca6818749c5d536f34269b2a9313867
+  item_date: "2016-05-23 00:00:00"
+  title: 3scale?s nginx-based API Gateway Now Available As Docker Image On Red Hat
+    OpenShift
+  url: https://www.3scale.net/2016/05/3scales-nginx-based-api-gateway-now-available-as-docker-image-on-red-hat-openshift/
+  domain: www.3scale.net
+  image: ""
+- curated_id: 655c5242b0e16f6e0a96e30b106393d6
+  item_date: "2016-05-24 00:00:00"
+  title: Introducing The New Box Developer Experience
+  url: https://www.box.com/blog/box-developer-experience/
+  domain: www.box.com
+  image: ""
+- curated_id: 363f2cc5f6983fe5f38281c244ba336f
+  item_date: "2016-05-24 00:00:00"
+  title: 3scale Announces Dockerized API Gateway for Red Hat Openshift
+  url: https://dzone.com/articles/3scale-announces-dockerized-api-gateway-for-red-ha
+  domain: dzone.com
+  image: ""
+- curated_id: fe4af30504e7d7c29d51686946fc962f
+  item_date: "2016-05-27 00:00:00"
+  title: 3scale Releases API Gateway for Red Hat OpenShift
+  url: http://www.devsworld.com/topics/devsworld/articles/421583-3scale-releases-api-gateway-red-hat-openshift.htm
+  domain: www.devsworld.com
+  image: ""
+- curated_id: f0b3f4829966c978e77878d1598047cf
+  item_date: "2016-05-27 00:00:00"
+  title: Introducing Echosim.io ? A New Online Tool Built by the Community, for the
+    Community
+  url: https://developer.amazon.com/appsandservices/community/post/Tx3BB1JHNS1TDTS/Introducing-Echosim-io-A-New-Online-Tool-Built-by-the-Community-for-the-Communit
+  domain: developer.amazon.com
+  image: ""
+- curated_id: 415d5f211a34af82a171d002a74a2740
+  item_date: "2016-06-02 00:00:00"
+  title: Web Based Kong API Gateway Manager
+  url: https://apiplug.com/blog/web-based-kong-api-gateway-manager/
+  domain: apiplug.com
+  image: ""
+- curated_id: 9588c63e8bae5e163b3af7fcf157aeb3
+  item_date: "2016-06-10 00:00:00"
+  title: 'API Platform: More than Just API Management'
+  url: http://www.tibco.com/blog/2016/06/10/api-platform-more-than-just-api-management/
+  domain: www.tibco.com
+  image: ""
+- curated_id: 4c81a5e4ab46251d99f1d51722f62264
+  item_date: "2016-06-10 00:00:00"
+  title: 'OpenShift Ecosystem: API Management on Red Hat OpenShift with 3scale'
+  url: https://blog.openshift.com/openshift-ecosystem-api-management-on-red-hat-openshift-with-3scale/
+  domain: blog.openshift.com
+  image: ""
+- curated_id: 8ecd9637cea24311372f793c43fcedef
+  item_date: "2016-06-14 00:00:00"
+  title: 5 Signs of Managed Platform Entropy
+  url: https://dzone.com/articles/5-signs-of-managed-platform-entropy
+  domain: dzone.com
+  image: ""
+- curated_id: 4bb4b3d8152df313e4ff66b5b4117591
+  item_date: "2016-06-14 00:00:00"
+  title: The Importance of API Management to Hybrid Clouds
+  url: https://dzone.com/articles/the-importance-of-api-management-to-hybrid-clouds
+  domain: dzone.com
+  image: ""
+- curated_id: 907bd4965e38f134b400f0e724ec6dbc
+  item_date: "2016-06-15 00:00:00"
+  title: Have You Seen Fishbowl?s New Integration Pages?
+  url: https://www.fishbowlinventory.com/blog/2016/06/15/have-you-seen-fishbowls-new-integration-pages/
+  domain: www.fishbowlinventory.com
+  image: ""
+- curated_id: 28bc757b65c99710097b778a8b7828a3
+  item_date: "2016-06-17 00:00:00"
+  title: Getting Started with Azure API Management REST API
+  url: https://videos.dabcc.com/getting-started-with-azure-api-management-rest-api/
+  domain: videos.dabcc.com
+  image: ""
+- curated_id: e2cebedef9f8376d06949f83e14d0bc3
+  item_date: "2016-06-19 00:00:00"
+  title: Simply Having APIs Is Not Enough
+  url: https://dzone.com/articles/simply-having-apis-is-not-enough
+  domain: dzone.com
+  image: ""
+- curated_id: d33cb76bfe04ee0a56162b305e90bbd9
+  item_date: "2016-06-20 00:00:00"
+  title: 'QuickBooks Connect 2016: Planning Checklist for Developers'
+  url: https://developer.intuit.com/hub/blog/2016/06/20/quickbooks-connect-2016-planning-checklist-for-developers
+  domain: developer.intuit.com
+  image: ""
+- curated_id: 06a5907d2cb96879c4f25db803098479
+  item_date: "2016-06-22 00:00:00"
+  title: Red Hat acquires API management firm 3scale, posts Q1 results
+  url: http://newsinfilm.com/2016/06/23/red-hat-acquires-api-management-firm-3scale-posts-q1-results/
+  domain: newsinfilm.com
+  image: ""
+- curated_id: 850cde1325e1dc974714624c6ddb2cbb
+  item_date: "2016-06-22 00:00:00"
+  title: Red Hat to Acquire API Management Leader 3scale
+  url: https://www.3scale.net/2016/06/red-hat-to-acquire-api-management-leader-3scale/
+  domain: www.3scale.net
+  image: ""
+- curated_id: a625318b3bf1213c7065965a6dc151a8
+  item_date: "2016-06-23 00:00:00"
+  title: Red Hat Acquires 3Scale to Drive Adoption of API Management Platform
+  url: http://www.itbusinessedge.com/blogs/it-unmasked/red-hat-acquires-3scale-to-drive-adoption-of-api-management-platform.html
+  domain: www.itbusinessedge.com
+  image: ""
+- curated_id: 0d35b5386f4105de30427d9aa0da7852
+  item_date: "2016-06-23 00:00:00"
+  title: Red Hat to Acquire 3scale
+  url: http://www.enterprisetech.com/2016/06/23/red-hat-acquire-3scale/
+  domain: www.enterprisetech.com
+  image: ""
+- curated_id: 77bf6c374a7494631dcbcaa4c682545a
+  item_date: "2016-06-24 00:00:00"
+  title: 'Why Red Hat and 3scale Matter: A Developers View'
+  url: https://dzone.com/articles/why-red-hat-and-3scale-matter
+  domain: dzone.com
+  image: ""
+- curated_id: 8db516ba1f479f6a8acdbf45e0e2e742
+  item_date: "2016-06-25 16:45:15"
+  title: Red Hat to Acquire API Management Leader 3scale
+  url: https://www.redhat.com/en/about/press-releases/red-hat-acquire-api-management-leader-3scale
+  domain: www.redhat.com
+  image: ""
+- curated_id: 4a2255ef1bca66ffab3c70308cc43792
+  item_date: "2016-06-25 20:57:32"
+  title: Red Hat ups its API management game by acquiring 3Scale
+  url: http://www.infoworld.com/article/3087557/apis/red-hat-ups-its-api-management-game-by-acquiring-3scale.html
+  domain: www.infoworld.com
+  image: ""
+- curated_id: 620779ad3b244f92a0193eee29231ab2
+  item_date: "2016-06-28 09:22:21"
+  title: Red Hat explains its acquisition of API management tools maker 3scale
+  url: http://searchcloudapplications.techtarget.com/news/450299207/Red-Hat-explains-its-acquisition-of-API-management-tools-maker-3scale
+  domain: searchcloudapplications.techtarget.com
+  image: ""
+- curated_id: ea3049776b58fe9eb00ecc337e715e65
+  item_date: "2016-06-29 00:00:00"
+  title: Beef Up Your Microservices With API Management
+  url: https://www.3scale.net/2016/06/beef-up-your-microservices-with-api-management/
+  domain: www.3scale.net
+  image: ""
+- curated_id: 85ef5e1c4c74bc179bf3a3957078b351
+  item_date: "2016-07-07 00:00:00"
+  title: Beyond API management with DreamFactory
+  url: http://blog.dreamfactory.com/beyond-api-management-with-dreamfactory
+  domain: blog.dreamfactory.com
+  image: ""
+- curated_id: c429b4574720804adbd5a053a610feb9
+  item_date: "2016-08-03 00:00:00"
+  title: Using APIs  API Management for an Omni-Channel Retail Experience
+  url: http://blogs.shephertz.com/2016/08/03/using-api-management-omni-channel-retail-experience/
+  domain: blogs.shephertz.com
+  image: ""
+- curated_id: 19af806b4e43527f30bb8f6606f3d0ab
+  item_date: "2016-08-09 00:00:00"
+  title: API Gateway Custom Authorization With Lambda, DynamoDB, and CloudFormation
+  url: https://dzone.com/articles/api-gateway-custom-authorization-with-lambda-dynam
+  domain: dzone.com
+  image: ""
+- curated_id: 8e539f6c64943f2bf68deac18fd2d8ae
+  item_date: "2016-08-09 00:00:00"
+  title: 'New feature: Assign rights by service'
+  url: https://www.3scale.net/2016/08/new-feature-assign-rights-by-service/
+  domain: www.3scale.net
+  image: ""
+- curated_id: 50a02c03153d0e1f0d247c170b0d1af8
+  item_date: "2016-08-11 00:00:00"
+  title: New ? Bring Your Own Keys with AWS Key Management Service
+  url: https://aws.amazon.com/blogs/aws/new-bring-your-own-keys-with-aws-key-management-service/
+  domain: aws.amazon.com
+  image: ""
+- curated_id: d515e7133064ea40901c900e299e201a
+  item_date: "2016-08-11 00:00:00"
+  title: New ? Usage Plans for Amazon API Gateway
+  url: https://aws.amazon.com/blogs/aws/new-usage-plans-for-amazon-api-gateway/
+  domain: aws.amazon.com
+  image: ""
+- curated_id: 6286aed291542965719ed8cde4b33656
+  item_date: "2016-08-11 00:00:00"
+  title: New! Import Your Own Keys into AWS Key Management Service
+  url: https://blogs.aws.amazon.com/security/post/TxBGJCU9X1DWJX/New-Import-Your-Own-Keys-into-AWS-Key-Management-Service
+  domain: blogs.aws.amazon.com
+  image: ""
+- curated_id: 636bf8352c4ee6c4ea23b7800eba5ddc
+  item_date: "2016-08-11 00:00:00"
+  title: Use of API Design and Management Policies
+  url: https://dzone.com/articles/use-of-api-design-and-management-policies
+  domain: dzone.com
+  image: ""
+- curated_id: f6e07f1d9dee5af2615e935901fb77f6
+  item_date: "2016-08-11 11:06:15"
+  title: AWS launches Usage Plans for API Gateway service
+  url: http://venturebeat.com/2016/08/11/aws-launches-usage-plans-for-api-gateway-service/
+  domain: venturebeat.com
+  image: ""
+- curated_id: 96760717655da04240eedf2accfcfba9
+  item_date: "2016-08-15 00:00:00"
+  title: The power of collaboration in the Xero Ecosystem
+  url: http://www.xero.com/blog/2016/08/power-collaboration-xero-ecosystem/
+  domain: www.xero.com
+  image: ""
+- curated_id: ac5662c686fe8e1d403a5fc04822e203
+  item_date: "2016-08-16 00:00:00"
+  title: Apigee and Pivotal Collaborate on Hybrid Cloud API Management
+  url: https://www.infoq.com/news/2016/08/apigee-pivotal-cloud
+  domain: www.infoq.com
+  image: ""
+- curated_id: f380bdd75e95fe5aeb7b78db1977a41b
+  item_date: "2016-08-18 00:00:00"
+  title: Using HBase to Create an Enterprise Key Service
+  url: http://blog.zaloni.com/using-hbase-to-create-an-enterprise-key-service
+  domain: blog.zaloni.com
+  image: ""
+- curated_id: 5921117fe09b0a77bf04a3635fb950cf
+  item_date: "2016-08-22 00:00:00"
+  title: Apigee API Management Available for Apps in AWS Marketplace
+  url: http://apigee.com/about/blog/engineering/apigee-api-management-available-apps-aws-marketplace
+  domain: apigee.com
+  image: ""
+- curated_id: b5d5b52a1cd4ce8ab23f3c35fd643091
+  item_date: "2016-08-23 00:00:00"
+  title: Essentials for Promoting Web APIs
+  url: http://www.apiful.io/intro/2016/08/24/essential-api-adoption-resources.html
+  domain: www.apiful.io
+  image: ""
+- curated_id: bcc18abc53664d10002da9da54bd7d67
+  item_date: "2016-08-25 00:00:00"
+  title: Onboarding New Developers
+  url: http://www.activestate.com/blog/2016/08/onboarding-new-developers-enforcing-standards-through-tutorials
+  domain: www.activestate.com
+  image: ""
+- curated_id: 23a697267133468ef9ee0f0dc12fd3ee
+  item_date: "2016-08-28 00:00:00"
+  title: 'Login with Facebook ( In 20 lines of PHP code ) '
+  url: http://motyar.blogspot.com/2016/08/login-with-facebook-in-20-lines-of-php.html
+  domain: motyar.blogspot.com
+  image: ""
+- curated_id: c9cced67c64dec3a59d25cf3b62e1e28
+  item_date: "2016-08-29 00:00:00"
+  title: How APIs  API Management are Changing the Banking Industry
+  url: http://blogs.shephertz.com/2016/08/29/api-management-changing-banking-industry/
+  domain: blogs.shephertz.com
+  image: ""
+- curated_id: e78a0ae2cfdafd3ccbfaa84c6dc803d0
+  item_date: "2016-08-30 00:00:00"
+  title: How to Build an API Initiative That Doesn?t Suck
+  url: http://apigee.com/about/blog/digital-business/how-build-api-initiative-doesn%E2%80%99t-suck
+  domain: apigee.com
+  image: ""
+- curated_id: 964b4b139006692da34c2d41a32d4dce
+  item_date: "2016-08-31 00:00:00"
+  title: About license keys
+  url: https://seap.samsung.com/license-keys/about
+  domain: seap.samsung.com
+  image: ""
+- curated_id: 439385f168b96db6fc92b1301fb92306
+  item_date: "2016-09-01 00:00:00"
+  title: Manage your APIs with Google Cloud Endpoints
+  url: https://cloudplatform.googleblog.com/2016/09/manage-your-APIs-with-Google-Cloud-Endpoints.html
+  domain: cloudplatform.googleblog.com
+  image: ""
+- curated_id: 2487d9a1d74b89b7182ff0956c614b22
+  item_date: "2016-09-01 00:00:00"
+  title: 'New Alexa Skills Kit Template for Developers: GameHelper'
+  url: https://developer.amazon.com/appsandservices/community/post/Tx352Z9W8L4QZ3B/New-Alexa-Skills-Kit-Template-for-Developers-GameHelper
+  domain: developer.amazon.com
+  image: ""
+- curated_id: 718f169be82f51710585d41c3141a4b6
+  item_date: "2016-09-01 11:21:04"
+  title: KongDash . Dashboard for Kong Admin API
+  url: https://ajaysreedhar.github.io/kongdash/
+  domain: ajaysreedhar.github.io
+  image: ""
+- curated_id: 5bac43712f748ea065dc797361febaf2
+  item_date: "2016-09-06 00:00:00"
+  title: Could Red Hat?s Acquisition of API Management Technology Revolutionize Software
+    Development Again?
+  url: http://restlet.com/blog/2016/09/06/could-red-hats-acquisition-of-api-management-technology-revolutionize-software-development-again/
+  domain: restlet.com
+  image: ""
+- curated_id: 3078feb4bde63dac53fa08a7c7b56666
+  item_date: "2016-09-06 00:00:00"
+  title: New! Enhanced Notification System
+  url: https://www.3scale.net/2016/09/new-enhanced-notification-system/
+  domain: www.3scale.net
+  image: ""
+- curated_id: e1ffe8ab4f954fd7c4ffbf164a18abc9
+  item_date: "2016-09-07 00:00:00"
+  title: How Netflixs Circuit Breaker Works
+  url: http://salerno-rafael.blogspot.com/2016_09_01_archive.html
+  domain: salerno-rafael.blogspot.com
+  image: ""
+- curated_id: a1d608748c768372f85939e1ec88a13d
+  item_date: "2016-09-08 00:00:00"
+  title: Google gets API management tools in Apigee deal
+  url: http://www.pcworld.com/article/3118041/google-gets-api-management-tools-in-apigee-deal.html#tk.rss_all
+  domain: www.pcworld.com
+  image: ""
+- curated_id: 6f092d6c308b8ee50569f322bf4c0850
+  item_date: "2016-09-08 00:00:00"
+  title: Apigee to Join Google
+  url: http://apigee.com/about/blog/digital-business/apigee-join-google
+  domain: apigee.com
+  image: ""
+- curated_id: 1d558968d51fce7ff883f6ee992ce882
+  item_date: "2016-09-08 00:00:00"
+  title: Google buying Apigee for $625 million
+  url: http://www.techinsider.io/google-buying-apigee-625-million-2016-9
+  domain: www.techinsider.io
+  image: ""
+- curated_id: 919ee894856a543695c807f71a23d988
+  item_date: "2016-09-08 00:00:00"
+  title: Google picks up API management platform Apigee for $625 million
+  url: http://myinforms.com/en-us/a/40811840-google-picks-up-api-management-platform-apigee-for-625-million/
+  domain: myinforms.com
+  image: ""
+- curated_id: d6e1162e909f064d6153ed75938fe70d
+  item_date: "2016-09-08 00:00:00"
+  title: Google to acquire Apigee
+  url: https://cloudplatform.googleblog.com/2016/09/Google-to-acquire-apigee.html
+  domain: cloudplatform.googleblog.com
+  image: ""
+- curated_id: 5c3bb126e588fe46ff0dd84aa12454cd
+  item_date: "2016-09-08 14:00:13"
+  title: 'Tweet: Were continuing to expand support for our developer ecosystem, making
+    it easier than ever to build on Box'
+  url: https://blog.box.com/blog/box-platform-accelerates-business/
+  domain: blog.box.com
+  image: ""
+- curated_id: f0608dc33eb434c40f9372d28abf49c5
+  item_date: "2016-09-08 17:38:01"
+  title: 'Tweet: QuickBooks Online API throttling changes coming soon'
+  url: https://twitter.com/IntuitDev/statuses/774044153076342784
+  domain: twitter.com
+  image: ""
+- curated_id: 9f10aaf60a3f3c0b1c43513c263ab995
+  item_date: "2016-09-09 00:00:00"
+  title: account Dimension
+  url: http://docs.brightcove.com/en/video-cloud/analytics-api/guides/account.html
+  domain: docs.brightcove.com
+  image: ""
+- curated_id: 6a0924276c9c7ca32908439b04be1091
+  item_date: "2016-09-09 00:00:00"
+  title: city Dimension
+  url: http://docs.brightcove.com/en/video-cloud/analytics-api/guides/city.html
+  domain: docs.brightcove.com
+  image: ""
+- curated_id: 61a5ab2edc1da8b2bc5243c04193241b
+  item_date: "2016-09-09 00:00:00"
+  title: country Dimension
+  url: http://docs.brightcove.com/en/video-cloud/analytics-api/guides/country.html
+  domain: docs.brightcove.com
+  image: ""
+- curated_id: c650b72e74c9059f0e7e6f04b7fd0c7d
+  item_date: "2016-09-09 16:29:01"
+  title: 'Tweet: Learn how the API Explorer makes integrating with @QuickBooks Online
+    easier with this video'
+  url: https://twitter.com/IntuitDev/statuses/774389175772520448
+  domain: twitter.com
+  image: ""
+- curated_id: ca8a08e3a7a310b66cd0e3f15a6efbf8
+  item_date: "2016-09-11 00:00:00"
+  title: Maintaining API | Working As A Software Engineer
+  url: https://cvesters.wordpress.com/2016/09/11/maintaining-api/
+  domain: cvesters.wordpress.com
+  image: ""
+- curated_id: d4c5fe1f9e27e65419c2e78382645bf0
+  item_date: "2016-09-12 00:00:00"
+  title: CA#039;s API Management Update Includes Support for Docker
+  url: http://www.programmableweb.com/news/cas-api-management-update-includes-support-docker/announcement/2016/09/12
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: d22dd68779149c35ec2ac34acc08f2e7
+  item_date: "2016-09-12 09:05:40"
+  title: Learn How To Do X With Y Using New Twilio Guides
+  url: https://www.twilio.com/blog/2016/09/learn-to-do-x-with-y-with-twilio-guides.html
+  domain: www.twilio.com
+  image: ""
+- curated_id: 7ae626d371cb26074fc8f7ae04bb56ac
+  item_date: "2016-09-15 11:45:06"
+  title: 'Tweet: RT @bitnami: Kong, @mashape#039;s open source API gateway and microservices
+    management layer, is now on @googlecloud  Learn more at: https://t.hellip;'
+  url: https://twitter.com/bitnami/status/776412964421267456
+  domain: twitter.com
+  image: ""
+- curated_id: ad71f35aea6033915e42f295910258b2
+  item_date: "2016-09-15 13:29:28"
+  title: 'Tweet: RT @mashape: Launch #Kong on #GoogleCloud with @Bitnami https://t.co/ClrapznJE8
+    via @mashape #ServerlessArchitecture #API #microservices #Nhellip;'
+  url: https://twitter.com/mashape/status/776491964870959105
+  domain: twitter.com
+  image: ""
+- curated_id: c354b7c125d2cae828661f657e7cfde9
+  item_date: "2016-09-16 00:00:00"
+  title: 'Overview: Policy API'
+  url: http://docs.brightcove.com/en/video-cloud/policy-api/getting-started/api-overview.html#geoRestriction
+  domain: docs.brightcove.com
+  image: ""
+- curated_id: a17d714a3a64ae98f6453581908e91ff
+  item_date: "2016-09-19 00:00:00"
+  title: Google Buys Apigee?A Primer on How to Boil a Frog
+  url: http://www.tibco.com/blog/2016/09/19/google-buys-apigee-a-primer-on-how-to-boil-a-frog/
+  domain: www.tibco.com
+  image: ""
+- curated_id: 14f75207a9f659ac7090ff0ede705b3f
+  item_date: "2016-09-19 00:00:00"
+  title: 'WSO2 API Manager 2.0.0: Better Statistics'
+  url: http://wso2.com/blogs/thesource/2016/09/wso2-api-manager-2-0-0-better-statistics/
+  domain: wso2.com
+  image: ""
+- curated_id: 225dc9547e11a4ee4ddf5ba3fb00e11f
+  item_date: "2016-09-19 09:49:58"
+  title: Why healthcare needs to care about Google?s acquisition of Apigee
+  url: https://medium.com/@PaddyPadmanabha/why-healthcare-needs-to-care-about-googles-acquisition-of-apigee-471dc3a8b9d9#.o2fqg9t7o
+  domain: medium.com
+  image: ""
+- curated_id: ed53257615c0648366616469dbaddd74
+  item_date: "2016-09-20 00:00:00"
+  title: Application Architecture for Box Platform Apps
+  url: http://www.programmableweb.com/news/application-architecture-box-platform-apps/sponsored-content/2016/09/20
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: fcca23ee7c1ddad1f04b3577e26cc911
+  item_date: "2016-09-20 16:58:09"
+  title: View CloudTrail API activity in your Config resource details timeline
+  url: http://docs.aws.amazon.com/config/latest/developerguide/view-manage-resource-console.html
+  domain: docs.aws.amazon.com
+  image: ""
+- curated_id: 60d2a5db21ef657db8f8aaa4310849c7
+  item_date: "2016-09-21 09:55:45"
+  title: Astonishing disappointment with AWS?s API Gateway
+  url: https://medium.com/@hackupstate/astonishing-disappointment-with-awss-api-gateway-a14ea29458dc#.6byf1gosb
+  domain: medium.com
+  image: ""
+- curated_id: b0e32439ab2db18978c96ce85c3637e4
+  item_date: "2016-09-23 00:00:00"
+  title: SoundCloud now makes developers apply for API access
+  url: http://venturebeat.com/2016/09/23/soundcloud-now-makes-developers-apply-for-api-access/
+  domain: venturebeat.com
+  image: ""
+- curated_id: fbe471e0d267439611f439d6f2dac844
+  item_date: "2016-09-28 00:00:00"
+  title: Announcing Auth0s Identity Glossary
+  url: https://auth0.com/blog/announcing-identity-glossary/
+  domain: auth0.com
+  image: ""
+- curated_id: 7cc53d9858c67f0fe3b88872dbbe869c
+  item_date: "2016-09-28 00:00:00"
+  title: AWS Answers ? Architect More Confidently  Effectively on AWS
+  url: https://aws.amazon.com/blogs/aws/aws-answers-architect-more-confidently-effectively-on-aws/
+  domain: aws.amazon.com
+  image: ""
+- curated_id: dc835dfc16370d06a81081328a956e22
+  item_date: "2016-09-30 00:00:00"
+  title: Google Analytics for REST APIs
+  url: https://dzone.com/articles/google-analytics-for-rest-apis
+  domain: dzone.com
+  image: ""
+- curated_id: 6d61919bd0d3f089aeba46458ba88ea8
+  item_date: "2016-10-03 09:01:09"
+  title: Tookan API v2 Release
+  url: https://release.tookanapp.com/tookan-api-v2-release-fd995048353a#.bybmptgc1
+  domain: release.tookanapp.com
+  image: ""
+- curated_id: c84a655599e2b67cfd73e28ab2895a15
+  item_date: "2016-10-03 13:05:40"
+  title: New Scale API Dashboard
+  url: https://blog.scaleapi.com/new-scale-api-dashboard-1051f451b072#.xniuspijl
+  domain: blog.scaleapi.com
+  image: ""
+- curated_id: 4e6604b2d8697051a233a79a3eb0bd19
+  item_date: "2016-10-05 00:00:00"
+  title: Key Improvements for Your API Experience
+  url: https://developers.googleblog.com/2016/10/key-improvements-for-your-api-experience.html
+  domain: developers.googleblog.com
+  image: ""
+- curated_id: 20f2207690d1456ef8e182215c33cd59
+  item_date: "2016-10-07 00:00:00"
+  title: See How to Deploy Kong on the Google Cloud Platform
+  url: http://blog.mashape.com/see-how-to-deploy-kong-on-the-google-cloud-platform/
+  domain: blog.mashape.com
+  image: ""
+- curated_id: 477d837ba9d89fdbe1c45bdfbe068ed7
+  item_date: "2016-10-10 00:00:00"
+  title: 7 Critical Factors For Selecting Your API Management Layer
+  url: https://tyk.io/2016/10/10/7-critical-factors-selecting-api-management-layer/
+  domain: tyk.io
+  image: ""
+- curated_id: 44e70a350bde7c56fa2f28aab1314af6
+  item_date: "2016-10-10 00:00:00"
+  title: Securing the Digital Enterprise with API Management
+  url: http://www.tibco.com/blog/2016/10/10/securing-the-digital-enterprise-with-api-management/
+  domain: www.tibco.com
+  image: ""
+- curated_id: cc0894754f7581a1869337a6d979790d
+  item_date: "2016-10-18 00:00:00"
+  title: Build together with App Collaborators
+  url: https://medium.com/slack-developer-blog/build-together-with-app-collaborators-8162e31800f1
+  domain: medium.com
+  image: ""
+- curated_id: 1351ca4bc8763c3f16b66b7ef0b6d0e3
+  item_date: "2016-10-18 00:00:00"
+  title: API Management | do you speak OpenAPI?
+  url: https://blogs.sap.com/2016/10/19/api-management-speak-openapi/
+  domain: blogs.sap.com
+  image: ""
+- curated_id: a3c5196fef9505ac4296dab60db041b5
+  item_date: "2016-10-19 00:00:00"
+  title: WSO2 API Manager for Small and Medium Enterprises
+  url: http://wso2.com/blogs/thesource/2016/10/wso2-api-manager-for-small-and-medium-enterprises/
+  domain: wso2.com
+  image: ""
+- curated_id: 20e05171ed100092ddc5f3f2698dea63
+  item_date: "2016-10-21 18:24:40"
+  title: How I (sort of) got around the Google Maps API results limit
+  url: https://medium.com/@lenafaure/how-i-sort-of-got-around-the-google-maps-api-results-limit-1c673e66ef36#.eqfm5oo4h
+  domain: medium.com
+  image: ""
+- curated_id: 5df065beeabce8d9251c0227d45c07cb
+  item_date: "2016-11-02 00:00:00"
+  title: Slack Developer Kits + Tutorials
+  url: https://medium.com/slack-developer-blog/slack-developer-kits-tutorials-5047d3f3a6da
+  domain: medium.com
+  image: ""
+- curated_id: 5e2452ab92c2b9473f312f26cfa16127
+  item_date: "2016-11-02 00:00:00"
+  title: 'Twitter Developer Communities: get to know your local developers'
+  url: https://blog.twitter.com/2016/twitter-developer-communities-get-to-know-your-local-developers-0
+  domain: blog.twitter.com
+  image: ""
+- curated_id: 90b15228b207fa880b1274d7b82bbcf4
+  item_date: "2016-11-07 17:14:02"
+  title: Spark for Developers Changes to the Download Limit
+  url: https://developer.ciscospark.com/blog/blog-details-8402.html
+  domain: developer.ciscospark.com
+  image: ""
+- curated_id: 499eb151da3c8623437621369d22dfc2
+  item_date: "2016-11-10 00:00:00"
+  title: IBM Provides Developer Kits to Jumpstart Working with Watson
+  url: http://www.programmableweb.com/news/ibm-provides-developer-kits-to-jumpstart-working-watson/brief/2016/11/10
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: 6e73761ee4b9a5bc133932b5e4a5285a
+  item_date: "2016-12-13 00:00:00"
+  title: Queueing With DreamFactory Scripting
+  url: http://blog.dreamfactory.com/queueing-with-dreamfactory-scripting
+  domain: blog.dreamfactory.com
+  image: ""
+- curated_id: a328140c6ffbc3c12fd39ac435216c90
+  item_date: "2016-12-15 00:00:00"
+  title: Sendloop App Store Officially Launched!
+  url: https://sendloop.com/blog/sendloop-app-store-officially-launched/
+  domain: sendloop.com
+  image: ""
+- curated_id: 39c409eb06a55a755ff99432ef6e76e8
+  item_date: "2017-01-02 19:32:51"
+  title: 'Industry Spotlight: Red Hat Powers the API Economy'
+  url: http://sdtimes.com/industry-spotlight-red-hat-powers-api-economy/
+  domain: sdtimes.com
+  image: ""
+- curated_id: 7411acdaf3f2bc1a6efa5c7de4b666cc
+  item_date: "2017-01-03 17:59:09"
+  title: 'Tweet: RT @mogui247: A Kong plugin, that let you use an external Oauth 2.0
+    provider to protect your API https://t.co/rJLED5Zeh5 #opensource @mashahellip;'
+  url: https://github.com/mogui/kong-external-oauth/tree/master
+  domain: github.com
+  image: ""
+- curated_id: 92a0ed27f9fe6062b5cfc06fc2e2abfc
+  item_date: "2017-01-04 00:00:00"
+  title: Amazon Web Services Expands the AWS Price List API
+  url: https://www.programmableweb.com/news/amazon-web-services-expands-aws-price-list-api/brief/2017/01/04
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: 82d02494a33808e49c8bd05e252d9488
+  item_date: "2017-01-11 00:00:00"
+  title: Cloud Key Management Service
+  url: https://cloud.google.com/kms/
+  domain: cloud.google.com
+  image: ""
+- curated_id: 90192ceb10ea8250dcd9f9b8a78af9de
+  item_date: "2017-01-11 00:00:00"
+  title: Google Cloud Platform launches Key Management Service in beta
+  url: https://marketingnewsweb.wordpress.com/2017/01/11/google-cloud-platform-launches-key-management-service-in-beta/
+  domain: marketingnewsweb.wordpress.com
+  image: ""
+- curated_id: 1d4fac55f7d528ca94ce3a0eea0f87f0
+  item_date: "2017-01-11 00:00:00"
+  title: "Google\u2019s Cloud Platform gets a new key management service"
+  url: https://techcrunch.com/2017/01/11/googles-cloud-platform-gets-a-new-encryption-key-management-service/
+  domain: techcrunch.com
+  image: ""
+- curated_id: 85d73e5ac85c4c1875a6a3bc91198112
+  item_date: "2017-01-11 00:00:00"
+  title: 'Managing encryption keys in the cloud: introducing Google Cloud Key Management
+    Service'
+  url: http://cloudplatform.googleblog.com/2017/01/managing-encryption-keys-in-the-cloud-introducing-Google-Cloud-Key-Management-Service.html
+  domain: cloudplatform.googleblog.com
+  image: ""
+- curated_id: 0802eece3526fb2448a54a635c8b156a
+  item_date: "2017-01-13 00:00:00"
+  title: TruffleHog Sniffs Github for Secret Keys
+  url: http://hackaday.com/2017/01/13/trufflehog-sniffs-github-for-secret-keys/
+  domain: hackaday.com
+  image: ""
+- curated_id: 78036d1ec5ceeffeb6fe576be5217225
+  item_date: "2017-01-17 00:00:00"
+  title: Create an License and update Api for software
+  url: https://www.dk.freelancer.com/projects/php/Create-License-update-Api-for/
+  domain: www.dk.freelancer.com
+  image: ""
+- curated_id: 8cbb3e75db7916b7cafecd9bd78c1e26
+  item_date: "2017-02-06 14:51:01"
+  title: 'Developer Program Metrics: How Intuit Measures Developer Success'
+  url: https://www.visionmobile.com/blog/2017/01/intuit-measures-developer-success
+  domain: www.visionmobile.com
+  image: ""
+- curated_id: bf5ba95f1166a014cfe92f0293e4616a
+  item_date: "2017-02-07 00:00:00"
+  title: Why Invest in API Management?
+  url: https://dzone.com/articles/why-invest-in-api-management
+  domain: dzone.com
+  image: ""
+- curated_id: b9c1269efab78c563dbd5925a0ed6f7d
+  item_date: "2017-02-07 00:00:00"
+  title: New integrations for you to discover
+  url: https://medium.com/intercom-developers/new-integrations-for-you-to-discover-6fc8b7694e23
+  domain: medium.com
+  image: ""
+- curated_id: 8f5bac720de957fdcc6a691611c769f4
+  item_date: "2017-02-08 00:00:00"
+  title: Best of Breed API Management Platforms
+  url: https://dzone.com/articles/best-breed-of-api-management-platforms
+  domain: dzone.com
+  image: ""
+- curated_id: fd1d516c5bf9cb863694b4ff7254391c
+  item_date: "2017-02-08 00:00:00"
+  title: Box unveils new set of developer tools
+  url: https://techcrunch.com/2017/02/08/box-unveils-new-set-of-developer-tools/
+  domain: techcrunch.com
+  image: ""
+- curated_id: 547818fae6894f376e123de2c139e13b
+  item_date: "2017-02-08 00:00:00"
+  title: Box Overhauls its Developer Experience
+  url: https://www.programmableweb.com/news/box-overhauls-its-developer-experience/brief/2017/02/08
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: 6c07b73062d1e1c51d56a81c7653dcaf
+  item_date: "2017-02-09 00:00:00"
+  title: Docker makes secrets management a built-in feature of its enterprise product
+  url: https://techcrunch.com/2017/02/09/docker-makes-secrets-management-a-built-in-feature-of-its-enterprise-product/
+  domain: techcrunch.com
+  image: ""
+- curated_id: adf7a70babb2b7f8b7cb0a972774696c
+  item_date: "2017-02-09 00:00:00"
+  title: Introducing Docker Secrets Management
+  url: https://blog.docker.com/2017/02/docker-secrets-management/
+  domain: blog.docker.com
+  image: ""
+- curated_id: b2e5093ca8f31ebd41faa6af4b025c07
+  item_date: "2017-02-09 00:00:00"
+  title: Tyk API Gateway v2.3.2 and Tyk Dashboard 1.3.1.2 released
+  url: https://tyk.io/2017/02/09/tyk-api-gateway-dashboard/
+  domain: tyk.io
+  image: ""
+- curated_id: 52a76e025257470c8afd4ebd091fcb28
+  item_date: "2017-02-13 00:00:00"
+  title: How Is API Management Driving Digital Innovation In Businesses?
+  url: https://thecrowdfundingformula.wordpress.com/2017/02/13/how-is-api-management-driving-digital-innovation-in-businesses/
+  domain: thecrowdfundingformula.wordpress.com
+  image: ""
+- curated_id: 92a25eb441fddde4fa03196a28e2e313
+  item_date: "2017-02-14 00:00:00"
+  title: How Intuit Measures Developer Success
+  url: https://www.programmableweb.com/news/how-intuit-measures-developer-success/elsewhere-web/2017/02/14
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: a6f806f0d053ddcdea6712ee24f2fac0
+  item_date: "2017-02-15 00:00:00"
+  title: Lessons learned from scheduled maintenance 8th February 2017
+  url: https://blog.opencorporates.com/2017/02/15/lessons-learned-from-scheduled-maintenance-8th-february-2017/
+  domain: blog.opencorporates.com
+  image: ""
+- curated_id: dd98791aa170e7a0b90335f301924ed3
+  item_date: "2017-02-15 00:00:00"
+  title: "Rebranding of Restlet\u2019s API-First Platform"
+  url: https://restlet.com/company/blog/2017/02/15/rebranding-of-restlets-api-first-platform/
+  domain: restlet.com
+  image: ""
+- curated_id: 4243085aef14b7330c8bfadac0ab2a41
+  item_date: "2017-02-21 13:30:28"
+  title: Protecting Azure Logic Apps Using Azure API Management
+  url: https://blogs.msdn.microsoft.com/mvpawardprogram/2017/02/21/protecting-azure-logic-apps/
+  domain: blogs.msdn.microsoft.com
+  image: ""
+- curated_id: be9223e9f99529d6b35958c11409b11f
+  item_date: "2017-02-22 00:00:00"
+  title: 'API update: Scroll API, Segments and rate limits'
+  url: https://medium.com/intercom-developers/api-update-scroll-api-segments-and-rate-limits-77b14c6f946b
+  domain: medium.com
+  image: ""
+- curated_id: ab8669c8c728d02e76b6c26612de874a
+  item_date: "2017-02-22 00:00:00"
+  title: Who Actually Uses Your API?
+  url: https://zapier.com/engineering/non-developer-experience/
+  domain: zapier.com
+  image: ""
+- curated_id: c7461a5fc45ffbf7ed9338375d6a5e53
+  item_date: "2017-02-22 00:00:00"
+  title: What We Learned When We Surveyed Our Developer Community
+  url: http://keenio.tumblr.com/post/157583365631/what-we-learned-when-we-surveyed-our-developer#_=_
+  domain: keenio.tumblr.com
+  image: ""
+- curated_id: 7a62e19f51d676909872dc5a9f0e818d
+  item_date: "2017-02-23 00:00:00"
+  title: Symantec and Carvoyant on Success with TIBCO
+  url: http://www.tibco.com/blog/2017/02/23/symantec-and-carvoyant-on-success-with-tibco-2/
+  domain: www.tibco.com
+  image: ""
+- curated_id: ac495dee16b44f583510382653518675
+  item_date: "2017-02-27 00:00:00"
+  title: 'Developer Success: the real challenge for APIs, and how we plan to solve
+    that'
+  url: https://blog.hitchhq.com/developer-success-the-real-challenge-for-apis-and-how-we-plan-to-solve-that-80a9e7285958
+  domain: blog.hitchhq.com
+  image: ""
+- curated_id: 7dc18c4b5f37164092f632b60c30a09a
+  item_date: "2017-03-03 00:00:00"
+  title: How Pantheon Enables Services to Become Truly Multitenant
+  url: https://www.programmableweb.com/news/how-pantheon-enables-services-to-become-truly-multitenant/sponsored-content/2017/03/03
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: 7cf8530f13ce6b5983d903b60f65ebb9
+  item_date: "2017-03-06 00:00:00"
+  title: 5 Keys to Addressing the Needs of API Consumers
+  url: http://fintechlab.com.br/index.php/2017/03/06/5-keys-to-addressing-the-needs-of-api-consumers-cgap/
+  domain: fintechlab.com.br
+  image: ""
+- curated_id: a83d221d1281582843c48a583462b506
+  item_date: "2017-03-06 00:00:00"
+  title: Announcing the HyperTrack Community
+  url: https://blog.hypertrack.com/2017/03/06/announcing-the-hypertrack-community/
+  domain: blog.hypertrack.com
+  image: ""
+- curated_id: abcae8b007e117b7d70172ea5667545d
+  item_date: "2017-03-06 00:00:00"
+  title: API Eventing Is The Next Big Opportunity For API Providers
+  url: https://tyk.io/2017/03/06/api-management-events-webhooks-microservices/
+  domain: tyk.io
+  image: ""
+- curated_id: 3f77a5757a12c8ba33f856229e13d56b
+  item_date: "2017-03-06 00:00:00"
+  title: Public vs. Private API
+  url: https://dzone.com/articles/public-vs-private-api
+  domain: dzone.com
+  image: ""
+- curated_id: 1a612d9c1aae8dcb683b833fa2b3ba2c
+  item_date: "2017-03-07 00:00:00"
+  title: Rebooting a community
+  url: https://devrel.net/craft/rebooting-a-community
+  domain: devrel.net
+  image: ""
+- curated_id: 8479828c081c5bf9841fceec7d49b017
+  item_date: "2017-03-08 00:00:00"
+  title: 4 Ways Your API Is Not Quite What I Want
+  url: https://zapier.com/engineering/api-pet-peeves/
+  domain: zapier.com
+  image: ""
+- curated_id: bcb7eed9a8cc10a18818ce33f6a4c803
+  item_date: "2017-03-10 00:00:00"
+  title: Where API Management Is Headed in 2017
+  url: https://dzone.com/articles/where-api-management-is-headed-in-2017
+  domain: dzone.com
+  image: ""
+- curated_id: 7b2990105c0a17dff6733c83fc53dfa8
+  item_date: "2017-03-13 00:00:00"
+  title: DreamFactory 2.5 adds API management, APNs, and GCM
+  url: http://blog.dreamfactory.com/dreamfactory-2.5-release
+  domain: blog.dreamfactory.com
+  image: ""
+- curated_id: 703b9c0190a364253ee3adeb4650c718
+  item_date: "2017-03-14 00:00:00"
+  title: Docker Secrets Management
+  url: https://blog.codeship.com/docker-secrets-management/
+  domain: blog.codeship.com
+  image: ""
+- curated_id: 42f3ec344ca177600753864e25aa8a47
+  item_date: "2017-03-14 00:00:00"
+  title: Measuring growth for your API using the SAAS analogy
+  url: https://blog.hitchhq.com/measuring-growth-for-your-api-using-the-saas-analogy-33efc03d1ef4#.i4qhwq6lh
+  domain: blog.hitchhq.com
+  image: ""
+- curated_id: 2540a576702929e594437fb6be2d5098
+  item_date: "2017-03-17 00:00:00"
+  title: Admin and Management API Change for Backendless 3.x
+  url: https://backendless.com/admin-and-management-api-change-for-backendless-3-x/
+  domain: backendless.com
+  image: ""
+- curated_id: 5b9f2165dcd643a912e470fc225cc9ca
+  item_date: "2017-03-20 00:00:00"
+  title: Introducing API Limits
+  url: http://blog.dreamfactory.com/dreamfactory-api-limits
+  domain: blog.dreamfactory.com
+  image: ""
+- curated_id: cfa9f02c4fd80669a4870c9a13898e3a
+  item_date: "2017-03-21 00:00:00"
+  title: 4 Design Tweaks to Improve API Operations
+  url: http://nordicapis.com/4-design-tweaks-to-improve-api-operations/
+  domain: nordicapis.com
+  image: ""
+- curated_id: 2cb94bab59a63e9de0b46dc709b9d62d
+  item_date: "2017-03-21 00:00:00"
+  title: CA Technologies and eBlueprint team up for Aussie API management push
+  url: https://channellife.com.au/story/exclusive-ca-technologies-and-eblueprint-team-aussie-api-management-push/
+  domain: channellife.com.au
+  image: ""
+- curated_id: 55f44a6aa9386f4417b998b89a218b8f
+  item_date: "2017-03-21 13:34:49"
+  title: KONG 0.10 is here!
+  url: http://blog.mashape.com/kong-0-10-0-released/
+  domain: blog.mashape.com
+  image: ""
+- curated_id: 53e3146b34822a8edbfc7a8c45eec8a2
+  item_date: "2017-03-22 00:00:00"
+  title: HelloFreshs Migration to a New API Gateway to Enable Microservices
+  url: https://www.infoq.com/news/2017/03/hellofresh-api-migration
+  domain: www.infoq.com
+  image: ""
+- curated_id: 984c29785f278c8ae627f8a3ade1778b
+  item_date: "2017-03-22 15:06:01"
+  title: "Scaling @ HelloFresh: API\_Gateway"
+  url: http://highscalability.com/blog/2017/2/20/scaling-hellofresh-api-gateway.html
+  domain: highscalability.com
+  image: ""
+- curated_id: f26c44ae1caaf636af042d34b651b4ef
+  item_date: "2017-04-03 00:00:00"
+  title: API Management Market is Growing at CAGR of 35% and Expected to Reach...
+  url: http://companies.einnews.com/pr_news/374231641/api-management-market-is-growing-at-cagr-of-35-and-expected-to-reach-usd-3-billion-by-2022
+  domain: companies.einnews.com
+  image: ""
+- curated_id: c6c9fd1320e468c93e242daa7cf5ec43
+  item_date: "2017-04-04 00:00:00"
+  title: API Management Market Players Analysis, Industry Technologies and...
+  url: http://bizpr.co.uk/2017/04/04/api-management-market-players-analysis-industry-technologies-forecast-2022/
+  domain: bizpr.co.uk
+  image: ""
+- curated_id: ccf9bbb90c692e3ea20972481ccb8568
+  item_date: "2017-04-11 06:33:04"
+  title: Built on Quality! Tyk is now the proud holder of @UKAS ISO 9001 certification.
+    https://t.co/k7ejBYnqN2
+  url: https://twitter.com/tyk_io/statuses/851790204348321793
+  domain: twitter.com
+  image: ""
+- curated_id: 16ad107752977fa45990934e28ac36ed
+  item_date: "2017-04-12 00:00:00"
+  title: OpsGenie Presents New Community
+  url: https://blog.opsgenie.com/2017/04/community
+  domain: blog.opsgenie.com
+  image: ""
+- curated_id: 1d1708ad6c6399625c45c193cb976e32
+  item_date: "2017-04-12 00:00:00"
+  title: "New \u2013 AWS Management Tools Blog"
+  url: https://aws.amazon.com/blogs/aws/new-aws-management-tools-blog/
+  domain: aws.amazon.com
+  image: ""
+- curated_id: 5f60e727884da80d7aca8db20fc9b144
+  item_date: "2017-04-12 00:00:00"
+  title: VMware acquires Wavefront to boost cloud management portfolio
+  url: http://www.zdnet.com/article/vmware-acquires-wavefront-to-boost-cloud-management-portfolio/
+  domain: www.zdnet.com
+  image: ""
+- curated_id: c5c0363e79f6a512703aba2b6cf4676e
+  item_date: "2017-04-13 00:00:00"
+  title: Twilio#039;s Top 3 Tips For Building APIs So Developers Actually Use Them
+  url: https://www.programmableweb.com/news/twilios-top-3-tips-building-apis-so-developers-actually-use-them/analysis/2017/04/13
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: a3650b929c725398a304c641c36707b1
+  item_date: "2017-04-14 00:00:00"
+  title: RESTful API Lifecycle Management
+  url: https://dzone.com/refcardz/restful-api-lifecycle-management
+  domain: dzone.com
+  image: ""
+- curated_id: 44b839a98a1a161a21e6c30eb9cc5195
+  item_date: "2017-04-17 00:00:00"
+  title: GitHub makes its Developer Program free, adds new benefits
+  url: http://www.zdnet.com/article/github-makes-its-developer-program-free-adds-new-benefits/
+  domain: www.zdnet.com
+  image: ""
+- curated_id: 0c10931448f19055a577ddd22811d7af
+  item_date: "2017-04-17 00:00:00"
+  title: GitHub Updates its Developer Program
+  url: https://www.programmableweb.com/news/github-updates-its-developer-program/brief/2017/04/17
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: a00c793e8810c04d01781edeb54c1c5a
+  item_date: "2017-04-19 00:00:00"
+  title: Hitch API Assistant
+  url: https://medium.com/m/global-identity
+  domain: medium.com
+  image: ""
+- curated_id: aa0214e0548f65543f098ca10dcd07b6
+  item_date: "2017-04-19 00:00:00"
+  title: Token Migration Plan Pt.1
+  url: http://blog.storj.io/post/159746056098/token-migration-plan-pt1#_=_
+  domain: blog.storj.io
+  image: ""
+- curated_id: 79a48e309a9ea90a13d28f3a9c74a772
+  item_date: "2017-04-23 00:00:00"
+  title: What Hootsuite Learned from Building Their API
+  url: https://www.programmableweb.com/news/what-hootsuite-learned-building-their-api/elsewhere-web/2017/04/23
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: 61505f71a560dfdbfee8d0dfab0d230a
+  item_date: "2017-04-27 00:00:00"
+  title: 'Go anywhere API Management: 3scale API Management adds a fully containerized
+    on-premises version'
+  url: https://www.3scale.net/2017/04/go-anywhere-api-management-3scale-api-management-adds-fully-containerized-premises-version/
+  domain: www.3scale.net
+  image: ""
+- curated_id: 2b074daa31000aab039fc2c3bc80551a
+  item_date: "2017-05-02 00:00:00"
+  title: IBM Open Sources their API Microgateway
+  url: https://www.infoq.com/news/2017/05/ibm-microgateway-opensource
+  domain: www.infoq.com
+  image: ""
+- curated_id: e55cdaadbc6e627a329d651ea9be59fa
+  item_date: "2017-05-03 10:38:39"
+  title: The new Box Developer Console is now generally available to all developer
+    accounts!
+  url: https://medium.com/box-developer-blog/the-new-box-developer-console-is-now-generally-available-7dfa9336f9ac
+  domain: medium.com
+  image: ""
+- curated_id: 0a1e48aa47b3bbe835ac3f18f2de0969
+  item_date: "2017-05-04 00:00:00"
+  title: Minimizing IoT security casualties through API management
+  url: http://internetofthingsagenda.techtarget.com/blog/IoT-Agenda/Minimizing-IoT-security-casualties-through-API-management
+  domain: internetofthingsagenda.techtarget.com
+  image: ""
+- curated_id: d43b86892254d08f888943b2e4db8b3f
+  item_date: "2017-05-05 00:00:00"
+  title: Yelp Adds GraphQL Support to Fusion API, Introduces Developer Beta Program
+  url: https://www.programmableweb.com/news/yelp-adds-graphql-support-to-fusion-api-introduces-developer-beta-program/brief/2017/05/05
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: bfe844800e9a62f084f371e16364caed
+  item_date: "2017-05-12 00:00:00"
+  title: Oracle launches API platform cloud service
+  url: http://www.zdnet.com/article/oracle-launches-api-platform-cloud-service/
+  domain: www.zdnet.com
   image: ""
 ...
