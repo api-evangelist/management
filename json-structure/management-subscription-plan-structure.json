@@ -1,0 +1,166 @@
+{
+  "$schema": "https://json-structure.org/meta/core/v0/#",
+  "$id": "https://raw.githubusercontent.com/api-evangelist/management/refs/heads/main/json-structure/management-subscription-plan-structure.json",
+  "name": "SubscriptionPlan",
+  "description": "Represents a subscription plan in an API management platform. Subscription plans bind an API product to pricing, quotas, rate limits, and entitlements that the gateway enforces at runtime.",
+  "type": "object",
+  "properties": {
+    "id": {
+      "type": "string",
+      "description": "Stable identifier for the subscription plan.",
+      "example": "plan_growth"
+    },
+    "name": {
+      "type": "string",
+      "description": "Human-readable plan name shown in the developer portal.",
+      "example": "Growth"
+    },
+    "description": {
+      "type": "string",
+      "description": "Plan description shown to subscribers.",
+      "example": "For scaling teams. 1M requests per month, priority support, and webhooks."
+    },
+    "product_id": {
+      "type": "string",
+      "description": "Identifier of the API product this plan applies to.",
+      "example": "prod_payments_v2"
+    },
+    "pricing": {
+      "type": "object",
+      "description": "Pricing structure for the plan.",
+      "properties": {
+        "model": {
+          "type": "string",
+          "enum": [
+            "free",
+            "flat",
+            "tiered",
+            "usage-based",
+            "freemium",
+            "custom"
+          ],
+          "example": "tiered"
+        },
+        "currency": {
+          "type": "string",
+          "example": "USD"
+        },
+        "amount": {
+          "type": "number",
+          "description": "Base recurring price, when applicable.",
+          "example": 199.00
+        },
+        "billing_period": {
+          "type": "string",
+          "enum": [
+            "monthly",
+            "annual",
+            "quarterly",
+            "one-time"
+          ],
+          "example": "monthly"
+        },
+        "overage_rate": {
+          "type": "number",
+          "description": "Per-unit cost for usage above the quota.",
+          "example": 0.0005
+        }
+      },
+      "required": [
+        "model"
+      ]
+    },
+    "rate_limit": {
+      "type": "object",
+      "description": "Per-key or per-app rate limit enforced at the gateway.",
+      "properties": {
+        "limit": {
+          "type": "integer",
+          "example": 1000
+        },
+        "interval": {
+          "type": "string",
+          "enum": [
+            "second",
+            "minute",
+            "hour",
+            "day"
+          ],
+          "example": "minute"
+        }
+      },
+      "required": [
+        "limit",
+        "interval"
+      ]
+    },
+    "quota": {
+      "type": "object",
+      "description": "Aggregate quota enforced over the billing period.",
+      "properties": {
+        "limit": {
+          "type": "integer",
+          "example": 1000000
+        },
+        "interval": {
+          "type": "string",
+          "enum": [
+            "day",
+            "week",
+            "month",
+            "year"
+          ],
+          "example": "month"
+        }
+      },
+      "required": [
+        "limit",
+        "interval"
+      ]
+    },
+    "entitlements": {
+      "type": "array",
+      "description": "Named features or scopes granted by this plan.",
+      "items": {
+        "type": "string"
+      },
+      "example": [
+        "webhooks",
+        "priority-support",
+        "sandbox-access"
+      ]
+    },
+    "status": {
+      "type": "string",
+      "enum": [
+        "draft",
+        "active",
+        "deprecated",
+        "retired"
+      ],
+      "example": "active"
+    },
+    "visibility": {
+      "type": "string",
+      "enum": [
+        "public",
+        "private",
+        "invite-only"
+      ],
+      "example": "public"
+    },
+    "approval_required": {
+      "type": "boolean",
+      "description": "Whether subscriptions to this plan require provider approval before activation.",
+      "example": false
+    }
+  },
+  "required": [
+    "id",
+    "name",
+    "product_id",
+    "pricing",
+    "rate_limit",
+    "status"
+  ]
+}

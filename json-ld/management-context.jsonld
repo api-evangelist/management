@@ -1,0 +1,92 @@
+{
+  "@context": {
+    "@version": 1.1,
+    "mgmt": "https://api-evangelist.github.io/management/schema/",
+    "schema": "https://schema.org/",
+    "dcterms": "http://purl.org/dc/terms/",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "dcat": "https://www.w3.org/ns/dcat#",
+
+    "APIProduct": "mgmt:APIProduct",
+    "SubscriptionPlan": "mgmt:SubscriptionPlan",
+    "DeveloperApp": "mgmt:DeveloperApp",
+    "QuotaPolicy": "mgmt:QuotaPolicy",
+    "Gateway": "mgmt:Gateway",
+    "DeveloperPortal": "mgmt:DeveloperPortal",
+
+    "id": "@id",
+    "name": "schema:name",
+    "description": "schema:description",
+    "version": "schema:version",
+    "owner": "schema:author",
+
+    "lifecycle_stage": {
+      "@id": "mgmt:lifecycle_stage",
+      "@type": "xsd:string"
+    },
+    "visibility": {
+      "@id": "mgmt:visibility",
+      "@type": "xsd:string"
+    },
+    "status": {
+      "@id": "mgmt:status",
+      "@type": "xsd:string"
+    },
+    "portal_url": {
+      "@id": "schema:url",
+      "@type": "@id"
+    },
+    "base_url": {
+      "@id": "schema:url",
+      "@type": "@id"
+    },
+    "openapi_url": {
+      "@id": "dcat:downloadURL",
+      "@type": "@id"
+    },
+    "gateway_route": {
+      "@id": "mgmt:gateway_route",
+      "@type": "xsd:string"
+    },
+    "apis": {
+      "@id": "mgmt:apis",
+      "@container": "@set"
+    },
+    "gateway": {
+      "@id": "mgmt:gateway",
+      "@type": "@id"
+    },
+    "subscription_plans": {
+      "@id": "mgmt:subscription_plans",
+      "@container": "@set",
+      "@type": "xsd:string"
+    },
+    "product_id": {
+      "@id": "mgmt:product_id",
+      "@type": "xsd:string"
+    },
+    "pricing": {
+      "@id": "mgmt:pricing"
+    },
+    "rate_limit": {
+      "@id": "mgmt:rate_limit"
+    },
+    "quota": {
+      "@id": "mgmt:quota"
+    },
+    "entitlements": {
+      "@id": "mgmt:entitlements",
+      "@container": "@set",
+      "@type": "xsd:string"
+    },
+    "approval_required": {
+      "@id": "mgmt:approval_required",
+      "@type": "xsd:boolean"
+    },
+    "tags": {
+      "@id": "dcat:keyword",
+      "@container": "@set",
+      "@type": "xsd:string"
+    }
+  }
+}

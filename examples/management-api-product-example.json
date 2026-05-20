@@ -1,0 +1,38 @@
+{
+  "id": "prod_payments_v2",
+  "name": "Payments API",
+  "description": "Accept card and bank payments, manage refunds, and reconcile payouts.",
+  "version": "2.4.1",
+  "lifecycle_stage": "published",
+  "visibility": "public",
+  "apis": [
+    {
+      "name": "Payments Core API",
+      "openapi_url": "https://api.example.com/specs/payments-core.json",
+      "gateway_route": "/v2/payments"
+    },
+    {
+      "name": "Refunds API",
+      "openapi_url": "https://api.example.com/specs/refunds.json",
+      "gateway_route": "/v2/refunds"
+    },
+    {
+      "name": "Payouts API",
+      "openapi_url": "https://api.example.com/specs/payouts.json",
+      "gateway_route": "/v2/payouts"
+    }
+  ],
+  "gateway": {
+    "type": "apigee",
+    "environment": "prod",
+    "base_url": "https://api.example.com"
+  },
+  "subscription_plans": [
+    "plan_free",
+    "plan_growth",
+    "plan_enterprise"
+  ],
+  "portal_url": "https://developers.example.com/products/payments",
+  "tags": ["Payments", "Finance", "Public"],
+  "owner": "Payments Platform Team"
+}

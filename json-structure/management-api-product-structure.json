@@ -1,0 +1,160 @@
+{
+  "$schema": "https://json-structure.org/meta/core/v0/#",
+  "$id": "https://raw.githubusercontent.com/api-evangelist/management/refs/heads/main/json-structure/management-api-product-structure.json",
+  "name": "APIProduct",
+  "description": "Represents an API product published through a full-stack API management platform. An API product bundles one or more APIs with documentation, subscription plans, quotas, gateway policies, and a developer portal listing.",
+  "type": "object",
+  "properties": {
+    "id": {
+      "type": "string",
+      "description": "Stable identifier for the API product within the management platform.",
+      "example": "prod_payments_v2"
+    },
+    "name": {
+      "type": "string",
+      "description": "Human-readable name of the API product.",
+      "example": "Payments API"
+    },
+    "description": {
+      "type": "string",
+      "description": "Marketing and developer-facing description of the product.",
+      "example": "Accept card and bank payments, manage refunds, and reconcile payouts."
+    },
+    "version": {
+      "type": "string",
+      "description": "Semantic or product version identifier.",
+      "example": "2.4.1"
+    },
+    "lifecycle_stage": {
+      "type": "string",
+      "description": "Current lifecycle stage of the API product.",
+      "enum": [
+        "design",
+        "development",
+        "preview",
+        "published",
+        "deprecated",
+        "retired"
+      ],
+      "example": "published"
+    },
+    "visibility": {
+      "type": "string",
+      "description": "Audience that can discover and subscribe to the product.",
+      "enum": [
+        "public",
+        "partner",
+        "internal",
+        "private"
+      ],
+      "example": "public"
+    },
+    "apis": {
+      "type": "array",
+      "description": "List of APIs bundled into this product.",
+      "items": {
+        "type": "object",
+        "properties": {
+          "name": {
+            "type": "string",
+            "example": "Payments Core API"
+          },
+          "openapi_url": {
+            "type": "uri",
+            "example": "https://api.example.com/specs/payments.json"
+          },
+          "gateway_route": {
+            "type": "string",
+            "example": "/v2/payments"
+          }
+        },
+        "required": [
+          "name"
+        ]
+      }
+    },
+    "gateway": {
+      "type": "object",
+      "description": "Gateway runtime that fronts the product.",
+      "properties": {
+        "type": {
+          "type": "string",
+          "enum": [
+            "apigee",
+            "kong",
+            "mulesoft",
+            "ibm-datapower",
+            "azure-apim",
+            "aws-api-gateway",
+            "wso2",
+            "tyk",
+            "gravitee",
+            "3scale",
+            "krakend",
+            "axway",
+            "zuplo",
+            "other"
+          ],
+          "example": "apigee"
+        },
+        "environment": {
+          "type": "string",
+          "enum": [
+            "dev",
+            "test",
+            "staging",
+            "prod"
+          ],
+          "example": "prod"
+        },
+        "base_url": {
+          "type": "uri",
+          "example": "https://api.example.com"
+        }
+      },
+      "required": [
+        "type"
+      ]
+    },
+    "subscription_plans": {
+      "type": "array",
+      "description": "Identifiers of subscription plans available for this product.",
+      "items": {
+        "type": "string"
+      },
+      "example": [
+        "plan_free",
+        "plan_growth",
+        "plan_enterprise"
+      ]
+    },
+    "portal_url": {
+      "type": "uri",
+      "description": "URL of the developer portal listing for this product.",
+      "example": "https://developers.example.com/products/payments"
+    },
+    "tags": {
+      "type": "array",
+      "description": "Tags for catalog discovery.",
+      "items": {
+        "type": "string"
+      },
+      "example": [
+        "Payments",
+        "Finance",
+        "Public"
+      ]
+    },
+    "owner": {
+      "type": "string",
+      "description": "Team or business unit that owns the API product.",
+      "example": "Payments Platform Team"
+    }
+  },
+  "required": [
+    "id",
+    "name",
+    "lifecycle_stage",
+    "gateway"
+  ]
+}

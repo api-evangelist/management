@@ -1,0 +1,29 @@
+{
+  "id": "plan_growth",
+  "name": "Growth",
+  "description": "For scaling teams. 1M requests per month, priority support, and webhooks.",
+  "product_id": "prod_payments_v2",
+  "pricing": {
+    "model": "tiered",
+    "currency": "USD",
+    "amount": 199.00,
+    "billing_period": "monthly",
+    "overage_rate": 0.0005
+  },
+  "rate_limit": {
+    "limit": 1000,
+    "interval": "minute"
+  },
+  "quota": {
+    "limit": 1000000,
+    "interval": "month"
+  },
+  "entitlements": [
+    "webhooks",
+    "priority-support",
+    "sandbox-access"
+  ],
+  "status": "active",
+  "visibility": "public",
+  "approval_required": false
+}

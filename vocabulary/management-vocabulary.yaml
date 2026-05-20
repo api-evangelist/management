@@ -1,0 +1,430 @@
+vocabulary: "1.0.0"
+
+info:
+  provider: Management
+  description: Vocabulary for the full-stack API management topic, covering API products, subscription plans, developer applications, quotas, gateway policies, and lifecycle stages across commercial and open-source API management platforms.
+  created: '2026-05-19'
+  modified: '2026-05-19'
+
+operational:
+  apis:
+    - name: Apigee Management API
+      namespace: apigee
+      status: active
+    - name: Kong Konnect Control Plane API
+      namespace: kong
+      status: active
+    - name: MuleSoft Anypoint Platform API
+      namespace: mulesoft
+      status: active
+    - name: IBM API Connect Management API
+      namespace: ibm
+      status: active
+    - name: Axway Amplify Central API
+      namespace: axway
+      status: active
+    - name: WSO2 API Manager REST API
+      namespace: wso2
+      status: active
+    - name: Tyk Dashboard API
+      namespace: tyk
+      status: active
+    - name: Microsoft Azure API Management REST API
+      namespace: microsoft-azure-api-management
+      status: active
+    - name: AWS API Gateway Control Plane
+      namespace: aws-api-gateway
+      status: active
+    - name: Red Hat 3scale API
+      namespace: red-hat-3scale
+      status: active
+
+  resources:
+    - name: api-products
+      description: Bundled API offerings published through a developer portal with pricing, quotas, and documentation
+      actions:
+        - list
+        - get
+        - create
+        - update
+        - publish
+        - deprecate
+        - retire
+    - name: subscription-plans
+      description: Plans that bind a product to pricing, rate limits, quotas, and entitlements
+      actions:
+        - list
+        - get
+        - create
+        - update
+        - activate
+        - deprecate
+    - name: developer-apps
+      description: Applications registered by API consumers, holding credentials and subscriptions
+      actions:
+        - list
+        - get
+        - create
+        - update
+        - delete
+        - rotate-credentials
+    - name: subscriptions
+      description: A developer app's subscription to a product under a specific plan
+      actions:
+        - list
+        - get
+        - create
+        - approve
+        - revoke
+    - name: quotas
+      description: Aggregate usage limits enforced over a billing period or window
+      actions:
+        - list
+        - get
+        - reset
+    - name: rate-limits
+      description: Short-window request rate enforcement at the gateway
+      actions:
+        - list
+        - get
+        - update
+    - name: policies
+      description: Reusable gateway policies (auth, transformation, schema validation, redaction)
+      actions:
+        - list
+        - get
+        - create
+        - update
+        - attach
+        - detach
+    - name: analytics
+      description: Traffic, latency, error, and consumer-level analytics for managed APIs
+      actions:
+        - query
+        - list
+        - get
+    - name: developers
+      description: Identities registered in the developer portal
+      actions:
+        - list
+        - get
+        - invite
+        - suspend
+    - name: portals
+      description: Branded developer portal sites configured per organization or product
+      actions:
+        - get
+        - update
+        - publish
+
+  actions:
+    - name: list
+      description: Enumerate resources
+      httpMethod: GET
+      pattern: read
+    - name: get
+      description: Retrieve a single resource
+      httpMethod: GET
+      pattern: read
+    - name: create
+      description: Create a new resource
+      httpMethod: POST
+      pattern: write
+    - name: update
+      description: Update an existing resource
+      httpMethod: PUT
+      pattern: write
+    - name: publish
+      description: Publish a product, plan, or portal change to the live gateway and portal
+      httpMethod: POST
+      pattern: workflow
+    - name: deprecate
+      description: Mark a product or plan as deprecated, signaling sunset to consumers
+      httpMethod: POST
+      pattern: workflow
+    - name: retire
+      description: Retire a product or plan, removing it from the runtime gateway
+      httpMethod: POST
+      pattern: destructive
+    - name: activate
+      description: Activate a subscription or plan
+      httpMethod: POST
+      pattern: workflow
+    - name: approve
+      description: Approve a subscription request
+      httpMethod: POST
+      pattern: workflow
+    - name: revoke
+      description: Revoke a subscription or credential
+      httpMethod: POST
+      pattern: destructive
+    - name: rotate-credentials
+      description: Rotate API keys or client secrets for a developer app
+      httpMethod: POST
+      pattern: workflow
+    - name: query
+      description: Query analytics data over a time range and dimension set
+      httpMethod: GET
+      pattern: query
+    - name: attach
+      description: Attach a policy to a product, API, or route
+      httpMethod: POST
+      pattern: workflow
+    - name: detach
+      description: Detach a policy from a product, API, or route
+      httpMethod: DELETE
+      pattern: workflow
+
+  schemas:
+    core:
+      - name: APIProduct
+        description: A bundled API offering with lifecycle, gateway, portal, and plan bindings
+        properties:
+          - id
+          - name
+          - description
+          - version
+          - lifecycle_stage
+          - visibility
+          - apis
+          - gateway
+          - subscription_plans
+          - portal_url
+          - tags
+          - owner
+      - name: SubscriptionPlan
+        description: A plan binding a product to pricing, rate limits, quotas, and entitlements
+        properties:
+          - id
+          - name
+          - product_id
+          - pricing
+          - rate_limit
+          - quota
+          - entitlements
+          - status
+          - visibility
+          - approval_required
+      - name: DeveloperApp
+        description: A consumer application registered in the portal with credentials and subscriptions
+        properties:
+          - id
+          - name
+          - developer_id
+          - subscriptions
+          - credentials
+          - status
+      - name: QuotaPolicy
+        description: A reusable quota policy attachable to products or plans
+        properties:
+          - id
+          - name
+          - limit
+          - interval
+          - scope
+
+  enums:
+    lifecycle_stages:
+      - design
+      - development
+      - preview
+      - published
+      - deprecated
+      - retired
+    visibility:
+      - public
+      - partner
+      - internal
+      - private
+    gateway_types:
+      - apigee
+      - kong
+      - mulesoft
+      - ibm-datapower
+      - azure-apim
+      - aws-api-gateway
+      - wso2
+      - tyk
+      - gravitee
+      - 3scale
+      - krakend
+      - axway
+      - zuplo
+    pricing_models:
+      - free
+      - flat
+      - tiered
+      - usage-based
+      - freemium
+      - custom
+    billing_periods:
+      - monthly
+      - annual
+      - quarterly
+      - one-time
+
+capability:
+  workflows:
+    - name: Publish API Product
+      description: Design an API, create a product bundle, attach plans and policies, and publish to the developer portal and gateway
+      apis:
+        - apigee
+        - kong
+        - mulesoft
+        - wso2
+        - microsoft-azure-api-management
+      personas:
+        - API Product Manager
+        - Platform Engineer
+      domains:
+        - API Lifecycle
+        - Developer Portal
+    - name: Subscriber Onboarding
+      description: A developer registers in the portal, creates an app, subscribes to a plan, and receives credentials enforced by the gateway
+      apis:
+        - apigee
+        - red-hat-3scale
+        - tyk
+        - kong
+      personas:
+        - API Consumer
+        - API Product Manager
+      domains:
+        - Developer Portal
+        - API Monetization
+    - name: API Monetization
+      description: Define tiered subscription plans, meter usage at the gateway, and bill subscribers based on consumption
+      apis:
+        - apigee
+        - mulesoft
+        - red-hat-3scale
+      personas:
+        - API Product Manager
+        - Finance Operator
+      domains:
+        - API Monetization
+        - API Analytics
+    - name: Policy Governance
+      description: Centrally author and attach security, quota, and transformation policies across federated gateway runtimes
+      apis:
+        - axway
+        - kong
+        - apigee
+      personas:
+        - API Platform Architect
+        - Security Engineer
+      domains:
+        - API Governance
+        - API Gateway
+    - name: Lifecycle and Deprecation
+      description: Version, deprecate, and retire APIs across environments with consumer notifications and sunset deadlines
+      apis:
+        - apigee
+        - mulesoft
+        - wso2
+      personas:
+        - API Product Manager
+        - Platform Engineer
+      domains:
+        - API Lifecycle
+
+  personas:
+    - id: api-product-manager
+      name: API Product Manager
+      description: Owns the API product roadmap, plans, pricing, and portal presence
+      workflows:
+        - Publish API Product
+        - Subscriber Onboarding
+        - API Monetization
+        - Lifecycle and Deprecation
+    - id: platform-engineer
+      name: Platform Engineer
+      description: Operates the API management platform — gateways, portals, runtimes, and policies
+      workflows:
+        - Publish API Product
+        - Lifecycle and Deprecation
+    - id: api-platform-architect
+      name: API Platform Architect
+      description: Designs federation, governance, and standards across the enterprise API estate
+      workflows:
+        - Policy Governance
+    - id: security-engineer
+      name: Security Engineer
+      description: Defines and enforces authentication, authorization, and protection policies at the gateway
+      workflows:
+        - Policy Governance
+    - id: api-consumer
+      name: API Consumer
+      description: Developer subscribing to API products through the developer portal
+      workflows:
+        - Subscriber Onboarding
+    - id: finance-operator
+      name: Finance Operator
+      description: Reconciles API usage to invoices and revenue
+      workflows:
+        - API Monetization
+
+  domains:
+    - name: API Gateway
+      description: Runtime enforcement of authentication, rate limiting, transformation, and routing for managed APIs
+    - name: Developer Portal
+      description: Branded site for API discovery, documentation, signup, and credential management
+    - name: API Lifecycle
+      description: Design, publish, version, deprecate, and retire APIs across environments
+    - name: API Monetization
+      description: Pricing, subscription plans, metering, and billing for APIs as products
+    - name: API Analytics
+      description: Traffic, latency, error, and consumer dashboards for managed APIs
+    - name: API Governance
+      description: Centralized policy authoring, attachment, and enforcement across the API estate
+
+crossReference:
+  - resource: api-products
+    operations:
+      - create
+      - publish
+      - deprecate
+      - retire
+    workflows:
+      - Publish API Product
+      - Lifecycle and Deprecation
+    personas:
+      - API Product Manager
+      - Platform Engineer
+  - resource: subscription-plans
+    operations:
+      - create
+      - activate
+      - deprecate
+    workflows:
+      - API Monetization
+      - Subscriber Onboarding
+    personas:
+      - API Product Manager
+      - Finance Operator
+  - resource: developer-apps
+    operations:
+      - create
+      - rotate-credentials
+    workflows:
+      - Subscriber Onboarding
+    personas:
+      - API Consumer
+  - resource: policies
+    operations:
+      - create
+      - attach
+      - detach
+    workflows:
+      - Policy Governance
+    personas:
+      - Security Engineer
+      - API Platform Architect
+  - resource: analytics
+    operations:
+      - query
+    workflows:
+      - API Monetization
+    personas:
+      - API Product Manager
+      - Finance Operator
