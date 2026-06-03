@@ -1,0 +1,197 @@
+meta:
+  name: Management
+  description: An index and topic collection covering full-stack API management platforms
+    — solutions that combine an API gateway, developer portal, analytics, monetization,
+    governance, and lifecycle tooling into a unified product. API management platforms
+    sit between API providers and consumers, enforcing security and rate limiting
+    at the gateway, publishing APIs through developer portals, instrumenting traffic
+    for analytics and billing, and supporting design, versioning, deprecation, and
+    policy enforcement across the entire API lifecycle. This collection includes commercial
+    leaders like Apigee, Kong, MuleSoft Anypoint, IBM API Connect, Axway Amplify,
+    Microsoft Azure API Management, AWS API Gateway, and Google Cloud API Gateway,
+    alongside open-source platforms like WSO2, Tyk, Gravitee, KrakenD, and 3scale
+    by Red Hat, plus modern entrants like Zuplo, APIwiz, Stoplight, and Postman API
+    Hub.
+  tags:
+  - API Management
+  - API Lifecycle
+  - Developer Portal
+  - API Analytics
+  - API Governance
+  portal: https://apievangelist.com
+  github: https://github.com/api-evangelist
+  repo: management
+services_tools:
+- name: Apigee
+  repo: https://github.com/api-evangelist/apigee
+  apisio: https://providers.apis.io/providers/apigee/
+- name: APIida
+  repo: https://github.com/api-evangelist/apiida
+  apisio: https://providers.apis.io/providers/apiida/
+- name: APIpark
+  repo: https://github.com/api-evangelist/apipark
+  apisio: https://providers.apis.io/providers/apipark/
+- name: APIwiz
+  repo: https://github.com/api-evangelist/apiwiz
+  apisio: https://providers.apis.io/providers/apiwiz/
+- name: ASCE Amplify
+  repo: https://github.com/api-evangelist/asce-amplify
+  apisio: https://providers.apis.io/providers/asce-amplify/
+- name: AWS API Gateway
+  repo: https://github.com/api-evangelist/aws-api-gateway
+  apisio: https://providers.apis.io/providers/aws-api-gateway/
+- name: Axway
+  repo: https://github.com/api-evangelist/axway
+  apisio: https://providers.apis.io/providers/axway/
+- name: Broadcom
+  repo: https://github.com/api-evangelist/broadcom
+  apisio: https://providers.apis.io/providers/broadcom/
+- name: Choreo
+  repo: https://github.com/api-evangelist/choreo
+  apisio: https://providers.apis.io/providers/choreo/
+- name: Google Apigee
+  repo: https://github.com/api-evangelist/google-apigee
+  apisio: https://providers.apis.io/providers/google-apigee/
+- name: Google Cloud API Gateway
+  repo: https://github.com/api-evangelist/google-cloud-api-gateway
+  apisio: https://providers.apis.io/providers/google-cloud-api-gateway/
+- name: Gravitee
+  repo: https://github.com/api-evangelist/gravitee
+  apisio: https://providers.apis.io/providers/gravitee/
+- name: IBM
+  repo: https://github.com/api-evangelist/ibm
+  apisio: https://providers.apis.io/providers/ibm/
+- name: Kong
+  repo: https://github.com/api-evangelist/kong
+  apisio: https://providers.apis.io/providers/kong/
+- name: KrakenD
+  repo: https://github.com/api-evangelist/krakend
+  apisio: https://providers.apis.io/providers/krakend/
+- name: Microsoft Azure API Management
+  repo: https://github.com/api-evangelist/microsoft-azure-api-management
+  apisio: https://providers.apis.io/providers/microsoft-azure-api-management/
+- name: MuleSoft
+  repo: https://github.com/api-evangelist/mulesoft
+  apisio: https://providers.apis.io/providers/mulesoft/
+- name: Oracle Integration
+  repo: https://github.com/api-evangelist/oracle-integration
+  apisio: https://providers.apis.io/providers/oracle-integration/
+- name: Postman
+  repo: https://github.com/api-evangelist/postman
+  apisio: https://providers.apis.io/providers/postman/
+- name: Red Hat 3scale
+  repo: https://github.com/api-evangelist/red-hat-3scale
+  apisio: https://providers.apis.io/providers/red-hat-3scale/
+- name: SAP API Management
+  repo: https://github.com/api-evangelist/sap-api-management
+  apisio: https://providers.apis.io/providers/sap-api-management/
+- name: SnapLogic
+  repo: https://github.com/api-evangelist/snaplogic
+  apisio: https://providers.apis.io/providers/snaplogic/
+- name: Software AG
+  repo: https://github.com/api-evangelist/software-ag
+  apisio: https://providers.apis.io/providers/software-ag/
+- name: Stoplight
+  repo: https://github.com/api-evangelist/stoplight
+  apisio: https://providers.apis.io/providers/stoplight/
+- name: TIBCO
+  repo: https://github.com/api-evangelist/tibco
+  apisio: https://providers.apis.io/providers/tibco/
+- name: Tyk
+  repo: https://github.com/api-evangelist/tyk
+  apisio: https://providers.apis.io/providers/tyk/
+- name: WSO2
+  repo: https://github.com/api-evangelist/wso2
+  apisio: https://providers.apis.io/providers/wso2/
+- name: Zuplo
+  repo: https://github.com/api-evangelist/zuplo
+  apisio: https://providers.apis.io/providers/zuplo/
+features:
+- name: API Gateway and Traffic Control
+  description: Full-stack management platforms front APIs with a configurable gateway
+    that enforces authentication, rate limiting, quotas, transformation, and routing
+    policies at runtime.
+- name: Developer Portal Publishing
+  description: Management platforms include developer portals where API providers
+    publish documentation, onboard consumers, issue keys, manage applications, and
+    support self-service signup.
+- name: API Lifecycle Management
+  description: Platforms support the full API lifecycle including design, version
+    control, environment promotion, deprecation workflows, and retirement across multiple
+    gateway runtimes.
+- name: Analytics and Reporting
+  description: Built-in analytics dashboards capture traffic volume, latency, error
+    rates, top consumers, top endpoints, and SLA compliance, surfacing business and
+    operational health.
+- name: Monetization and Billing
+  description: API management platforms enable subscription plans, usage-based pricing,
+    quotas, and developer billing, turning APIs into revenue-generating products.
+- name: Policy and Governance Enforcement
+  description: Centralized policy catalogs enforce security, schema validation, PII
+    redaction, and organizational standards across all managed APIs, supporting enterprise
+    governance programs.
+- name: Multi-Gateway and Multi-Cloud Federation
+  description: Modern management platforms federate multiple gateway runtimes across
+    clouds, regions, and on-prem environments under a unified control plane and policy
+    model.
+- name: Catalog and Discovery
+  description: API catalogs within the management platform make APIs discoverable
+    to internal teams and external consumers, with search, tagging, ownership, and
+    lineage.
+use_cases:
+- name: Public API Product Launch
+  description: Product teams use API management platforms to publish public APIs with
+    documentation, signup, key management, rate limits, and subscription plans through
+    a branded developer portal.
+- name: Internal Platform API Governance
+  description: Platform engineering teams centralize internal API governance — registering
+    services, enforcing security policies, instrumenting traffic, and providing self-service
+    onboarding for product teams.
+- name: API Monetization
+  description: Companies monetize APIs through subscription tiers, metered usage,
+    and partner programs, billing customers through built-in management platform features.
+- name: Legacy System Modernization
+  description: Enterprises front legacy SOAP, ESB, or mainframe systems with managed
+    REST and GraphQL APIs, exposing modern interfaces while applying security, transformation,
+    and analytics through the gateway.
+- name: Partner and B2B API Distribution
+  description: B2B providers use developer portals and subscription plans to onboard
+    partners, issue keys, enforce contractual SLAs, and track usage across enterprise
+    integrations.
+- name: Multi-Cloud Gateway Federation
+  description: Organizations operating across AWS, Azure, and Google Cloud federate
+    gateway runtimes under a unified policy and observability layer to maintain consistent
+    governance.
+- name: Compliance and Audit Reporting
+  description: Regulated industries use management platforms to enforce auditable
+    policy controls — logging, encryption, PII handling — and to produce compliance
+    reports for auditors.
+- name: API Productization and Catalog Discovery
+  description: Enterprises productize internal capabilities by cataloging APIs, capturing
+    ownership and SLAs, and enabling discovery across product teams through the management
+    portal.
+integrations:
+- name: Apigee
+  description: Google Cloud Apigee API management platform providing gateway, developer
+    portal, analytics, monetization, and policy enforcement.
+- name: Kong
+  description: Kong Konnect and Kong Gateway providing a full API management platform
+    with developer portal, analytics, plugin ecosystem, and multi-runtime federation.
+- name: MuleSoft Anypoint
+  description: MuleSoft Anypoint Platform combining API design, gateway, developer
+    portal, analytics, and integration runtime for enterprise API management.
+- name: IBM API Connect
+  description: IBM API Connect providing API design, gateway runtime, developer portal,
+    analytics, and governance for hybrid and multi-cloud deployments.
+- name: Axway Amplify
+  description: Axway Amplify API management platform with federation across multiple
+    gateway runtimes, marketplace, and centralized governance.
+- name: WSO2 API Manager
+  description: Open-source WSO2 API Manager providing gateway, developer portal, analytics,
+    and lifecycle management for on-premise and cloud deployments.
+- name: Tyk
+  description: Open-source Tyk API gateway and management platform with developer
+    portal, analytics, multi-tenant operator, and self-managed or SaaS deployment.
+- name: Microsoft Azure API Management
+  description: Azure API Management providing gateway, developer portal, analytics,
+    and policy enforcement integrated with the Azure cloud ecosystem.
