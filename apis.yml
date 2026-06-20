@@ -3,7 +3,7 @@ name: Management
 description: >-
   An index and topic collection covering full-stack API management platforms — solutions that combine an API gateway, developer portal, analytics, monetization, governance, and lifecycle tooling into a unified product. API management platforms sit between API providers and consumers, enforcing security and rate limiting at the gateway, publishing APIs through developer portals, instrumenting traffic for analytics and billing, and supporting design, versioning, deprecation, and policy enforcement across the entire API lifecycle. This collection includes commercial leaders like Apigee, Kong, MuleSoft Anypoint, IBM API Connect, Axway Amplify, Microsoft Azure API Management, AWS API Gateway, and Google Cloud API Gateway, alongside open-source platforms like WSO2, Tyk, Gravitee, KrakenD, and 3scale by Red Hat, plus modern entrants like Zuplo, APIwiz, Stoplight, and Postman API Hub.
 type: Index
-image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
 tags:
 - API Management
 - API Lifecycle
