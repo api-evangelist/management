@@ -17,62 +17,114 @@ modified: '2026-05-19'
 specificationVersion: '0.19'
 apis: []
 network:
+- name: Amazon API Gateway
+  url: >-
+    https://raw.githubusercontent.com/api-evangelist/aws-api-gateway/refs/heads/main/apis.yml
+- name: Apache APISIX
+  url: >-
+    https://raw.githubusercontent.com/api-evangelist/apache-apisix/refs/heads/main/apis.yml
+- name: Apidog
+  url: >-
+    https://raw.githubusercontent.com/api-evangelist/apidog/refs/heads/main/apis.yml
 - name: Apigee
-  url: https://raw.githubusercontent.com/api-evangelist/apigee/refs/heads/main/apis.yml
-- name: APIida
-  url: https://raw.githubusercontent.com/api-evangelist/apiida/refs/heads/main/apis.yml
-- name: APIpark
-  url: https://raw.githubusercontent.com/api-evangelist/apipark/refs/heads/main/apis.yml
+  url: >-
+    https://raw.githubusercontent.com/api-evangelist/apigee/refs/heads/main/apis.yml
+- name: APIIDA
+  url: >-
+    https://raw.githubusercontent.com/api-evangelist/apiida/refs/heads/main/apis.yml
+- name: Apiman
+  url: >-
+    https://raw.githubusercontent.com/api-evangelist/apiman/refs/heads/main/apis.yml
+- name: Apinizer
+  url: >-
+    https://raw.githubusercontent.com/api-evangelist/apinizer/refs/heads/main/apis.yml
+- name: APIPark
+  url: >-
+    https://raw.githubusercontent.com/api-evangelist/apipark/refs/heads/main/apis.yml
 - name: APIwiz
-  url: https://raw.githubusercontent.com/api-evangelist/apiwiz/refs/heads/main/apis.yml
-- name: ASCE Amplify
-  url: https://raw.githubusercontent.com/api-evangelist/asce-amplify/refs/heads/main/apis.yml
-- name: AWS API Gateway
-  url: https://raw.githubusercontent.com/api-evangelist/aws-api-gateway/refs/heads/main/apis.yml
+  url: >-
+    https://raw.githubusercontent.com/api-evangelist/apiwiz/refs/heads/main/apis.yml
 - name: Axway
-  url: https://raw.githubusercontent.com/api-evangelist/axway/refs/heads/main/apis.yml
+  url: >-
+    https://raw.githubusercontent.com/api-evangelist/axway/refs/heads/main/apis.yml
+- name: Bifrost
+  url: >-
+    https://raw.githubusercontent.com/api-evangelist/bifrost/refs/heads/main/apis.yml
 - name: Broadcom
-  url: https://raw.githubusercontent.com/api-evangelist/broadcom/refs/heads/main/apis.yml
-- name: Choreo
-  url: https://raw.githubusercontent.com/api-evangelist/choreo/refs/heads/main/apis.yml
-- name: Google Apigee
-  url: https://raw.githubusercontent.com/api-evangelist/google-apigee/refs/heads/main/apis.yml
+  url: >-
+    https://raw.githubusercontent.com/api-evangelist/broadcom/refs/heads/main/apis.yml
+- name: Emissary-Ingress
+  url: >-
+    https://raw.githubusercontent.com/api-evangelist/emissary-ingress/refs/heads/main/apis.yml
+- name: Envoy
+  url: >-
+    https://raw.githubusercontent.com/api-evangelist/envoy/refs/heads/main/apis.yml
+- name: Envoy Gateway
+  url: >-
+    https://raw.githubusercontent.com/api-evangelist/envoy-gateway/refs/heads/main/apis.yml
 - name: Google Cloud API Gateway
-  url: https://raw.githubusercontent.com/api-evangelist/google-cloud-api-gateway/refs/heads/main/apis.yml
+  url: >-
+    https://raw.githubusercontent.com/api-evangelist/google-cloud-api-gateway/refs/heads/main/apis.yml
 - name: Gravitee
-  url: https://raw.githubusercontent.com/api-evangelist/gravitee/refs/heads/main/apis.yml
-- name: IBM
-  url: https://raw.githubusercontent.com/api-evangelist/ibm/refs/heads/main/apis.yml
+  url: >-
+    https://raw.githubusercontent.com/api-evangelist/gravitee/refs/heads/main/apis.yml
+- name: Higress
+  url: >-
+    https://raw.githubusercontent.com/api-evangelist/higress/refs/heads/main/apis.yml
+- name: IBM API Connect
+  url: >-
+    https://raw.githubusercontent.com/api-evangelist/ibm-api-connect/refs/heads/main/apis.yml
 - name: Kong
-  url: https://raw.githubusercontent.com/api-evangelist/kong/refs/heads/main/apis.yml
+  url: >-
+    https://raw.githubusercontent.com/api-evangelist/kong/refs/heads/main/apis.yml
 - name: KrakenD
-  url: https://raw.githubusercontent.com/api-evangelist/krakend/refs/heads/main/apis.yml
+  url: >-
+    https://raw.githubusercontent.com/api-evangelist/krakend/refs/heads/main/apis.yml
 - name: Microsoft Azure API Management
-  url: https://raw.githubusercontent.com/api-evangelist/microsoft-azure-api-management/refs/heads/main/apis.yml
+  url: >-
+    https://raw.githubusercontent.com/api-evangelist/microsoft-azure-api-management/refs/heads/main/apis.yml
 - name: MuleSoft
-  url: https://raw.githubusercontent.com/api-evangelist/mulesoft/refs/heads/main/apis.yml
-- name: Oracle Integration
-  url: https://raw.githubusercontent.com/api-evangelist/oracle-integration/refs/heads/main/apis.yml
+  url: >-
+    https://raw.githubusercontent.com/api-evangelist/mulesoft/refs/heads/main/apis.yml
+- name: Netflix Zuul
+  url: >-
+    https://raw.githubusercontent.com/api-evangelist/netflix-zuul/refs/heads/main/apis.yml
+- name: NGINX
+  url: >-
+    https://raw.githubusercontent.com/api-evangelist/nginx/refs/heads/main/apis.yml
 - name: Postman
-  url: https://raw.githubusercontent.com/api-evangelist/postman/refs/heads/main/apis.yml
+  url: >-
+    https://raw.githubusercontent.com/api-evangelist/postman/refs/heads/main/apis.yml
 - name: Red Hat 3scale
-  url: https://raw.githubusercontent.com/api-evangelist/red-hat-3scale/refs/heads/main/apis.yml
+  url: >-
+    https://raw.githubusercontent.com/api-evangelist/red-hat-3scale/refs/heads/main/apis.yml
 - name: SAP API Management
-  url: https://raw.githubusercontent.com/api-evangelist/sap-api-management/refs/heads/main/apis.yml
-- name: SnapLogic
-  url: https://raw.githubusercontent.com/api-evangelist/snaplogic/refs/heads/main/apis.yml
+  url: >-
+    https://raw.githubusercontent.com/api-evangelist/sap-api-management/refs/heads/main/apis.yml
 - name: Software AG
-  url: https://raw.githubusercontent.com/api-evangelist/software-ag/refs/heads/main/apis.yml
-- name: Stoplight
-  url: https://raw.githubusercontent.com/api-evangelist/stoplight/refs/heads/main/apis.yml
+  url: >-
+    https://raw.githubusercontent.com/api-evangelist/software-ag/refs/heads/main/apis.yml
+- name: Solo.io
+  url: >-
+    https://raw.githubusercontent.com/api-evangelist/solo/refs/heads/main/apis.yml
+- name: Spring Cloud Gateway
+  url: >-
+    https://raw.githubusercontent.com/api-evangelist/spring-cloud-gateway/refs/heads/main/apis.yml
 - name: TIBCO
-  url: https://raw.githubusercontent.com/api-evangelist/tibco/refs/heads/main/apis.yml
+  url: >-
+    https://raw.githubusercontent.com/api-evangelist/tibco/refs/heads/main/apis.yml
+- name: Traefik Labs
+  url: >-
+    https://raw.githubusercontent.com/api-evangelist/traefik/refs/heads/main/apis.yml
 - name: Tyk
-  url: https://raw.githubusercontent.com/api-evangelist/tyk/refs/heads/main/apis.yml
+  url: >-
+    https://raw.githubusercontent.com/api-evangelist/tyk/refs/heads/main/apis.yml
 - name: WSO2
-  url: https://raw.githubusercontent.com/api-evangelist/wso2/refs/heads/main/apis.yml
+  url: >-
+    https://raw.githubusercontent.com/api-evangelist/wso2/refs/heads/main/apis.yml
 - name: Zuplo
-  url: https://raw.githubusercontent.com/api-evangelist/zuplo/refs/heads/main/apis.yml
+  url: >-
+    https://raw.githubusercontent.com/api-evangelist/zuplo/refs/heads/main/apis.yml
 common:
 - type: Portal
   url: https://apievangelist.com
