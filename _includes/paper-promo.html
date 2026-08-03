@@ -1,0 +1,42 @@
+<!-- Featured white-paper band for an API Evangelist AREA subsite.
+
+     Ported from api-evangelist/providers/_includes/paper-promo.html so any
+     <area>.apievangelist.com site can feature its own Area Market Report.
+     Renders only when the page sets `paper:` (one) or `papers:` (several).
+
+     paper:                                     papers:
+       slug: state-of-management-apis             - slug: state-of-management-apis
+       title: "The State of API Management"         title: "..."
+       blurb: "One-line hook."                      blurb: "..."
+       price: "500"                                 price: "500"
+
+     Optional per paper:
+       kind: "API Evangelist Market Report"   (eyebrow)
+       gets: "PDF + Word, instant download"   (what-you-get line)
+-->
+{% if page.paper or page.papers %}
+<style>
+.paper-promo {
+  display: flex; gap: 1.1rem; align-items: center;
+  border: 1px solid #e3e7ee; border-left: 4px solid #3d8b37; border-radius: 12px;
+  background: #fbfcfe; padding: 1rem 1.15rem; margin: 0.25rem 0 1.4rem;
+}
+.paper-promo-cover {
+  flex: 0 0 auto; width: 96px; height: 124px; border-radius: 6px;
+  border: 1px solid #e5e7eb; overflow: hidden; background: #fff;
+}
+.paper-promo-cover img { width: 100%; height: 100%; object-fit: cover; display: block; }
+.paper-promo-body { flex: 1 1 auto; min-width: 0; }
+.paper-promo-eyebrow { font-size: 0.66rem; text-transform: uppercase; letter-spacing: 0.06em; font-weight: 700; color: #3d8b37; }
+.paper-promo-title { font-size: 1.12rem; font-weight: 700; color: #1a1a2e; margin: 0.15rem 0 0.3rem; line-height: 1.2; }
+.paper-promo-blurb { font-size: 0.88rem; color: #5a6472; margin-bottom: 0.6rem; }
+.paper-promo-cta { display: inline-flex; align-items: center; gap: 0.4rem; flex-wrap: wrap; }
+.paper-promo-price { font-weight: 700; color: #3d8b37; font-variant-numeric: tabular-nums; }
+@media (max-width: 540px) { .paper-promo { flex-direction: column; align-items: flex-start; } }
+</style>
+{% if page.papers %}
+  {% for item in page.papers %}{% include paper-promo-card.html p=item %}{% endfor %}
+{% else %}
+  {% include paper-promo-card.html p=page.paper %}
+{% endif %}
+{% endif %}
