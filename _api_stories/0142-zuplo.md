@@ -1,7 +1,7 @@
 ---
-title: 'Building a Monetized API, Part 4: Polishing the Developer Portal'
-link: https://zuplo.com//blog/building-a-monetized-api-part-4
-published: '2026-04-03'
+title: 'OpenAPI Arazzo & Overlay: Workflows and Spec Management'
+link: https://zuplo.com//blog/openapi-arazzo-overlay-specifications-guide
+published: '2026-04-07'
 provider: zuplo
 repo: https://github.com/api-evangelist/zuplo
 domain: zuplo.com
