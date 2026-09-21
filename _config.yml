@@ -9,8 +9,7 @@ description: An index and topic collection covering full-stack API management pl
   leaders like Apigee, Kong, MuleSoft Anypoint, IBM API Connect, Axway Amplify, Microsoft
   Azure API Management, AWS API Gateway, and Google Cloud API Gateway, alongside open-source
   platforms like WSO2, Tyk, Gravitee, KrakenD, and 3scale by Red Hat, plus modern
-  entrants like Zuplo, APIwiz, APIPark,
-  and Apidog.
+  entrants like Zuplo, APIwiz, APIPark, and Apidog.
 url: https://management.apievangelist.com
 collections:
   api_stories:
