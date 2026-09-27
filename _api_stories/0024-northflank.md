@@ -1,7 +1,7 @@
 ---
-title: The future of the AI-native internal developer platform & the AI SDLC
-link: https://northflank.com/blog/ai-sdlc
-published: '2026-08-14'
+title: 'Build vs buy an internal developer platform: costs, trade-offs, and ROI'
+link: https://northflank.com/blog/build-vs-buy-an-internal-developer-platform
+published: '2026-08-26'
 provider: northflank
 repo: https://github.com/api-evangelist/northflank
 domain: northflank.com

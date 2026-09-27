@@ -1,6 +1,6 @@
 ---
-title: 'IDP vs Developer Portal: Key Differences Explained'
-link: https://www.port.io/blog/internal-developer-platform-vs-internal-developer-portal
+title: Using internal developer portal to modernize DevOps workflows
+link: https://www.port.io/blog/streamlining-devops-with-workflows
 published: '2026-05-04'
 provider: port-io
 repo: https://github.com/api-evangelist/port-io
