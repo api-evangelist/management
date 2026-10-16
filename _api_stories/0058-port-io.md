@@ -1,6 +1,6 @@
 ---
-title: 'Internal Developer Portal: How Do I Get Started?'
-link: https://www.port.io/blog/internal-developer-portal-how-do-i-get-started
+title: Building an Internal Developer Portal for a Serverless Architecture
+link: https://www.port.io/blog/building-an-internal-developer-portal-for-a-serverless-architecture
 published: '2026-07-22'
 provider: port-io
 repo: https://github.com/api-evangelist/port-io

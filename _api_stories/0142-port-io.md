@@ -1,6 +1,6 @@
 ---
-title: Top 5 internal developer platform tools
-link: https://www.port.io/blog/top-5-internal-developer-platform-tools
+title: Using internal developer portal to modernize DevOps workflows
+link: https://www.port.io/blog/streamlining-devops-with-workflows
 published: '2026-05-04'
 provider: port-io
 repo: https://github.com/api-evangelist/port-io
