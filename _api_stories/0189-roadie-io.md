@@ -1,7 +1,7 @@
 ---
-title: 7 Best Developer Portals for Enterprise Engineering Teams
-link: https://roadie.io/blog/7-best-developer-portals-for-enterprise-engineering-teams/
-published: '2025-12-16'
+title: Supercharge your GitLab setup with Roadie's Internal Developer Portal
+link: https://roadie.io/blog/supercharge-your-gitlab-setup/
+published: '2026-02-19'
 provider: roadie-io
 repo: https://github.com/api-evangelist/roadie-io
 domain: roadie.io
