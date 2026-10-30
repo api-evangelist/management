@@ -1,122 +1,97 @@
-# Management (management)
-An index and topic collection covering full-stack API management platforms — solutions that combine an API gateway, developer portal, analytics, monetization, governance, and lifecycle tooling into a unified product. API management platforms sit between API providers and consumers, enforcing security and rate limiting at the gateway, publishing APIs through developer portals, instrumenting traffic for analytics and billing, and supporting design, versioning, deprecation, and policy enforcement across the entire API lifecycle. This collection includes commercial leaders like Apigee, Kong, MuleSoft Anypoint, IBM API Connect, Axway Amplify, Microsoft Azure API Management, AWS API Gateway, and Google Cloud API Gateway, alongside open-source platforms like WSO2, Tyk, Gravitee, KrakenD, and 3scale by Red Hat, plus modern entrants like Zuplo, APIwiz, Stoplight, and Postman API Hub.
+# Management
 
-**URL:** [https://apievangelist.com](https://apievangelist.com)
+<!-- API-EVANGELIST-PROVENANCE:BEGIN -->
+> ### About this repository
+>
+> **This is not our API.** This repository is an independent, third-party profile of a company's
+> **publicly available** API surface, maintained by [API Evangelist](https://apievangelist.com).
+> API Evangelist does not operate, host, resell, or support this company's APIs, and is not
+> affiliated with or endorsed by the company unless stated on the profile.
+>
+> **Where the information came from.** Everything here is assembled from material a member of the
+> public can reach with a browser and no credentials — the company's own website, developer portal
+> and documentation, the specifications it publishes for public use (OpenAPI, AsyncAPI, JSON Schema,
+> `apis.json`, `llms.txt` and similar), its public repositories, and its public status, pricing and
+> changelog pages. **Nothing here is obtained by breaching a system, defeating an access control, or
+> using credentials of any kind.**
+>
+> **The rating is an independent assessment.** The Kin Score and Agent Readiness rating are
+> independently calculated scores of a company's *public* API artifacts, produced by API Evangelist
+> against a published rubric. They are not certifications, endorsements, security assessments, or
+> audits, and they score published artifacts — not the quality, safety, or security of the software.
+>
+> **Corrections, re-scores, and removal are free.** No partnership, contract, or purchase is
+> required, and you do not need to justify the request.
+>
+> - **Something wrong?** Open an issue on this repository, or email
+>   [info@apievangelist.com](mailto:info@apievangelist.com).
+> - **Published something new?** Ask for a re-score and we will re-run the rating.
+> - **Want the listing taken down?** Say so and we will honor it. The profile is reduced to your
+>   company name, a factual description, and a link to your own site, and the company is recorded as
+>   **unrated** — never scored zero for having asked.
+>
+> **Response times.** Acknowledgement within **one business day**; removal or restriction within
+> **two business days**; corrections and re-scores within **five business days**.
+>
+> **Not from the company, and here with a question?** You are welcome here — we would rather be the
+> front line and point you the right way than have a good report go nowhere. What this repository
+> can answer is narrow, though, so it is worth knowing who you are actually looking for:
+>
+> - **A question about how the API works, an account, billing, or a bug in the service** — that is
+>   the company's own support, not us. We profile this API; we do not operate it and cannot see
+>   your account.
+> - **A bug in an open-source project we only catalog** — file it on that project's own repository.
+>   This has happened with a real and correct bug report that reached us instead of the people who
+>   could fix it, which helped nobody.
+> - **Anything about this listing itself** — the description, the tags, the rating, a missing or
+>   wrong artifact — is ours. Open an issue here.
+> - **Not sure, or something general about API Evangelist or APIs.io** — open an issue on the
+>   [APIs.io Inbox](https://github.com/api-search/inbox) and we will route it.
+>
+> **This repository contains no software, and we will never ask you to download anything.** There is
+> no build, release, installer, or binary here — only text and machine-readable API descriptions, so
+> there is nothing here that can be "corrupt" or need "repairing". Any issue, comment, or email
+> claiming otherwise and offering a download link is not from us and is hostile. Do not follow the
+> link; it is a lure. Report it to GitHub and, if you like, tell us at
+> [info@apievangelist.com](mailto:info@apievangelist.com) so we can take it down.
+>
+> **On a security or compliance team?** Email
+> [info@apievangelist.com](mailto:info@apievangelist.com) with *security* in the subject line and
+> you will get a person, not a form. We will tell you exactly which public URLs this profile was
+> built from so your team can see the same surface we did, and we will take the listing down on
+> request while you work through it.
+>
+> Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
+<!-- API-EVANGELIST-PROVENANCE:END -->
 
-## Tags:
+An index and topic collection covering full-stack API management platforms — solutions that combine an API gateway, developer portal, analytics, monetization, governance, and lifecycle tooling into a unified product. API management platforms sit between API providers and consumers, enforcing security and rate limiting at the gateway, publishing APIs through developer portals, instrumenting traffic for analytics and billing, and supporting design, versioning, deprecation, and policy enforcement across the entire API lifecycle. This collection includes commercial leaders like Apigee, Kong, MuleSoft Anypoint, IBM API Connect, Axway Amplify, Microsoft Azure API Management, AWS API Gateway, and Google Cloud API Gateway, alongside open-source platforms like WSO2, Tyk, Gravitee, KrakenD, and 3scale by Red Hat, plus modern entrants like Zuplo, APIwiz, APIPark, and Apidog.
 
- - API Management, API Lifecycle, Developer Portal, API Analytics, API Governance
+**Areas:** API Management · API Lifecycle · Developer Portal · API Analytics · API Governance
 
-## Timestamps
+## Management on APIs.io
 
-- **Created:** 2026-05-19
-- **Modified:** 2026-05-19
+Everything profiled for Management is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/management/](https://apis.io/providers/management/)** — or go straight to one of the APIs or properties below.
 
-## Common Properties
+## Where to find this API
 
-- [Portal](https://apievangelist.com)
-- [GitHubOrganization](https://github.com/api-evangelist)
-- [JSONSchema - API Product Schema](https://raw.githubusercontent.com/api-evangelist/management/refs/heads/main/json-schema/management-api-product-schema.json)
-- [JSONSchema - Subscription Plan Schema](https://raw.githubusercontent.com/api-evangelist/management/refs/heads/main/json-schema/management-subscription-plan-schema.json)
-- [JSON-LD](https://raw.githubusercontent.com/api-evangelist/management/refs/heads/main/json-ld/management-context.jsonld)
-- [Vocabulary](https://raw.githubusercontent.com/api-evangelist/management/refs/heads/main/vocabulary/management-vocabulary.yaml)
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
 
-## Features
+- [GitHub](https://github.com/api-evangelist)
 
-| Name | Description |
-|------|-------------|
-| API Gateway and Traffic Control | Full-stack management platforms front APIs with a configurable gateway that enforces authentication, rate limiting, quotas, transformation, and routing policies at runtime. |
-| Developer Portal Publishing | Management platforms include developer portals where API providers publish documentation, onboard consumers, issue keys, manage applications, and support self-service signup. |
-| API Lifecycle Management | Platforms support the full API lifecycle including design, version control, environment promotion, deprecation workflows, and retirement across multiple gateway runtimes. |
-| Analytics and Reporting | Built-in analytics dashboards capture traffic volume, latency, error rates, top consumers, top endpoints, and SLA compliance, surfacing business and operational health. |
-| Monetization and Billing | API management platforms enable subscription plans, usage-based pricing, quotas, and developer billing, turning APIs into revenue-generating products. |
-| Policy and Governance Enforcement | Centralized policy catalogs enforce security, schema validation, PII redaction, and organizational standards across all managed APIs, supporting enterprise governance programs. |
-| Multi-Gateway and Multi-Cloud Federation | Modern management platforms federate multiple gateway runtimes across clouds, regions, and on-prem environments under a unified control plane and policy model. |
-| Catalog and Discovery | API catalogs within the management platform make APIs discoverable to internal teams and external consumers, with search, tagging, ownership, and lineage. |
+## API Evangelist rating
 
-## Use Cases
+**Unrated** — no public website could be reached for this company, so there was almost nothing to measure and nothing a reader could check.
 
-| Name | Description |
-|------|-------------|
-| Public API Product Launch | Product teams use API management platforms to publish public APIs with documentation, signup, key management, rate limits, and subscription plans through a branded developer portal. |
-| Internal Platform API Governance | Platform engineering teams centralize internal API governance — registering services, enforcing security policies, instrumenting traffic, and providing self-service onboarding for product teams. |
-| API Monetization | Companies monetize APIs through subscription tiers, metered usage, and partner programs, billing customers through built-in management platform features. |
-| Legacy System Modernization | Enterprises front legacy SOAP, ESB, or mainframe systems with managed REST and GraphQL APIs, exposing modern interfaces while applying security, transformation, and analytics through the gateway. |
-| Partner and B2B API Distribution | B2B providers use developer portals and subscription plans to onboard partners, issue keys, enforce contractual SLAs, and track usage across enterprise integrations. |
-| Multi-Cloud Gateway Federation | Organizations operating across AWS, Azure, and Google Cloud federate gateway runtimes under a unified policy and observability layer to maintain consistent governance. |
-| Compliance and Audit Reporting | Regulated industries use management platforms to enforce auditable policy controls — logging, encryption, PII handling — and to produce compliance reports for auditors. |
-| API Productization and Catalog Discovery | Enterprises productize internal capabilities by cataloging APIs, capturing ownership and SLAs, and enabling discovery across product teams through the management portal. |
+This is not a score of zero. No rating is published for this company. If that is wrong because something public exists that we missed, say so on this repository or email [info@apievangelist.com](mailto:info@apievangelist.com) and it will be re-run — free, and no justification needed.
 
-## Integrations
+## How this profile is made
 
-| Name | Description |
-|------|-------------|
-| Apigee | Google Cloud Apigee API management platform providing gateway, developer portal, analytics, monetization, and policy enforcement. |
-| Kong | Kong Konnect and Kong Gateway providing a full API management platform with developer portal, analytics, plugin ecosystem, and multi-runtime federation. |
-| MuleSoft Anypoint | MuleSoft Anypoint Platform combining API design, gateway, developer portal, analytics, and integration runtime for enterprise API management. |
-| IBM API Connect | IBM API Connect providing API design, gateway runtime, developer portal, analytics, and governance for hybrid and multi-cloud deployments. |
-| Axway Amplify | Axway Amplify API management platform with federation across multiple gateway runtimes, marketplace, and centralized governance. |
-| WSO2 API Manager | Open-source WSO2 API Manager providing gateway, developer portal, analytics, and lifecycle management for on-premise and cloud deployments. |
-| Tyk | Open-source Tyk API gateway and management platform with developer portal, analytics, multi-tenant operator, and self-managed or SaaS deployment. |
-| Microsoft Azure API Management | Azure API Management providing gateway, developer portal, analytics, and policy enforcement integrated with the Azure cloud ecosystem. |
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
 
-## Artifacts
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Management: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
 
-Machine-readable API specifications organized by format.
+## Open an issue
 
-### JSON Schema
-
-- [API Product Schema](json-schema/management-api-product-schema.json)
-- [Subscription Plan Schema](json-schema/management-subscription-plan-schema.json)
-
-### JSON Structure
-
-- [API Product Structure](json-structure/management-api-product-structure.json)
-- [Subscription Plan Structure](json-structure/management-subscription-plan-structure.json)
-
-### JSON-LD
-
-- [Management Context](json-ld/management-context.jsonld)
-
-## Vocabulary
-
-- [Management Vocabulary](vocabulary/management-vocabulary.yaml) — Unified taxonomy mapping API products, subscriptions, applications, quotas, and lifecycle stages across full-stack API management platforms
-
-## Network
-
-This index references the following API management platform repositories:
-
-- [Apigee](https://github.com/api-evangelist/apigee)
-- [APIida](https://github.com/api-evangelist/apiida)
-- [APIpark](https://github.com/api-evangelist/apipark)
-- [APIwiz](https://github.com/api-evangelist/apiwiz)
-- [ASCE Amplify](https://github.com/api-evangelist/asce-amplify)
-- [AWS API Gateway](https://github.com/api-evangelist/aws-api-gateway)
-- [Axway](https://github.com/api-evangelist/axway)
-- [Broadcom](https://github.com/api-evangelist/broadcom)
-- [Choreo](https://github.com/api-evangelist/choreo)
-- [Google Apigee](https://github.com/api-evangelist/google-apigee)
-- [Google Cloud API Gateway](https://github.com/api-evangelist/google-cloud-api-gateway)
-- [Gravitee](https://github.com/api-evangelist/gravitee)
-- [IBM](https://github.com/api-evangelist/ibm)
-- [Kong](https://github.com/api-evangelist/kong)
-- [KrakenD](https://github.com/api-evangelist/krakend)
-- [Microsoft Azure API Management](https://github.com/api-evangelist/microsoft-azure-api-management)
-- [MuleSoft](https://github.com/api-evangelist/mulesoft)
-- [Oracle Integration](https://github.com/api-evangelist/oracle-integration)
-- [Postman](https://github.com/api-evangelist/postman)
-- [Red Hat 3scale](https://github.com/api-evangelist/red-hat-3scale)
-- [SAP API Management](https://github.com/api-evangelist/sap-api-management)
-- [SnapLogic](https://github.com/api-evangelist/snaplogic)
-- [Software AG](https://github.com/api-evangelist/software-ag)
-- [Stoplight](https://github.com/api-evangelist/stoplight)
-- [TIBCO](https://github.com/api-evangelist/tibco)
-- [Tyk](https://github.com/api-evangelist/tyk)
-- [WSO2](https://github.com/api-evangelist/wso2)
-- [Zuplo](https://github.com/api-evangelist/zuplo)
-
-## Maintainers
-
-**FN:** Kin Lane
-
-**Email:** kin@apievangelist.com
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/management/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
